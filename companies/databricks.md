@@ -2,16 +2,16 @@
 type: company
 name: Databricks
 slug: databricks
-first_seen: 2026-04-18
+first_seen: 2026-03-17
 last_seen: 2026-04-28
-mention_count: 53
+mention_count: 59
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 53 stories._
+_Company mentioned across 59 stories._
 
 ## Appears in
 - [[episodes/2026-04-28|2026-04-28]]
@@ -78,3 +78,11 @@ _Company mentioned across 53 stories._
 - [[episodes/2026-04-18|2026-04-18]]
     - [[sources/2026-04-18/02_learning-series-build-data-pipelines-with-lakeflow-spark-dec|Learning Series Build Data Pipelines with Lakeflow Spark Declarative Pipelines]]
     - [[sources/2026-04-18/01_databricks-cli-v0-297-1-released|Databricks CLI v0.297.1 released]]
+- [[episodes/2026-04-05|2026-04-05]]
+    - [[sources/2026-04-05/04_the-rescue-mission-for-databricks-pipelines-migrating-to-dab|The Rescue Mission for Databricks Pipelines Migrating to DABs with Zero Data Loss]]
+    - [[sources/2026-04-05/03_databricks-use-cases-decoded-2-how-a-global-sportswear-retai|Databricks Use Cases Decoded 2 How a Global Sportswear Retailer Cut ETL Time by 70 and Went 48x]]
+- [[episodes/2026-03-17|2026-03-17]]
+    - [[sources/2026-03-17/05_office-culture-is-pretty-bad-right-now-for-me-atleast-a-data|Office culture is pretty bad right now for me atleast - a data engineer]]
+    - [[sources/2026-03-17/01_the-databricks-notebooks-need-shortcuts-customisation|The Databricks notebooks need shortcuts customisation]]
+    - [[sources/2026-03-17/04_the-only-apache-spark-roadmap-you-need-as-a-beginner-in-2026|The ONLY Apache Spark Roadmap You NEED As a BEGINNER In 2026]]
+    - [[sources/2026-03-17/03_the-secret-to-scaling-big-data-databricks-and-spark-databric|The Secret to Scaling Big Data Databricks and Spark! databricks apache spark data ml ai]]

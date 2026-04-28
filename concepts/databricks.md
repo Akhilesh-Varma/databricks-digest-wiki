@@ -2,16 +2,16 @@
 type: concept
 name: Databricks
 slug: databricks
-first_seen: 2026-04-24
+first_seen: 2026-03-17
 last_seen: 2026-04-26
-mention_count: 3
+mention_count: 6
 avg_confidence: 0.8
 tags: [concept]
 ---
 
 # Databricks
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
 - [[episodes/2026-04-26|2026-04-26]]
@@ -20,3 +20,8 @@ _Concept mentioned across 3 stories._
     - [[sources/2026-04-25/02_learning-series-devops-essentials-for-data-engineering|Learning Series DevOps Essentials for Data Engineering]]
 - [[episodes/2026-04-24|2026-04-24]]
     - [[sources/2026-04-24/08_cost-optimization-strategies-for-databricks-workloads|Cost Optimization Strategies for Databricks Workloads]]
+- [[episodes/2026-04-05|2026-04-05]]
+    - [[sources/2026-04-05/03_databricks-use-cases-decoded-2-how-a-global-sportswear-retai|Databricks Use Cases Decoded 2 How a Global Sportswear Retailer Cut ETL Time by 70 and Went 48x]]
+- [[episodes/2026-03-17|2026-03-17]]
+    - [[sources/2026-03-17/05_office-culture-is-pretty-bad-right-now-for-me-atleast-a-data|Office culture is pretty bad right now for me atleast - a data engineer]]
+    - [[sources/2026-03-17/04_the-only-apache-spark-roadmap-you-need-as-a-beginner-in-2026|The ONLY Apache Spark Roadmap You NEED As a BEGINNER In 2026]]

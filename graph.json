@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-28T10:22:39.963096+00:00",
-  "node_count": 461,
-  "edge_count": 620,
+  "generated_at": "2026-04-28T15:03:46.147199+00:00",
+  "node_count": 521,
+  "edge_count": 714,
   "nodes": [
     {
       "id": "episode/2026-04-28",
@@ -79,6 +79,131 @@
       "label": "Daily Databricks Digest - April 18, 2026",
       "episode_date": "2026-04-18",
       "story_count": 2
+    },
+    {
+      "id": "episode/2026-04-05",
+      "type": "episode",
+      "label": "Daily Databricks Digest - April 05, 2026",
+      "episode_date": "2026-04-05",
+      "story_count": 7
+    },
+    {
+      "id": "episode/2026-04-04",
+      "type": "episode",
+      "label": "Daily Databricks Digest - April 04, 2026",
+      "episode_date": "2026-04-04",
+      "story_count": 1
+    },
+    {
+      "id": "episode/2026-03-17",
+      "type": "episode",
+      "label": "Daily Databricks Digest - March 17, 2026",
+      "episode_date": "2026-03-17",
+      "story_count": 5
+    },
+    {
+      "id": "story/reddit_1rusrlq",
+      "type": "story",
+      "label": "The Databricks notebooks need shortcuts customisation",
+      "episode_date": "2026-03-17",
+      "rank": 1,
+      "quality_score": 0.7602059991327964
+    },
+    {
+      "id": "story/reddit_1rud50q",
+      "type": "story",
+      "label": "How hard is it to learn spark or pyspark from SQL? Help with deciding what to upskill next",
+      "episode_date": "2026-03-17",
+      "rank": 2,
+      "quality_score": 0.7458762498193326
+    },
+    {
+      "id": "story/youtube_lmu4QwR47M4",
+      "type": "story",
+      "label": "The Secret to Scaling Big Data Databricks and Spark! databricks apache spark data ml ai",
+      "episode_date": "2026-03-17",
+      "rank": 3,
+      "quality_score": 0.7351423675333655
+    },
+    {
+      "id": "story/youtube_6UxiSj_bkGE",
+      "type": "story",
+      "label": "The ONLY Apache Spark Roadmap You NEED As a BEGINNER In 2026",
+      "episode_date": "2026-03-17",
+      "rank": 4,
+      "quality_score": 0.7339825361767163
+    },
+    {
+      "id": "story/reddit_1rtmere",
+      "type": "story",
+      "label": "Office culture is pretty bad right now for me atleast - a data engineer",
+      "episode_date": "2026-03-17",
+      "rank": 5,
+      "quality_score": 0.7013345604639359
+    },
+    {
+      "id": "story/rss_1951c7d0bd20",
+      "type": "story",
+      "label": "How to Optimize Spark Jobs for Performance Real Techniques",
+      "episode_date": "2026-04-05",
+      "rank": 6,
+      "quality_score": 0.54
+    },
+    {
+      "id": "story/rss_e28432dc8341",
+      "type": "story",
+      "label": "Databricks Use Cases Decoded 2 How a Global Sportswear Retailer Cut ETL Time by 70 and Went 48x",
+      "episode_date": "2026-04-05",
+      "rank": 3,
+      "quality_score": 0.6200000000000001
+    },
+    {
+      "id": "story/rss_69c34d1e02e6",
+      "type": "story",
+      "label": "Your Spark Job Is OOM ing!! Because You Don t Understand Your Kitchen",
+      "episode_date": "2026-04-05",
+      "rank": 4,
+      "quality_score": 0.6200000000000001
+    },
+    {
+      "id": "story/rss_057448abb759",
+      "type": "story",
+      "label": "Three Regions. One Analytics Layer. Zero Data Copies. How Delta Sharing Makes This Possible.",
+      "episode_date": "2026-04-05",
+      "rank": 5,
+      "quality_score": 0.6200000000000001
+    },
+    {
+      "id": "story/rss_4fe10c1c2c55",
+      "type": "story",
+      "label": "How WorldDataIQ Builds Scalable Data Pipelines",
+      "episode_date": "2026-04-04",
+      "rank": 6,
+      "quality_score": 0.6000000000000001
+    },
+    {
+      "id": "story/rss_94ccc19969bf",
+      "type": "story",
+      "label": "Spark Architecture Explained What Actually Happens When Your PySpark Job Runs",
+      "episode_date": "2026-04-05",
+      "rank": 6,
+      "quality_score": 0.6200000000000001
+    },
+    {
+      "id": "story/rss_6c4f45e85af2",
+      "type": "story",
+      "label": "The Rescue Mission for Databricks Pipelines Migrating to DABs with Zero Data Loss",
+      "episode_date": "2026-04-05",
+      "rank": 4,
+      "quality_score": 0.5800000000000001
+    },
+    {
+      "id": "story/rss_2f2e3c0386c1",
+      "type": "story",
+      "label": "How I Triaged a BigQuery Cost Spike at a Regional Grocery Chain And the Two Problems Hiding in",
+      "episode_date": "2026-04-05",
+      "rank": 5,
+      "quality_score": 0.5800000000000001
     },
     {
       "id": "story/community_9d4706ee347d",
@@ -814,7 +939,7 @@
       "id": "concept/sql",
       "type": "concept",
       "label": "SQL",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "company/clickhouse",
@@ -892,7 +1017,7 @@
       "id": "concept/data-engineering",
       "type": "concept",
       "label": "Data Engineering",
-      "mention_count": 6
+      "mention_count": 8
     },
     {
       "id": "concept/sqlite",
@@ -904,7 +1029,7 @@
       "id": "concept/bigquery",
       "type": "concept",
       "label": "BigQuery",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/databricks-delta-lake",
@@ -922,13 +1047,13 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 53
+      "mention_count": 59
     },
     {
       "id": "company/microsoft",
       "type": "company",
       "label": "Microsoft",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "concept/foundation-models",
@@ -1012,7 +1137,7 @@
       "id": "concept/oltp",
       "type": "concept",
       "label": "OLTP",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/document-intelligence",
@@ -1132,13 +1257,13 @@
       "id": "concept/databricks",
       "type": "concept",
       "label": "Databricks",
-      "mention_count": 3
+      "mention_count": 6
     },
     {
       "id": "concept/delta-lake",
       "type": "concept",
       "label": "Delta Lake",
-      "mention_count": 9
+      "mention_count": 10
     },
     {
       "id": "concept/lakeflow-spark-declarative-pipelines",
@@ -1150,7 +1275,7 @@
       "id": "concept/apache-spark",
       "type": "concept",
       "label": "Apache Spark",
-      "mention_count": 2
+      "mention_count": 9
     },
     {
       "id": "concept/retrieval-augmented-generation",
@@ -1552,7 +1677,7 @@
       "id": "concept/etl",
       "type": "concept",
       "label": "ETL",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/rag",
@@ -1654,7 +1779,7 @@
       "id": "concept/databricks-notebooks",
       "type": "concept",
       "label": "Databricks notebooks",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/markdown",
@@ -1732,7 +1857,7 @@
       "id": "concept/pyspark",
       "type": "concept",
       "label": "PySpark",
-      "mention_count": 2
+      "mention_count": 5
     },
     {
       "id": "concept/delta-tables",
@@ -1744,7 +1869,7 @@
       "id": "concept/etl-pipelines",
       "type": "concept",
       "label": "ETL Pipelines",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/schema-mapping",
@@ -2014,7 +2139,7 @@
       "id": "concept/kubernetes",
       "type": "concept",
       "label": "Kubernetes",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "company/itprep",
@@ -2440,7 +2565,7 @@
       "id": "concept/python",
       "type": "concept",
       "label": "Python",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/auto-cdc",
@@ -2791,6 +2916,72 @@
       "mention_count": 1
     },
     {
+      "id": "concept/claude-ai-assistant",
+      "type": "concept",
+      "label": "Claude (AI assistant)",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/databricks-ai-bi-dashboard",
+      "type": "concept",
+      "label": "Databricks AI BI Dashboard",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/olap",
+      "type": "concept",
+      "label": "OLAP",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/dagster",
+      "type": "concept",
+      "label": "Dagster",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/react-js",
+      "type": "concept",
+      "label": "React JS",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/typescript",
+      "type": "concept",
+      "label": "TypeScript",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/claude-agent",
+      "type": "concept",
+      "label": "Claude Agent",
+      "mention_count": 1
+    },
+    {
+      "id": "company/anthropic",
+      "type": "company",
+      "label": "Anthropic",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/bi-engineering",
+      "type": "concept",
+      "label": "BI Engineering",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/data-modeling",
+      "type": "concept",
+      "label": "Data Modeling",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/machine-learning",
+      "type": "concept",
+      "label": "Machine Learning",
+      "mention_count": 3
+    },
+    {
       "id": "concept/gpt-5-5",
       "type": "concept",
       "label": "GPT 5.5",
@@ -2806,6 +2997,36 @@
       "id": "company/openai",
       "type": "company",
       "label": "OpenAI",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/jetbrains-intellij",
+      "type": "concept",
+      "label": "JetBrains IntelliJ",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/pycharm",
+      "type": "concept",
+      "label": "PyCharm",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/visual-studio-code",
+      "type": "concept",
+      "label": "Visual Studio Code",
+      "mention_count": 1
+    },
+    {
+      "id": "company/jetbrains",
+      "type": "company",
+      "label": "JetBrains",
+      "mention_count": 1
+    },
+    {
+      "id": "company/amplab",
+      "type": "company",
+      "label": "AmpLab",
       "mention_count": 1
     },
     {
@@ -2887,6 +3108,90 @@
       "mention_count": 1
     },
     {
+      "id": "concept/databricks-asset-bundles",
+      "type": "concept",
+      "label": "Databricks Asset Bundles",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/bundle-generate",
+      "type": "concept",
+      "label": "bundle generate",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/deployment-bind",
+      "type": "concept",
+      "label": "deployment bind",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/databricks-pipelines",
+      "type": "concept",
+      "label": "Databricks Pipelines",
+      "mention_count": 1
+    },
+    {
+      "id": "company/medium",
+      "type": "company",
+      "label": "Medium",
+      "mention_count": 4
+    },
+    {
+      "id": "concept/spark-driver",
+      "type": "concept",
+      "label": "Spark Driver",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/spark-executor",
+      "type": "concept",
+      "label": "Spark Executor",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/cluster-manager",
+      "type": "concept",
+      "label": "Cluster Manager",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/dag-scheduler",
+      "type": "concept",
+      "label": "DAG Scheduler",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/spark-shuffle",
+      "type": "concept",
+      "label": "Spark Shuffle",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/py4j",
+      "type": "concept",
+      "label": "Py4J",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/yarn",
+      "type": "concept",
+      "label": "YARN",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/delta-sharing",
+      "type": "concept",
+      "label": "Delta Sharing",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/data-sovereignty",
+      "type": "concept",
+      "label": "Data Sovereignty",
+      "mention_count": 1
+    },
+    {
       "id": "concept/data-ai-summit",
       "type": "concept",
       "label": "Data AI Summit",
@@ -2911,12 +3216,6 @@
       "mention_count": 1
     },
     {
-      "id": "concept/machine-learning",
-      "type": "concept",
-      "label": "machine learning",
-      "mention_count": 1
-    },
-    {
       "id": "concept/open-source",
       "type": "concept",
       "label": "open source",
@@ -2938,6 +3237,96 @@
       "id": "person/wiliam-rosa",
       "type": "person",
       "label": "Wiliam Rosa",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/distributed-data-processing",
+      "type": "concept",
+      "label": "Distributed Data Processing",
+      "mention_count": 1
+    },
+    {
+      "id": "company/apache-software-foundation",
+      "type": "company",
+      "label": "Apache Software Foundation",
+      "mention_count": 2
+    },
+    {
+      "id": "concept/data-platform-migration",
+      "type": "concept",
+      "label": "Data Platform Migration",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/spark-memory-tuning",
+      "type": "concept",
+      "label": "Spark Memory Tuning",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/out-of-memory-error",
+      "type": "concept",
+      "label": "Out-Of-Memory Error",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/spark-memory-management",
+      "type": "concept",
+      "label": "Spark Memory Management",
+      "mention_count": 1
+    },
+    {
+      "id": "person/akhileswar-chinna",
+      "type": "person",
+      "label": "Akhileswar Chinna",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/finops",
+      "type": "concept",
+      "label": "FinOps",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/cloud-cost-optimization",
+      "type": "concept",
+      "label": "Cloud Cost Optimization",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/retail-analytics",
+      "type": "concept",
+      "label": "Retail Analytics",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/google-cloud-platform",
+      "type": "concept",
+      "label": "Google Cloud Platform",
+      "mention_count": 1
+    },
+    {
+      "id": "company/google",
+      "type": "company",
+      "label": "Google",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/spark-job-optimization",
+      "type": "concept",
+      "label": "Spark Job Optimization",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/databricks-platform",
+      "type": "concept",
+      "label": "Databricks Platform",
+      "mention_count": 1
+    },
+    {
+      "id": "company/worlddataiq",
+      "type": "company",
+      "label": "WorldDataIQ",
       "mention_count": 1
     },
     {
@@ -5731,6 +6120,106 @@
       "kind": "mentions"
     },
     {
+      "source": "story/reddit_1rtmere",
+      "target": "episode/2026-03-17",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/reddit_1rtmere",
+      "target": "concept/claude-ai-assistant",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rtmere",
+      "target": "concept/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rtmere",
+      "target": "concept/databricks-ai-bi-dashboard",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rtmere",
+      "target": "concept/oltp",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rtmere",
+      "target": "concept/olap",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rtmere",
+      "target": "concept/dagster",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rtmere",
+      "target": "concept/react-js",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rtmere",
+      "target": "concept/typescript",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rtmere",
+      "target": "concept/claude-agent",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rtmere",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rtmere",
+      "target": "company/anthropic",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rud50q",
+      "target": "episode/2026-03-17",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/reddit_1rud50q",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rud50q",
+      "target": "concept/pyspark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rud50q",
+      "target": "concept/sql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rud50q",
+      "target": "concept/data-engineering",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rud50q",
+      "target": "concept/bi-engineering",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rud50q",
+      "target": "concept/data-modeling",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rud50q",
+      "target": "concept/machine-learning",
+      "kind": "mentions"
+    },
+    {
       "source": "story/community_474912a7c522",
       "target": "episode/2026-04-28",
       "kind": "aired_in"
@@ -5788,6 +6277,56 @@
     {
       "source": "story/community_474912a7c522",
       "target": "company/openai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rusrlq",
+      "target": "episode/2026-03-17",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/reddit_1rusrlq",
+      "target": "concept/databricks-notebooks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rusrlq",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rusrlq",
+      "target": "concept/jetbrains-intellij",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rusrlq",
+      "target": "concept/pycharm",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rusrlq",
+      "target": "concept/visual-studio-code",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rusrlq",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rusrlq",
+      "target": "company/jetbrains",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rusrlq",
+      "target": "company/microsoft",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/reddit_1rusrlq",
+      "target": "company/amplab",
       "kind": "mentions"
     },
     {
@@ -5946,6 +6485,121 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_6c4f45e85af2",
+      "target": "episode/2026-04-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_6c4f45e85af2",
+      "target": "concept/databricks-asset-bundles",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_6c4f45e85af2",
+      "target": "concept/bundle-generate",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_6c4f45e85af2",
+      "target": "concept/deployment-bind",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_6c4f45e85af2",
+      "target": "concept/databricks-pipelines",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_6c4f45e85af2",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_6c4f45e85af2",
+      "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_94ccc19969bf",
+      "target": "episode/2026-04-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_94ccc19969bf",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_94ccc19969bf",
+      "target": "concept/pyspark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_94ccc19969bf",
+      "target": "concept/spark-driver",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_94ccc19969bf",
+      "target": "concept/spark-executor",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_94ccc19969bf",
+      "target": "concept/cluster-manager",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_94ccc19969bf",
+      "target": "concept/dag-scheduler",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_94ccc19969bf",
+      "target": "concept/spark-shuffle",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_94ccc19969bf",
+      "target": "concept/py4j",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_94ccc19969bf",
+      "target": "concept/yarn",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_94ccc19969bf",
+      "target": "concept/kubernetes",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_94ccc19969bf",
+      "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_057448abb759",
+      "target": "episode/2026-04-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_057448abb759",
+      "target": "concept/delta-sharing",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_057448abb759",
+      "target": "concept/delta-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_057448abb759",
+      "target": "concept/data-sovereignty",
+      "kind": "mentions"
+    },
+    {
       "source": "story/community_1df2f126f7df",
       "target": "episode/2026-04-28",
       "kind": "aired_in"
@@ -6008,6 +6662,211 @@
     {
       "source": "story/community_1df2f126f7df",
       "target": "person/wiliam-rosa",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/youtube_6UxiSj_bkGE",
+      "target": "episode/2026-03-17",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/youtube_6UxiSj_bkGE",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/youtube_6UxiSj_bkGE",
+      "target": "concept/pyspark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/youtube_6UxiSj_bkGE",
+      "target": "concept/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/youtube_6UxiSj_bkGE",
+      "target": "concept/distributed-data-processing",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/youtube_6UxiSj_bkGE",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/youtube_6UxiSj_bkGE",
+      "target": "company/apache-software-foundation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_e28432dc8341",
+      "target": "episode/2026-04-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_e28432dc8341",
+      "target": "concept/etl",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_e28432dc8341",
+      "target": "concept/data-platform-migration",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_e28432dc8341",
+      "target": "concept/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_e28432dc8341",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_69c34d1e02e6",
+      "target": "episode/2026-04-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_69c34d1e02e6",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_69c34d1e02e6",
+      "target": "concept/spark-memory-tuning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_69c34d1e02e6",
+      "target": "concept/out-of-memory-error",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_69c34d1e02e6",
+      "target": "concept/spark-memory-management",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_69c34d1e02e6",
+      "target": "person/akhileswar-chinna",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_2f2e3c0386c1",
+      "target": "episode/2026-04-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_2f2e3c0386c1",
+      "target": "concept/bigquery",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_2f2e3c0386c1",
+      "target": "concept/finops",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_2f2e3c0386c1",
+      "target": "concept/cloud-cost-optimization",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_2f2e3c0386c1",
+      "target": "concept/retail-analytics",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_2f2e3c0386c1",
+      "target": "concept/google-cloud-platform",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_2f2e3c0386c1",
+      "target": "company/google",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1951c7d0bd20",
+      "target": "episode/2026-04-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_1951c7d0bd20",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1951c7d0bd20",
+      "target": "concept/spark-job-optimization",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1951c7d0bd20",
+      "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/youtube_lmu4QwR47M4",
+      "target": "episode/2026-03-17",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/youtube_lmu4QwR47M4",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/youtube_lmu4QwR47M4",
+      "target": "concept/databricks-platform",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/youtube_lmu4QwR47M4",
+      "target": "concept/machine-learning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/youtube_lmu4QwR47M4",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/youtube_lmu4QwR47M4",
+      "target": "company/apache-software-foundation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_4fe10c1c2c55",
+      "target": "episode/2026-04-04",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_4fe10c1c2c55",
+      "target": "concept/etl-pipelines",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_4fe10c1c2c55",
+      "target": "concept/data-engineering",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_4fe10c1c2c55",
+      "target": "concept/python",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_4fe10c1c2c55",
+      "target": "company/worlddataiq",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_4fe10c1c2c55",
+      "target": "company/medium",
       "kind": "mentions"
     },
     {

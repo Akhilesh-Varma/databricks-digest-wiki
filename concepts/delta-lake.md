@@ -2,16 +2,16 @@
 type: concept
 name: Delta Lake
 slug: delta-lake
-first_seen: 2026-04-18
+first_seen: 2026-04-05
 last_seen: 2026-04-28
-mention_count: 9
-avg_confidence: 0.667
+mention_count: 10
+avg_confidence: 0.67
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
 - [[episodes/2026-04-28|2026-04-28]]
@@ -29,3 +29,5 @@ _Concept mentioned across 9 stories._
     - [[sources/2026-04-19/02_best-practices-for-safe-data-experimentation-with-databricks|Best practices for safe data experimentation with Databricks]]
 - [[episodes/2026-04-18|2026-04-18]]
     - [[sources/2026-04-18/02_learning-series-build-data-pipelines-with-lakeflow-spark-dec|Learning Series Build Data Pipelines with Lakeflow Spark Declarative Pipelines]]
+- [[episodes/2026-04-05|2026-04-05]]
+    - [[sources/2026-04-05/05_three-regions-one-analytics-layer-zero-data-copies-how-delta|Three Regions. One Analytics Layer. Zero Data Copies. How Delta Sharing Makes This Possible.]]

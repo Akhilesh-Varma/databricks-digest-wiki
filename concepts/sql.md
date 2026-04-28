@@ -2,16 +2,16 @@
 type: concept
 name: SQL
 slug: sql
-first_seen: 2026-04-21
+first_seen: 2026-03-17
 last_seen: 2026-04-28
-mention_count: 5
-avg_confidence: 0.46
+mention_count: 6
+avg_confidence: 0.5
 tags: [concept]
 ---
 
 # SQL
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
 - [[episodes/2026-04-28|2026-04-28]]
@@ -22,3 +22,5 @@ _Concept mentioned across 5 stories._
     - [[sources/2026-04-25/02_learning-series-devops-essentials-for-data-engineering|Learning Series DevOps Essentials for Data Engineering]]
 - [[episodes/2026-04-21|2026-04-21]]
     - [[sources/2026-04-21/10_columnar-databases-clickhouse-snowflake|Columnar Databases ClickHouse Snowflake]]
+- [[episodes/2026-03-17|2026-03-17]]
+    - [[sources/2026-03-17/02_how-hard-is-it-to-learn-spark-or-pyspark-from-sql-help-with|How hard is it to learn spark or pyspark from SQL? Help with deciding what to upskill next]]

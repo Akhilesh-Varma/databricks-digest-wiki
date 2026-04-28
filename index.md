@@ -1,8 +1,8 @@
 ---
 type: index
-generated_at: 2026-04-28T10:22:39.873484+00:00
-episode_count: 11
-story_count: 89
+generated_at: 2026-04-28T15:03:46.023158+00:00
+episode_count: 14
+story_count: 102
 ---
 
 # Daily Databricks Digest — Knowledge Wiki
@@ -22,39 +22,42 @@ An auto-generated Obsidian vault covering every story aired on the [Daily Databr
 - [[episodes/2026-04-20|Daily Databricks Digest - April 20, 2026]] — 10 stories
 - [[episodes/2026-04-19|Daily Databricks Digest - April 19, 2026]] — 6 stories
 - [[episodes/2026-04-18|Daily Databricks Digest - April 18, 2026]] — 2 stories
+- [[episodes/2026-04-05|Daily Databricks Digest - April 05, 2026]] — 7 stories
+- [[episodes/2026-04-04|Daily Databricks Digest - April 04, 2026]] — 1 stories
+- [[episodes/2026-03-17|Daily Databricks Digest - March 17, 2026]] — 5 stories
 
 ## Most-referenced concepts
 
 - [[concepts/unity-catalog|Unity Catalog]] — 17 stories
-- [[concepts/delta-lake|Delta Lake]] — 9 stories
+- [[concepts/delta-lake|Delta Lake]] — 10 stories
+- [[concepts/apache-spark|Apache Spark]] — 9 stories
 - [[concepts/lakehouse|Lakehouse]] — 8 stories
-- [[concepts/data-engineering|Data Engineering]] — 6 stories
-- [[concepts/sql|SQL]] — 5 stories
+- [[concepts/data-engineering|Data Engineering]] — 8 stories
+- [[concepts/sql|SQL]] — 6 stories
+- [[concepts/databricks|Databricks]] — 6 stories
+- [[concepts/pyspark|PySpark]] — 5 stories
 - [[concepts/agent-bricks|Agent Bricks]] — 4 stories
 - [[concepts/lakeflow-spark-declarative-pipelines|Lakeflow Spark Declarative Pipelines]] — 4 stories
 - [[concepts/mlflow|MLflow]] — 4 stories
 - [[concepts/medallion-architecture|Medallion Architecture]] — 4 stories
 - [[concepts/genie|Genie]] — 4 stories
 - [[concepts/parquet|Parquet]] — 3 stories
+- [[concepts/bigquery|BigQuery]] — 3 stories
 - [[concepts/microsoft-fabric|Microsoft Fabric]] — 3 stories
-- [[concepts/databricks|Databricks]] — 3 stories
+- [[concepts/oltp|OLTP]] — 3 stories
 - [[concepts/data-lake|Data Lake]] — 3 stories
+- [[concepts/etl|ETL]] — 3 stories
+- [[concepts/etl-pipelines|ETL Pipelines]] — 3 stories
 - [[concepts/apache-iceberg|Apache Iceberg]] — 3 stories
+- [[concepts/python|Python]] — 3 stories
+- [[concepts/machine-learning|Machine Learning]] — 3 stories
 - [[concepts/clickhouse|ClickHouse]] — 2 stories
 - [[concepts/snowflake|Snowflake]] — 2 stories
 - [[concepts/spark|Spark]] — 2 stories
 - [[concepts/s3|S3]] — 2 stories
-- [[concepts/bigquery|BigQuery]] — 2 stories
-- [[concepts/oltp|OLTP]] — 2 stories
 - [[concepts/lakeflow-jobs|Lakeflow Jobs]] — 2 stories
 - [[concepts/spark-declarative-pipelines|Spark Declarative Pipelines]] — 2 stories
 - [[concepts/databricks-sdk-java|Databricks SDK Java]] — 2 stories
-- [[concepts/large-language-models|Large Language Models]] — 2 stories
-- [[concepts/schema-registry|Schema Registry]] — 2 stories
-- [[concepts/ci-cd-pipelines|CI/CD Pipelines]] — 2 stories
-- [[concepts/apache-spark|Apache Spark]] — 2 stories
-- [[concepts/retrieval-augmented-generation|Retrieval-Augmented Generation]] — 2 stories
-- [[concepts/rag-system|RAG System]] — 2 stories
 
 ## Folder map
 

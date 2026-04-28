@@ -2,16 +2,16 @@
 type: company
 name: Microsoft
 slug: microsoft
-first_seen: 2026-04-21
+first_seen: 2026-03-17
 last_seen: 2026-04-28
-mention_count: 5
+mention_count: 6
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 5 stories._
+_Company mentioned across 6 stories._
 
 ## Appears in
 - [[episodes/2026-04-28|2026-04-28]]
@@ -23,3 +23,5 @@ _Company mentioned across 5 stories._
     - [[sources/2026-04-26/03_databricks-metric-views-power-bi-bi-compatibility-mode-remov|Databricks Metric Views - Power BI - BI compatibility mode Removal]]
 - [[episodes/2026-04-21|2026-04-21]]
     - [[sources/2026-04-21/06_streaming-data-databricks-delta-lake-aka-microsoft-fabric-la|Streaming Data Databricks Delta Lake aka Microsoft Fabric Lakehouse]]
+- [[episodes/2026-03-17|2026-03-17]]
+    - [[sources/2026-03-17/01_the-databricks-notebooks-need-shortcuts-customisation|The Databricks notebooks need shortcuts customisation]]
