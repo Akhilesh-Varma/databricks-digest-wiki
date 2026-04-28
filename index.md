@@ -1,8 +1,8 @@
 ---
 type: index
-generated_at: 2026-04-28T01:55:17.358914+00:00
-episode_count: 1
-story_count: 8
+generated_at: 2026-04-28T10:22:39.873484+00:00
+episode_count: 11
+story_count: 89
 ---
 
 # Daily Databricks Digest — Knowledge Wiki
@@ -11,40 +11,50 @@ An auto-generated Obsidian vault covering every story aired on the [Daily Databr
 
 ## Recent episodes
 
+- [[episodes/2026-04-28|Daily Databricks Digest - April 28, 2026]] — 6 stories
+- [[episodes/2026-04-27|Daily Databricks Digest - April 27, 2026]] — 10 stories
+- [[episodes/2026-04-26|Daily Databricks Digest - April 26, 2026]] — 7 stories
 - [[episodes/2026-04-25|Daily Databricks Digest - April 25, 2026]] — 8 stories
+- [[episodes/2026-04-24|Daily Databricks Digest - April 24, 2026]] — 10 stories
+- [[episodes/2026-04-23|Daily Databricks Digest - April 23, 2026]] — 10 stories
+- [[episodes/2026-04-22|Daily Databricks Digest - April 22, 2026]] — 10 stories
+- [[episodes/2026-04-21|Daily Databricks Digest - April 21, 2026]] — 10 stories
+- [[episodes/2026-04-20|Daily Databricks Digest - April 20, 2026]] — 10 stories
+- [[episodes/2026-04-19|Daily Databricks Digest - April 19, 2026]] — 6 stories
+- [[episodes/2026-04-18|Daily Databricks Digest - April 18, 2026]] — 2 stories
 
 ## Most-referenced concepts
 
-- [[concepts/sql|SQL]] — 3 stories
-- [[concepts/data-engineering|Data Engineering]] — 2 stories
-- [[concepts/unity-catalog|Unity Catalog]] — 2 stories
-- [[concepts/python|Python]] — 2 stories
-- [[concepts/confidential-vms|Confidential VMs]] — 1 stories
-- [[concepts/trusted-execution-environments|Trusted Execution Environments]] — 1 stories
-- [[concepts/amd-sev-snp|AMD SEV-SNP]] — 1 stories
-- [[concepts/hardware-level-encryption|Hardware-level encryption]] — 1 stories
-- [[concepts/vllm|vLLM]] — 1 stories
-- [[concepts/azure-confidential-compute|Azure Confidential Compute]] — 1 stories
-- [[concepts/attestation|Attestation]] — 1 stories
-- [[concepts/reproducible-builds|Reproducible builds]] — 1 stories
-- [[concepts/open-source-cli|Open source CLI]] — 1 stories
-- [[concepts/auto-cdc|AUTO CDC]] — 1 stories
-- [[concepts/merge-into|MERGE INTO]] — 1 stories
-- [[concepts/change-data-capture|Change Data Capture]] — 1 stories
-- [[concepts/scd-type-2|SCD Type 2]] — 1 stories
-- [[concepts/data-warehouse|data warehouse]] — 1 stories
-- [[concepts/pipeline|pipeline]] — 1 stories
-- [[concepts/devops|DevOps]] — 1 stories
-- [[concepts/databricks-data-intelligence-platform|Databricks Data Intelligence Platform]] — 1 stories
-- [[concepts/ci-cd|CI/CD]] — 1 stories
-- [[concepts/pyspark|PySpark]] — 1 stories
-- [[concepts/pytest|pytest]] — 1 stories
-- [[concepts/databricks|Databricks]] — 1 stories
-- [[concepts/spark-declarative-pipeline-and-jobs|Spark Declarative Pipeline and Jobs]] — 1 stories
-- [[concepts/git-folders|Git Folders]] — 1 stories
-- [[concepts/rest-api|REST API]] — 1 stories
-- [[concepts/cli|CLI]] — 1 stories
-- [[concepts/sdk|SDK]] — 1 stories
+- [[concepts/unity-catalog|Unity Catalog]] — 17 stories
+- [[concepts/delta-lake|Delta Lake]] — 9 stories
+- [[concepts/lakehouse|Lakehouse]] — 8 stories
+- [[concepts/data-engineering|Data Engineering]] — 6 stories
+- [[concepts/sql|SQL]] — 5 stories
+- [[concepts/agent-bricks|Agent Bricks]] — 4 stories
+- [[concepts/lakeflow-spark-declarative-pipelines|Lakeflow Spark Declarative Pipelines]] — 4 stories
+- [[concepts/mlflow|MLflow]] — 4 stories
+- [[concepts/medallion-architecture|Medallion Architecture]] — 4 stories
+- [[concepts/genie|Genie]] — 4 stories
+- [[concepts/parquet|Parquet]] — 3 stories
+- [[concepts/microsoft-fabric|Microsoft Fabric]] — 3 stories
+- [[concepts/databricks|Databricks]] — 3 stories
+- [[concepts/data-lake|Data Lake]] — 3 stories
+- [[concepts/apache-iceberg|Apache Iceberg]] — 3 stories
+- [[concepts/clickhouse|ClickHouse]] — 2 stories
+- [[concepts/snowflake|Snowflake]] — 2 stories
+- [[concepts/spark|Spark]] — 2 stories
+- [[concepts/s3|S3]] — 2 stories
+- [[concepts/bigquery|BigQuery]] — 2 stories
+- [[concepts/oltp|OLTP]] — 2 stories
+- [[concepts/lakeflow-jobs|Lakeflow Jobs]] — 2 stories
+- [[concepts/spark-declarative-pipelines|Spark Declarative Pipelines]] — 2 stories
+- [[concepts/databricks-sdk-java|Databricks SDK Java]] — 2 stories
+- [[concepts/large-language-models|Large Language Models]] — 2 stories
+- [[concepts/schema-registry|Schema Registry]] — 2 stories
+- [[concepts/ci-cd-pipelines|CI/CD Pipelines]] — 2 stories
+- [[concepts/apache-spark|Apache Spark]] — 2 stories
+- [[concepts/retrieval-augmented-generation|Retrieval-Augmented Generation]] — 2 stories
+- [[concepts/rag-system|RAG System]] — 2 stories
 
 ## Folder map
 

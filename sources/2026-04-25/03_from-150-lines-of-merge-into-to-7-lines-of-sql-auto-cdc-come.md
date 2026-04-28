@@ -32,4 +32,4 @@ Databricks SQL has introduced AUTO CDC, a new declarative SQL API designed to si
 - **URL:** <https://community.databricks.com/t5/technical-blog/from-150-lines-of-merge-into-to-7-lines-of-sql-auto-cdc-comes-to/ba-p/155355>
 
 ## Related
-[[concepts/auto-cdc|auto-cdc]] · [[concepts/merge-into|merge-into]] · [[concepts/change-data-capture|change-data-capture]] · [[concepts/scd-type-2|scd-type-2]] · [[concepts/databricks|databricks]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-25|2026-04-25]]
+[[concepts/auto-cdc|auto-cdc]] · [[concepts/merge-into|merge-into]] · [[concepts/change-data-capture|change-data-capture]] · [[concepts/scd-type-2|scd-type-2]] · [[concepts/sql-warehouse|sql-warehouse]] · [[concepts/databricks|databricks]] · [[concepts/api|api]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-25|2026-04-25]]

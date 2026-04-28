@@ -2,20 +2,79 @@
 type: company
 name: Databricks
 slug: databricks
-first_seen: 2026-04-25
-last_seen: 2026-04-25
-mention_count: 4
+first_seen: 2026-04-18
+last_seen: 2026-04-28
+mention_count: 53
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 4 stories._
+_Company mentioned across 53 stories._
 
 ## Appears in
+- [[episodes/2026-04-28|2026-04-28]]
+    - [[sources/2026-04-28/01_openai-gpt-5-5-codex-now-available-and-fully-governed-in-dat|OpenAI GPT-5.5 Codex, now available and fully-governed in Databricks]]
+    - [[sources/2026-04-28/02_partner-blog-access-databricks-data-natively-in-excel-using|PARTNER BLOG Access Databricks Data Natively in Excel Using the New Excel Add-in]]
+    - [[sources/2026-04-28/03_data-ai-summit-2026-registration-now-open-early-bird-pricing|Data AI Summit 2026 Registration Now Open - Early Bird Pricing!]]
+- [[episodes/2026-04-27|2026-04-27]]
+    - [[sources/2026-04-27/07_inside-lakebase-the-architecture-that-makes-serverless-postg|Inside Lakebase The Architecture that makes Serverless Postgres actually work]]
+    - [[sources/2026-04-27/06_what-is-delta-live-tables-dlt-the-game-changer-every-data-en|What is Delta Live Tables DLT ? The Game-Changer Every Data Engineer Needs to Know in 2026]]
+    - [[sources/2026-04-27/03_data-ai-summit-2026-get-hands-on-with-ai|Data AI Summit 2026 Get hands on with AI]]
+    - [[sources/2026-04-27/02_sandbox-magic-turn-your-databricks-notebooks-into-living-doc|Sandbox Magic Turn Your Databricks Notebooks into Living Documents and Presentations]]
+- [[episodes/2026-04-26|2026-04-26]]
+    - [[sources/2026-04-26/06_we-just-released-a-free-databricks-certification-practice-ex|We Just Released a Free Databricks Certification Practice Exam. Here s Why We Built It.]]
+    - [[sources/2026-04-26/05_apache-iceberg-in-databricks-the-future-of-open-lakehouse-ar|Apache Iceberg in Databricks The Future of Open Lakehouse Architecture]]
+    - [[sources/2026-04-26/03_databricks-metric-views-power-bi-bi-compatibility-mode-remov|Databricks Metric Views - Power BI - BI compatibility mode Removal]]
+    - [[sources/2026-04-26/02_customer-story-toyota-uses-zerobus-ingest-for-real-time-fact|CUSTOMER STORY Toyota uses Zerobus Ingest for real-time factory data]]
+    - [[sources/2026-04-26/01_workflows-parameterization-build-flexible-production-ready-p|Workflows Parameterization Build Flexible, Production-Ready Pipelines on Databricks]]
 - [[episodes/2026-04-25|2026-04-25]]
+    - [[sources/2026-04-25/04_announcing-the-public-preview-of-lakeflow-designer|Announcing the Public Preview of Lakeflow Designer]]
     - [[sources/2026-04-25/03_from-150-lines-of-merge-into-to-7-lines-of-sql-auto-cdc-come|From 150 Lines of MERGE INTO to 7 Lines of SQL AUTO CDC Comes to Databricks SQL]]
     - [[sources/2026-04-25/02_learning-series-devops-essentials-for-data-engineering|Learning Series DevOps Essentials for Data Engineering]]
-    - [[sources/2026-04-25/04_announcing-the-public-preview-of-lakeflow-designer|Announcing the Public Preview of Lakeflow Designer]]
     - [[sources/2026-04-25/01_databricks-feature-engineering-0-15-0-released-on-pypi|Databricks Feature Engineering 0.15.0 released on PyPI]]
+- [[episodes/2026-04-24|2026-04-24]]
+    - [[sources/2026-04-24/09_designing-stable-integration-testing-architectures-for-data|Designing Stable Integration Testing Architectures for Data-Driven Systems By QA Transformation Integration Architect]]
+    - [[sources/2026-04-24/08_cost-optimization-strategies-for-databricks-workloads|Cost Optimization Strategies for Databricks Workloads]]
+    - [[sources/2026-04-24/07_databricks-in-production-8-architectural-decisions-that-actu|Databricks in Production 8 Architectural Decisions That Actually Matter]]
+    - [[sources/2026-04-24/06_how-to-build-a-rag-system-in-databricks-step-by-step-guide|How to Build a RAG System in Databricks Step-by-Step Guide]]
+    - [[sources/2026-04-24/05_title-the-delta-lake-vacuum-mistake-that-almost-cost-us-ever|Title The Delta Lake VACUUM Mistake That Almost Cost Us Everything]]
+    - [[sources/2026-04-24/03_metadata-driven-etl-framework-in-databricks-part-1|Metadata-Driven ETL Framework in Databricks Part-1]]
+    - [[sources/2026-04-24/02_take-control-customer-managed-keys-for-lakebase-postgres|Take Control Customer-Managed Keys for Lakebase Postgres]]
+    - [[sources/2026-04-24/01_from-hms-to-unity-catalog-a-self-service-migration-playbook|From HMS to Unity Catalog A Self-Service Migration Playbook]]
+- [[episodes/2026-04-23|2026-04-23]]
+    - [[sources/2026-04-23/09_databricks-unity-ai-gateway-mcp-agent-governance-guide|Databricks Unity AI Gateway MCP Agent Governance Guide]]
+    - [[sources/2026-04-23/08_databricks-lakeflow-designer-makes-pipelines-feel-easier-to|Databricks Lakeflow Designer Makes Pipelines Feel Easier to Build.]]
+    - [[sources/2026-04-23/05_unity-catalog-only-workspace-for-new-azure-databricks-deploy|Unity Catalog-only workspace for new Azure Databricks deployments]]
+    - [[sources/2026-04-23/04_community-pulse-your-weekly-roundup-april-13-19-2026|Community Pulse Your Weekly Roundup! April 13 19, 2026]]
+    - [[sources/2026-04-23/03_databricks-sdk-python-v0-104-0-released|Databricks SDK Python v0.104.0 released]]
+    - [[sources/2026-04-23/02_databricks-sdk-java-v0-105-0-released|Databricks SDK Java v0.105.0 released]]
+    - [[sources/2026-04-23/01_databricks-cli-v0-298-0-released|Databricks CLI v0.298.0 released]]
+- [[episodes/2026-04-22|2026-04-22]]
+    - [[sources/2026-04-22/09_dataframes-sql-in-databricks-reading-writing-and-transformin|DataFrames SQL in Databricks Reading, Writing, and Transforming Data]]
+    - [[sources/2026-04-22/08_rethinking-data-engineering-why-etl-pipelines-still-take-too|Rethinking Data Engineering Why ETL Pipelines Still Take Too Long and a New Way Forward]]
+    - [[sources/2026-04-22/07_real-time-decisioning-for-ai-agents-why-you-need-a-customer|Real-Time Decisioning for AI Agents Why you Need a Customer Context Layer First]]
+    - [[sources/2026-04-22/06_write-once-query-anywhere-building-a-hybrid-data-mesh-with-s|Write Once, Query Anywhere Building a Hybrid Data Mesh with Snowflake and Databricks]]
+    - [[sources/2026-04-22/05_building-agraphrag-system-for-aml-compliance-on-the-databric|Building aGraphRAG System for AML Compliance on the Databricks Ecosystem]]
+    - [[sources/2026-04-22/03_delta-lake-under-the-hood-what-every-data-engineer-should-kn|Delta Lake Under the Hood What Every Data Engineer Should Know]]
+    - [[sources/2026-04-22/02_intelligent-document-processing-for-data-extraction-transfor|Intelligent Document Processing for Data Extraction Transforming Product Manuals into Insights]]
+    - [[sources/2026-04-22/01_databricks-langchain-integration-0-19-0-released-on-pypi|Databricks LangChain Integration 0.19.0 released on PyPI]]
+- [[episodes/2026-04-21|2026-04-21]]
+    - [[sources/2026-04-21/06_streaming-data-databricks-delta-lake-aka-microsoft-fabric-la|Streaming Data Databricks Delta Lake aka Microsoft Fabric Lakehouse]]
+    - [[sources/2026-04-21/04_leave-legacy-siem-behind-the-open-security-lakehouse-era-is|Leave Legacy SIEM Behind The Open Security Lakehouse Era is Here]]
+    - [[sources/2026-04-21/03_databricks-lake-base-time-travel-secure-healthcare-complianc|Databricks Lake base Time Travel Secure Healthcare Compliance Trial via Lake base Branching]]
+    - [[sources/2026-04-21/02_why-your-agents-can-t-read-enterprise-documents-and-how-to-f|Why Your Agents Can t Read Enterprise Documents and How to Fix It]]
+    - [[sources/2026-04-21/01_databricks-sdk-java-v0-104-0-released|Databricks SDK Java v0.104.0 released]]
+- [[episodes/2026-04-20|2026-04-20]]
+    - [[sources/2026-04-20/03_share-your-thoughts-on-genie-and-receive-a-50-gift-card|Share your thoughts on Genie and receive a 50 gift card!]]
+    - [[sources/2026-04-20/02_lakeflow-spark-declarative-pipelines-now-decouples-pipeline|Lakeflow Spark Declarative Pipelines now decouples pipeline and tables lifecycle]]
+    - [[sources/2026-04-20/01_databricks-sdk-0-103-0-released-on-pypi|Databricks SDK 0.103.0 released on PyPI]]
+- [[episodes/2026-04-19|2026-04-19]]
+    - [[sources/2026-04-19/06_how-to-integrate-databricks-with-aws-azure-step-by-step-guid|How to Integrate Databricks with AWS Azure Step by Step Guide for Data Engineers]]
+    - [[sources/2026-04-19/03_databricks-community-fellows-march-2026-shout-outs|Databricks Community Fellows March 2026 Shout Outs!]]
+    - [[sources/2026-04-19/02_best-practices-for-safe-data-experimentation-with-databricks|Best practices for safe data experimentation with Databricks]]
+    - [[sources/2026-04-19/01_agent-bricks-the-governed-enterprise-agent-platform|Agent Bricks The Governed Enterprise Agent Platform]]
+- [[episodes/2026-04-18|2026-04-18]]
+    - [[sources/2026-04-18/02_learning-series-build-data-pipelines-with-lakeflow-spark-dec|Learning Series Build Data Pipelines with Lakeflow Spark Declarative Pipelines]]
+    - [[sources/2026-04-18/01_databricks-cli-v0-297-1-released|Databricks CLI v0.297.1 released]]

@@ -15,5 +15,5 @@ _Concept mentioned across 2 stories._
 
 ## Appears in
 - [[episodes/2026-04-25|2026-04-25]]
-    - [[sources/2026-04-25/02_learning-series-devops-essentials-for-data-engineering|Learning Series DevOps Essentials for Data Engineering]]
     - [[sources/2026-04-25/04_announcing-the-public-preview-of-lakeflow-designer|Announcing the Public Preview of Lakeflow Designer]]
+    - [[sources/2026-04-25/02_learning-series-devops-essentials-for-data-engineering|Learning Series DevOps Essentials for Data Engineering]]
