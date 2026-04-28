@@ -1,0 +1,847 @@
+{
+  "generated_at": "2026-04-28T01:55:17.448816+00:00",
+  "node_count": 71,
+  "edge_count": 79,
+  "nodes": [
+    {
+      "id": "episode/2026-04-25",
+      "type": "episode",
+      "label": "Daily Databricks Digest - April 25, 2026",
+      "episode_date": "2026-04-25",
+      "story_count": 8
+    },
+    {
+      "id": "story/pypi_databricks-feature-engineering_0.15.0",
+      "type": "story",
+      "label": "Databricks Feature Engineering 0.15.0 released on PyPI",
+      "episode_date": "2026-04-25",
+      "rank": 1,
+      "quality_score": 0.7121785195062831
+    },
+    {
+      "id": "story/community_6eaef6fda4a6",
+      "type": "story",
+      "label": "Learning Series DevOps Essentials for Data Engineering",
+      "episode_date": "2026-04-25",
+      "rank": 2,
+      "quality_score": 0.78
+    },
+    {
+      "id": "story/community_2d6d1ffd6f7f",
+      "type": "story",
+      "label": "From 150 Lines of MERGE INTO to 7 Lines of SQL AUTO CDC Comes to Databricks SQL",
+      "episode_date": "2026-04-25",
+      "rank": 3,
+      "quality_score": 0.7
+    },
+    {
+      "id": "story/community_4d8e03fd8ef0",
+      "type": "story",
+      "label": "Announcing the Public Preview of Lakeflow Designer",
+      "episode_date": "2026-04-25",
+      "rank": 4,
+      "quality_score": 0.6799999999999999
+    },
+    {
+      "id": "story/hn_47891569",
+      "type": "story",
+      "label": "Show HN PrivateClaw AI agents running in confidential VMs you can verify",
+      "episode_date": "2026-04-25",
+      "rank": 5,
+      "quality_score": 0.6111274510003565
+    },
+    {
+      "id": "story/rss_5604fe89c189",
+      "type": "story",
+      "label": "KNIME Apache Spark Integration \u0e40\u0e0a \u0e2d\u0e21\u0e42\u0e25\u0e01 No-Code \u0e40\u0e02 \u0e32\u0e01 \u0e1a Big Data Processing \u0e1a\u0e19 AWS",
+      "episode_date": "2026-04-25",
+      "rank": 6,
+      "quality_score": 0.7475943597772818
+    },
+    {
+      "id": "story/rss_9237989d830b",
+      "type": "story",
+      "label": "From Spreadsheets to a Self-Driving Data Pipeline How We Automated Agile Metrics for 17 Teams",
+      "episode_date": "2026-04-25",
+      "rank": 7,
+      "quality_score": 0.7375690623258929
+    },
+    {
+      "id": "story/rss_a5214cc78dc7",
+      "type": "story",
+      "label": "Apache Iceberg \u0e04 \u0e2d\u0e2d\u0e30\u0e44\u0e23? \u0e41\u0e25\u0e30\u0e17\u0e33\u0e44\u0e21\u0e21 \u0e19\u0e16 \u0e07\u0e40\u0e1b\u0e25 \u0e22\u0e19\u0e42\u0e25\u0e01\u0e02\u0e2d\u0e07 Data Engineering",
+      "episode_date": "2026-04-25",
+      "rank": 8,
+      "quality_score": 0.7289275278781416
+    },
+    {
+      "id": "concept/confidential-vms",
+      "type": "concept",
+      "label": "Confidential VMs",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/trusted-execution-environments",
+      "type": "concept",
+      "label": "Trusted Execution Environments",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/amd-sev-snp",
+      "type": "concept",
+      "label": "AMD SEV-SNP",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/hardware-level-encryption",
+      "type": "concept",
+      "label": "Hardware-level encryption",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/vllm",
+      "type": "concept",
+      "label": "vLLM",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/azure-confidential-compute",
+      "type": "concept",
+      "label": "Azure Confidential Compute",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/attestation",
+      "type": "concept",
+      "label": "Attestation",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/reproducible-builds",
+      "type": "concept",
+      "label": "Reproducible builds",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/open-source-cli",
+      "type": "concept",
+      "label": "Open source CLI",
+      "mention_count": 1
+    },
+    {
+      "id": "company/amd",
+      "type": "company",
+      "label": "AMD",
+      "mention_count": 1
+    },
+    {
+      "id": "company/azure",
+      "type": "company",
+      "label": "Azure",
+      "mention_count": 1
+    },
+    {
+      "id": "company/confidential-ai",
+      "type": "company",
+      "label": "Confidential AI",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/auto-cdc",
+      "type": "concept",
+      "label": "AUTO CDC",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/merge-into",
+      "type": "concept",
+      "label": "MERGE INTO",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/change-data-capture",
+      "type": "concept",
+      "label": "Change Data Capture",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/scd-type-2",
+      "type": "concept",
+      "label": "SCD Type 2",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/sql",
+      "type": "concept",
+      "label": "SQL",
+      "mention_count": 3
+    },
+    {
+      "id": "concept/data-warehouse",
+      "type": "concept",
+      "label": "data warehouse",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/pipeline",
+      "type": "concept",
+      "label": "pipeline",
+      "mention_count": 1
+    },
+    {
+      "id": "company/databricks",
+      "type": "company",
+      "label": "Databricks",
+      "mention_count": 4
+    },
+    {
+      "id": "concept/devops",
+      "type": "concept",
+      "label": "DevOps",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/data-engineering",
+      "type": "concept",
+      "label": "Data Engineering",
+      "mention_count": 2
+    },
+    {
+      "id": "concept/databricks-data-intelligence-platform",
+      "type": "concept",
+      "label": "Databricks Data Intelligence Platform",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/ci-cd",
+      "type": "concept",
+      "label": "CI/CD",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/pyspark",
+      "type": "concept",
+      "label": "PySpark",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/pytest",
+      "type": "concept",
+      "label": "pytest",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/databricks",
+      "type": "concept",
+      "label": "Databricks",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/spark-declarative-pipeline-and-jobs",
+      "type": "concept",
+      "label": "Spark Declarative Pipeline and Jobs",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/git-folders",
+      "type": "concept",
+      "label": "Git Folders",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/rest-api",
+      "type": "concept",
+      "label": "REST API",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/cli",
+      "type": "concept",
+      "label": "CLI",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/sdk",
+      "type": "concept",
+      "label": "SDK",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/delta-lake",
+      "type": "concept",
+      "label": "Delta Lake",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/medallion-architecture",
+      "type": "concept",
+      "label": "Medallion Architecture",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/unity-catalog",
+      "type": "concept",
+      "label": "Unity Catalog",
+      "mention_count": 2
+    },
+    {
+      "id": "concept/delta-live-tables",
+      "type": "concept",
+      "label": "Delta Live Tables",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/workflows",
+      "type": "concept",
+      "label": "Workflows",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/python",
+      "type": "concept",
+      "label": "Python",
+      "mention_count": 2
+    },
+    {
+      "id": "concept/git",
+      "type": "concept",
+      "label": "Git",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/lakeflow-designer",
+      "type": "concept",
+      "label": "Lakeflow Designer",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/lakeflow-jobs",
+      "type": "concept",
+      "label": "Lakeflow Jobs",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/genie",
+      "type": "concept",
+      "label": "Genie",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/data-pipeline",
+      "type": "concept",
+      "label": "Data Pipeline",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/agile-metrics",
+      "type": "concept",
+      "label": "Agile Metrics",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/aws-glue",
+      "type": "concept",
+      "label": "AWS Glue",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/airflow",
+      "type": "concept",
+      "label": "Airflow",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/snowflake",
+      "type": "concept",
+      "label": "Snowflake",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/dbt",
+      "type": "concept",
+      "label": "DBT",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/tableau",
+      "type": "concept",
+      "label": "Tableau",
+      "mention_count": 1
+    },
+    {
+      "id": "company/aws",
+      "type": "company",
+      "label": "AWS",
+      "mention_count": 2
+    },
+    {
+      "id": "concept/knime",
+      "type": "concept",
+      "label": "KNIME",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/apache-spark",
+      "type": "concept",
+      "label": "Apache Spark",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/big-data-processing",
+      "type": "concept",
+      "label": "Big Data Processing",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/aws",
+      "type": "concept",
+      "label": "AWS",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/no-code",
+      "type": "concept",
+      "label": "No-Code",
+      "mention_count": 1
+    },
+    {
+      "id": "company/knime",
+      "type": "company",
+      "label": "KNIME",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/apache-iceberg",
+      "type": "concept",
+      "label": "Apache Iceberg",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/data-lake",
+      "type": "concept",
+      "label": "Data Lake",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/schema-evolution",
+      "type": "concept",
+      "label": "Schema Evolution",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/time-travel",
+      "type": "concept",
+      "label": "Time Travel",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/hidden-partitioning",
+      "type": "concept",
+      "label": "Hidden Partitioning",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/databricks-feature-engineering",
+      "type": "concept",
+      "label": "Databricks Feature Engineering",
+      "mention_count": 1
+    }
+  ],
+  "edges": [
+    {
+      "source": "story/hn_47891569",
+      "target": "episode/2026-04-25",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/hn_47891569",
+      "target": "concept/confidential-vms",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47891569",
+      "target": "concept/trusted-execution-environments",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47891569",
+      "target": "concept/amd-sev-snp",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47891569",
+      "target": "concept/hardware-level-encryption",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47891569",
+      "target": "concept/vllm",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47891569",
+      "target": "concept/azure-confidential-compute",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47891569",
+      "target": "concept/attestation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47891569",
+      "target": "concept/reproducible-builds",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47891569",
+      "target": "concept/open-source-cli",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47891569",
+      "target": "company/amd",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47891569",
+      "target": "company/azure",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47891569",
+      "target": "company/confidential-ai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_2d6d1ffd6f7f",
+      "target": "episode/2026-04-25",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_2d6d1ffd6f7f",
+      "target": "concept/auto-cdc",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_2d6d1ffd6f7f",
+      "target": "concept/merge-into",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_2d6d1ffd6f7f",
+      "target": "concept/change-data-capture",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_2d6d1ffd6f7f",
+      "target": "concept/scd-type-2",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_2d6d1ffd6f7f",
+      "target": "concept/sql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_2d6d1ffd6f7f",
+      "target": "concept/data-warehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_2d6d1ffd6f7f",
+      "target": "concept/pipeline",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_2d6d1ffd6f7f",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "episode/2026-04-25",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/devops",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/data-engineering",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/databricks-data-intelligence-platform",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/ci-cd",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/pyspark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/pytest",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/spark-declarative-pipeline-and-jobs",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/git-folders",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/rest-api",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/cli",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/sdk",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/delta-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/medallion-architecture",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/unity-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/delta-live-tables",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/workflows",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/sql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/python",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "concept/git",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_6eaef6fda4a6",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_4d8e03fd8ef0",
+      "target": "episode/2026-04-25",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_4d8e03fd8ef0",
+      "target": "concept/lakeflow-designer",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_4d8e03fd8ef0",
+      "target": "concept/unity-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_4d8e03fd8ef0",
+      "target": "concept/lakeflow-jobs",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_4d8e03fd8ef0",
+      "target": "concept/genie",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_4d8e03fd8ef0",
+      "target": "concept/sql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_4d8e03fd8ef0",
+      "target": "concept/python",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_4d8e03fd8ef0",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_9237989d830b",
+      "target": "episode/2026-04-25",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_9237989d830b",
+      "target": "concept/data-pipeline",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_9237989d830b",
+      "target": "concept/agile-metrics",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_9237989d830b",
+      "target": "concept/aws-glue",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_9237989d830b",
+      "target": "concept/airflow",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_9237989d830b",
+      "target": "concept/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_9237989d830b",
+      "target": "concept/dbt",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_9237989d830b",
+      "target": "concept/tableau",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_9237989d830b",
+      "target": "company/aws",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_5604fe89c189",
+      "target": "episode/2026-04-25",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_5604fe89c189",
+      "target": "concept/knime",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_5604fe89c189",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_5604fe89c189",
+      "target": "concept/big-data-processing",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_5604fe89c189",
+      "target": "concept/aws",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_5604fe89c189",
+      "target": "concept/no-code",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_5604fe89c189",
+      "target": "company/knime",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_5604fe89c189",
+      "target": "company/aws",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a5214cc78dc7",
+      "target": "episode/2026-04-25",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_a5214cc78dc7",
+      "target": "concept/apache-iceberg",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a5214cc78dc7",
+      "target": "concept/data-engineering",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a5214cc78dc7",
+      "target": "concept/data-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a5214cc78dc7",
+      "target": "concept/schema-evolution",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a5214cc78dc7",
+      "target": "concept/time-travel",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a5214cc78dc7",
+      "target": "concept/hidden-partitioning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/pypi_databricks-feature-engineering_0.15.0",
+      "target": "episode/2026-04-25",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/pypi_databricks-feature-engineering_0.15.0",
+      "target": "concept/databricks-feature-engineering",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/pypi_databricks-feature-engineering_0.15.0",
+      "target": "company/databricks",
+      "kind": "mentions"
+    }
+  ]
+}
