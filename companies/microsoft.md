@@ -3,17 +3,20 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-04-28
-mention_count: 6
+last_seen: 2026-04-29
+mention_count: 8
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 6 stories._
+_Company mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-04-29|2026-04-29]]
+    - [[sources/2026-04-29/04_datahacks-2026-university-alliance-in-action-at-ucsd|DataHacks 2026 University Alliance in Action at UCSD]]
+    - [[sources/2026-04-29/03_community-pulse-your-weekly-roundup-april-20-26-2026|Community Pulse Your Weekly Roundup! April 20 26, 2026]]
 - [[episodes/2026-04-28|2026-04-28]]
     - [[sources/2026-04-28/02_partner-blog-access-databricks-data-natively-in-excel-using|PARTNER BLOG Access Databricks Data Natively in Excel Using the New Excel Add-in]]
     - [[sources/2026-04-28/05_microsoft-fabric-te-delta-time-travel-ile-veri-kurtarma|Microsoft Fabric te Delta Time Travel ile Veri Kurtarma]]

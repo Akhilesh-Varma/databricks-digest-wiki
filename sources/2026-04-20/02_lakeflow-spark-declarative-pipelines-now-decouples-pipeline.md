@@ -31,4 +31,4 @@ Databricks has introduced a beta feature for Lakeflow Spark Declarative Pipeline
 - **URL:** <https://community.databricks.com/t5/community-articles/lakeflow-spark-declarative-pipelines-now-decouples-pipeline-and/td-p/154287>
 
 ## Related
-[[concepts/lakeflow-spark-declarative-pipelines|lakeflow-spark-declarative-pipelines]] · [[concepts/unity-catalog|unity-catalog]] · [[concepts/spark-declarative-pipelines|spark-declarative-pipelines]] · [[concepts/databricks|databricks]] · [[concepts/lakeflow|lakeflow]] · [[concepts/pipeline|pipeline]] · [[concepts/spark|spark]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-20|2026-04-20]]
+[[concepts/lakeflow-spark-declarative-pipelines|lakeflow-spark-declarative-pipelines]] · [[concepts/unity-catalog|unity-catalog]] · [[concepts/spark-declarative-pipelines|spark-declarative-pipelines]] · [[concepts/declarative-pipelines|declarative-pipelines]] · [[concepts/databricks|databricks]] · [[concepts/lakeflow|lakeflow]] · [[concepts/pipeline|pipeline]] · [[concepts/spark|spark]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-20|2026-04-20]]

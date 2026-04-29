@@ -31,4 +31,4 @@ Databricks has announced Document Intelligence, a solution designed to improve t
 - **URL:** <https://community.databricks.com/t5/announcements/why-your-agents-can-t-read-enterprise-documents-and-how-to-fix/td-p/154935>
 
 ## Related
-[[concepts/document-intelligence|document-intelligence]] · [[concepts/ai-parse-document|ai-parse-document]] · [[concepts/databricks|databricks]] · [[concepts/workflows|workflows]] · [[concepts/lakeflow|lakeflow]] · [[concepts/pipeline|pipeline]] · [[concepts/spark|spark]] · [[concepts/sql|sql]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-21|2026-04-21]]
+[[concepts/document-intelligence|document-intelligence]] · [[concepts/ai-parse-document|ai-parse-document]] · [[concepts/declarative-pipelines|declarative-pipelines]] · [[concepts/databricks|databricks]] · [[concepts/workflows|workflows]] · [[concepts/lakeflow|lakeflow]] · [[concepts/pipeline|pipeline]] · [[concepts/spark|spark]] · [[concepts/sql|sql]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-21|2026-04-21]]

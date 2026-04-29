@@ -31,4 +31,4 @@ Databricks has released version 0.104.0 of its Python SDK, which includes bug fi
 - **URL:** <https://github.com/databricks/databricks-sdk-py/releases/tag/v0.104.0>
 
 ## Related
-[[concepts/databricks-sdk|databricks-sdk]] · [[concepts/spog|spog]] · [[concepts/agent-standard|agent-standard]] · [[concepts/ai-agent-detection|ai-agent-detection]] · [[concepts/claude-code|claude-code]] · [[concepts/databricks|databricks]] · [[concepts/workspace|workspace]] · [[concepts/api|api]] · [[concepts/cli|cli]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-23|2026-04-23]]
+[[concepts/databricks-sdk|databricks-sdk]] · [[concepts/spog|spog]] · [[concepts/agent-standard|agent-standard]] · [[concepts/ai-agent-detection|ai-agent-detection]] · [[concepts/claude-code|claude-code]] · [[concepts/databricks|databricks]] · [[concepts/workspace|workspace]] · [[concepts/scim|scim]] · [[concepts/api|api]] · [[concepts/cli|cli]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-23|2026-04-23]]

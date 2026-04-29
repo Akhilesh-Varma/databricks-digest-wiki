@@ -3,17 +3,21 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-19
-last_seen: 2026-04-28
-mention_count: 8
-avg_confidence: 0.625
+last_seen: 2026-04-29
+mention_count: 11
+avg_confidence: 0.591
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-04-29|2026-04-29]]
+    - [[sources/2026-04-29/04_datahacks-2026-university-alliance-in-action-at-ucsd|DataHacks 2026 University Alliance in Action at UCSD]]
+    - [[sources/2026-04-29/02_customer-story-easyjet-creating-better-travel-experience-for|CUSTOMER STORY easyJet Creating better travel experience for all]]
+    - [[sources/2026-04-29/08_how-databricks-handles-metadata-management-unity-catalog-sec|How Databricks Handles Metadata Management Unity Catalog Secrets Revealed 2026 Guide]]
 - [[episodes/2026-04-28|2026-04-28]]
     - [[sources/2026-04-28/02_partner-blog-access-databricks-data-natively-in-excel-using|PARTNER BLOG Access Databricks Data Natively in Excel Using the New Excel Add-in]]
     - [[sources/2026-04-28/05_microsoft-fabric-te-delta-time-travel-ile-veri-kurtarma|Microsoft Fabric te Delta Time Travel ile Veri Kurtarma]]

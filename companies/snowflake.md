@@ -3,17 +3,19 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-20
-last_seen: 2026-04-22
-mention_count: 4
+last_seen: 2026-04-29
+mention_count: 5
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 4 stories._
+_Company mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-04-29|2026-04-29]]
+    - [[sources/2026-04-29/05_show-hn-rocky-rust-sql-engine-with-branches-replay-column-li|Show HN Rocky Rust SQL engine with branches, replay, column lineage]]
 - [[episodes/2026-04-22|2026-04-22]]
     - [[sources/2026-04-22/08_rethinking-data-engineering-why-etl-pipelines-still-take-too|Rethinking Data Engineering Why ETL Pipelines Still Take Too Long and a New Way Forward]]
     - [[sources/2026-04-22/06_write-once-query-anywhere-building-a-hybrid-data-mesh-with-s|Write Once, Query Anywhere Building a Hybrid Data Mesh with Snowflake and Databricks]]

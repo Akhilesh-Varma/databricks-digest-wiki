@@ -3,17 +3,26 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-04-28
-mention_count: 59
+last_seen: 2026-04-29
+mention_count: 66
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 59 stories._
+_Company mentioned across 66 stories._
 
 ## Appears in
+- [[episodes/2026-04-29|2026-04-29]]
+    - [[sources/2026-04-29/05_show-hn-rocky-rust-sql-engine-with-branches-replay-column-li|Show HN Rocky Rust SQL engine with branches, replay, column lineage]]
+    - [[sources/2026-04-29/04_datahacks-2026-university-alliance-in-action-at-ucsd|DataHacks 2026 University Alliance in Action at UCSD]]
+    - [[sources/2026-04-29/02_customer-story-easyjet-creating-better-travel-experience-for|CUSTOMER STORY easyJet Creating better travel experience for all]]
+    - [[sources/2026-04-29/03_community-pulse-your-weekly-roundup-april-20-26-2026|Community Pulse Your Weekly Roundup! April 20 26, 2026]]
+    - [[sources/2026-04-29/06_securely-send-first-party-conversion-signals-with-snapchat-c|Securely send first-party conversion signals with Snapchat Conversions API on Databricks Marketplace]]
+    - [[sources/2026-04-29/01_databricks-terraform-provider-v1-114-0-released|Databricks Terraform Provider v1.114.0 released]]
+    - [[sources/2026-04-29/08_how-databricks-handles-metadata-management-unity-catalog-sec|How Databricks Handles Metadata Management Unity Catalog Secrets Revealed 2026 Guide]]
+    - [[sources/2026-04-29/07_how-databricks-unity-catalog-simplifies-enterprise-data-gove|How Databricks Unity Catalog Simplifies Enterprise Data Governance]]
 - [[episodes/2026-04-28|2026-04-28]]
     - [[sources/2026-04-28/01_openai-gpt-5-5-codex-now-available-and-fully-governed-in-dat|OpenAI GPT-5.5 Codex, now available and fully-governed in Databricks]]
     - [[sources/2026-04-28/02_partner-blog-access-databricks-data-natively-in-excel-using|PARTNER BLOG Access Databricks Data Natively in Excel Using the New Excel Add-in]]
@@ -79,7 +88,6 @@ _Company mentioned across 59 stories._
     - [[sources/2026-04-18/02_learning-series-build-data-pipelines-with-lakeflow-spark-dec|Learning Series Build Data Pipelines with Lakeflow Spark Declarative Pipelines]]
     - [[sources/2026-04-18/01_databricks-cli-v0-297-1-released|Databricks CLI v0.297.1 released]]
 - [[episodes/2026-04-05|2026-04-05]]
-    - [[sources/2026-04-05/04_the-rescue-mission-for-databricks-pipelines-migrating-to-dab|The Rescue Mission for Databricks Pipelines Migrating to DABs with Zero Data Loss]]
     - [[sources/2026-04-05/03_databricks-use-cases-decoded-2-how-a-global-sportswear-retai|Databricks Use Cases Decoded 2 How a Global Sportswear Retailer Cut ETL Time by 70 and Went 48x]]
 - [[episodes/2026-03-17|2026-03-17]]
     - [[sources/2026-03-17/05_office-culture-is-pretty-bad-right-now-for-me-atleast-a-data|Office culture is pretty bad right now for me atleast - a data engineer]]

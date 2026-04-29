@@ -3,17 +3,19 @@ type: concept
 name: MLflow
 slug: mlflow
 first_seen: 2026-04-19
-last_seen: 2026-04-27
-mention_count: 4
+last_seen: 2026-04-29
+mention_count: 5
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # MLflow
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-04-29|2026-04-29]]
+    - [[sources/2026-04-29/04_datahacks-2026-university-alliance-in-action-at-ucsd|DataHacks 2026 University Alliance in Action at UCSD]]
 - [[episodes/2026-04-27|2026-04-27]]
     - [[sources/2026-04-27/01_mlflow-3-12-0rc0-released-on-pypi|MLflow 3.12.0rc0 released on PyPI]]
 - [[episodes/2026-04-23|2026-04-23]]

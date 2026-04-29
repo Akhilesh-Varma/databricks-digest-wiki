@@ -3,17 +3,19 @@ type: concept
 name: Genie
 slug: genie
 first_seen: 2026-04-19
-last_seen: 2026-04-28
-mention_count: 4
-avg_confidence: 0.775
+last_seen: 2026-04-29
+mention_count: 5
+avg_confidence: 0.76
 tags: [concept]
 ---
 
 # Genie
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-04-29|2026-04-29]]
+    - [[sources/2026-04-29/04_datahacks-2026-university-alliance-in-action-at-ucsd|DataHacks 2026 University Alliance in Action at UCSD]]
 - [[episodes/2026-04-28|2026-04-28]]
     - [[sources/2026-04-28/01_openai-gpt-5-5-codex-now-available-and-fully-governed-in-dat|OpenAI GPT-5.5 Codex, now available and fully-governed in Databricks]]
 - [[episodes/2026-04-25|2026-04-25]]

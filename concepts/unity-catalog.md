@@ -3,17 +3,24 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-18
-last_seen: 2026-04-28
-mention_count: 17
-avg_confidence: 0.735
+last_seen: 2026-04-29
+mention_count: 23
+avg_confidence: 0.752
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 17 stories._
+_Concept mentioned across 23 stories._
 
 ## Appears in
+- [[episodes/2026-04-29|2026-04-29]]
+    - [[sources/2026-04-29/05_show-hn-rocky-rust-sql-engine-with-branches-replay-column-li|Show HN Rocky Rust SQL engine with branches, replay, column lineage]]
+    - [[sources/2026-04-29/02_customer-story-easyjet-creating-better-travel-experience-for|CUSTOMER STORY easyJet Creating better travel experience for all]]
+    - [[sources/2026-04-29/03_community-pulse-your-weekly-roundup-april-20-26-2026|Community Pulse Your Weekly Roundup! April 20 26, 2026]]
+    - [[sources/2026-04-29/01_databricks-terraform-provider-v1-114-0-released|Databricks Terraform Provider v1.114.0 released]]
+    - [[sources/2026-04-29/08_how-databricks-handles-metadata-management-unity-catalog-sec|How Databricks Handles Metadata Management Unity Catalog Secrets Revealed 2026 Guide]]
+    - [[sources/2026-04-29/07_how-databricks-unity-catalog-simplifies-enterprise-data-gove|How Databricks Unity Catalog Simplifies Enterprise Data Governance]]
 - [[episodes/2026-04-28|2026-04-28]]
     - [[sources/2026-04-28/01_openai-gpt-5-5-codex-now-available-and-fully-governed-in-dat|OpenAI GPT-5.5 Codex, now available and fully-governed in Databricks]]
     - [[sources/2026-04-28/02_partner-blog-access-databricks-data-natively-in-excel-using|PARTNER BLOG Access Databricks Data Natively in Excel Using the New Excel Add-in]]

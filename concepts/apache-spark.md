@@ -21,7 +21,7 @@ _Concept mentioned across 9 stories._
 - [[episodes/2026-04-05|2026-04-05]]
     - [[sources/2026-04-05/06_spark-architecture-explained-what-actually-happens-when-your|Spark Architecture Explained What Actually Happens When Your PySpark Job Runs]]
     - [[sources/2026-04-05/04_your-spark-job-is-oom-ing-because-you-don-t-understand-your|Your Spark Job Is OOM ing!! Because You Don t Understand Your Kitchen]]
-    - [[sources/2026-04-05/06_how-to-optimize-spark-jobs-for-performance-real-techniques|How to Optimize Spark Jobs for Performance Real Techniques]]
+    - [[sources/2026-04-05/02_how-to-optimize-spark-jobs-for-performance-real-techniques|How to Optimize Spark Jobs for Performance Real Techniques]]
 - [[episodes/2026-03-17|2026-03-17]]
     - [[sources/2026-03-17/02_how-hard-is-it-to-learn-spark-or-pyspark-from-sql-help-with|How hard is it to learn spark or pyspark from SQL? Help with deciding what to upskill next]]
     - [[sources/2026-03-17/01_the-databricks-notebooks-need-shortcuts-customisation|The Databricks notebooks need shortcuts customisation]]
