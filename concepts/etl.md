@@ -3,17 +3,19 @@ type: concept
 name: ETL
 slug: etl
 first_seen: 2026-04-05
-last_seen: 2026-04-28
-mention_count: 3
-avg_confidence: 0.6
+last_seen: 2026-05-01
+mention_count: 4
+avg_confidence: 0.7
 tags: [concept]
 ---
 
 # ETL
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-01|2026-05-01]]
+    - [[sources/2026-05-01/06_from-informatica-to-databricks-why-enterprises-are-finally-b|From Informatica to Databricks Why Enterprises Are Finally Breaking Up with Legacy ETL]]
 - [[episodes/2026-04-28|2026-04-28]]
     - [[sources/2026-04-28/01_openai-gpt-5-5-codex-now-available-and-fully-governed-in-dat|OpenAI GPT-5.5 Codex, now available and fully-governed in Databricks]]
 - [[episodes/2026-04-27|2026-04-27]]

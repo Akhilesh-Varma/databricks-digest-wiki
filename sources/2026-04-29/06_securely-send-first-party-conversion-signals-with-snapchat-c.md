@@ -32,4 +32,4 @@ Snapchat has made its Conversions API available on the Databricks Marketplace, e
 - **URL:** <https://www.databricks.com/blog/snapchat-conversions-api-databricks-marketplace>
 
 ## Related
-[[concepts/snapchat-conversions-api|snapchat-conversions-api]] · [[concepts/databricks-marketplace|databricks-marketplace]] · [[concepts/first-party-data|first-party-data]] · [[concepts/conversion-signals|conversion-signals]] · [[concepts/privacy-preserving-advertising|privacy-preserving-advertising]] · [[companies/databricks|Databricks]] · [[companies/snapchat|Snapchat]] · [[episodes/2026-04-29|2026-04-29]]
+[[concepts/snapchat-conversions-api|snapchat-conversions-api]] · [[concepts/databricks-marketplace|databricks-marketplace]] · [[concepts/first-party-data|first-party-data]] · [[concepts/conversion-signals|conversion-signals]] · [[concepts/privacy-preserving-advertising|privacy-preserving-advertising]] · [[concepts/data-platform|data-platform]] · [[companies/databricks|Databricks]] · [[companies/snapchat|Snapchat]] · [[episodes/2026-04-29|2026-04-29]]

@@ -3,17 +3,29 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-04-29
-mention_count: 66
+last_seen: 2026-05-01
+mention_count: 76
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 66 stories._
+_Company mentioned across 76 stories._
 
 ## Appears in
+- [[episodes/2026-05-01|2026-05-01]]
+    - [[sources/2026-05-01/03_learning-series-data-preparation-for-machine-learning|Learning Series Data Preparation for Machine Learning]]
+    - [[sources/2026-05-01/04_community-alert-free-bricktalk-on-supply-chain-management-wi|Community Alert Free BrickTalk on Supply Chain Management with Databricks!]]
+    - [[sources/2026-05-01/01_databricks-sdk-java-v0-106-0-released|Databricks SDK Java v0.106.0 released]]
+    - [[sources/2026-05-01/06_from-informatica-to-databricks-why-enterprises-are-finally-b|From Informatica to Databricks Why Enterprises Are Finally Breaking Up with Legacy ETL]]
+    - [[sources/2026-05-01/02_databricks-terraform-provider-v1-114-2-released|Databricks Terraform Provider v1.114.2 released]]
+- [[episodes/2026-04-30|2026-04-30]]
+    - [[sources/2026-04-30/02_securely-send-first-party-conversion-signals-with-snapchat-c|Securely send first-party conversion signals with Snapchat Conversions API on Databricks Marketplace]]
+    - [[sources/2026-04-30/03_attribute-based-access-control-abac-in-databricks-unity-cata|Attribute-Based Access Control ABAC in Databricks Unity Catalog]]
+    - [[sources/2026-04-30/01_databricks-cli-v0-299-0-released|Databricks CLI v0.299.0 released]]
+    - [[sources/2026-04-30/06_databricks-vs-snowflake-vs-fabric-which-platform-to-choose|Databricks vs Snowflake vs Fabric Which Platform to Choose?]]
+    - [[sources/2026-04-30/05_configuring-databricks-with-terraform-clusters-unity-catalog|Configuring Databricks with Terraform Clusters, Unity Catalog Permissions]]
 - [[episodes/2026-04-29|2026-04-29]]
     - [[sources/2026-04-29/05_show-hn-rocky-rust-sql-engine-with-branches-replay-column-li|Show HN Rocky Rust SQL engine with branches, replay, column lineage]]
     - [[sources/2026-04-29/04_datahacks-2026-university-alliance-in-action-at-ucsd|DataHacks 2026 University Alliance in Action at UCSD]]

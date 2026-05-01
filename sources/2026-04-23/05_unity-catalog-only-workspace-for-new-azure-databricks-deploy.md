@@ -31,4 +31,4 @@ Starting September 30, 2026, all new Azure Databricks workspaces will be Unity C
 - **URL:** <https://community.databricks.com/t5/community-articles/unity-catalog-only-workspace-for-new-azure-databricks/td-p/154609>
 
 ## Related
-[[concepts/unity-catalog|unity-catalog]] · [[concepts/dbfs|dbfs]] · [[concepts/hive-metastore|hive-metastore]] · [[concepts/databricks|databricks]] · [[concepts/workspace|workspace]] · [[concepts/spark|spark]] · [[companies/databricks|Databricks]] · [[companies/microsoft-azure|Microsoft Azure]] · [[episodes/2026-04-23|2026-04-23]]
+[[concepts/unity-catalog|unity-catalog]] · [[concepts/dbfs|dbfs]] · [[concepts/hive-metastore|hive-metastore]] · [[concepts/databricks|databricks]] · [[concepts/workspace|workspace]] · [[concepts/azure|azure]] · [[concepts/spark|spark]] · [[companies/databricks|Databricks]] · [[companies/microsoft-azure|Microsoft Azure]] · [[episodes/2026-04-23|2026-04-23]]

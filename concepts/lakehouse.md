@@ -3,17 +3,22 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-19
-last_seen: 2026-04-29
-mention_count: 11
-avg_confidence: 0.591
+last_seen: 2026-05-01
+mention_count: 14
+avg_confidence: 0.593
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-05-01|2026-05-01]]
+    - [[sources/2026-05-01/03_learning-series-data-preparation-for-machine-learning|Learning Series Data Preparation for Machine Learning]]
+    - [[sources/2026-05-01/05_your-data-products-need-a-product-manager-here-is-what-that|Your Data Products Need a Product Manager. Here Is What That Actually Means]]
+- [[episodes/2026-04-30|2026-04-30]]
+    - [[sources/2026-04-30/02_securely-send-first-party-conversion-signals-with-snapchat-c|Securely send first-party conversion signals with Snapchat Conversions API on Databricks Marketplace]]
 - [[episodes/2026-04-29|2026-04-29]]
     - [[sources/2026-04-29/04_datahacks-2026-university-alliance-in-action-at-ucsd|DataHacks 2026 University Alliance in Action at UCSD]]
     - [[sources/2026-04-29/02_customer-story-easyjet-creating-better-travel-experience-for|CUSTOMER STORY easyJet Creating better travel experience for all]]

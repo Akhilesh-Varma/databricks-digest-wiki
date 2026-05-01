@@ -3,17 +3,20 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-04-25
-mention_count: 9
-avg_confidence: 0.9
+last_seen: 2026-05-01
+mention_count: 11
+avg_confidence: 0.836
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-05-01|2026-05-01]]
+    - [[sources/2026-05-01/07_the-metadata-structure-of-modern-table-formats|The Metadata Structure of Modern Table Formats]]
+    - [[sources/2026-05-01/03_learning-series-data-preparation-for-machine-learning|Learning Series Data Preparation for Machine Learning]]
 - [[episodes/2026-04-25|2026-04-25]]
     - [[sources/2026-04-25/06_knime-apache-spark-integration-no-code-big-data-processing-a|KNIME Apache Spark Integration เช อมโลก No-Code เข าก บ Big Data Processing บน AWS]]
 - [[episodes/2026-04-24|2026-04-24]]

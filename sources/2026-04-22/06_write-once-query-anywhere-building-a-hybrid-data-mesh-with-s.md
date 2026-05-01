@@ -30,4 +30,4 @@ The article discusses building a hybrid data mesh, allowing large enterprises to
 - **URL:** <https://medium.com/@beingabhishekmittal/write-once-query-anywhere-building-a-hybrid-data-mesh-with-snowflake-and-databricks-743400f65dc7?source=rss------databricks-5>
 
 ## Related
-[[concepts/hybrid-data-mesh|hybrid-data-mesh]] · [[concepts/data-mesh|data-mesh]] · [[companies/snowflake|Snowflake]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-22|2026-04-22]]
+[[concepts/hybrid-data-mesh|hybrid-data-mesh]] · [[concepts/data-mesh|data-mesh]] · [[concepts/data-platform|data-platform]] · [[companies/snowflake|Snowflake]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-22|2026-04-22]]

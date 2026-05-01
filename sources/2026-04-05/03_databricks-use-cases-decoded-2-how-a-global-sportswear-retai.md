@@ -30,4 +30,4 @@ A global sportswear retailer undertook an enterprise data platform migration usi
 - **URL:** <https://medium.com/@amannandan519/databricks-use-cases-decoded-2-how-a-global-sportswear-retailer-cut-etl-time-by-70-and-went-48x-fdf62073a858?source=rss------databricks-5>
 
 ## Related
-[[concepts/etl|etl]] · [[concepts/data-platform-migration|data-platform-migration]] · [[concepts/databricks|databricks]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-05|2026-04-05]]
+[[concepts/etl|etl]] · [[concepts/data-platform-migration|data-platform-migration]] · [[concepts/databricks|databricks]] · [[concepts/data-platform|data-platform]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-05|2026-04-05]]

@@ -3,17 +3,21 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-04-29
-mention_count: 12
-avg_confidence: 0.65
+last_seen: 2026-05-01
+mention_count: 14
+avg_confidence: 0.636
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 12 stories._
+_Concept mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-05-01|2026-05-01]]
+    - [[sources/2026-05-01/01_databricks-sdk-java-v0-106-0-released|Databricks SDK Java v0.106.0 released]]
+- [[episodes/2026-04-30|2026-04-30]]
+    - [[sources/2026-04-30/09_building-an-ai-augmented-news-intelligence-pipeline-with-kaf|Building an AI-Augmented News Intelligence Pipeline with Kafka, Delta Lake, and LLMs]]
 - [[episodes/2026-04-29|2026-04-29]]
     - [[sources/2026-04-29/02_customer-story-easyjet-creating-better-travel-experience-for|CUSTOMER STORY easyJet Creating better travel experience for all]]
     - [[sources/2026-04-29/03_community-pulse-your-weekly-roundup-april-20-26-2026|Community Pulse Your Weekly Roundup! April 20 26, 2026]]

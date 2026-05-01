@@ -3,17 +3,23 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-18
-last_seen: 2026-04-29
-mention_count: 23
-avg_confidence: 0.752
+last_seen: 2026-05-01
+mention_count: 27
+avg_confidence: 0.733
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 23 stories._
+_Concept mentioned across 27 stories._
 
 ## Appears in
+- [[episodes/2026-05-01|2026-05-01]]
+    - [[sources/2026-05-01/01_databricks-sdk-java-v0-106-0-released|Databricks SDK Java v0.106.0 released]]
+    - [[sources/2026-05-01/02_databricks-terraform-provider-v1-114-2-released|Databricks Terraform Provider v1.114.2 released]]
+- [[episodes/2026-04-30|2026-04-30]]
+    - [[sources/2026-04-30/02_securely-send-first-party-conversion-signals-with-snapchat-c|Securely send first-party conversion signals with Snapchat Conversions API on Databricks Marketplace]]
+    - [[sources/2026-04-30/05_configuring-databricks-with-terraform-clusters-unity-catalog|Configuring Databricks with Terraform Clusters, Unity Catalog Permissions]]
 - [[episodes/2026-04-29|2026-04-29]]
     - [[sources/2026-04-29/05_show-hn-rocky-rust-sql-engine-with-branches-replay-column-li|Show HN Rocky Rust SQL engine with branches, replay, column lineage]]
     - [[sources/2026-04-29/02_customer-story-easyjet-creating-better-travel-experience-for|CUSTOMER STORY easyJet Creating better travel experience for all]]

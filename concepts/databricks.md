@@ -3,17 +3,19 @@ type: concept
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-04-26
-mention_count: 6
-avg_confidence: 0.8
+last_seen: 2026-04-30
+mention_count: 7
+avg_confidence: 0.786
 tags: [concept]
 ---
 
 # Databricks
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-04-30|2026-04-30]]
+    - [[sources/2026-04-30/05_configuring-databricks-with-terraform-clusters-unity-catalog|Configuring Databricks with Terraform Clusters, Unity Catalog Permissions]]
 - [[episodes/2026-04-26|2026-04-26]]
     - [[sources/2026-04-26/02_customer-story-toyota-uses-zerobus-ingest-for-real-time-fact|CUSTOMER STORY Toyota uses Zerobus Ingest for real-time factory data]]
 - [[episodes/2026-04-25|2026-04-25]]

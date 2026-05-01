@@ -31,4 +31,4 @@ Delta Lake is a foundation of modern data lakehouses, providing ACID transaction
 - **URL:** <https://community.databricks.com/t5/technical-blog/delta-lake-under-the-hood-what-every-data-engineer-should-know/ba-p/155056>
 
 ## Related
-[[concepts/delta-lake|delta-lake]] · [[concepts/apache-parquet|apache-parquet]] · [[concepts/time-travel|time-travel]] · [[concepts/data-lakes|data-lakes]] · [[concepts/parquet|parquet]] · [[concepts/vacuum|vacuum]] · [[concepts/delta|delta]] · [[concepts/spark|spark]] · [[concepts/olap|olap]] · [[concepts/api|api]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-22|2026-04-22]]
+[[concepts/delta-lake|delta-lake]] · [[concepts/apache-parquet|apache-parquet]] · [[concepts/time-travel|time-travel]] · [[concepts/data-lakes|data-lakes]] · [[concepts/parquet|parquet]] · [[concepts/vacuum|vacuum]] · [[concepts/delta|delta]] · [[concepts/merge|merge]] · [[concepts/spark|spark]] · [[concepts/olap|olap]] · [[concepts/api|api]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-22|2026-04-22]]

@@ -3,17 +3,19 @@ type: concept
 name: Medallion Architecture
 slug: medallion-architecture
 first_seen: 2026-04-18
-last_seen: 2026-04-25
-mention_count: 4
-avg_confidence: 0.625
+last_seen: 2026-04-30
+mention_count: 5
+avg_confidence: 0.64
 tags: [concept]
 ---
 
 # Medallion Architecture
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-04-30|2026-04-30]]
+    - [[sources/2026-04-30/08_building-a-psx-data-pipeline-how-i-get-introduced-to-dbt|Building a PSX Data Pipeline How I get introduced to dbt]]
 - [[episodes/2026-04-25|2026-04-25]]
     - [[sources/2026-04-25/02_learning-series-devops-essentials-for-data-engineering|Learning Series DevOps Essentials for Data Engineering]]
 - [[episodes/2026-04-20|2026-04-20]]

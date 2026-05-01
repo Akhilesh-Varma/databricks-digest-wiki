@@ -34,4 +34,4 @@ Databricks has released a new Excel Add-in, currently in Public Preview, that al
 - **URL:** <https://community.databricks.com/t5/technical-blog/partner-blog-access-databricks-data-natively-in-excel-using-the/ba-p/151969>
 
 ## Related
-[[concepts/unity-catalog|unity-catalog]] · [[concepts/lakehouse|lakehouse]] · [[concepts/single-sign-on|single-sign-on]] · [[concepts/databricks|databricks]] · [[concepts/workspace|workspace]] · [[concepts/sql|sql]] · [[companies/databricks|Databricks]] · [[companies/microsoft|Microsoft]] · [[episodes/2026-04-28|2026-04-28]]
+[[concepts/unity-catalog|unity-catalog]] · [[concepts/lakehouse|lakehouse]] · [[concepts/single-sign-on|single-sign-on]] · [[concepts/manifest-file|manifest-file]] · [[concepts/databricks|databricks]] · [[concepts/workspace|workspace]] · [[concepts/azure|azure]] · [[concepts/sql|sql]] · [[companies/databricks|Databricks]] · [[companies/microsoft|Microsoft]] · [[episodes/2026-04-28|2026-04-28]]
