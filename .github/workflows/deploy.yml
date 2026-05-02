@@ -1,0 +1,84 @@
+name: Deploy wiki to GitHub Pages
+
+# Triggered every time the daily wiki_build job pushes new content to main,
+# and on demand from the Actions UI. Builds the markdown vault into a static
+# Quartz site and publishes it to the GitHub Pages environment.
+#
+# This workflow file lives in the wiki repo's .github/ directory. The Spark
+# job that syncs the vault preserves .github/ across syncs (see
+# _PRESERVED_AT_ROOT in daily_databricks_feed.wiki.git_sync, v0.4.10+).
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deploy. Skipped runs are queued, not cancelled,
+# so multiple back-to-back content pushes still produce one final deploy.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout wiki content
+        uses: actions/checkout@v4
+
+      - name: Clone Quartz v4
+        run: |
+          git clone --depth 1 https://github.com/jackyzha0/quartz.git /tmp/quartz
+          rm -rf /tmp/quartz/content
+          mkdir -p /tmp/quartz/content
+
+      - name: Stage wiki content into Quartz
+        run: |
+          # `*` skips dotfiles, so .git and .github are naturally excluded.
+          # cp -r preserves directory structure so [[episodes/2026-05-02]]
+          # links resolve correctly under content/.
+          cp -r * /tmp/quartz/content/
+
+      - name: Configure Quartz baseUrl for project pages
+        run: |
+          OWNER=$(echo "${{ github.repository_owner }}" | tr '[:upper:]' '[:lower:]')
+          REPO="${{ github.event.repository.name }}"
+          # Quartz wants baseUrl WITHOUT scheme. Project pages live at
+          # https://<owner>.github.io/<repo>/.
+          sed -i "s|baseUrl: \".*\"|baseUrl: \"${OWNER}.github.io/${REPO}\"|" /tmp/quartz/quartz.config.ts
+          # Optional: rebrand the page title from the Quartz default.
+          sed -i 's|pageTitle: ".*"|pageTitle: "Daily Databricks Digest Wiki"|' /tmp/quartz/quartz.config.ts
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install Quartz dependencies
+        working-directory: /tmp/quartz
+        run: npm ci
+
+      - name: Build site
+        working-directory: /tmp/quartz
+        run: npx quartz build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: /tmp/quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
