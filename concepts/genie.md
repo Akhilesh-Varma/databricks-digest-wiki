@@ -2,16 +2,16 @@
 type: concept
 name: Genie
 slug: genie
-first_seen: 2026-04-19
+first_seen: 2026-04-17
 last_seen: 2026-04-29
-mention_count: 5
-avg_confidence: 0.76
+mention_count: 6
+avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Genie
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
 - [[episodes/2026-04-29|2026-04-29]]
@@ -24,3 +24,5 @@ _Concept mentioned across 5 stories._
     - [[sources/2026-04-20/03_share-your-thoughts-on-genie-and-receive-a-50-gift-card|Share your thoughts on Genie and receive a 50 gift card!]]
 - [[episodes/2026-04-19|2026-04-19]]
     - [[sources/2026-04-19/01_agent-bricks-the-governed-enterprise-agent-platform|Agent Bricks The Governed Enterprise Agent Platform]]
+- [[episodes/2026-04-17|2026-04-17]]
+    - [[sources/2026-04-17/02_announcing-the-databricks-data-intelligence-platform-cheat-s|Announcing the Databricks Data Intelligence Platform Cheat Sheet]]

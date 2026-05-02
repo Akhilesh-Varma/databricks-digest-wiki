@@ -28,4 +28,4 @@ MLflow version 3.12.0rc0 has been released on PyPI. MLflow is an open-source pla
 - **URL:** <https://pypi.org/project/mlflow/3.12.0rc0/>
 
 ## Related
-[[concepts/mlflow|mlflow]] · [[concepts/machine-learning|machine-learning]] · [[concepts/open-source|open-source]] · [[episodes/2026-04-27|2026-04-27]]
+[[concepts/mlflow|mlflow]] · [[concepts/machine-learning|machine-learning]] · [[concepts/open-source|open-source]] · [[concepts/pypi|pypi]] · [[episodes/2026-04-27|2026-04-27]]

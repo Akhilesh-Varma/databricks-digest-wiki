@@ -2,17 +2,21 @@
 type: concept
 name: Databricks SQL
 slug: databricks-sql
-first_seen: 2026-04-29
+first_seen: 2026-04-13
 last_seen: 2026-04-29
-mention_count: 1
+mention_count: 3
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Databricks SQL
 
-_Concept mentioned across 1 story._
+_Concept mentioned across 3 stories._
 
 ## Appears in
 - [[episodes/2026-04-29|2026-04-29]]
     - [[sources/2026-04-29/03_community-pulse-your-weekly-roundup-april-20-26-2026|Community Pulse Your Weekly Roundup! April 20 26, 2026]]
+- [[episodes/2026-04-16|2026-04-16]]
+    - [[sources/2026-04-16/05_solution-accelerator-series-understanding-price-transparency|Solution Accelerator Series Understanding Price Transparency Data]]
+- [[episodes/2026-04-13|2026-04-13]]
+    - [[sources/2026-04-13/05_sql-reference-documentation-for-managing-governed-tags|SQL reference documentation for managing governed tags]]

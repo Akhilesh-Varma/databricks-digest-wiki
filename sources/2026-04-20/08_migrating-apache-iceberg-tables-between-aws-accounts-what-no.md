@@ -31,4 +31,4 @@ The article discusses the challenges of migrating Apache Iceberg tables between 
 - **URL:** <https://dev.to/dutvmta/migrating-apache-iceberg-tables-between-aws-accounts-what-nobody-tells-you-5en7>
 
 ## Related
-[[concepts/apache-iceberg|apache-iceberg]] · [[concepts/s3|s3]] · [[concepts/manifest-list|manifest-list]] · [[concepts/snapshot|snapshot]] · [[concepts/iceberg|iceberg]] · [[concepts/spark|spark]] · [[concepts/aws|aws]] · [[companies/aws|AWS]] · [[episodes/2026-04-20|2026-04-20]]
+[[concepts/apache-iceberg|apache-iceberg]] · [[concepts/s3|s3]] · [[concepts/data-consistency|data-consistency]] · [[concepts/manifest-list|manifest-list]] · [[concepts/snapshot|snapshot]] · [[concepts/iceberg|iceberg]] · [[concepts/spark|spark]] · [[concepts/aws|aws]] · [[companies/aws|AWS]] · [[episodes/2026-04-20|2026-04-20]]

@@ -2,16 +2,16 @@
 type: concept
 name: Medallion Architecture
 slug: medallion-architecture
-first_seen: 2026-04-18
+first_seen: 2026-04-14
 last_seen: 2026-04-30
-mention_count: 5
-avg_confidence: 0.64
+mention_count: 8
+avg_confidence: 0.625
 tags: [concept]
 ---
 
 # Medallion Architecture
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
 - [[episodes/2026-04-30|2026-04-30]]
@@ -23,3 +23,9 @@ _Concept mentioned across 5 stories._
     - [[sources/2026-04-20/03_share-your-thoughts-on-genie-and-receive-a-50-gift-card|Share your thoughts on Genie and receive a 50 gift card!]]
 - [[episodes/2026-04-18|2026-04-18]]
     - [[sources/2026-04-18/02_learning-series-build-data-pipelines-with-lakeflow-spark-dec|Learning Series Build Data Pipelines with Lakeflow Spark Declarative Pipelines]]
+- [[episodes/2026-04-16|2026-04-16]]
+    - [[sources/2026-04-16/04_community-industry-bricktalk-4-transforming-commercial-real|Community Industry BrickTalk 4 Transforming Commercial Real Estate Portfolio Management with AI]]
+- [[episodes/2026-04-15|2026-04-15]]
+    - [[sources/2026-04-15/02_community-pulse-your-weekly-roundup-march-30-april-05-2026|Community Pulse Your Weekly Roundup! March 30 April 05, 2026]]
+- [[episodes/2026-04-14|2026-04-14]]
+    - [[sources/2026-04-14/02_sdp-how-to-series-part-2-how-to-master-streaming-tables-and|SDP How-To Series. Part 2 How to Master Streaming Tables and Materialized Views]]

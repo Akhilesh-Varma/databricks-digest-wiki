@@ -4,14 +4,14 @@ name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
 last_seen: 2026-05-01
-mention_count: 14
-avg_confidence: 0.636
+mention_count: 22
+avg_confidence: 0.686
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 14 stories._
+_Concept mentioned across 22 stories._
 
 ## Appears in
 - [[episodes/2026-05-01|2026-05-01]]
@@ -36,5 +36,19 @@ _Concept mentioned across 14 stories._
     - [[sources/2026-04-19/02_best-practices-for-safe-data-experimentation-with-databricks|Best practices for safe data experimentation with Databricks]]
 - [[episodes/2026-04-18|2026-04-18]]
     - [[sources/2026-04-18/02_learning-series-build-data-pipelines-with-lakeflow-spark-dec|Learning Series Build Data Pipelines with Lakeflow Spark Declarative Pipelines]]
+- [[episodes/2026-04-17|2026-04-17]]
+    - [[sources/2026-04-17/05_databricks-interview-question-how-databricks-handles-data-up|Databricks Interview Question How Databricks Handles Data Updates MERGE INTO]]
+- [[episodes/2026-04-16|2026-04-16]]
+    - [[sources/2026-04-16/01_delta-lake-v4-2-0-released|Delta Lake v4.2.0 released]]
+- [[episodes/2026-04-15|2026-04-15]]
+    - [[sources/2026-04-15/03_learning-series-advanced-techniques-with-spark-declarative-p|Learning Series Advanced Techniques with Spark Declarative Pipelines]]
+- [[episodes/2026-04-14|2026-04-14]]
+    - [[sources/2026-04-14/03_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
+- [[episodes/2026-04-13|2026-04-13]]
+    - [[sources/2026-04-13/04_upcoming-behavioral-change-void-columns-included-in-delta-ta|Upcoming behavioral change VOID columns included in Delta table reads]]
+    - [[sources/2026-04-13/02_from-19-hours-to-80-milliseconds-a-geospatial-cheesecake|From 19 Hours to 80 Milliseconds A Geospatial Cheesecake]]
+    - [[sources/2026-04-13/01_streaming-syslog-ng-data-to-your-lakehouse-powered-by-zerobu|Streaming syslog-ng data to your lakehouse Powered by Zerobus Ingest OTEL]]
+- [[episodes/2026-04-12|2026-04-12]]
+    - [[sources/2026-04-12/04_unlock-cross-workspace-data-magic-unity-catalog-in-databrick|Unlock Cross-Workspace Data Magic Unity Catalog in Databricks Revealed]]
 - [[episodes/2026-04-05|2026-04-05]]
     - [[sources/2026-04-05/05_three-regions-one-analytics-layer-zero-data-copies-how-delta|Three Regions. One Analytics Layer. Zero Data Copies. How Delta Sharing Makes This Possible.]]

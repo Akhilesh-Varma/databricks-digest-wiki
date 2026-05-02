@@ -2,16 +2,16 @@
 type: concept
 name: Data Pipeline
 slug: data-pipeline
-first_seen: 2026-04-25
+first_seen: 2026-04-08
 last_seen: 2026-05-01
-mention_count: 3
-avg_confidence: 0.6
+mention_count: 7
+avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Data Pipeline
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
 - [[episodes/2026-05-01|2026-05-01]]
@@ -20,3 +20,11 @@ _Concept mentioned across 3 stories._
     - [[sources/2026-04-30/08_building-a-psx-data-pipeline-how-i-get-introduced-to-dbt|Building a PSX Data Pipeline How I get introduced to dbt]]
 - [[episodes/2026-04-25|2026-04-25]]
     - [[sources/2026-04-25/07_from-spreadsheets-to-a-self-driving-data-pipeline-how-we-aut|From Spreadsheets to a Self-Driving Data Pipeline How We Automated Agile Metrics for 17 Teams]]
+- [[episodes/2026-04-18|2026-04-18]]
+    - [[sources/2026-04-18/05_how-to-schedule-and-monitor-jobs-in-databricks-the-ultimate|How to Schedule and Monitor Jobs in Databricks The Ultimate Guide 2026 Edition]]
+- [[episodes/2026-04-17|2026-04-17]]
+    - [[sources/2026-04-17/08_data-pipelines-explained-simply-and-how-to-build-them-with-p|Data Pipelines Explained Simply and How to Build Them with Python]]
+- [[episodes/2026-04-13|2026-04-13]]
+    - [[sources/2026-04-13/06_state-of-data-engineering-2026-why-data-teams-spend-60-of-th|State of Data Engineering 2026 Why Data Teams Spend 60 of Their Time Firefighting]]
+- [[episodes/2026-04-08|2026-04-08]]
+    - [[sources/2026-04-08/10_data-engineering-interviews-are-broken-here-s-proof|Data Engineering Interviews Are Broken Here's Proof]]

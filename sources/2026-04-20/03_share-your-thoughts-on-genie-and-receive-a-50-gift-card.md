@@ -31,4 +31,4 @@ Databricks is seeking feedback on its Genie platform, offering a $50 gift card t
 - **URL:** <https://community.databricks.com/t5/announcements/share-your-thoughts-on-genie-and-receive-a-50-gift-card/td-p/151865>
 
 ## Related
-[[concepts/genie|genie]] · [[concepts/medallion-architecture|medallion-architecture]] · [[concepts/genie-code|genie-code]] · [[concepts/databricks|databricks]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-20|2026-04-20]]
+[[concepts/genie|genie]] · [[concepts/medallion-architecture|medallion-architecture]] · [[concepts/genie-code|genie-code]] · [[concepts/databricks|databricks]] · [[concepts/dash|dash]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-20|2026-04-20]]

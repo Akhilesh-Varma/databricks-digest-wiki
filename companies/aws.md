@@ -2,16 +2,16 @@
 type: company
 name: AWS
 slug: aws
-first_seen: 2026-04-19
+first_seen: 2026-04-16
 last_seen: 2026-04-25
-mention_count: 4
+mention_count: 5
 avg_confidence: ""
 tags: [company]
 ---
 
 # AWS
 
-_Company mentioned across 4 stories._
+_Company mentioned across 5 stories._
 
 ## Appears in
 - [[episodes/2026-04-25|2026-04-25]]
@@ -21,3 +21,5 @@ _Company mentioned across 4 stories._
     - [[sources/2026-04-20/08_migrating-apache-iceberg-tables-between-aws-accounts-what-no|Migrating Apache Iceberg Tables Between AWS Accounts What Nobody Tells You]]
 - [[episodes/2026-04-19|2026-04-19]]
     - [[sources/2026-04-19/06_how-to-integrate-databricks-with-aws-azure-step-by-step-guid|How to Integrate Databricks with AWS Azure Step by Step Guide for Data Engineers]]
+- [[episodes/2026-04-16|2026-04-16]]
+    - [[sources/2026-04-16/10_why-my-s3-backup-setup-broke-buckets-folders-and-scheduling|Why My S3 Backup Setup Broke Buckets, Folders , and Scheduling Misconceptions]]

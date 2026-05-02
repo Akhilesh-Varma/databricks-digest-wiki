@@ -2,16 +2,16 @@
 type: concept
 name: Lakehouse
 slug: lakehouse
-first_seen: 2026-04-19
+first_seen: 2026-04-05
 last_seen: 2026-05-01
-mention_count: 14
-avg_confidence: 0.593
+mention_count: 20
+avg_confidence: 0.595
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 14 stories._
+_Concept mentioned across 20 stories._
 
 ## Appears in
 - [[episodes/2026-05-01|2026-05-01]]
@@ -36,3 +36,13 @@ _Concept mentioned across 14 stories._
     - [[sources/2026-04-20/04_ask-hn-is-giving-ai-agents-db-access-the-new-bi-tool-problem|Ask HN Is giving AI agents DB access the new BI-tool problem?]]
 - [[episodes/2026-04-19|2026-04-19]]
     - [[sources/2026-04-19/02_best-practices-for-safe-data-experimentation-with-databricks|Best practices for safe data experimentation with Databricks]]
+- [[episodes/2026-04-15|2026-04-15]]
+    - [[sources/2026-04-15/03_learning-series-advanced-techniques-with-spark-declarative-p|Learning Series Advanced Techniques with Spark Declarative Pipelines]]
+- [[episodes/2026-04-14|2026-04-14]]
+    - [[sources/2026-04-14/08_what-is-apache-polaris-unifying-the-iceberg-ecosystem|What is Apache Polaris? Unifying the Iceberg Ecosystem]]
+    - [[sources/2026-04-14/03_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
+- [[episodes/2026-04-13|2026-04-13]]
+    - [[sources/2026-04-13/06_state-of-data-engineering-2026-why-data-teams-spend-60-of-th|State of Data Engineering 2026 Why Data Teams Spend 60 of Their Time Firefighting]]
+    - [[sources/2026-04-13/02_from-19-hours-to-80-milliseconds-a-geospatial-cheesecake|From 19 Hours to 80 Milliseconds A Geospatial Cheesecake]]
+- [[episodes/2026-04-05|2026-04-05]]
+    - [[sources/2026-04-05/03_mastering-ai-functions-on-databricks-native-artificial-intel|Mastering AI Functions on Databricks Native Artificial Intelligence in Your Lakehouse]]

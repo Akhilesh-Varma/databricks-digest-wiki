@@ -2,16 +2,16 @@
 type: concept
 name: Data Lake
 slug: data-lake
-first_seen: 2026-04-25
+first_seen: 2026-04-17
 last_seen: 2026-04-27
-mention_count: 3
+mention_count: 4
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Data Lake
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
 - [[episodes/2026-04-27|2026-04-27]]
@@ -19,3 +19,5 @@ _Concept mentioned across 3 stories._
     - [[sources/2026-04-27/05_data-lake-data-warehouse-data-lakehouse-explained-so-simply|Data Lake, Data Warehouse Data Lakehouse Explained So Simply Even a First-Year Engineer Gets It]]
 - [[episodes/2026-04-25|2026-04-25]]
     - [[sources/2026-04-25/08_apache-iceberg-data-engineering|Apache Iceberg ค ออะไร? และทำไมม นถ งเปล ยนโลกของ Data Engineering]]
+- [[episodes/2026-04-17|2026-04-17]]
+    - [[sources/2026-04-17/08_data-pipelines-explained-simply-and-how-to-build-them-with-p|Data Pipelines Explained Simply and How to Build Them with Python]]

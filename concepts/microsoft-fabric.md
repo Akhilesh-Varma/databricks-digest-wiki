@@ -2,16 +2,16 @@
 type: concept
 name: Microsoft Fabric
 slug: microsoft-fabric
-first_seen: 2026-04-21
+first_seen: 2026-04-11
 last_seen: 2026-04-28
-mention_count: 3
-avg_confidence: 0.8
+mention_count: 4
+avg_confidence: 0.85
 tags: [concept]
 ---
 
 # Microsoft Fabric
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
 - [[episodes/2026-04-28|2026-04-28]]
@@ -20,3 +20,5 @@ _Concept mentioned across 3 stories._
     - [[sources/2026-04-27/10_how-i-finally-implemented-ci-cd-for-microsoft-fabric-and-wha|How I Finally implemented CI CD for Microsoft Fabric And What Nobody Tells You About It]]
 - [[episodes/2026-04-21|2026-04-21]]
     - [[sources/2026-04-21/06_streaming-data-databricks-delta-lake-aka-microsoft-fabric-la|Streaming Data Databricks Delta Lake aka Microsoft Fabric Lakehouse]]
+- [[episodes/2026-04-11|2026-04-11]]
+    - [[sources/2026-04-11/02_microsoft-fabric-training-in-hyderabad-fabric-course|Microsoft Fabric Training in Hyderabad Fabric Course]]

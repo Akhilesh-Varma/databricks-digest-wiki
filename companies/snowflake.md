@@ -2,16 +2,16 @@
 type: company
 name: Snowflake
 slug: snowflake
-first_seen: 2026-04-20
+first_seen: 2026-04-08
 last_seen: 2026-04-30
-mention_count: 6
+mention_count: 10
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 6 stories._
+_Company mentioned across 10 stories._
 
 ## Appears in
 - [[episodes/2026-04-30|2026-04-30]]
@@ -25,3 +25,11 @@ _Company mentioned across 6 stories._
     - [[sources/2026-04-21/10_columnar-databases-clickhouse-snowflake|Columnar Databases ClickHouse Snowflake]]
 - [[episodes/2026-04-20|2026-04-20]]
     - [[sources/2026-04-20/04_ask-hn-is-giving-ai-agents-db-access-the-new-bi-tool-problem|Ask HN Is giving AI agents DB access the new BI-tool problem?]]
+- [[episodes/2026-04-17|2026-04-17]]
+    - [[sources/2026-04-17/08_data-pipelines-explained-simply-and-how-to-build-them-with-p|Data Pipelines Explained Simply and How to Build Them with Python]]
+- [[episodes/2026-04-12|2026-04-12]]
+    - [[sources/2026-04-12/05_data-anomaly-detection-the-complete-guide-for-data-engineers|Data Anomaly Detection The Complete Guide for Data Engineers]]
+- [[episodes/2026-04-11|2026-04-11]]
+    - [[sources/2026-04-11/02_microsoft-fabric-training-in-hyderabad-fabric-course|Microsoft Fabric Training in Hyderabad Fabric Course]]
+- [[episodes/2026-04-08|2026-04-08]]
+    - [[sources/2026-04-08/03_cortex-aisql-a-production-sql-engine-for-unstructured-data|Cortex AISQL A Production SQL Engine for Unstructured Data]]

@@ -2,16 +2,16 @@
 type: concept
 name: PostgreSQL
 slug: postgresql
-first_seen: 2026-04-20
+first_seen: 2026-04-09
 last_seen: 2026-04-30
-mention_count: 4
+mention_count: 7
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # PostgreSQL
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
 - [[episodes/2026-04-30|2026-04-30]]
@@ -21,3 +21,9 @@ _Concept mentioned across 4 stories._
     - [[sources/2026-04-23/07_5-postgresql-time-bugs-you-ll-write-before-you-know-any-bett|5 PostgreSQL Time Bugs You ll Write Before You Know Any Better]]
 - [[episodes/2026-04-20|2026-04-20]]
     - [[sources/2026-04-20/05_leading-a-greenfield-postgresql-database-analytics-focused-b|Leading a greenfield PostgreSQL database analytics focused buildout Communication.]]
+- [[episodes/2026-04-17|2026-04-17]]
+    - [[sources/2026-04-17/06_the-silicon-valley-database-graveyard-what-7-dead-migrations|The Silicon Valley Database Graveyard What 7 Dead Migrations Taught Me About The Illusion of]]
+- [[episodes/2026-04-12|2026-04-12]]
+    - [[sources/2026-04-12/05_data-anomaly-detection-the-complete-guide-for-data-engineers|Data Anomaly Detection The Complete Guide for Data Engineers]]
+- [[episodes/2026-04-09|2026-04-09]]
+    - [[sources/2026-04-09/01_automating-database-native-function-code-synthesis-with-llms|Automating Database-Native Function Code Synthesis with LLMs]]

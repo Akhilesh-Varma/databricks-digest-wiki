@@ -2,17 +2,19 @@
 type: concept
 name: AI Gateway
 slug: ai-gateway
-first_seen: 2026-04-19
+first_seen: 2026-04-08
 last_seen: 2026-04-19
-mention_count: 1
+mention_count: 2
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # AI Gateway
 
-_Concept mentioned across 1 story._
+_Concept mentioned across 2 stories._
 
 ## Appears in
 - [[episodes/2026-04-19|2026-04-19]]
     - [[sources/2026-04-19/01_agent-bricks-the-governed-enterprise-agent-platform|Agent Bricks The Governed Enterprise Agent Platform]]
+- [[episodes/2026-04-08|2026-04-08]]
+    - [[sources/2026-04-08/02_mlflow-v3-11-1-released|MLflow v3.11.1 released]]

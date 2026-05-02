@@ -29,4 +29,4 @@ Databricks SDK version 0.103.0 has been released on PyPI. The release is for the
 - **URL:** <https://pypi.org/project/databricks-sdk/0.103.0/>
 
 ## Related
-[[concepts/databricks-sdk|databricks-sdk]] · [[concepts/databricks|databricks]] · [[concepts/python|python]] · [[concepts/sdk|sdk]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-20|2026-04-20]]
+[[concepts/databricks-sdk|databricks-sdk]] · [[concepts/databricks|databricks]] · [[concepts/python|python]] · [[concepts/pypi|pypi]] · [[concepts/sdk|sdk]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-20|2026-04-20]]

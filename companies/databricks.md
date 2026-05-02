@@ -4,14 +4,14 @@ name: Databricks
 slug: databricks
 first_seen: 2026-03-17
 last_seen: 2026-05-01
-mention_count: 76
+mention_count: 113
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 76 stories._
+_Company mentioned across 113 stories._
 
 ## Appears in
 - [[episodes/2026-05-01|2026-05-01]]
@@ -97,10 +97,55 @@ _Company mentioned across 76 stories._
     - [[sources/2026-04-19/02_best-practices-for-safe-data-experimentation-with-databricks|Best practices for safe data experimentation with Databricks]]
     - [[sources/2026-04-19/01_agent-bricks-the-governed-enterprise-agent-platform|Agent Bricks The Governed Enterprise Agent Platform]]
 - [[episodes/2026-04-18|2026-04-18]]
+    - [[sources/2026-04-18/05_how-to-schedule-and-monitor-jobs-in-databricks-the-ultimate|How to Schedule and Monitor Jobs in Databricks The Ultimate Guide 2026 Edition]]
+    - [[sources/2026-04-18/04_your-telemetry-your-lakehouse-introducing-native-opentelemet|Your Telemetry, Your Lakehouse Introducing Native OpenTelemetry Support in Zerobus Ingest]]
+    - [[sources/2026-04-18/03_customer-story-pepsico-from-fragmented-bi-to-an-ai-ready-fou|CUSTOMER STORY PepsiCo From fragmented BI to an AI-ready foundation on Azure Databricks]]
     - [[sources/2026-04-18/02_learning-series-build-data-pipelines-with-lakeflow-spark-dec|Learning Series Build Data Pipelines with Lakeflow Spark Declarative Pipelines]]
     - [[sources/2026-04-18/01_databricks-cli-v0-297-1-released|Databricks CLI v0.297.1 released]]
+- [[episodes/2026-04-17|2026-04-17]]
+    - [[sources/2026-04-17/09_what-spark-interviews-actually-test-based-on-189-real-interv|What Spark Interviews Actually Test Based on 189 Real Interview Reports]]
+    - [[sources/2026-04-17/05_databricks-interview-question-how-databricks-handles-data-up|Databricks Interview Question How Databricks Handles Data Updates MERGE INTO]]
+    - [[sources/2026-04-17/03_the-evolution-of-data-engineering-with-serverless-compute|The Evolution of Data Engineering with Serverless Compute]]
+    - [[sources/2026-04-17/02_announcing-the-databricks-data-intelligence-platform-cheat-s|Announcing the Databricks Data Intelligence Platform Cheat Sheet]]
+    - [[sources/2026-04-17/01_from-pdf-to-insights-autonomous-document-intelligence-at-sca|From PDF to Insights Autonomous Document Intelligence at Scale with Lakeflow and Agent Bricks]]
+- [[episodes/2026-04-16|2026-04-16]]
+    - [[sources/2026-04-16/07_databricks-built-in-rag-retrieval-evaluation-a-deep-dive-int|Databricks Built-In RAG Retrieval Evaluation A Deep Dive Into What It Does and Why It Matters]]
+    - [[sources/2026-04-16/05_solution-accelerator-series-understanding-price-transparency|Solution Accelerator Series Understanding Price Transparency Data]]
+    - [[sources/2026-04-16/04_community-industry-bricktalk-4-transforming-commercial-real|Community Industry BrickTalk 4 Transforming Commercial Real Estate Portfolio Management with AI]]
+    - [[sources/2026-04-16/03_azure-devops-with-databricks-dabs-step-by-step-integration-g|Azure DevOps with Databricks DABs Step-by-Step Integration Guide]]
+    - [[sources/2026-04-16/02_databricks-terraform-provider-v1-113-0-released|Databricks Terraform Provider v1.113.0 released]]
+- [[episodes/2026-04-15|2026-04-15]]
+    - [[sources/2026-04-15/06_data-engineer-interview-question-how-to-debug-a-failed-datab|Data Engineer Interview Question How to Debug a Failed Databricks Job Step by Step Guide]]
+    - [[sources/2026-04-15/03_learning-series-advanced-techniques-with-spark-declarative-p|Learning Series Advanced Techniques with Spark Declarative Pipelines]]
+    - [[sources/2026-04-15/02_community-pulse-your-weekly-roundup-march-30-april-05-2026|Community Pulse Your Weekly Roundup! March 30 April 05, 2026]]
+    - [[sources/2026-04-15/01_community-pulse-your-weekly-roundup-april-06-12-2026|Community Pulse Your Weekly Roundup! April 06 12, 2026]]
+- [[episodes/2026-04-14|2026-04-14]]
+    - [[sources/2026-04-14/06_lovable-databricks-build-data-driven-apps-at-the-speed-of-th|Lovable Databricks Build Data-Driven Apps at the Speed of Thought]]
+    - [[sources/2026-04-14/05_cross-region-data-magic-unity-catalog-delta-sharing-in-datab|Cross-Region Data Magic Unity Catalog Delta Sharing in Databricks]]
+    - [[sources/2026-04-14/03_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
+    - [[sources/2026-04-14/02_sdp-how-to-series-part-2-how-to-master-streaming-tables-and|SDP How-To Series. Part 2 How to Master Streaming Tables and Materialized Views]]
+    - [[sources/2026-04-14/01_the-where-problem-real-time-spatial-engineering-with-lakeflo|The Where Problem Real-Time Spatial Engineering with Lakeflow SDP]]
+- [[episodes/2026-04-13|2026-04-13]]
+    - [[sources/2026-04-13/05_sql-reference-documentation-for-managing-governed-tags|SQL reference documentation for managing governed tags]]
+    - [[sources/2026-04-13/04_upcoming-behavioral-change-void-columns-included-in-delta-ta|Upcoming behavioral change VOID columns included in Delta table reads]]
+    - [[sources/2026-04-13/03_databricks-apps-for-platform-admins-part-1-backend-architect|Databricks Apps for Platform Admins Part 1 Backend Architecture and Access Control]]
+    - [[sources/2026-04-13/02_from-19-hours-to-80-milliseconds-a-geospatial-cheesecake|From 19 Hours to 80 Milliseconds A Geospatial Cheesecake]]
+    - [[sources/2026-04-13/01_streaming-syslog-ng-data-to-your-lakehouse-powered-by-zerobu|Streaming syslog-ng data to your lakehouse Powered by Zerobus Ingest OTEL]]
+- [[episodes/2026-04-12|2026-04-12]]
+    - [[sources/2026-04-12/05_data-anomaly-detection-the-complete-guide-for-data-engineers|Data Anomaly Detection The Complete Guide for Data Engineers]]
+    - [[sources/2026-04-12/04_unlock-cross-workspace-data-magic-unity-catalog-in-databrick|Unlock Cross-Workspace Data Magic Unity Catalog in Databricks Revealed]]
+    - [[sources/2026-04-12/03_reflections-from-a-full-day-databricks-session-where-data-ap|Reflections from a Full-Day Databricks Session Where Data, Apps, and AI Are Converging]]
+    - [[sources/2026-04-12/02_databricks-connect-explained-from-local-code-to-remote-clust|Databricks Connect Explained From Local Code to Remote Cluster]]
+- [[episodes/2026-04-11|2026-04-11]]
+    - [[sources/2026-04-11/02_microsoft-fabric-training-in-hyderabad-fabric-course|Microsoft Fabric Training in Hyderabad Fabric Course]]
+- [[episodes/2026-04-08|2026-04-08]]
+    - [[sources/2026-04-08/01_databricks-cli-v0-296-0-released|Databricks CLI v0.296.0 released]]
 - [[episodes/2026-04-05|2026-04-05]]
     - [[sources/2026-04-05/03_databricks-use-cases-decoded-2-how-a-global-sportswear-retai|Databricks Use Cases Decoded 2 How a Global Sportswear Retailer Cut ETL Time by 70 and Went 48x]]
+    - [[sources/2026-04-05/02_from-voice-to-insight-integrating-vocal-bridge-with-databric|From Voice to Insight Integrating Vocal Bridge with Databricks]]
+    - [[sources/2026-04-05/03_mastering-ai-functions-on-databricks-native-artificial-intel|Mastering AI Functions on Databricks Native Artificial Intelligence in Your Lakehouse]]
+    - [[sources/2026-04-05/04_salesforce-to-databricks-in-the-enterprise-what-the-docs-don|Salesforce to Databricks in the Enterprise What the Docs Don t Warn You About]]
+    - [[sources/2026-04-05/05_databricks-databricks-certified-generative-ai-engineer-assoc|Databricks Databricks Certified Generative AI Engineer Associate Episode 1]]
 - [[episodes/2026-03-17|2026-03-17]]
     - [[sources/2026-03-17/05_office-culture-is-pretty-bad-right-now-for-me-atleast-a-data|Office culture is pretty bad right now for me atleast - a data engineer]]
     - [[sources/2026-03-17/01_the-databricks-notebooks-need-shortcuts-customisation|The Databricks notebooks need shortcuts customisation]]

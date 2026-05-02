@@ -29,4 +29,4 @@ Databricks LangChain Integration version 0.19.0 has been released on PyPI, addin
 - **URL:** <https://pypi.org/project/databricks-langchain/0.19.0/>
 
 ## Related
-[[concepts/langchain|langchain]] · [[concepts/databricks-ai|databricks-ai]] · [[concepts/databricks|databricks]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-22|2026-04-22]]
+[[concepts/langchain|langchain]] · [[concepts/databricks-ai|databricks-ai]] · [[concepts/databricks|databricks]] · [[concepts/pypi|pypi]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-22|2026-04-22]]

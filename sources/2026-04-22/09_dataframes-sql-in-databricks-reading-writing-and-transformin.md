@@ -31,4 +31,4 @@ This article discusses using DataFrames SQL in Databricks for reading, writing, 
 - **URL:** <https://dev.to/qvfagundes/dataframes-sql-in-databricks-reading-writing-and-transforming-data-50h9>
 
 ## Related
-[[concepts/dataframe|dataframe]] · [[concepts/pyspark|pyspark]] · [[concepts/spark|spark]] · [[concepts/databricks|databricks]] · [[concepts/pipeline|pipeline]] · [[concepts/parquet|parquet]] · [[concepts/views|views]] · [[concepts/delta|delta]] · [[concepts/sql|sql]] · [[concepts/api|api]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-22|2026-04-22]]
+[[concepts/dataframe|dataframe]] · [[concepts/pyspark|pyspark]] · [[concepts/spark|spark]] · [[concepts/pandas-dataframe|pandas-dataframe]] · [[concepts/databricks|databricks]] · [[concepts/pipeline|pipeline]] · [[concepts/shuffle|shuffle]] · [[concepts/parquet|parquet]] · [[concepts/pandas|pandas]] · [[concepts/views|views]] · [[concepts/delta|delta]] · [[concepts/sql|sql]] · [[concepts/api|api]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-22|2026-04-22]]

@@ -1,17 +1,17 @@
 ---
 type: concept
-name: DBT
+name: dbt
 slug: dbt
-first_seen: 2026-04-25
+first_seen: 2026-04-05
 last_seen: 2026-04-30
-mention_count: 3
-avg_confidence: 0.7
+mention_count: 4
+avg_confidence: 0.775
 tags: [concept]
 ---
 
-# DBT
+# dbt
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
 - [[episodes/2026-04-30|2026-04-30]]
@@ -20,3 +20,5 @@ _Concept mentioned across 3 stories._
     - [[sources/2026-04-29/05_show-hn-rocky-rust-sql-engine-with-branches-replay-column-li|Show HN Rocky Rust SQL engine with branches, replay, column lineage]]
 - [[episodes/2026-04-25|2026-04-25]]
     - [[sources/2026-04-25/07_from-spreadsheets-to-a-self-driving-data-pipeline-how-we-aut|From Spreadsheets to a Self-Driving Data Pipeline How We Automated Agile Metrics for 17 Teams]]
+- [[episodes/2026-04-05|2026-04-05]]
+    - [[sources/2026-04-05/06_how-to-fuzzy-match-1m-rows-with-dbt-in-under-10-minutes-2026|How to fuzzy match 1M rows with dbt in under 10 minutes 2026]]

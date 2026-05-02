@@ -2,16 +2,16 @@
 type: concept
 name: Lakeflow Designer
 slug: lakeflow-designer
-first_seen: 2026-04-23
+first_seen: 2026-04-17
 last_seen: 2026-04-29
-mention_count: 3
-avg_confidence: 0.967
+mention_count: 4
+avg_confidence: 0.825
 tags: [concept]
 ---
 
 # Lakeflow Designer
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
 - [[episodes/2026-04-29|2026-04-29]]
@@ -20,3 +20,5 @@ _Concept mentioned across 3 stories._
     - [[sources/2026-04-25/04_announcing-the-public-preview-of-lakeflow-designer|Announcing the Public Preview of Lakeflow Designer]]
 - [[episodes/2026-04-23|2026-04-23]]
     - [[sources/2026-04-23/08_databricks-lakeflow-designer-makes-pipelines-feel-easier-to|Databricks Lakeflow Designer Makes Pipelines Feel Easier to Build.]]
+- [[episodes/2026-04-17|2026-04-17]]
+    - [[sources/2026-04-17/02_announcing-the-databricks-data-intelligence-platform-cheat-s|Announcing the Databricks Data Intelligence Platform Cheat Sheet]]

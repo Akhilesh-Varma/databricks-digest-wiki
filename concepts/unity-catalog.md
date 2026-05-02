@@ -2,16 +2,16 @@
 type: concept
 name: Unity Catalog
 slug: unity-catalog
-first_seen: 2026-04-18
+first_seen: 2026-04-05
 last_seen: 2026-05-01
-mention_count: 27
-avg_confidence: 0.733
+mention_count: 41
+avg_confidence: 0.741
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 27 stories._
+_Concept mentioned across 41 stories._
 
 ## Appears in
 - [[episodes/2026-05-01|2026-05-01]]
@@ -51,4 +51,25 @@ _Concept mentioned across 27 stories._
 - [[episodes/2026-04-20|2026-04-20]]
     - [[sources/2026-04-20/02_lakeflow-spark-declarative-pipelines-now-decouples-pipeline|Lakeflow Spark Declarative Pipelines now decouples pipeline and tables lifecycle]]
 - [[episodes/2026-04-18|2026-04-18]]
+    - [[sources/2026-04-18/04_your-telemetry-your-lakehouse-introducing-native-opentelemet|Your Telemetry, Your Lakehouse Introducing Native OpenTelemetry Support in Zerobus Ingest]]
+    - [[sources/2026-04-18/03_customer-story-pepsico-from-fragmented-bi-to-an-ai-ready-fou|CUSTOMER STORY PepsiCo From fragmented BI to an AI-ready foundation on Azure Databricks]]
     - [[sources/2026-04-18/02_learning-series-build-data-pipelines-with-lakeflow-spark-dec|Learning Series Build Data Pipelines with Lakeflow Spark Declarative Pipelines]]
+- [[episodes/2026-04-17|2026-04-17]]
+    - [[sources/2026-04-17/02_announcing-the-databricks-data-intelligence-platform-cheat-s|Announcing the Databricks Data Intelligence Platform Cheat Sheet]]
+    - [[sources/2026-04-17/01_from-pdf-to-insights-autonomous-document-intelligence-at-sca|From PDF to Insights Autonomous Document Intelligence at Scale with Lakeflow and Agent Bricks]]
+- [[episodes/2026-04-16|2026-04-16]]
+    - [[sources/2026-04-16/04_community-industry-bricktalk-4-transforming-commercial-real|Community Industry BrickTalk 4 Transforming Commercial Real Estate Portfolio Management with AI]]
+    - [[sources/2026-04-16/03_azure-devops-with-databricks-dabs-step-by-step-integration-g|Azure DevOps with Databricks DABs Step-by-Step Integration Guide]]
+    - [[sources/2026-04-16/02_databricks-terraform-provider-v1-113-0-released|Databricks Terraform Provider v1.113.0 released]]
+    - [[sources/2026-04-16/01_delta-lake-v4-2-0-released|Delta Lake v4.2.0 released]]
+- [[episodes/2026-04-15|2026-04-15]]
+    - [[sources/2026-04-15/02_community-pulse-your-weekly-roundup-march-30-april-05-2026|Community Pulse Your Weekly Roundup! March 30 April 05, 2026]]
+- [[episodes/2026-04-14|2026-04-14]]
+    - [[sources/2026-04-14/05_cross-region-data-magic-unity-catalog-delta-sharing-in-datab|Cross-Region Data Magic Unity Catalog Delta Sharing in Databricks]]
+    - [[sources/2026-04-14/02_sdp-how-to-series-part-2-how-to-master-streaming-tables-and|SDP How-To Series. Part 2 How to Master Streaming Tables and Materialized Views]]
+- [[episodes/2026-04-13|2026-04-13]]
+    - [[sources/2026-04-13/03_databricks-apps-for-platform-admins-part-1-backend-architect|Databricks Apps for Platform Admins Part 1 Backend Architecture and Access Control]]
+- [[episodes/2026-04-12|2026-04-12]]
+    - [[sources/2026-04-12/04_unlock-cross-workspace-data-magic-unity-catalog-in-databrick|Unlock Cross-Workspace Data Magic Unity Catalog in Databricks Revealed]]
+- [[episodes/2026-04-05|2026-04-05]]
+    - [[sources/2026-04-05/04_salesforce-to-databricks-in-the-enterprise-what-the-docs-don|Salesforce to Databricks in the Enterprise What the Docs Don t Warn You About]]

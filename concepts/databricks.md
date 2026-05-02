@@ -4,14 +4,14 @@ name: Databricks
 slug: databricks
 first_seen: 2026-03-17
 last_seen: 2026-04-30
-mention_count: 7
-avg_confidence: 0.786
+mention_count: 11
+avg_confidence: 0.773
 tags: [concept]
 ---
 
 # Databricks
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
 - [[episodes/2026-04-30|2026-04-30]]
@@ -22,6 +22,14 @@ _Concept mentioned across 7 stories._
     - [[sources/2026-04-25/02_learning-series-devops-essentials-for-data-engineering|Learning Series DevOps Essentials for Data Engineering]]
 - [[episodes/2026-04-24|2026-04-24]]
     - [[sources/2026-04-24/08_cost-optimization-strategies-for-databricks-workloads|Cost Optimization Strategies for Databricks Workloads]]
+- [[episodes/2026-04-17|2026-04-17]]
+    - [[sources/2026-04-17/09_what-spark-interviews-actually-test-based-on-189-real-interv|What Spark Interviews Actually Test Based on 189 Real Interview Reports]]
+- [[episodes/2026-04-15|2026-04-15]]
+    - [[sources/2026-04-15/06_data-engineer-interview-question-how-to-debug-a-failed-datab|Data Engineer Interview Question How to Debug a Failed Databricks Job Step by Step Guide]]
+- [[episodes/2026-04-12|2026-04-12]]
+    - [[sources/2026-04-12/05_data-anomaly-detection-the-complete-guide-for-data-engineers|Data Anomaly Detection The Complete Guide for Data Engineers]]
+- [[episodes/2026-04-11|2026-04-11]]
+    - [[sources/2026-04-11/02_microsoft-fabric-training-in-hyderabad-fabric-course|Microsoft Fabric Training in Hyderabad Fabric Course]]
 - [[episodes/2026-04-05|2026-04-05]]
     - [[sources/2026-04-05/03_databricks-use-cases-decoded-2-how-a-global-sportswear-retai|Databricks Use Cases Decoded 2 How a Global Sportswear Retailer Cut ETL Time by 70 and Went 48x]]
 - [[episodes/2026-03-17|2026-03-17]]

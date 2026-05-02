@@ -4,14 +4,14 @@ name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
 last_seen: 2026-05-01
-mention_count: 9
+mention_count: 13
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 9 stories._
+_Company mentioned across 13 stories._
 
 ## Appears in
 - [[episodes/2026-05-01|2026-05-01]]
@@ -28,5 +28,13 @@ _Company mentioned across 9 stories._
     - [[sources/2026-04-26/03_databricks-metric-views-power-bi-bi-compatibility-mode-remov|Databricks Metric Views - Power BI - BI compatibility mode Removal]]
 - [[episodes/2026-04-21|2026-04-21]]
     - [[sources/2026-04-21/06_streaming-data-databricks-delta-lake-aka-microsoft-fabric-la|Streaming Data Databricks Delta Lake aka Microsoft Fabric Lakehouse]]
+- [[episodes/2026-04-18|2026-04-18]]
+    - [[sources/2026-04-18/03_customer-story-pepsico-from-fragmented-bi-to-an-ai-ready-fou|CUSTOMER STORY PepsiCo From fragmented BI to an AI-ready foundation on Azure Databricks]]
+- [[episodes/2026-04-16|2026-04-16]]
+    - [[sources/2026-04-16/03_azure-devops-with-databricks-dabs-step-by-step-integration-g|Azure DevOps with Databricks DABs Step-by-Step Integration Guide]]
+- [[episodes/2026-04-13|2026-04-13]]
+    - [[sources/2026-04-13/07_how-real-data-engineering-powers-ai-customer-intelligence|How Real Data Engineering Powers AI Customer Intelligence]]
+- [[episodes/2026-04-11|2026-04-11]]
+    - [[sources/2026-04-11/02_microsoft-fabric-training-in-hyderabad-fabric-course|Microsoft Fabric Training in Hyderabad Fabric Course]]
 - [[episodes/2026-03-17|2026-03-17]]
     - [[sources/2026-03-17/01_the-databricks-notebooks-need-shortcuts-customisation|The Databricks notebooks need shortcuts customisation]]

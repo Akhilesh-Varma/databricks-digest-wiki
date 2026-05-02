@@ -2,16 +2,16 @@
 type: concept
 name: Lakeflow
 slug: lakeflow
-first_seen: 2026-04-27
+first_seen: 2026-04-15
 last_seen: 2026-04-29
-mention_count: 3
+mention_count: 6
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Lakeflow
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
 - [[episodes/2026-04-29|2026-04-29]]
@@ -19,3 +19,8 @@ _Concept mentioned across 3 stories._
     - [[sources/2026-04-29/02_customer-story-easyjet-creating-better-travel-experience-for|CUSTOMER STORY easyJet Creating better travel experience for all]]
 - [[episodes/2026-04-27|2026-04-27]]
     - [[sources/2026-04-27/03_data-ai-summit-2026-get-hands-on-with-ai|Data AI Summit 2026 Get hands on with AI]]
+- [[episodes/2026-04-17|2026-04-17]]
+    - [[sources/2026-04-17/02_announcing-the-databricks-data-intelligence-platform-cheat-s|Announcing the Databricks Data Intelligence Platform Cheat Sheet]]
+- [[episodes/2026-04-15|2026-04-15]]
+    - [[sources/2026-04-15/02_community-pulse-your-weekly-roundup-march-30-april-05-2026|Community Pulse Your Weekly Roundup! March 30 April 05, 2026]]
+    - [[sources/2026-04-15/01_community-pulse-your-weekly-roundup-april-06-12-2026|Community Pulse Your Weekly Roundup! April 06 12, 2026]]
