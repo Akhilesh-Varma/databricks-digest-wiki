@@ -3,17 +3,19 @@ type: concept
 name: PyPI
 slug: pypi
 first_seen: 2026-04-06
-last_seen: 2026-04-10
-mention_count: 3
+last_seen: 2026-05-02
+mention_count: 4
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # PyPI
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-02|2026-05-02]]
+    - [[sources/2026-05-02/01_apache-spark-pyspark-4-2-0-dev5-released-on-pypi|Apache Spark PySpark 4.2.0.dev5 released on PyPI]]
 - [[episodes/2026-04-10|2026-04-10]]
     - [[sources/2026-04-10/01_apache-spark-pyspark-4-2-0-dev4-released-on-pypi|Apache Spark PySpark 4.2.0.dev4 released on PyPI]]
 - [[episodes/2026-04-07|2026-04-07]]

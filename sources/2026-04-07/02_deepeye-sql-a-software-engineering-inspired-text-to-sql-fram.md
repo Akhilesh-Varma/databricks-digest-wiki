@@ -6,7 +6,7 @@ rank: 2
 source: rss_feed
 url: "https://arxiv.org/abs/2510.17586"
 title: DeepEye-SQL A Software-Engineering-Inspired Text-to-SQL Framework
-quality_score: 0.935
+quality_score: 0.932
 content_hash: "sha256:223d509d2f5980536e197f3a2185f6e36b0ddbc574fa3e476929f3e95714d4ef"
 concepts: [text-to-sql, deepeye-sql, software-development-life-cycle, large-language-models, mixture-of-experts, schema-linking, n-version-sql-generation, bird-benchmark, spider-benchmark, execution-guided-adjudication]
 companies: []
@@ -32,4 +32,4 @@ DeepEye-SQL is a software-engineering-inspired framework that reframes Text-to-S
 - **URL:** <https://arxiv.org/abs/2510.17586>
 
 ## Related
-[[concepts/text-to-sql|text-to-sql]] · [[concepts/deepeye-sql|deepeye-sql]] · [[concepts/software-development-life-cycle|software-development-life-cycle]] · [[concepts/large-language-models|large-language-models]] · [[concepts/mixture-of-experts|mixture-of-experts]] · [[concepts/schema-linking|schema-linking]] · [[concepts/n-version-sql-generation|n-version-sql-generation]] · [[concepts/bird-benchmark|bird-benchmark]] · [[concepts/spider-benchmark|spider-benchmark]] · [[concepts/llms|llms]] · [[concepts/sql|sql]] · [[concepts/llm|llm]] · [[episodes/2026-04-07|2026-04-07]]
+[[concepts/text-to-sql|text-to-sql]] · [[concepts/deepeye-sql|deepeye-sql]] · [[concepts/software-development-life-cycle|software-development-life-cycle]] · [[concepts/large-language-models|large-language-models]] · [[concepts/mixture-of-experts|mixture-of-experts]] · [[concepts/schema-linking|schema-linking]] · [[concepts/n-version-sql-generation|n-version-sql-generation]] · [[concepts/bird-benchmark|bird-benchmark]] · [[concepts/spider-benchmark|spider-benchmark]] · [[concepts/schema|schema]] · [[concepts/llms|llms]] · [[concepts/sql|sql]] · [[concepts/llm|llm]] · [[episodes/2026-04-07|2026-04-07]]

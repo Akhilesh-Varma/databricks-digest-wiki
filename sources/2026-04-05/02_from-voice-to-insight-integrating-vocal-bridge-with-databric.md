@@ -6,7 +6,7 @@ rank: 2
 source: rss_feed
 url: "https://medium.com/@sudhir.gajre/from-voice-to-insight-integrating-vocal-bridge-with-databricks-faa2899b2c1d?source=rss------databricks-5"
 title: From Voice to Insight Integrating Vocal Bridge with Databricks
-quality_score: 0.858
+quality_score: 0.854
 content_hash: "sha256:60886c438ed3a9943fd5b77281e6ff0562f9e58ff4272f47beb13f368b025ee6"
 concepts: [vocal-bridge, databricks-apps, lakebase, claude-code]
 companies: [databricks, anthropic]

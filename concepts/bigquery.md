@@ -2,16 +2,16 @@
 type: concept
 name: BigQuery
 slug: bigquery
-first_seen: 2026-04-16
+first_seen: 2026-04-05
 last_seen: 2026-04-27
-mention_count: 3
-avg_confidence: 0.7
+mention_count: 4
+avg_confidence: 0.775
 tags: [concept]
 ---
 
 # BigQuery
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
 - [[episodes/2026-04-27|2026-04-27]]
@@ -20,3 +20,5 @@ _Concept mentioned across 3 stories._
     - [[sources/2026-04-21/07_the-hashing-headache-syncing-sqlite-and-bigquery-without-los|The Hashing Headache Syncing SQLite and BigQuery Without Losing Your Sanity]]
 - [[episodes/2026-04-16|2026-04-16]]
     - [[sources/2026-04-16/08_how-i-built-an-end-to-end-data-engineering-pipeline-for-hong|How I Built an End-to-End Data Engineering Pipeline for Hong Kong's Public Transport Network]]
+- [[episodes/2026-04-05|2026-04-05]]
+    - [[sources/2026-04-05/05_how-i-triaged-a-bigquery-cost-spike-at-a-regional-grocery-ch|How I Triaged a BigQuery Cost Spike at a Regional Grocery Chain And the Two Problems Hiding in]]

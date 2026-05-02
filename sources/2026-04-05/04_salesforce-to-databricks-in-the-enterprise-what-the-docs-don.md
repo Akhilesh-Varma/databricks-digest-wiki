@@ -6,7 +6,7 @@ rank: 4
 source: rss_feed
 url: "https://medium.com/@dhaniram_46091/salesforce-to-databricks-in-the-enterprise-what-the-docs-dont-warn-you-about-bbb9d1cb0bef?source=rss------databricks-5"
 title: Salesforce to Databricks in the Enterprise What the Docs Don t Warn You About
-quality_score: 0.789
+quality_score: 0.785
 content_hash: "sha256:53d441a2c7b9e2790c653760eed9d4c9b7e74c2508b275522e4c4f1df94020e7"
 concepts: [lakeflow-connect, unity-catalog, serverless-security]
 companies: [salesforce, databricks, medium]

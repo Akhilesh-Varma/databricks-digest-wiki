@@ -6,7 +6,7 @@ rank: 5
 source: rss_feed
 url: "https://medium.com/@software-tech-hub/databricks-databricks-certified-generative-ai-engineer-associate-episode-1-6e76229d11a6?source=rss------databricks-5"
 title: Databricks Databricks Certified Generative AI Engineer Associate Episode 1
-quality_score: 0.776
+quality_score: 0.772
 content_hash: "sha256:efda05138f72a0316b8721d5f5165f0f1d0d01ff357dadaedfd131e490b809dd"
 concepts: [databricks-certified-generative-ai-engineer-associate, generative-ai]
 companies: [databricks, medium]

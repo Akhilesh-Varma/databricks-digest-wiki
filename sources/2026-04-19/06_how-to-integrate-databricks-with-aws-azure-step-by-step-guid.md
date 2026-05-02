@@ -30,4 +30,4 @@ The article provides a step-by-step guide for data engineers on how to integrate
 - **URL:** <https://medium.com/@sriwworldofcoding/how-to-integrate-databricks-with-aws-azure-step-by-step-guide-for-data-engineers-bae855de0422?source=rss------databricks-5>
 
 ## Related
-[[concepts/databricks-lakehouse|databricks-lakehouse]] · [[concepts/databricks|databricks]] · [[concepts/lakehouse|lakehouse]] · [[concepts/data-lake|data-lake]] · [[concepts/azure|azure]] · [[concepts/aws|aws]] · [[companies/databricks|Databricks]] · [[companies/aws|AWS]] · [[companies/azure|Azure]] · [[episodes/2026-04-19|2026-04-19]]
+[[concepts/databricks-lakehouse|databricks-lakehouse]] · [[concepts/azure-blob|azure-blob]] · [[concepts/databricks|databricks]] · [[concepts/lakehouse|lakehouse]] · [[concepts/data-lake|data-lake]] · [[concepts/azure|azure]] · [[concepts/aws|aws]] · [[companies/databricks|Databricks]] · [[companies/aws|AWS]] · [[companies/azure|Azure]] · [[episodes/2026-04-19|2026-04-19]]

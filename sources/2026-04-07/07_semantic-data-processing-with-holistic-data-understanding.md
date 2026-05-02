@@ -6,7 +6,7 @@ rank: 7
 source: rss_feed
 url: "https://arxiv.org/abs/2604.02655"
 title: Semantic Data Processing with Holistic Data Understanding
-quality_score: 0.895
+quality_score: 0.892
 content_hash: "sha256:1f13402578e490b21b0adcbff9214a29c45a6adf7a3527f31056feb168c758e3"
 concepts: [holdup, semantic-operators, large-language-models, holistic-data-understanding, clustering-algorithm, bagging, long-context-issues, semantic-map-tasks]
 companies: []

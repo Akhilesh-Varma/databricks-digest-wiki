@@ -33,4 +33,4 @@ Databricks CLI version 0.296.0 introduces the Direct deployment engine for DABs 
 - **URL:** <https://github.com/databricks/cli/releases/tag/v0.296.0>
 
 ## Related
-[[concepts/databricks-cli|databricks-cli]] · [[concepts/databricks-asset-bundles|databricks-asset-bundles]] · [[concepts/direct-deployment-engine|direct-deployment-engine]] · [[concepts/databricks|databricks]] · [[concepts/cli|cli]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-08|2026-04-08]]
+[[concepts/databricks-cli|databricks-cli]] · [[concepts/databricks-asset-bundles|databricks-asset-bundles]] · [[concepts/direct-deployment-engine|direct-deployment-engine]] · [[concepts/deployment-bind|deployment-bind]] · [[concepts/databricks|databricks]] · [[concepts/cli|cli]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-08|2026-04-08]]

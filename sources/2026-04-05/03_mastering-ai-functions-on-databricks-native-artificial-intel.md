@@ -6,7 +6,7 @@ rank: 3
 source: rss_feed
 url: "https://medium.com/@antniorosa/mastering-ai-functions-on-databricks-native-artificial-intelligence-in-your-lakehouse-f1f389f54e49?source=rss------databricks-5"
 title: Mastering AI Functions on Databricks Native Artificial Intelligence in Your Lakehouse
-quality_score: 0.808
+quality_score: 0.804
 content_hash: "sha256:9ea931d65180a11cef4df52781c2b613d7420bcc246ea5e67e0697b6dab38db5"
 concepts: [ai-functions, lakehouse, databricks-lakehouse-platform]
 companies: [databricks, medium]

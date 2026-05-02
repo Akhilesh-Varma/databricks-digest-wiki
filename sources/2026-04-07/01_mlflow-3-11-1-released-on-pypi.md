@@ -6,7 +6,7 @@ rank: 1
 source: pypi_releases
 url: "https://pypi.org/project/mlflow/3.11.1/"
 title: MLflow 3.11.1 released on PyPI
-quality_score: 0.585
+quality_score: 0.582
 content_hash: "sha256:6c9da15e1c869f277e5529237bed1b55d147c6ca004cfcecd3f9ddb581450125"
 concepts: [mlflow, pypi, machine-learning-lifecycle-management]
 companies: [python-package-index]

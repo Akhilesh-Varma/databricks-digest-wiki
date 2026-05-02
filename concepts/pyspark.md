@@ -3,17 +3,19 @@ type: concept
 name: PySpark
 slug: pyspark
 first_seen: 2026-03-17
-last_seen: 2026-04-30
-mention_count: 8
-avg_confidence: 0.838
+last_seen: 2026-05-02
+mention_count: 9
+avg_confidence: 0.856
 tags: [concept]
 ---
 
 # PySpark
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-02|2026-05-02]]
+    - [[sources/2026-05-02/01_apache-spark-pyspark-4-2-0-dev5-released-on-pypi|Apache Spark PySpark 4.2.0.dev5 released on PyPI]]
 - [[episodes/2026-04-30|2026-04-30]]
     - [[sources/2026-04-30/09_building-an-ai-augmented-news-intelligence-pipeline-with-kaf|Building an AI-Augmented News Intelligence Pipeline with Kafka, Delta Lake, and LLMs]]
 - [[episodes/2026-04-25|2026-04-25]]

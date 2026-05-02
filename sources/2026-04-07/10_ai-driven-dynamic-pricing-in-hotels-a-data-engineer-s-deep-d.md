@@ -6,7 +6,7 @@ rank: 10
 source: devto
 url: "https://dev.to/airtruffle/ai-driven-dynamic-pricing-in-hotels-a-data-engineers-deep-dive-into-feature-pipelines-3mg9"
 title: "AI-Driven Dynamic Pricing in Hotels A Data Engineer's Deep Dive into Feature Pipelines"
-quality_score: 0.668
+quality_score: 0.665
 content_hash: "sha256:ac75608faa3618a60e0a22e16fbfb0d3940b817c925dc9fb0b5447027187cd16"
 concepts: [feature-pipelines, dynamic-pricing, real-time-rate-optimization, machine-learning-feature-engineering]
 companies: []

@@ -31,4 +31,4 @@ Apple has introduced a comprehensive on-device AI stack in macOS, featuring a 3B
 - **URL:** <https://cyberwriter.app>
 
 ## Related
-[[concepts/foundation-models|foundation-models]] · [[concepts/nlcontextualembedding|nlcontextualembedding]] · [[concepts/semantic-search|semantic-search]] · [[concepts/context-window|context-window]] · [[concepts/workspace|workspace]] · [[concepts/lm-studio|lm-studio]] · [[concepts/markdown|markdown]] · [[concepts/ollama|ollama]] · [[concepts/rag|rag]] · [[concepts/api|api]] · [[concepts/llm|llm]] · [[concepts/ai|ai]] · [[companies/apple|Apple]] · [[episodes/2026-04-21|2026-04-21]]
+[[concepts/foundation-models|foundation-models]] · [[concepts/nlcontextualembedding|nlcontextualembedding]] · [[concepts/semantic-search|semantic-search]] · [[concepts/context-window|context-window]] · [[concepts/workspace|workspace]] · [[concepts/lm-studio|lm-studio]] · [[concepts/markdown|markdown]] · [[concepts/ollama|ollama]] · [[concepts/rest|rest]] · [[concepts/rag|rag]] · [[concepts/api|api]] · [[concepts/llm|llm]] · [[concepts/ai|ai]] · [[companies/apple|Apple]] · [[episodes/2026-04-21|2026-04-21]]

@@ -3,17 +3,19 @@ type: concept
 name: ETL
 slug: etl
 first_seen: 2026-04-05
-last_seen: 2026-05-01
-mention_count: 5
-avg_confidence: 0.7
+last_seen: 2026-05-02
+mention_count: 6
+avg_confidence: 0.733
 tags: [concept]
 ---
 
 # ETL
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-02|2026-05-02]]
+    - [[sources/2026-05-02/09_meet-sdi-the-no-code-etl-tool-every-data-engineer-needs-in-t|Meet SDI The No-Code ETL Tool Every Data Engineer Needs in Their Toolbox]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/06_from-informatica-to-databricks-why-enterprises-are-finally-b|From Informatica to Databricks Why Enterprises Are Finally Breaking Up with Legacy ETL]]
 - [[episodes/2026-04-28|2026-04-28]]

@@ -3,17 +3,20 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-01
-mention_count: 41
-avg_confidence: 0.741
+last_seen: 2026-05-02
+mention_count: 43
+avg_confidence: 0.747
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 41 stories._
+_Concept mentioned across 43 stories._
 
 ## Appears in
+- [[episodes/2026-05-02|2026-05-02]]
+    - [[sources/2026-05-02/03_the-next-generation-of-databricks-genie|The next generation of Databricks Genie]]
+    - [[sources/2026-05-02/07_introduction-to-external-locations-for-catalog-and-schema-in|Introduction to External Locations for Catalog and Schema in Databricks]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/01_databricks-sdk-java-v0-106-0-released|Databricks SDK Java v0.106.0 released]]
     - [[sources/2026-05-01/02_databricks-terraform-provider-v1-114-2-released|Databricks Terraform Provider v1.114.2 released]]

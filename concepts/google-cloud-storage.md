@@ -3,17 +3,19 @@ type: concept
 name: Google Cloud Storage
 slug: google-cloud-storage
 first_seen: 2026-04-16
-last_seen: 2026-04-27
-mention_count: 2
-avg_confidence: 0.7
+last_seen: 2026-05-02
+mention_count: 3
+avg_confidence: 0.6
 tags: [concept]
 ---
 
 # Google Cloud Storage
 
-_Concept mentioned across 2 stories._
+_Concept mentioned across 3 stories._
 
 ## Appears in
+- [[episodes/2026-05-02|2026-05-02]]
+    - [[sources/2026-05-02/09_meet-sdi-the-no-code-etl-tool-every-data-engineer-needs-in-t|Meet SDI The No-Code ETL Tool Every Data Engineer Needs in Their Toolbox]]
 - [[episodes/2026-04-27|2026-04-27]]
     - [[sources/2026-04-27/08_i-built-a-real-time-crypto-analytics-pipeline-for-0-01-month|I Built a Real-Time Crypto Analytics Pipeline for 0.01 Month Here's the Full Architecture]]
 - [[episodes/2026-04-16|2026-04-16]]

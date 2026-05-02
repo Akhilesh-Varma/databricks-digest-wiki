@@ -2,18 +2,20 @@
 type: company
 name: Medium
 slug: medium
-first_seen: 2026-04-05
-last_seen: 2026-05-01
-mention_count: 10
+first_seen: 2026-04-04
+last_seen: 2026-05-02
+mention_count: 13
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 10 stories._
+_Company mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-02|2026-05-02]]
+    - [[sources/2026-05-02/05_what-is-a-dlt-pipeline-a-beginner-guide-with-my-mistakes-lea|What is a DLT Pipeline? A Beginner Guide with My Mistakes Learnings]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/06_from-informatica-to-databricks-why-enterprises-are-finally-b|From Informatica to Databricks Why Enterprises Are Finally Breaking Up with Legacy ETL]]
 - [[episodes/2026-04-14|2026-04-14]]
@@ -24,8 +26,11 @@ _Company mentioned across 10 stories._
     - [[sources/2026-04-11/04_aws-data-engineering-training-data-engineering-course|AWS Data Engineering training Data Engineering course]]
     - [[sources/2026-04-11/02_microsoft-fabric-training-in-hyderabad-fabric-course|Microsoft Fabric Training in Hyderabad Fabric Course]]
 - [[episodes/2026-04-05|2026-04-05]]
-    - [[sources/2026-04-05/02_how-to-optimize-spark-jobs-for-performance-real-techniques|How to Optimize Spark Jobs for Performance Real Techniques]]
+    - [[sources/2026-04-05/06_how-to-optimize-spark-jobs-for-performance-real-techniques|How to Optimize Spark Jobs for Performance Real Techniques]]
+    - [[sources/2026-04-05/04_the-rescue-mission-for-databricks-pipelines-migrating-to-dab|The Rescue Mission for Databricks Pipelines Migrating to DABs with Zero Data Loss]]
     - [[sources/2026-04-05/06_spark-architecture-explained-what-actually-happens-when-your|Spark Architecture Explained What Actually Happens When Your PySpark Job Runs]]
     - [[sources/2026-04-05/03_mastering-ai-functions-on-databricks-native-artificial-intel|Mastering AI Functions on Databricks Native Artificial Intelligence in Your Lakehouse]]
     - [[sources/2026-04-05/04_salesforce-to-databricks-in-the-enterprise-what-the-docs-don|Salesforce to Databricks in the Enterprise What the Docs Don t Warn You About]]
     - [[sources/2026-04-05/05_databricks-databricks-certified-generative-ai-engineer-assoc|Databricks Databricks Certified Generative AI Engineer Associate Episode 1]]
+- [[episodes/2026-04-04|2026-04-04]]
+    - [[sources/2026-04-04/06_how-worlddataiq-builds-scalable-data-pipelines|How WorldDataIQ Builds Scalable Data Pipelines]]

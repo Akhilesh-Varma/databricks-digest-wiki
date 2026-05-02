@@ -15,4 +15,4 @@ _Company mentioned across 1 story._
 
 ## Appears in
 - [[episodes/2026-04-06|2026-04-06]]
-    - [[sources/2026-04-06/02_mlflow-model-catalog-latest-released|MLflow model-catalog latest released]]
+    - [[sources/2026-04-06/01_mlflow-model-catalog-latest-released|MLflow model-catalog latest released]]

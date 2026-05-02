@@ -33,4 +33,4 @@ A 46-year-old Amazon warehouse worker collapsed and died on April 6 at the PDX9 
 - **URL:** <https://finance.yahoo.com/sectors/healthcare/articles/just-dont-look-amazon-worker-170000180.html>
 
 ## Related
-[[concepts/fulfillment-center-operations|fulfillment-center-operations]] · [[concepts/workplace-safety|workplace-safety]] · [[companies/amazon|Amazon]] · [[companies/the-western-edge|The Western Edge]] · [[companies/techcrunch|TechCrunch]] · [[companies/moneywise|Moneywise]] · [[people/sam-stephenson|Sam Stephenson]] · [[people/jeff-bezos|Jeff Bezos]] · [[people/robert-kiyosaki|Robert Kiyosaki]] · [[episodes/2026-04-16|2026-04-16]]
+[[concepts/fulfillment-center-operations|fulfillment-center-operations]] · [[concepts/workplace-safety|workplace-safety]] · [[concepts/rest|rest]] · [[companies/amazon|Amazon]] · [[companies/the-western-edge|The Western Edge]] · [[companies/techcrunch|TechCrunch]] · [[companies/moneywise|Moneywise]] · [[people/sam-stephenson|Sam Stephenson]] · [[people/jeff-bezos|Jeff Bezos]] · [[people/robert-kiyosaki|Robert Kiyosaki]] · [[episodes/2026-04-16|2026-04-16]]

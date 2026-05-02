@@ -3,17 +3,20 @@ type: company
 name: Apache Software Foundation
 slug: apache-software-foundation
 first_seen: 2026-03-17
-last_seen: 2026-05-01
-mention_count: 10
+last_seen: 2026-05-02
+mention_count: 12
 avg_confidence: ""
 tags: [company]
 ---
 
 # Apache Software Foundation
 
-_Company mentioned across 10 stories._
+_Company mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-05-02|2026-05-02]]
+    - [[sources/2026-05-02/08_what-is-apache-polaris-why-open-data-catalogs-matter-and-how|What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS]]
+    - [[sources/2026-05-02/01_apache-spark-pyspark-4-2-0-dev5-released-on-pypi|Apache Spark PySpark 4.2.0.dev5 released on PyPI]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/07_the-metadata-structure-of-modern-table-formats|The Metadata Structure of Modern Table Formats]]
 - [[episodes/2026-04-16|2026-04-16]]

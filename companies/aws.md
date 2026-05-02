@@ -3,17 +3,19 @@ type: company
 name: AWS
 slug: aws
 first_seen: 2026-04-16
-last_seen: 2026-04-25
-mention_count: 5
+last_seen: 2026-05-02
+mention_count: 6
 avg_confidence: ""
 tags: [company]
 ---
 
 # AWS
 
-_Company mentioned across 5 stories._
+_Company mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-02|2026-05-02]]
+    - [[sources/2026-05-02/04_aws-stops-billing-middle-east-cloud-customers-as-repairs-to|AWS stops billing Middle East cloud customers as repairs to war damage drag on]]
 - [[episodes/2026-04-25|2026-04-25]]
     - [[sources/2026-04-25/07_from-spreadsheets-to-a-self-driving-data-pipeline-how-we-aut|From Spreadsheets to a Self-Driving Data Pipeline How We Automated Agile Metrics for 17 Teams]]
     - [[sources/2026-04-25/06_knime-apache-spark-integration-no-code-big-data-processing-a|KNIME Apache Spark Integration เช อมโลก No-Code เข าก บ Big Data Processing บน AWS]]

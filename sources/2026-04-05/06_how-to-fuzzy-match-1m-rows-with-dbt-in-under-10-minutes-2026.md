@@ -6,7 +6,7 @@ rank: 6
 source: rss_feed
 url: "https://medium.com/towards-data-engineering/how-to-fuzzy-match-1m-rows-with-dbt-in-under-10-minutes-2026-d72af2cb4de3?source=rss------data_engineering-5"
 title: How to fuzzy match 1M rows with dbt in under 10 minutes 2026
-quality_score: 0.77
+quality_score: 0.766
 content_hash: "sha256:6f1c6ad615a4331d8b594c41d24cb74c64820d89fb1162718fbe35ebabcd2fb9"
 concepts: [dbt, fuzzy-matching, deduplication]
 companies: [towards-data-engineering]

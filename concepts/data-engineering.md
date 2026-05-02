@@ -4,14 +4,14 @@ name: Data Engineering
 slug: data-engineering
 first_seen: 2026-03-17
 last_seen: 2026-04-28
-mention_count: 8
-avg_confidence: 0.737
+mention_count: 9
+avg_confidence: 0.733
 tags: [concept]
 ---
 
 # Data Engineering
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
 - [[episodes/2026-04-28|2026-04-28]]
@@ -27,5 +27,7 @@ _Concept mentioned across 8 stories._
     - [[sources/2026-04-20/05_leading-a-greenfield-postgresql-database-analytics-focused-b|Leading a greenfield PostgreSQL database analytics focused buildout Communication.]]
 - [[episodes/2026-04-12|2026-04-12]]
     - [[sources/2026-04-12/03_reflections-from-a-full-day-databricks-session-where-data-ap|Reflections from a Full-Day Databricks Session Where Data, Apps, and AI Are Converging]]
+- [[episodes/2026-04-04|2026-04-04]]
+    - [[sources/2026-04-04/06_how-worlddataiq-builds-scalable-data-pipelines|How WorldDataIQ Builds Scalable Data Pipelines]]
 - [[episodes/2026-03-17|2026-03-17]]
     - [[sources/2026-03-17/02_how-hard-is-it-to-learn-spark-or-pyspark-from-sql-help-with|How hard is it to learn spark or pyspark from SQL? Help with deciding what to upskill next]]

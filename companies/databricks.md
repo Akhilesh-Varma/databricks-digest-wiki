@@ -3,17 +3,22 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-01
-mention_count: 113
+last_seen: 2026-05-02
+mention_count: 118
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 113 stories._
+_Company mentioned across 118 stories._
 
 ## Appears in
+- [[episodes/2026-05-02|2026-05-02]]
+    - [[sources/2026-05-02/02_azure-databricks-reverse-ssh-tunnel-for-on-premises-connecti|Azure Databricks Reverse SSH Tunnel for On-Premises Connectivity]]
+    - [[sources/2026-05-02/03_the-next-generation-of-databricks-genie|The next generation of Databricks Genie]]
+    - [[sources/2026-05-02/07_introduction-to-external-locations-for-catalog-and-schema-in|Introduction to External Locations for Catalog and Schema in Databricks]]
+    - [[sources/2026-05-02/05_what-is-a-dlt-pipeline-a-beginner-guide-with-my-mistakes-lea|What is a DLT Pipeline? A Beginner Guide with My Mistakes Learnings]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/03_learning-series-data-preparation-for-machine-learning|Learning Series Data Preparation for Machine Learning]]
     - [[sources/2026-05-01/04_community-alert-free-bricktalk-on-supply-chain-management-wi|Community Alert Free BrickTalk on Supply Chain Management with Databricks!]]
@@ -142,6 +147,7 @@ _Company mentioned across 113 stories._
     - [[sources/2026-04-08/01_databricks-cli-v0-296-0-released|Databricks CLI v0.296.0 released]]
 - [[episodes/2026-04-05|2026-04-05]]
     - [[sources/2026-04-05/03_databricks-use-cases-decoded-2-how-a-global-sportswear-retai|Databricks Use Cases Decoded 2 How a Global Sportswear Retailer Cut ETL Time by 70 and Went 48x]]
+    - [[sources/2026-04-05/04_the-rescue-mission-for-databricks-pipelines-migrating-to-dab|The Rescue Mission for Databricks Pipelines Migrating to DABs with Zero Data Loss]]
     - [[sources/2026-04-05/02_from-voice-to-insight-integrating-vocal-bridge-with-databric|From Voice to Insight Integrating Vocal Bridge with Databricks]]
     - [[sources/2026-04-05/03_mastering-ai-functions-on-databricks-native-artificial-intel|Mastering AI Functions on Databricks Native Artificial Intelligence in Your Lakehouse]]
     - [[sources/2026-04-05/04_salesforce-to-databricks-in-the-enterprise-what-the-docs-don|Salesforce to Databricks in the Enterprise What the Docs Don t Warn You About]]

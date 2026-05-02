@@ -3,17 +3,21 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-05-01
-mention_count: 13
+last_seen: 2026-05-02
+mention_count: 16
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 13 stories._
+_Company mentioned across 16 stories._
 
 ## Appears in
+- [[episodes/2026-05-02|2026-05-02]]
+    - [[sources/2026-05-02/08_what-is-apache-polaris-why-open-data-catalogs-matter-and-how|What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS]]
+    - [[sources/2026-05-02/03_the-next-generation-of-databricks-genie|The next generation of Databricks Genie]]
+    - [[sources/2026-05-02/09_meet-sdi-the-no-code-etl-tool-every-data-engineer-needs-in-t|Meet SDI The No-Code ETL Tool Every Data Engineer Needs in Their Toolbox]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/01_databricks-sdk-java-v0-106-0-released|Databricks SDK Java v0.106.0 released]]
 - [[episodes/2026-04-29|2026-04-29]]

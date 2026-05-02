@@ -3,17 +3,20 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-05-01
-mention_count: 19
-avg_confidence: 0.774
+last_seen: 2026-05-02
+mention_count: 21
+avg_confidence: 0.762
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 19 stories._
+_Concept mentioned across 21 stories._
 
 ## Appears in
+- [[episodes/2026-05-02|2026-05-02]]
+    - [[sources/2026-05-02/08_what-is-apache-polaris-why-open-data-catalogs-matter-and-how|What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS]]
+    - [[sources/2026-05-02/01_apache-spark-pyspark-4-2-0-dev5-released-on-pypi|Apache Spark PySpark 4.2.0.dev5 released on PyPI]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/07_the-metadata-structure-of-modern-table-formats|The Metadata Structure of Modern Table Formats]]
     - [[sources/2026-05-01/03_learning-series-data-preparation-for-machine-learning|Learning Series Data Preparation for Machine Learning]]
@@ -36,7 +39,7 @@ _Concept mentioned across 19 stories._
 - [[episodes/2026-04-10|2026-04-10]]
     - [[sources/2026-04-10/01_apache-spark-pyspark-4-2-0-dev4-released-on-pypi|Apache Spark PySpark 4.2.0.dev4 released on PyPI]]
 - [[episodes/2026-04-05|2026-04-05]]
-    - [[sources/2026-04-05/02_how-to-optimize-spark-jobs-for-performance-real-techniques|How to Optimize Spark Jobs for Performance Real Techniques]]
+    - [[sources/2026-04-05/06_how-to-optimize-spark-jobs-for-performance-real-techniques|How to Optimize Spark Jobs for Performance Real Techniques]]
     - [[sources/2026-04-05/04_your-spark-job-is-oom-ing-because-you-don-t-understand-your|Your Spark Job Is OOM ing!! Because You Don t Understand Your Kitchen]]
     - [[sources/2026-04-05/06_spark-architecture-explained-what-actually-happens-when-your|Spark Architecture Explained What Actually Happens When Your PySpark Job Runs]]
 - [[episodes/2026-03-17|2026-03-17]]

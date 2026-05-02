@@ -3,17 +3,19 @@ type: concept
 name: Data Governance
 slug: data-governance
 first_seen: 2026-04-12
-last_seen: 2026-04-29
-mention_count: 3
-avg_confidence: 0.6
+last_seen: 2026-05-02
+mention_count: 4
+avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Data Governance
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-02|2026-05-02]]
+    - [[sources/2026-05-02/06_your-data-governance-program-is-two-years-away-from-being-de|Your Data Governance Program Is Two Years Away From Being Defunded.]]
 - [[episodes/2026-04-29|2026-04-29]]
     - [[sources/2026-04-29/06_securely-send-first-party-conversion-signals-with-snapchat-c|Securely send first-party conversion signals with Snapchat Conversions API on Databricks Marketplace]]
     - [[sources/2026-04-29/07_how-databricks-unity-catalog-simplifies-enterprise-data-gove|How Databricks Unity Catalog Simplifies Enterprise Data Governance]]

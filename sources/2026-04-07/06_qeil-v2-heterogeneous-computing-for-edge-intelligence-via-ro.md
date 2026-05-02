@@ -6,7 +6,7 @@ rank: 6
 source: rss_feed
 url: "https://arxiv.org/abs/2602.06057"
 title: QEIL v2 Heterogeneous Computing for Edge Intelligence via Roofline-Derived Pareto-Optimal Energy Modeling and Multi-Objective Orchestration
-quality_score: 0.909
+quality_score: 0.906
 content_hash: "sha256:200c78ae44e5b21fc858b1f3fefe71bd614fe8b8f55bd3e30fca501249fff508"
 concepts: [qeil-v2, roofline-model, pareto-guided-simulated-annealing-with-momentum-pgsam, dasi, cpq, phi-thermal-yield, eac-arde-selection-cascade, csvet-early-stopping, large-language-models-llms, heterogeneous-edge-computing, llama-3-1-8b, 4-bit-quantization, multi-objective-optimization, cmos-leakage-physics]
 companies: []

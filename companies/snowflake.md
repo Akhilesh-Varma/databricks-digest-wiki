@@ -3,17 +3,19 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-08
-last_seen: 2026-04-30
-mention_count: 10
+last_seen: 2026-05-02
+mention_count: 11
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 10 stories._
+_Company mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-05-02|2026-05-02]]
+    - [[sources/2026-05-02/08_what-is-apache-polaris-why-open-data-catalogs-matter-and-how|What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS]]
 - [[episodes/2026-04-30|2026-04-30]]
     - [[sources/2026-04-30/06_databricks-vs-snowflake-vs-fabric-which-platform-to-choose|Databricks vs Snowflake vs Fabric Which Platform to Choose?]]
 - [[episodes/2026-04-29|2026-04-29]]
