@@ -44,6 +44,21 @@ jobs:
           # links resolve correctly under content/.
           cp -r * /tmp/quartz/content/
 
+      - name: Apply Quartz config override
+        run: |
+          # If .github/quartz/quartz.config.ts exists, it replaces the upstream
+          # default. This is where pageTitle, ignorePatterns (e.g. people/**),
+          # theme colors, and analytics get customized — see the file for
+          # details. baseUrl is always overwritten by the next step regardless.
+          if [ -f .github/quartz/quartz.config.ts ]; then
+            cp .github/quartz/quartz.config.ts /tmp/quartz/quartz.config.ts
+            echo "Applied custom quartz.config.ts"
+          fi
+          if [ -f .github/quartz/quartz.layout.ts ]; then
+            cp .github/quartz/quartz.layout.ts /tmp/quartz/quartz.layout.ts
+            echo "Applied custom quartz.layout.ts"
+          fi
+
       - name: Configure Quartz baseUrl for project pages
         run: |
           OWNER=$(echo "${{ github.repository_owner }}" | tr '[:upper:]' '[:lower:]')
@@ -51,8 +66,39 @@ jobs:
           # Quartz wants baseUrl WITHOUT scheme. Project pages live at
           # https://<owner>.github.io/<repo>/.
           sed -i "s|baseUrl: \".*\"|baseUrl: \"${OWNER}.github.io/${REPO}\"|" /tmp/quartz/quartz.config.ts
-          # Optional: rebrand the page title from the Quartz default.
-          sed -i 's|pageTitle: ".*"|pageTitle: "Daily Databricks Digest Wiki"|' /tmp/quartz/quartz.config.ts
+
+      - name: Inject disclaimer banner into all pages
+        run: |
+          # If .github/quartz/disclaimer.md exists, prepend its content to
+          # every markdown file in the staged content (after the frontmatter
+          # block). This is the per-page "auto-generated, may be inaccurate"
+          # banner from the security review. Edit disclaimer.md to change the
+          # text — no workflow change required.
+          if [ -f .github/quartz/disclaimer.md ]; then
+            python3 - <<'PYEOF'
+          from pathlib import Path
+          disclaimer = Path('.github/quartz/disclaimer.md').read_text()
+          content_root = Path('/tmp/quartz/content')
+          count = 0
+          for md in content_root.rglob('*.md'):
+              text = md.read_text()
+              # Skip if the disclaimer was already injected (idempotent re-runs).
+              if 'About this auto-generated wiki' in text:
+                  continue
+              if text.startswith('---'):
+                  # Find the close of the YAML frontmatter and insert after it.
+                  end = text.find('\n---\n', 3)
+                  if end != -1:
+                      new = text[: end + 5] + '\n' + disclaimer + text[end + 5 :]
+                  else:
+                      new = disclaimer + text
+              else:
+                  new = disclaimer + text
+              md.write_text(new)
+              count += 1
+          print(f'Disclaimer injected into {count} pages')
+          PYEOF
+          fi
 
       - name: Set up Node
         uses: actions/setup-node@v4
