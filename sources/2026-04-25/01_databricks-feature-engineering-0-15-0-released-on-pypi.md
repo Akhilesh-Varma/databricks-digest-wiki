@@ -29,4 +29,4 @@ Databricks Feature Engineering version 0.15.0 has been released on PyPI. This re
 - **URL:** <https://pypi.org/project/databricks-feature-engineering/0.15.0/>
 
 ## Related
-[[concepts/databricks-feature-engineering|databricks-feature-engineering]] · [[concepts/databricks|databricks]] · [[concepts/pypi|pypi]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-25|2026-04-25]]
+[[concepts/databricks-feature-engineering|databricks-feature-engineering]] · [[concepts/feature-engineering|feature-engineering]] · [[concepts/databricks|databricks]] · [[concepts/pypi|pypi]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-25|2026-04-25]]

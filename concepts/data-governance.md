@@ -3,17 +3,19 @@ type: concept
 name: Data Governance
 slug: data-governance
 first_seen: 2026-04-12
-last_seen: 2026-05-02
-mention_count: 4
-avg_confidence: 0.7
+last_seen: 2026-05-03
+mention_count: 5
+avg_confidence: 0.76
 tags: [concept]
 ---
 
 # Data Governance
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-03|2026-05-03]]
+    - [[sources/2026-05-03/07_why-data-governance-quietly-dies-and-no-one-says-the-real-re|Why Data Governance Quietly Dies and No One Says the Real Reason]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/06_your-data-governance-program-is-two-years-away-from-being-de|Your Data Governance Program Is Two Years Away From Being Defunded.]]
 - [[episodes/2026-04-29|2026-04-29]]

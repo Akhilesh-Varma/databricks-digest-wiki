@@ -3,17 +3,19 @@ type: concept
 name: AI BI Dashboards
 slug: ai-bi-dashboards
 first_seen: 2026-04-16
-last_seen: 2026-04-27
-mention_count: 3
+last_seen: 2026-05-03
+mention_count: 4
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # AI BI Dashboards
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-03|2026-05-03]]
+    - [[sources/2026-05-03/02_introducing-genie-agent-mode|Introducing Genie Agent Mode]]
 - [[episodes/2026-04-27|2026-04-27]]
     - [[sources/2026-04-27/03_data-ai-summit-2026-get-hands-on-with-ai|Data AI Summit 2026 Get hands on with AI]]
 - [[episodes/2026-04-26|2026-04-26]]

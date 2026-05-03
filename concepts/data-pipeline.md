@@ -3,17 +3,19 @@ type: concept
 name: Data Pipeline
 slug: data-pipeline
 first_seen: 2026-04-08
-last_seen: 2026-05-02
-mention_count: 8
+last_seen: 2026-05-03
+mention_count: 9
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Data Pipeline
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-03|2026-05-03]]
+    - [[sources/2026-05-03/08_top-20-advanced-data-engineering-interview-questions|Top 20 Advanced Data Engineering Interview Questions]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/05_what-is-a-dlt-pipeline-a-beginner-guide-with-my-mistakes-lea|What is a DLT Pipeline? A Beginner Guide with My Mistakes Learnings]]
 - [[episodes/2026-05-01|2026-05-01]]

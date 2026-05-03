@@ -3,17 +3,19 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-02
-mention_count: 43
-avg_confidence: 0.747
+last_seen: 2026-05-03
+mention_count: 44
+avg_confidence: 0.745
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 43 stories._
+_Concept mentioned across 44 stories._
 
 ## Appears in
+- [[episodes/2026-05-03|2026-05-03]]
+    - [[sources/2026-05-03/02_introducing-genie-agent-mode|Introducing Genie Agent Mode]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/03_the-next-generation-of-databricks-genie|The next generation of Databricks Genie]]
     - [[sources/2026-05-02/07_introduction-to-external-locations-for-catalog-and-schema-in|Introduction to External Locations for Catalog and Schema in Databricks]]

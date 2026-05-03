@@ -3,17 +3,19 @@ type: concept
 name: Microsoft Fabric
 slug: microsoft-fabric
 first_seen: 2026-04-11
-last_seen: 2026-04-28
-mention_count: 4
-avg_confidence: 0.85
+last_seen: 2026-05-03
+mention_count: 5
+avg_confidence: 0.88
 tags: [concept]
 ---
 
 # Microsoft Fabric
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-03|2026-05-03]]
+    - [[sources/2026-05-03/06_how-we-shipped-3-full-stack-data-platforms-in-one-session-us|How We Shipped 3 Full-Stack Data Platforms in One Session Using Microsoft Fabric Azure AI Foundry]]
 - [[episodes/2026-04-28|2026-04-28]]
     - [[sources/2026-04-28/05_microsoft-fabric-te-delta-time-travel-ile-veri-kurtarma|Microsoft Fabric te Delta Time Travel ile Veri Kurtarma]]
 - [[episodes/2026-04-27|2026-04-27]]

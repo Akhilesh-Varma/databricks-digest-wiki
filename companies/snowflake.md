@@ -3,17 +3,19 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-08
-last_seen: 2026-05-02
-mention_count: 11
+last_seen: 2026-05-03
+mention_count: 12
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 11 stories._
+_Company mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-05-03|2026-05-03]]
+    - [[sources/2026-05-03/04_show-hn-mljar-studio-local-ai-data-analyst-that-saves-analys|Show HN Mljar Studio local AI data analyst that saves analysis as notebooks]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/08_what-is-apache-polaris-why-open-data-catalogs-matter-and-how|What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS]]
 - [[episodes/2026-04-30|2026-04-30]]

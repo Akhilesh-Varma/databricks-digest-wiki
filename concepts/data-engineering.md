@@ -3,17 +3,19 @@ type: concept
 name: Data Engineering
 slug: data-engineering
 first_seen: 2026-03-17
-last_seen: 2026-04-28
-mention_count: 9
-avg_confidence: 0.733
+last_seen: 2026-05-03
+mention_count: 10
+avg_confidence: 0.76
 tags: [concept]
 ---
 
 # Data Engineering
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-05-03|2026-05-03]]
+    - [[sources/2026-05-03/08_top-20-advanced-data-engineering-interview-questions|Top 20 Advanced Data Engineering Interview Questions]]
 - [[episodes/2026-04-28|2026-04-28]]
     - [[sources/2026-04-28/03_data-ai-summit-2026-registration-now-open-early-bird-pricing|Data AI Summit 2026 Registration Now Open - Early Bird Pricing!]]
 - [[episodes/2026-04-25|2026-04-25]]

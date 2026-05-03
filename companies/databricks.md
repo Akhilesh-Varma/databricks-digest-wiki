@@ -3,17 +3,22 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-02
-mention_count: 118
+last_seen: 2026-05-03
+mention_count: 122
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 118 stories._
+_Company mentioned across 122 stories._
 
 ## Appears in
+- [[episodes/2026-05-03|2026-05-03]]
+    - [[sources/2026-05-03/01_solution-accelerator-series-digital-twins|Solution Accelerator Series Digital Twins]]
+    - [[sources/2026-05-03/03_solution-accelerator-series-propensity-scoring|Solution Accelerator Series Propensity Scoring]]
+    - [[sources/2026-05-03/02_introducing-genie-agent-mode|Introducing Genie Agent Mode]]
+    - [[sources/2026-05-03/04_show-hn-mljar-studio-local-ai-data-analyst-that-saves-analys|Show HN Mljar Studio local AI data analyst that saves analysis as notebooks]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/02_azure-databricks-reverse-ssh-tunnel-for-on-premises-connecti|Azure Databricks Reverse SSH Tunnel for On-Premises Connectivity]]
     - [[sources/2026-05-02/03_the-next-generation-of-databricks-genie|The next generation of Databricks Genie]]

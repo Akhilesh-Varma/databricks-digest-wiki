@@ -3,17 +3,19 @@ type: concept
 name: SQL
 slug: sql
 first_seen: 2026-03-17
-last_seen: 2026-04-28
-mention_count: 6
-avg_confidence: 0.5
+last_seen: 2026-05-03
+mention_count: 7
+avg_confidence: 0.486
 tags: [concept]
 ---
 
 # SQL
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-03|2026-05-03]]
+    - [[sources/2026-05-03/08_top-20-advanced-data-engineering-interview-questions|Top 20 Advanced Data Engineering Interview Questions]]
 - [[episodes/2026-04-28|2026-04-28]]
     - [[sources/2026-04-28/06_sema-sql-beyond-traditional-relational-querying-with-large-l|SEMA-SQL Beyond Traditional Relational Querying with Large Language Models]]
 - [[episodes/2026-04-25|2026-04-25]]

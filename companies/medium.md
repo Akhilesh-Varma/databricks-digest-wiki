@@ -3,17 +3,20 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-02
-mention_count: 13
+last_seen: 2026-05-03
+mention_count: 15
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 13 stories._
+_Company mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-05-03|2026-05-03]]
+    - [[sources/2026-05-03/06_how-we-shipped-3-full-stack-data-platforms-in-one-session-us|How We Shipped 3 Full-Stack Data Platforms in One Session Using Microsoft Fabric Azure AI Foundry]]
+    - [[sources/2026-05-03/08_top-20-advanced-data-engineering-interview-questions|Top 20 Advanced Data Engineering Interview Questions]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/05_what-is-a-dlt-pipeline-a-beginner-guide-with-my-mistakes-lea|What is a DLT Pipeline? A Beginner Guide with My Mistakes Learnings]]
 - [[episodes/2026-05-01|2026-05-01]]

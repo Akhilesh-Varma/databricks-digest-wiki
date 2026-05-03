@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-05-02T10:23:47.361943+00:00",
-  "node_count": 1465,
-  "edge_count": 2147,
+  "generated_at": "2026-05-03T10:27:20.310793+00:00",
+  "node_count": 1496,
+  "edge_count": 2202,
   "nodes": [
+    {
+      "id": "episode/2026-05-03",
+      "type": "episode",
+      "label": "Daily Databricks Digest - May 03, 2026",
+      "episode_date": "2026-05-03",
+      "story_count": 8
+    },
     {
       "id": "episode/2026-05-02",
       "type": "episode",
@@ -2078,6 +2085,70 @@
       "quality_score": 0.7963290399885913
     },
     {
+      "id": "story/community_608ffec25bab",
+      "type": "story",
+      "label": "Solution Accelerator Series Digital Twins",
+      "episode_date": "2026-05-03",
+      "rank": 1,
+      "quality_score": 0.52
+    },
+    {
+      "id": "story/community_50b87930ea79",
+      "type": "story",
+      "label": "Introducing Genie Agent Mode",
+      "episode_date": "2026-05-03",
+      "rank": 2,
+      "quality_score": 0.52
+    },
+    {
+      "id": "story/community_c893d8024864",
+      "type": "story",
+      "label": "Solution Accelerator Series Propensity Scoring",
+      "episode_date": "2026-05-03",
+      "rank": 3,
+      "quality_score": 0.52
+    },
+    {
+      "id": "story/hn_47985077",
+      "type": "story",
+      "label": "Show HN Mljar Studio local AI data analyst that saves analysis as notebooks",
+      "episode_date": "2026-05-03",
+      "rank": 4,
+      "quality_score": 0.830201687893821
+    },
+    {
+      "id": "story/hn_47985210",
+      "type": "story",
+      "label": "Show HN Piruetas A self-hosted diary app I built for my girlfriend",
+      "episode_date": "2026-05-03",
+      "rank": 5,
+      "quality_score": 0.6911496615717402
+    },
+    {
+      "id": "story/rss_65eb9feda7d1",
+      "type": "story",
+      "label": "How We Shipped 3 Full-Stack Data Platforms in One Session Using Microsoft Fabric Azure AI Foundry",
+      "episode_date": "2026-05-03",
+      "rank": 6,
+      "quality_score": 0.6598836037554564
+    },
+    {
+      "id": "story/rss_af40d7126f6e",
+      "type": "story",
+      "label": "Why Data Governance Quietly Dies and No One Says the Real Reason",
+      "episode_date": "2026-05-03",
+      "rank": 7,
+      "quality_score": 0.6589808259626323
+    },
+    {
+      "id": "story/rss_020ec41eae08",
+      "type": "story",
+      "label": "Top 20 Advanced Data Engineering Interview Questions",
+      "episode_date": "2026-05-03",
+      "rank": 8,
+      "quality_score": 0.6576066526716271
+    },
+    {
       "id": "story/pypi_pyspark_4.2.0.dev5",
       "type": "story",
       "label": "Apache Spark PySpark 4.2.0.dev5 released on PyPI",
@@ -2473,7 +2544,7 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 118
+      "mention_count": 122
     },
     {
       "id": "concept/fulfillment-center-operations",
@@ -2569,7 +2640,7 @@
       "id": "concept/solution-accelerator",
       "type": "concept",
       "label": "Solution Accelerator",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/lease-extraction-platform",
@@ -2581,7 +2652,7 @@
       "id": "concept/unity-catalog",
       "type": "concept",
       "label": "Unity Catalog",
-      "mention_count": 43
+      "mention_count": 44
     },
     {
       "id": "concept/medallion-architecture",
@@ -2605,7 +2676,7 @@
       "id": "concept/ai-bi-dashboards",
       "type": "concept",
       "label": "AI BI Dashboards",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/mcp-web-search",
@@ -2689,7 +2760,7 @@
       "id": "company/microsoft",
       "type": "company",
       "label": "Microsoft",
-      "mention_count": 16
+      "mention_count": 18
     },
     {
       "id": "concept/databricks-terraform-provider",
@@ -3043,7 +3114,7 @@
       "id": "company/medium",
       "type": "company",
       "label": "Medium",
-      "mention_count": 13
+      "mention_count": 15
     },
     {
       "id": "concept/occupational-safety-and-health-administration-osha",
@@ -3259,7 +3330,7 @@
       "id": "concept/data-pipeline",
       "type": "concept",
       "label": "Data Pipeline",
-      "mention_count": 8
+      "mention_count": 9
     },
     {
       "id": "concept/take-home-assignments",
@@ -3619,7 +3690,7 @@
       "id": "company/snowflake",
       "type": "company",
       "label": "Snowflake",
-      "mention_count": 11
+      "mention_count": 12
     },
     {
       "id": "concept/mlflow",
@@ -4219,7 +4290,7 @@
       "id": "concept/pandas",
       "type": "concept",
       "label": "Pandas",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "company/tiktok",
@@ -4309,13 +4380,13 @@
       "id": "concept/parquet",
       "type": "concept",
       "label": "Parquet",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "company/openai",
       "type": "company",
       "label": "OpenAI",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/postgresql",
@@ -4861,7 +4932,7 @@
       "id": "concept/sql",
       "type": "concept",
       "label": "SQL",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "id": "company/clickhouse",
@@ -4915,7 +4986,7 @@
       "id": "concept/data-engineering",
       "type": "concept",
       "label": "Data Engineering",
-      "mention_count": 9
+      "mention_count": 10
     },
     {
       "id": "concept/sqlite",
@@ -4933,7 +5004,7 @@
       "id": "concept/microsoft-fabric",
       "type": "concept",
       "label": "Microsoft Fabric",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/nlcontextualembedding",
@@ -5611,7 +5682,7 @@
       "id": "concept/ollama",
       "type": "concept",
       "label": "Ollama",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/qdrant-hnsw",
@@ -5983,7 +6054,7 @@
       "id": "concept/databricks-notebooks",
       "type": "concept",
       "label": "Databricks notebooks",
-      "mention_count": 2
+      "mention_count": 4
     },
     {
       "id": "concept/markdown",
@@ -7681,7 +7752,7 @@
       "id": "concept/data-governance",
       "type": "concept",
       "label": "Data Governance",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/databricks-connect",
@@ -8053,7 +8124,7 @@
       "id": "concept/genie-spaces",
       "type": "concept",
       "label": "Genie Spaces",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/databricks-one",
@@ -8425,7 +8496,7 @@
       "id": "concept/genie-agent-mode",
       "type": "concept",
       "label": "Genie Agent Mode",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/copilot-studio",
@@ -8455,6 +8526,60 @@
       "id": "concept/maximal-marginal-relevance",
       "type": "concept",
       "label": "Maximal Marginal Relevance",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/digital-twins",
+      "type": "concept",
+      "label": "Digital Twins",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/iot",
+      "type": "concept",
+      "label": "IoT",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/iiot",
+      "type": "concept",
+      "label": "IIoT",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/time-series-data",
+      "type": "concept",
+      "label": "Time-Series Data",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/propensity-scoring",
+      "type": "concept",
+      "label": "Propensity Scoring",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/solution-accelerators",
+      "type": "concept",
+      "label": "Solution Accelerators",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/real-time-clickstream-propensity",
+      "type": "concept",
+      "label": "Real-Time Clickstream Propensity",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/crm-targeting",
+      "type": "concept",
+      "label": "CRM Targeting",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/feature-engineering",
+      "type": "concept",
+      "label": "Feature Engineering",
       "mention_count": 1
     },
     {
@@ -8908,6 +9033,48 @@
       "mention_count": 1
     },
     {
+      "id": "concept/agentic-ai",
+      "type": "concept",
+      "label": "Agentic AI",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/automl",
+      "type": "concept",
+      "label": "AutoML",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/jupyter-notebook",
+      "type": "concept",
+      "label": "Jupyter Notebook",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/mljar-supervised",
+      "type": "concept",
+      "label": "mljar-supervised",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/matplotlib",
+      "type": "concept",
+      "label": "Matplotlib",
+      "mention_count": 1
+    },
+    {
+      "id": "company/mljar",
+      "type": "company",
+      "label": "MLJAR",
+      "mention_count": 1
+    },
+    {
+      "id": "company/supabase",
+      "type": "company",
+      "label": "Supabase",
+      "mention_count": 1
+    },
+    {
       "id": "concept/sql-warehouse",
       "type": "concept",
       "label": "SQL Warehouse",
@@ -9220,6 +9387,30 @@
       "mention_count": 1
     },
     {
+      "id": "concept/self-hosted-journaling-app",
+      "type": "concept",
+      "label": "Self-hosted journaling app",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/docker-compose",
+      "type": "concept",
+      "label": "Docker Compose",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/rich-text-editing",
+      "type": "concept",
+      "label": "Rich text editing",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/drag-and-drop-image-upload",
+      "type": "concept",
+      "label": "Drag-and-drop image upload",
+      "mention_count": 1
+    },
+    {
       "id": "concept/metadata-management",
       "type": "concept",
       "label": "metadata management",
@@ -9271,6 +9462,18 @@
       "id": "concept/data-governance-metrics",
       "type": "concept",
       "label": "Data Governance Metrics",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/azure-ai-foundry",
+      "type": "concept",
+      "label": "Azure AI Foundry",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/full-stack-data-platform",
+      "type": "concept",
+      "label": "Full-Stack Data Platform",
       "mention_count": 1
     },
     {
@@ -18512,6 +18715,86 @@
       "kind": "mentions"
     },
     {
+      "source": "story/community_608ffec25bab",
+      "target": "episode/2026-05-03",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_608ffec25bab",
+      "target": "concept/digital-twins",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_608ffec25bab",
+      "target": "concept/solution-accelerator",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_608ffec25bab",
+      "target": "concept/databricks-notebooks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_608ffec25bab",
+      "target": "concept/iot",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_608ffec25bab",
+      "target": "concept/iiot",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_608ffec25bab",
+      "target": "concept/time-series-data",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_608ffec25bab",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_c893d8024864",
+      "target": "episode/2026-05-03",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_c893d8024864",
+      "target": "concept/propensity-scoring",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_c893d8024864",
+      "target": "concept/solution-accelerators",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_c893d8024864",
+      "target": "concept/real-time-clickstream-propensity",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_c893d8024864",
+      "target": "concept/databricks-notebooks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_c893d8024864",
+      "target": "concept/crm-targeting",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_c893d8024864",
+      "target": "concept/feature-engineering",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_c893d8024864",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
       "source": "story/community_474912a7c522",
       "target": "episode/2026-04-28",
       "kind": "aired_in"
@@ -19212,6 +19495,111 @@
       "kind": "mentions"
     },
     {
+      "source": "story/community_50b87930ea79",
+      "target": "episode/2026-05-03",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_50b87930ea79",
+      "target": "concept/genie-agent-mode",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_50b87930ea79",
+      "target": "concept/genie-spaces",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_50b87930ea79",
+      "target": "concept/unity-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_50b87930ea79",
+      "target": "concept/ai-bi-dashboards",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_50b87930ea79",
+      "target": "concept/agentic-ai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_50b87930ea79",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985077",
+      "target": "episode/2026-05-03",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/hn_47985077",
+      "target": "concept/automl",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985077",
+      "target": "concept/jupyter-notebook",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985077",
+      "target": "concept/mljar-supervised",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985077",
+      "target": "concept/ollama",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985077",
+      "target": "concept/pandas",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985077",
+      "target": "concept/matplotlib",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985077",
+      "target": "concept/parquet",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985077",
+      "target": "company/mljar",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985077",
+      "target": "company/openai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985077",
+      "target": "company/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985077",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985077",
+      "target": "company/supabase",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985077",
+      "target": "company/microsoft",
+      "kind": "mentions"
+    },
+    {
       "source": "story/community_db7eb7dfd665",
       "target": "episode/2026-04-28",
       "kind": "aired_in"
@@ -19707,6 +20095,31 @@
       "kind": "mentions"
     },
     {
+      "source": "story/hn_47985210",
+      "target": "episode/2026-05-03",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/hn_47985210",
+      "target": "concept/self-hosted-journaling-app",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985210",
+      "target": "concept/docker-compose",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985210",
+      "target": "concept/rich-text-editing",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_47985210",
+      "target": "concept/drag-and-drop-image-upload",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_a23c3819c60b",
       "target": "episode/2026-04-29",
       "kind": "aired_in"
@@ -19812,6 +20225,16 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_af40d7126f6e",
+      "target": "episode/2026-05-03",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_af40d7126f6e",
+      "target": "concept/data-governance",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_cb0c554dd300",
       "target": "episode/2026-05-02",
       "kind": "aired_in"
@@ -19824,6 +20247,36 @@
     {
       "source": "story/rss_cb0c554dd300",
       "target": "concept/data-governance-metrics",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_65eb9feda7d1",
+      "target": "episode/2026-05-03",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_65eb9feda7d1",
+      "target": "concept/microsoft-fabric",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_65eb9feda7d1",
+      "target": "concept/azure-ai-foundry",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_65eb9feda7d1",
+      "target": "concept/full-stack-data-platform",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_65eb9feda7d1",
+      "target": "company/microsoft",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_65eb9feda7d1",
+      "target": "company/medium",
       "kind": "mentions"
     },
     {
@@ -19853,6 +20306,31 @@
     },
     {
       "source": "story/rss_76c25575992e",
+      "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_020ec41eae08",
+      "target": "episode/2026-05-03",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_020ec41eae08",
+      "target": "concept/data-engineering",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_020ec41eae08",
+      "target": "concept/sql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_020ec41eae08",
+      "target": "concept/data-pipeline",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_020ec41eae08",
       "target": "company/medium",
       "kind": "mentions"
     },

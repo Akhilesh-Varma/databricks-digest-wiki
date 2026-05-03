@@ -3,17 +3,19 @@ type: concept
 name: Parquet
 slug: parquet
 first_seen: 2026-04-17
-last_seen: 2026-04-24
-mention_count: 4
-avg_confidence: 0.55
+last_seen: 2026-05-03
+mention_count: 5
+avg_confidence: 0.52
 tags: [concept]
 ---
 
 # Parquet
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-03|2026-05-03]]
+    - [[sources/2026-05-03/04_show-hn-mljar-studio-local-ai-data-analyst-that-saves-analys|Show HN Mljar Studio local AI data analyst that saves analysis as notebooks]]
 - [[episodes/2026-04-24|2026-04-24]]
     - [[sources/2026-04-24/08_cost-optimization-strategies-for-databricks-workloads|Cost Optimization Strategies for Databricks Workloads]]
 - [[episodes/2026-04-21|2026-04-21]]
