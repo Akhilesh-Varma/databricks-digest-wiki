@@ -3,17 +3,22 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-03
-mention_count: 44
-avg_confidence: 0.745
+last_seen: 2026-05-04
+mention_count: 48
+avg_confidence: 0.752
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 44 stories._
+_Concept mentioned across 48 stories._
 
 ## Appears in
+- [[episodes/2026-05-04|2026-05-04]]
+    - [[sources/2026-05-04/06_databricks-data-engineer-associate-exam-what-changed-in-2025|Databricks Data Engineer Associate Exam What Changed in 2025]]
+    - [[sources/2026-05-04/07_5-reasons-your-databricks-implementation-is-underperforming|5 Reasons Your Databricks Implementation Is Underperforming And How a Consultant Fixes It]]
+    - [[sources/2026-05-04/08_single-guide-for-dp-750-azure-databricks-certification|Single guide for DP-750 Azure Databricks certification]]
+    - [[sources/2026-05-04/03_connecting-to-a-storage-account-using-databricks-unity-catal|Connecting to a Storage Account using Databricks Unity Catalog in Azure]]
 - [[episodes/2026-05-03|2026-05-03]]
     - [[sources/2026-05-03/02_introducing-genie-agent-mode|Introducing Genie Agent Mode]]
 - [[episodes/2026-05-02|2026-05-02]]

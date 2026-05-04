@@ -3,17 +3,19 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-04-18
-mention_count: 5
+last_seen: 2026-05-04
+mention_count: 6
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 5 stories._
+_Company mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-04|2026-05-04]]
+    - [[sources/2026-05-04/02_show-hn-semble-code-search-for-agents-that-uses-98-fewer-tok|Show HN Semble Code search for agents that uses 98 fewer tokens than grep]]
 - [[episodes/2026-04-18|2026-04-18]]
     - [[sources/2026-04-18/06_the-context-engineering-bottleneck-why-frontier-ai-agents-fa|The Context Engineering Bottleneck Why Frontier AI Agents Fail at Enterprise Data]]
 - [[episodes/2026-04-12|2026-04-12]]

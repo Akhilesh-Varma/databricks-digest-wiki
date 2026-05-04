@@ -3,17 +3,20 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-05
-last_seen: 2026-05-01
-mention_count: 20
-avg_confidence: 0.595
+last_seen: 2026-05-04
+mention_count: 22
+avg_confidence: 0.605
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 20 stories._
+_Concept mentioned across 22 stories._
 
 ## Appears in
+- [[episodes/2026-05-04|2026-05-04]]
+    - [[sources/2026-05-04/06_databricks-data-engineer-associate-exam-what-changed-in-2025|Databricks Data Engineer Associate Exam What Changed in 2025]]
+    - [[sources/2026-05-04/04_when-ot-meets-it-what-happens-when-a-smart-grid-meets-a-lake|When OT Meets IT What Happens When a Smart Grid Meets a Lakehouse]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/03_learning-series-data-preparation-for-machine-learning|Learning Series Data Preparation for Machine Learning]]
     - [[sources/2026-05-01/05_your-data-products-need-a-product-manager-here-is-what-that|Your Data Products Need a Product Manager. Here Is What That Actually Means]]

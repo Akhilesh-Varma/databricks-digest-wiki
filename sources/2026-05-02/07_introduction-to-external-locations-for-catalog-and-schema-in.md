@@ -30,4 +30,4 @@ The article introduces the concept of external locations for catalogs and schema
 - **URL:** <https://blog.devgenius.io/introduction-to-external-locations-for-catalog-and-schema-in-databricks-3fb1b51373a9?source=rss------databricks-5>
 
 ## Related
-[[concepts/unity-catalog|unity-catalog]] · [[concepts/external-locations|external-locations]] · [[concepts/databricks-catalog|databricks-catalog]] · [[concepts/schema|schema]] · [[concepts/databricks|databricks]] · [[concepts/workspace|workspace]] · [[companies/databricks|Databricks]] · [[companies/dev-genius|Dev Genius]] · [[episodes/2026-05-02|2026-05-02]]
+[[concepts/unity-catalog|unity-catalog]] · [[concepts/external-locations|external-locations]] · [[concepts/databricks-catalog|databricks-catalog]] · [[concepts/schema|schema]] · [[concepts/databricks-workspace|databricks-workspace]] · [[concepts/databricks|databricks]] · [[concepts/workspace|workspace]] · [[companies/databricks|Databricks]] · [[companies/dev-genius|Dev Genius]] · [[episodes/2026-05-02|2026-05-02]]

@@ -3,17 +3,19 @@ type: concept
 name: MLflow
 slug: mlflow
 first_seen: 2026-04-06
-last_seen: 2026-04-29
-mention_count: 9
-avg_confidence: 0.833
+last_seen: 2026-05-04
+mention_count: 10
+avg_confidence: 0.79
 tags: [concept]
 ---
 
 # MLflow
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-05-04|2026-05-04]]
+    - [[sources/2026-05-04/08_single-guide-for-dp-750-azure-databricks-certification|Single guide for DP-750 Azure Databricks certification]]
 - [[episodes/2026-04-29|2026-04-29]]
     - [[sources/2026-04-29/04_datahacks-2026-university-alliance-in-action-at-ucsd|DataHacks 2026 University Alliance in Action at UCSD]]
 - [[episodes/2026-04-27|2026-04-27]]

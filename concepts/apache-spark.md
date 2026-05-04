@@ -3,17 +3,20 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-05-02
-mention_count: 21
-avg_confidence: 0.762
+last_seen: 2026-05-04
+mention_count: 23
+avg_confidence: 0.761
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 21 stories._
+_Concept mentioned across 23 stories._
 
 ## Appears in
+- [[episodes/2026-05-04|2026-05-04]]
+    - [[sources/2026-05-04/07_5-reasons-your-databricks-implementation-is-underperforming|5 Reasons Your Databricks Implementation Is Underperforming And How a Consultant Fixes It]]
+    - [[sources/2026-05-04/08_single-guide-for-dp-750-azure-databricks-certification|Single guide for DP-750 Azure Databricks certification]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/08_what-is-apache-polaris-why-open-data-catalogs-matter-and-how|What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS]]
     - [[sources/2026-05-02/01_apache-spark-pyspark-4-2-0-dev5-released-on-pypi|Apache Spark PySpark 4.2.0.dev5 released on PyPI]]

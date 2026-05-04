@@ -3,17 +3,20 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-01
-mention_count: 22
-avg_confidence: 0.686
+last_seen: 2026-05-04
+mention_count: 24
+avg_confidence: 0.688
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 22 stories._
+_Concept mentioned across 24 stories._
 
 ## Appears in
+- [[episodes/2026-05-04|2026-05-04]]
+    - [[sources/2026-05-04/07_5-reasons-your-databricks-implementation-is-underperforming|5 Reasons Your Databricks Implementation Is Underperforming And How a Consultant Fixes It]]
+    - [[sources/2026-05-04/08_single-guide-for-dp-750-azure-databricks-certification|Single guide for DP-750 Azure Databricks certification]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/01_databricks-sdk-java-v0-106-0-released|Databricks SDK Java v0.106.0 released]]
 - [[episodes/2026-04-30|2026-04-30]]

@@ -3,17 +3,24 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-03
-mention_count: 122
+last_seen: 2026-05-04
+mention_count: 128
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 122 stories._
+_Company mentioned across 128 stories._
 
 ## Appears in
+- [[episodes/2026-05-04|2026-05-04]]
+    - [[sources/2026-05-04/06_databricks-data-engineer-associate-exam-what-changed-in-2025|Databricks Data Engineer Associate Exam What Changed in 2025]]
+    - [[sources/2026-05-04/07_5-reasons-your-databricks-implementation-is-underperforming|5 Reasons Your Databricks Implementation Is Underperforming And How a Consultant Fixes It]]
+    - [[sources/2026-05-04/08_single-guide-for-dp-750-azure-databricks-certification|Single guide for DP-750 Azure Databricks certification]]
+    - [[sources/2026-05-04/04_when-ot-meets-it-what-happens-when-a-smart-grid-meets-a-lake|When OT Meets IT What Happens When a Smart Grid Meets a Lakehouse]]
+    - [[sources/2026-05-04/01_finally-databricks-lets-you-disable-tasks-without-hacks|Finally! Databricks lets you disable tasks without hacks]]
+    - [[sources/2026-05-04/03_connecting-to-a-storage-account-using-databricks-unity-catal|Connecting to a Storage Account using Databricks Unity Catalog in Azure]]
 - [[episodes/2026-05-03|2026-05-03]]
     - [[sources/2026-05-03/01_solution-accelerator-series-digital-twins|Solution Accelerator Series Digital Twins]]
     - [[sources/2026-05-03/03_solution-accelerator-series-propensity-scoring|Solution Accelerator Series Propensity Scoring]]

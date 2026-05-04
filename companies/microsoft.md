@@ -3,17 +3,19 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-05-03
-mention_count: 18
+last_seen: 2026-05-04
+mention_count: 19
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 18 stories._
+_Company mentioned across 19 stories._
 
 ## Appears in
+- [[episodes/2026-05-04|2026-05-04]]
+    - [[sources/2026-05-04/08_single-guide-for-dp-750-azure-databricks-certification|Single guide for DP-750 Azure Databricks certification]]
 - [[episodes/2026-05-03|2026-05-03]]
     - [[sources/2026-05-03/04_show-hn-mljar-studio-local-ai-data-analyst-that-saves-analys|Show HN Mljar Studio local AI data analyst that saves analysis as notebooks]]
     - [[sources/2026-05-03/06_how-we-shipped-3-full-stack-data-platforms-in-one-session-us|How We Shipped 3 Full-Stack Data Platforms in One Session Using Microsoft Fabric Azure AI Foundry]]

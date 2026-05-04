@@ -3,17 +3,19 @@ type: concept
 name: Databricks Asset Bundles
 slug: databricks-asset-bundles
 first_seen: 2026-04-05
-last_seen: 2026-04-16
-mention_count: 4
-avg_confidence: 0.75
+last_seen: 2026-05-04
+mention_count: 5
+avg_confidence: 0.74
 tags: [concept]
 ---
 
 # Databricks Asset Bundles
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-04|2026-05-04]]
+    - [[sources/2026-05-04/08_single-guide-for-dp-750-azure-databricks-certification|Single guide for DP-750 Azure Databricks certification]]
 - [[episodes/2026-04-16|2026-04-16]]
     - [[sources/2026-04-16/04_community-industry-bricktalk-4-transforming-commercial-real|Community Industry BrickTalk 4 Transforming Commercial Real Estate Portfolio Management with AI]]
 - [[episodes/2026-04-15|2026-04-15]]
