@@ -3,17 +3,19 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-05
-last_seen: 2026-05-04
-mention_count: 22
-avg_confidence: 0.605
+last_seen: 2026-05-05
+mention_count: 23
+avg_confidence: 0.617
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 22 stories._
+_Concept mentioned across 23 stories._
 
 ## Appears in
+- [[episodes/2026-05-05|2026-05-05]]
+    - [[sources/2026-05-05/08_databricks-apps-construindo-aplicacoes-de-dados-sem-sair-do|Databricks Apps construindo aplicações de dados sem sair do Lakehouse]]
 - [[episodes/2026-05-04|2026-05-04]]
     - [[sources/2026-05-04/06_databricks-data-engineer-associate-exam-what-changed-in-2025|Databricks Data Engineer Associate Exam What Changed in 2025]]
     - [[sources/2026-05-04/04_when-ot-meets-it-what-happens-when-a-smart-grid-meets-a-lake|When OT Meets IT What Happens When a Smart Grid Meets a Lakehouse]]

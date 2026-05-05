@@ -3,17 +3,19 @@ type: concept
 name: Agent Bricks
 slug: agent-bricks
 first_seen: 2026-04-19
-last_seen: 2026-04-28
-mention_count: 4
-avg_confidence: 0.625
+last_seen: 2026-05-05
+mention_count: 5
+avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Agent Bricks
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-05|2026-05-05]]
+    - [[sources/2026-05-05/05_customer-story-elliptic-protect-crypto-assets-with-governed|CUSTOMER STORY Elliptic Protect crypto assets with governed AI]]
 - [[episodes/2026-04-28|2026-04-28]]
     - [[sources/2026-04-28/01_openai-gpt-5-5-codex-now-available-and-fully-governed-in-dat|OpenAI GPT-5.5 Codex, now available and fully-governed in Databricks]]
 - [[episodes/2026-04-23|2026-04-23]]

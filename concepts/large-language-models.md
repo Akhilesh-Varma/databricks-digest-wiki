@@ -3,17 +3,19 @@ type: concept
 name: Large Language Models
 slug: large-language-models
 first_seen: 2026-04-06
-last_seen: 2026-05-01
-mention_count: 21
-avg_confidence: 0.714
+last_seen: 2026-05-05
+mention_count: 22
+avg_confidence: 0.727
 tags: [concept]
 ---
 
 # Large Language Models
 
-_Concept mentioned across 21 stories._
+_Concept mentioned across 22 stories._
 
 ## Appears in
+- [[episodes/2026-05-05|2026-05-05]]
+    - [[sources/2026-05-05/06_hallucination-is-inevitable-an-innate-limitation-of-large-la|Hallucination Is Inevitable An Innate Limitation of Large Language Models]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/10_synsql-synthesizing-relational-databases-for-robust-evaluati|SynSQL Synthesizing Relational Databases for Robust Evaluation of Text-to-SQL Systems]]
 - [[episodes/2026-04-30|2026-04-30]]

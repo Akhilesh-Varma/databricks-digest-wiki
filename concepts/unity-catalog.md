@@ -3,17 +3,20 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-04
-mention_count: 48
-avg_confidence: 0.752
+last_seen: 2026-05-05
+mention_count: 50
+avg_confidence: 0.75
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 48 stories._
+_Concept mentioned across 50 stories._
 
 ## Appears in
+- [[episodes/2026-05-05|2026-05-05]]
+    - [[sources/2026-05-05/05_customer-story-elliptic-protect-crypto-assets-with-governed|CUSTOMER STORY Elliptic Protect crypto assets with governed AI]]
+    - [[sources/2026-05-05/04_satya-nadella-ali-ghodsi-a-must-see-data-ai-summit-keynote|Satya Nadella Ali Ghodsi A Must-See Data AI Summit Keynote]]
 - [[episodes/2026-05-04|2026-05-04]]
     - [[sources/2026-05-04/06_databricks-data-engineer-associate-exam-what-changed-in-2025|Databricks Data Engineer Associate Exam What Changed in 2025]]
     - [[sources/2026-05-04/07_5-reasons-your-databricks-implementation-is-underperforming|5 Reasons Your Databricks Implementation Is Underperforming And How a Consultant Fixes It]]

@@ -3,17 +3,19 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-04
-mention_count: 24
+last_seen: 2026-05-05
+mention_count: 25
 avg_confidence: 0.688
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 24 stories._
+_Concept mentioned across 25 stories._
 
 ## Appears in
+- [[episodes/2026-05-05|2026-05-05]]
+    - [[sources/2026-05-05/04_satya-nadella-ali-ghodsi-a-must-see-data-ai-summit-keynote|Satya Nadella Ali Ghodsi A Must-See Data AI Summit Keynote]]
 - [[episodes/2026-05-04|2026-05-04]]
     - [[sources/2026-05-04/07_5-reasons-your-databricks-implementation-is-underperforming|5 Reasons Your Databricks Implementation Is Underperforming And How a Consultant Fixes It]]
     - [[sources/2026-05-04/08_single-guide-for-dp-750-azure-databricks-certification|Single guide for DP-750 Azure Databricks certification]]

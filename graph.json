@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-05-04T10:24:55.041812+00:00",
-  "node_count": 1546,
-  "edge_count": 2292,
+  "generated_at": "2026-05-05T10:25:45.496286+00:00",
+  "node_count": 1576,
+  "edge_count": 2356,
   "nodes": [
+    {
+      "id": "episode/2026-05-05",
+      "type": "episode",
+      "label": "Daily Databricks Digest - May 05, 2026",
+      "episode_date": "2026-05-05",
+      "story_count": 10
+    },
     {
       "id": "episode/2026-05-04",
       "type": "episode",
@@ -2300,6 +2307,86 @@
       "quality_score": 0.8174961668293651
     },
     {
+      "id": "story/pypi_databricks-connect_18.0.6",
+      "type": "story",
+      "label": "Databricks Connect 18.0.6 released on PyPI",
+      "episode_date": "2026-05-05",
+      "rank": 1,
+      "quality_score": 0.5468355427488427
+    },
+    {
+      "id": "story/pypi_databricks-connect_17.3.8",
+      "type": "story",
+      "label": "Databricks Connect 17.3.8 released on PyPI",
+      "episode_date": "2026-05-05",
+      "rank": 2,
+      "quality_score": 0.5466664171876654
+    },
+    {
+      "id": "story/pypi_databricks-connect_16.4.16",
+      "type": "story",
+      "label": "Databricks Connect 16.4.16 released on PyPI",
+      "episode_date": "2026-05-05",
+      "rank": 3,
+      "quality_score": 0.5466432093399471
+    },
+    {
+      "id": "story/community_146a3285923e",
+      "type": "story",
+      "label": "Satya Nadella Ali Ghodsi A Must-See Data AI Summit Keynote",
+      "episode_date": "2026-05-05",
+      "rank": 4,
+      "quality_score": 0.74
+    },
+    {
+      "id": "story/community_fe477462b042",
+      "type": "story",
+      "label": "CUSTOMER STORY Elliptic Protect crypto assets with governed AI",
+      "episode_date": "2026-05-05",
+      "rank": 5,
+      "quality_score": 0.7
+    },
+    {
+      "id": "story/hn_48010033",
+      "type": "story",
+      "label": "Hallucination Is Inevitable An Innate Limitation of Large Language Models",
+      "episode_date": "2026-05-05",
+      "rank": 6,
+      "quality_score": 0.6946259090935435
+    },
+    {
+      "id": "story/rss_3d352300aa8d",
+      "type": "story",
+      "label": "Deploying Databricks Genie to Production When DAB Won t Do It For You",
+      "episode_date": "2026-05-05",
+      "rank": 7,
+      "quality_score": 0.7304412634991734
+    },
+    {
+      "id": "story/rss_7c9f6b9972a7",
+      "type": "story",
+      "label": "Databricks Apps construindo aplica\u00e7\u00f5es de dados sem sair do Lakehouse",
+      "episode_date": "2026-05-05",
+      "rank": 8,
+      "quality_score": 0.7272960915019842
+    },
+    {
+      "id": "story/rss_d95777787011",
+      "type": "story",
+      "label": "Selective Rebuild In Databricks Free Edition Using Lineage BFS",
+      "episode_date": "2026-05-05",
+      "rank": 9,
+      "quality_score": 0.6908934791410385
+    },
+    {
+      "id": "story/hn_48013746",
+      "type": "story",
+      "label": "Show HN Agent-evals Claude skill to build your own evals",
+      "episode_date": "2026-05-05",
+      "rank": 10,
+      "quality_score": 0.6238903959247826
+    },
+    {
       "id": "concept/s3-object-storage",
       "type": "concept",
       "label": "S3 Object Storage",
@@ -2615,7 +2702,7 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 128
+      "mention_count": 136
     },
     {
       "id": "concept/fulfillment-center-operations",
@@ -2723,7 +2810,7 @@
       "id": "concept/unity-catalog",
       "type": "concept",
       "label": "Unity Catalog",
-      "mention_count": 48
+      "mention_count": 50
     },
     {
       "id": "concept/medallion-architecture",
@@ -2735,7 +2822,7 @@
       "id": "concept/databricks-asset-bundles",
       "type": "concept",
       "label": "Databricks Asset Bundles",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "concept/model-serving-endpoints",
@@ -2759,7 +2846,7 @@
       "id": "concept/databricks-apps",
       "type": "concept",
       "label": "Databricks Apps",
-      "mention_count": 7
+      "mention_count": 8
     },
     {
       "id": "concept/ai-playground",
@@ -2783,7 +2870,7 @@
       "id": "concept/ci-cd",
       "type": "concept",
       "label": "CI/CD",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/databricks-git-folders",
@@ -2831,7 +2918,7 @@
       "id": "company/microsoft",
       "type": "company",
       "label": "Microsoft",
-      "mention_count": 19
+      "mention_count": 20
     },
     {
       "id": "concept/databricks-terraform-provider",
@@ -2873,7 +2960,7 @@
       "id": "concept/delta-lake",
       "type": "concept",
       "label": "Delta Lake",
-      "mention_count": 24
+      "mention_count": 25
     },
     {
       "id": "concept/delta-kernel",
@@ -2951,7 +3038,7 @@
       "id": "concept/large-language-models",
       "type": "concept",
       "label": "Large Language Models",
-      "mention_count": 21
+      "mention_count": 22
     },
     {
       "id": "concept/cost-based-query-optimization",
@@ -3089,7 +3176,7 @@
       "id": "concept/lakehouse",
       "type": "concept",
       "label": "Lakehouse",
-      "mention_count": 22
+      "mention_count": 23
     },
     {
       "id": "company/microsoft-azure",
@@ -3185,7 +3272,7 @@
       "id": "company/medium",
       "type": "company",
       "label": "Medium",
-      "mention_count": 15
+      "mention_count": 17
     },
     {
       "id": "concept/occupational-safety-and-health-administration-osha",
@@ -4637,7 +4724,7 @@
       "id": "concept/genie",
       "type": "concept",
       "label": "Genie",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "id": "person/emily-piekarski",
@@ -4985,7 +5072,7 @@
       "id": "concept/pypi",
       "type": "concept",
       "label": "PyPI",
-      "mention_count": 4
+      "mention_count": 7
     },
     {
       "id": "concept/columnar-databases",
@@ -5129,7 +5216,7 @@
       "id": "person/ali-ghodsi",
       "type": "person",
       "label": "Ali Ghodsi",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "person/ben-horowitz",
@@ -5153,7 +5240,7 @@
       "id": "concept/agent-bricks",
       "type": "concept",
       "label": "Agent Bricks",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/ai-parse-document",
@@ -5615,7 +5702,7 @@
       "id": "company/anthropic",
       "type": "company",
       "label": "Anthropic",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "id": "person/sudhir-gajre",
@@ -5699,7 +5786,7 @@
       "id": "concept/data-lineage",
       "type": "concept",
       "label": "Data Lineage",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/event-driven-pipelines",
@@ -6011,7 +6098,7 @@
       "id": "concept/data-pipelines",
       "type": "concept",
       "label": "data pipelines",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/streaming-data",
@@ -6095,7 +6182,7 @@
       "id": "concept/ai-agents",
       "type": "concept",
       "label": "AI agents",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/vibe-coding",
@@ -6995,7 +7082,7 @@
       "id": "concept/databricks-genie",
       "type": "concept",
       "label": "Databricks Genie",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/change-data-feed",
@@ -7829,7 +7916,7 @@
       "id": "concept/databricks-connect",
       "type": "concept",
       "label": "Databricks Connect",
-      "mention_count": 1
+      "mention_count": 4
     },
     {
       "id": "concept/spark-connect",
@@ -7967,7 +8054,7 @@
       "id": "concept/databricks-free-edition",
       "type": "concept",
       "label": "Databricks Free Edition",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/mlh",
@@ -8654,6 +8741,42 @@
       "mention_count": 1
     },
     {
+      "id": "concept/hallucination-in-llms",
+      "type": "concept",
+      "label": "Hallucination in LLMs",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/learning-theory",
+      "type": "concept",
+      "label": "Learning Theory",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/computable-functions",
+      "type": "concept",
+      "label": "Computable Functions",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/time-complexity",
+      "type": "concept",
+      "label": "Time Complexity",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/hallucination-mitigation",
+      "type": "concept",
+      "label": "Hallucination Mitigation",
+      "mention_count": 1
+    },
+    {
+      "id": "company/arxiv",
+      "type": "company",
+      "label": "arXiv",
+      "mention_count": 1
+    },
+    {
       "id": "concept/databricks-ai-bi-genie-rooms",
       "type": "concept",
       "label": "Databricks AI BI Genie Rooms",
@@ -8789,6 +8912,48 @@
       "id": "concept/databricks-runtime",
       "type": "concept",
       "label": "Databricks Runtime",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/managed-mlflow",
+      "type": "concept",
+      "label": "Managed MLflow",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/model-serving",
+      "type": "concept",
+      "label": "Model Serving",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/foundational-models",
+      "type": "concept",
+      "label": "Foundational Models",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/blockchain-analytics",
+      "type": "concept",
+      "label": "Blockchain Analytics",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/suspicious-activity-report",
+      "type": "concept",
+      "label": "Suspicious Activity Report",
+      "mention_count": 1
+    },
+    {
+      "id": "company/elliptic",
+      "type": "company",
+      "label": "Elliptic",
+      "mention_count": 1
+    },
+    {
+      "id": "person/amar-chandarana",
+      "type": "person",
+      "label": "Amar Chandarana",
       "mention_count": 1
     },
     {
@@ -9224,6 +9389,24 @@
       "mention_count": 1
     },
     {
+      "id": "concept/claude-skill",
+      "type": "concept",
+      "label": "Claude Skill",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/agent-evaluation",
+      "type": "concept",
+      "label": "Agent Evaluation",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/evaluation-systems",
+      "type": "concept",
+      "label": "Evaluation Systems",
+      "mention_count": 1
+    },
+    {
       "id": "concept/databricks-java-sdk",
       "type": "concept",
       "label": "Databricks Java SDK",
@@ -9566,6 +9749,30 @@
       "mention_count": 1
     },
     {
+      "id": "concept/breadth-first-search",
+      "type": "concept",
+      "label": "Breadth-First Search",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/selective-rebuild",
+      "type": "concept",
+      "label": "Selective Rebuild",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/data-ai-summit",
+      "type": "concept",
+      "label": "Data AI Summit",
+      "mention_count": 2
+    },
+    {
+      "id": "person/satya-nadella",
+      "type": "person",
+      "label": "Satya Nadella",
+      "mention_count": 1
+    },
+    {
       "id": "concept/ssis",
       "type": "concept",
       "label": "SSIS",
@@ -9629,12 +9836,6 @@
       "id": "company/hashicorp",
       "type": "company",
       "label": "HashiCorp",
-      "mention_count": 1
-    },
-    {
-      "id": "concept/data-ai-summit",
-      "type": "concept",
-      "label": "Data AI Summit",
       "mention_count": 1
     },
     {
@@ -19077,6 +19278,46 @@
       "kind": "mentions"
     },
     {
+      "source": "story/hn_48010033",
+      "target": "episode/2026-05-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/hn_48010033",
+      "target": "concept/large-language-models",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48010033",
+      "target": "concept/hallucination-in-llms",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48010033",
+      "target": "concept/learning-theory",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48010033",
+      "target": "concept/computable-functions",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48010033",
+      "target": "concept/time-complexity",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48010033",
+      "target": "concept/hallucination-mitigation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48010033",
+      "target": "company/arxiv",
+      "kind": "mentions"
+    },
+    {
       "source": "story/community_f42c62b24524",
       "target": "episode/2026-05-01",
       "kind": "aired_in"
@@ -19369,6 +19610,61 @@
     {
       "source": "story/devto_3606407",
       "target": "company/microsoft",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fe477462b042",
+      "target": "episode/2026-05-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_fe477462b042",
+      "target": "concept/agent-bricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fe477462b042",
+      "target": "concept/unity-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fe477462b042",
+      "target": "concept/managed-mlflow",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fe477462b042",
+      "target": "concept/model-serving",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fe477462b042",
+      "target": "concept/foundational-models",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fe477462b042",
+      "target": "concept/blockchain-analytics",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fe477462b042",
+      "target": "concept/suspicious-activity-report",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fe477462b042",
+      "target": "company/elliptic",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fe477462b042",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fe477462b042",
+      "target": "person/amar-chandarana",
       "kind": "mentions"
     },
     {
@@ -20032,6 +20328,36 @@
       "kind": "mentions"
     },
     {
+      "source": "story/hn_48013746",
+      "target": "episode/2026-05-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/hn_48013746",
+      "target": "concept/claude-skill",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48013746",
+      "target": "concept/agent-evaluation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48013746",
+      "target": "concept/ai-agents",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48013746",
+      "target": "concept/evaluation-systems",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48013746",
+      "target": "company/anthropic",
+      "kind": "mentions"
+    },
+    {
       "source": "story/github_release_databricks_databricks-sdk-java_315827389",
       "target": "episode/2026-05-01",
       "kind": "aired_in"
@@ -20627,6 +20953,86 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_d95777787011",
+      "target": "episode/2026-05-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_d95777787011",
+      "target": "concept/databricks-free-edition",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d95777787011",
+      "target": "concept/breadth-first-search",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d95777787011",
+      "target": "concept/data-lineage",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d95777787011",
+      "target": "concept/selective-rebuild",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d95777787011",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d95777787011",
+      "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_146a3285923e",
+      "target": "episode/2026-05-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_146a3285923e",
+      "target": "concept/delta-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_146a3285923e",
+      "target": "concept/unity-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_146a3285923e",
+      "target": "concept/genie",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_146a3285923e",
+      "target": "concept/data-ai-summit",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_146a3285923e",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_146a3285923e",
+      "target": "company/microsoft",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_146a3285923e",
+      "target": "person/satya-nadella",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_146a3285923e",
+      "target": "person/ali-ghodsi",
+      "kind": "mentions"
+    },
+    {
       "source": "story/devto_3587566",
       "target": "episode/2026-04-30",
       "kind": "aired_in"
@@ -20792,6 +21198,31 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_3d352300aa8d",
+      "target": "episode/2026-05-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_3d352300aa8d",
+      "target": "concept/databricks-asset-bundles",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_3d352300aa8d",
+      "target": "concept/databricks-genie",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_3d352300aa8d",
+      "target": "concept/ci-cd",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_3d352300aa8d",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
       "source": "story/youtube_6UxiSj_bkGE",
       "target": "episode/2026-03-17",
       "kind": "aired_in"
@@ -20884,6 +21315,36 @@
     {
       "source": "story/rss_d65f25a9fb57",
       "target": "company/cloud-native-consulting",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_7c9f6b9972a7",
+      "target": "episode/2026-05-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_7c9f6b9972a7",
+      "target": "concept/databricks-apps",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_7c9f6b9972a7",
+      "target": "concept/lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_7c9f6b9972a7",
+      "target": "concept/data-pipelines",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_7c9f6b9972a7",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_7c9f6b9972a7",
+      "target": "company/medium",
       "kind": "mentions"
     },
     {
@@ -21259,6 +21720,66 @@
     {
       "source": "story/rss_f8e46e36d99f",
       "target": "concept/data-warehouses",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/pypi_databricks-connect_18.0.6",
+      "target": "episode/2026-05-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/pypi_databricks-connect_18.0.6",
+      "target": "concept/databricks-connect",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/pypi_databricks-connect_18.0.6",
+      "target": "concept/pypi",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/pypi_databricks-connect_18.0.6",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/pypi_databricks-connect_16.4.16",
+      "target": "episode/2026-05-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/pypi_databricks-connect_16.4.16",
+      "target": "concept/databricks-connect",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/pypi_databricks-connect_16.4.16",
+      "target": "concept/pypi",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/pypi_databricks-connect_16.4.16",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/pypi_databricks-connect_17.3.8",
+      "target": "episode/2026-05-05",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/pypi_databricks-connect_17.3.8",
+      "target": "concept/databricks-connect",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/pypi_databricks-connect_17.3.8",
+      "target": "concept/pypi",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/pypi_databricks-connect_17.3.8",
+      "target": "company/databricks",
       "kind": "mentions"
     },
     {

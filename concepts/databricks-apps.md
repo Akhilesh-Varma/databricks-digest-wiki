@@ -3,17 +3,19 @@ type: concept
 name: Databricks Apps
 slug: databricks-apps
 first_seen: 2026-04-05
-last_seen: 2026-04-29
-mention_count: 7
-avg_confidence: 0.7
+last_seen: 2026-05-05
+mention_count: 8
+avg_confidence: 0.737
 tags: [concept]
 ---
 
 # Databricks Apps
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-05|2026-05-05]]
+    - [[sources/2026-05-05/08_databricks-apps-construindo-aplicacoes-de-dados-sem-sair-do|Databricks Apps construindo aplicações de dados sem sair do Lakehouse]]
 - [[episodes/2026-04-29|2026-04-29]]
     - [[sources/2026-04-29/02_customer-story-easyjet-creating-better-travel-experience-for|CUSTOMER STORY easyJet Creating better travel experience for all]]
 - [[episodes/2026-04-19|2026-04-19]]

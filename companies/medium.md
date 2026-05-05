@@ -3,17 +3,20 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-03
-mention_count: 15
+last_seen: 2026-05-05
+mention_count: 17
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 15 stories._
+_Company mentioned across 17 stories._
 
 ## Appears in
+- [[episodes/2026-05-05|2026-05-05]]
+    - [[sources/2026-05-05/09_selective-rebuild-in-databricks-free-edition-using-lineage-b|Selective Rebuild In Databricks Free Edition Using Lineage BFS]]
+    - [[sources/2026-05-05/08_databricks-apps-construindo-aplicacoes-de-dados-sem-sair-do|Databricks Apps construindo aplicações de dados sem sair do Lakehouse]]
 - [[episodes/2026-05-03|2026-05-03]]
     - [[sources/2026-05-03/06_how-we-shipped-3-full-stack-data-platforms-in-one-session-us|How We Shipped 3 Full-Stack Data Platforms in One Session Using Microsoft Fabric Azure AI Foundry]]
     - [[sources/2026-05-03/08_top-20-advanced-data-engineering-interview-questions|Top 20 Advanced Data Engineering Interview Questions]]

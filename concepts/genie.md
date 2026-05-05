@@ -3,17 +3,19 @@ type: concept
 name: Genie
 slug: genie
 first_seen: 2026-04-17
-last_seen: 2026-04-29
-mention_count: 6
+last_seen: 2026-05-05
+mention_count: 7
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Genie
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-05|2026-05-05]]
+    - [[sources/2026-05-05/04_satya-nadella-ali-ghodsi-a-must-see-data-ai-summit-keynote|Satya Nadella Ali Ghodsi A Must-See Data AI Summit Keynote]]
 - [[episodes/2026-04-29|2026-04-29]]
     - [[sources/2026-04-29/04_datahacks-2026-university-alliance-in-action-at-ucsd|DataHacks 2026 University Alliance in Action at UCSD]]
 - [[episodes/2026-04-28|2026-04-28]]

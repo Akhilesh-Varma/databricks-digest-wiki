@@ -3,17 +3,19 @@ type: concept
 name: Databricks Asset Bundles
 slug: databricks-asset-bundles
 first_seen: 2026-04-05
-last_seen: 2026-05-04
-mention_count: 5
-avg_confidence: 0.74
+last_seen: 2026-05-05
+mention_count: 6
+avg_confidence: 0.783
 tags: [concept]
 ---
 
 # Databricks Asset Bundles
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-05|2026-05-05]]
+    - [[sources/2026-05-05/07_deploying-databricks-genie-to-production-when-dab-won-t-do-i|Deploying Databricks Genie to Production When DAB Won t Do It For You]]
 - [[episodes/2026-05-04|2026-05-04]]
     - [[sources/2026-05-04/08_single-guide-for-dp-750-azure-databricks-certification|Single guide for DP-750 Azure Databricks certification]]
 - [[episodes/2026-04-16|2026-04-16]]

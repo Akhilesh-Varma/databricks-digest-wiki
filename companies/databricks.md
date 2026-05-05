@@ -3,17 +3,26 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-04
-mention_count: 128
+last_seen: 2026-05-05
+mention_count: 136
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 128 stories._
+_Company mentioned across 136 stories._
 
 ## Appears in
+- [[episodes/2026-05-05|2026-05-05]]
+    - [[sources/2026-05-05/05_customer-story-elliptic-protect-crypto-assets-with-governed|CUSTOMER STORY Elliptic Protect crypto assets with governed AI]]
+    - [[sources/2026-05-05/09_selective-rebuild-in-databricks-free-edition-using-lineage-b|Selective Rebuild In Databricks Free Edition Using Lineage BFS]]
+    - [[sources/2026-05-05/04_satya-nadella-ali-ghodsi-a-must-see-data-ai-summit-keynote|Satya Nadella Ali Ghodsi A Must-See Data AI Summit Keynote]]
+    - [[sources/2026-05-05/07_deploying-databricks-genie-to-production-when-dab-won-t-do-i|Deploying Databricks Genie to Production When DAB Won t Do It For You]]
+    - [[sources/2026-05-05/08_databricks-apps-construindo-aplicacoes-de-dados-sem-sair-do|Databricks Apps construindo aplicações de dados sem sair do Lakehouse]]
+    - [[sources/2026-05-05/01_databricks-connect-18-0-6-released-on-pypi|Databricks Connect 18.0.6 released on PyPI]]
+    - [[sources/2026-05-05/03_databricks-connect-16-4-16-released-on-pypi|Databricks Connect 16.4.16 released on PyPI]]
+    - [[sources/2026-05-05/02_databricks-connect-17-3-8-released-on-pypi|Databricks Connect 17.3.8 released on PyPI]]
 - [[episodes/2026-05-04|2026-05-04]]
     - [[sources/2026-05-04/06_databricks-data-engineer-associate-exam-what-changed-in-2025|Databricks Data Engineer Associate Exam What Changed in 2025]]
     - [[sources/2026-05-04/07_5-reasons-your-databricks-implementation-is-underperforming|5 Reasons Your Databricks Implementation Is Underperforming And How a Consultant Fixes It]]
