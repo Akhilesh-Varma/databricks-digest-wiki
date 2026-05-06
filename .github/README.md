@@ -5,7 +5,7 @@
 [![Deploy status](https://github.com/Akhilesh-Varma/databricks-digest-wiki/actions/workflows/deploy.yml/badge.svg)](https://github.com/Akhilesh-Varma/databricks-digest-wiki/actions/workflows/deploy.yml)
 
 🌐 **Live website:** **<https://akhilesh-varma.github.io/databricks-digest-wiki/>**
-🎙️ **Listen to the podcast on Spotify:** **<SPOTIFY_SHOW_URL>**
+🎙️ **Listen to the podcast on Spotify:** **https://open.spotify.com/show/0o8UdVTvUVaNmcoxzgQ0zU**
 
 ---
 
@@ -13,8 +13,8 @@
 
 - [What is this?](#what-is-this)
 - [Two ways to read this wiki](#two-ways-to-read-this-wiki)
-- [Browse in your browser (recommended)](#browse-in-your-browser-recommended)
-- [Open in Obsidian (advanced)](#open-in-obsidian-advanced)
+- [Browse in your browser (easy)](#browse-in-your-browser-recommended)
+- [Open in Obsidian (recommended)](#open-in-obsidian-advanced)
 - [Repository layout](#repository-layout)
 - [Page types and frontmatter reference](#page-types-and-frontmatter-reference)
 - [Where to start? Reading paths](#where-to-start-reading-paths)
@@ -60,7 +60,7 @@ If you've heard the podcast and wanted a written, link-rich reference for what w
 
 ---
 
-## Browse in your browser (recommended)
+## Browse in your browser (easy)
 
 Just visit **<https://akhilesh-varma.github.io/databricks-digest-wiki/>** — no install, no clone, no Obsidian.
 
@@ -76,7 +76,7 @@ The site rebuilds within ~3 minutes of every wiki update, so what you see on the
 
 ---
 
-## Open in Obsidian (advanced)
+## Open in Obsidian (recommended)
 
 For richer linking, offline access, and the ability to annotate the auto-generated content with your own notes.
 
@@ -206,7 +206,7 @@ The aggregate page for one day's podcast episode. Links to every story aired and
 | `episode_date` | date | YYYY-MM-DD, matches the filename |
 | `title` | string | Human-readable episode title |
 | `duration_seconds` | int | Length of the audio file |
-| `audio_url` | string | Direct link to the episode's `.mp3` (GCS) |
+| `audio_url` | string | Direct link to the episode's |
 | `provider` | string | Which provider generated the script (audit trail) |
 | `story_count` | int | Number of stories in this episode |
 | `tags` | array | `[episode]` |
@@ -374,14 +374,12 @@ The pipeline source code lives in a separate, private repository — this public
 
 - Each `episodes/YYYY-MM-DD.md` page corresponds to **one podcast episode** of the same date
 - Each `sources/YYYY-MM-DD/<rank>_<slug>.md` page is **one of the stories discussed in that episode's audio** (rank 1 = the top story / opening item)
-- The `audio_url` field in each episode's frontmatter links directly to the `.mp3` used for that day's broadcast — so you can press play from the wiki page itself
 - Listen to the audio while reading the wiki for the same content in two complementary forms: spoken narrative for context, written entries for reference and search
 
 **Where to listen:**
 
-- 🎵 **Spotify:** <SPOTIFY_SHOW_URL>
-- 📡 **RSS feed (any podcast app):** <https://storage.googleapis.com/daily_podcast_bucket/feed.xml>
-- 🔍 In your podcast app of choice — search **"Daily Databricks Digest"**
+- 🎵 **Podcast:** https://open.spotify.com/show/0o8UdVTvUVaNmcoxzgQ0zU
+- 🔍 Or In Spotify podcast app — search **"Daily Databricks Digest"**
 
 ---
 
@@ -408,7 +406,7 @@ Please include:
 - A brief description of the error or the takedown reason
 - (Optional) A link to documentation or context that supports the correction
 
-We aim to acknowledge issues within 7 days.
+ Acknowledgement of issue takes place within 7 days.
 
 ---
 
