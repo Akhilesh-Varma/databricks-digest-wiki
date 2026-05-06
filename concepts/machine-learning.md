@@ -19,5 +19,5 @@ _Concept mentioned across 4 stories._
 - [[episodes/2026-04-14|2026-04-14]]
     - [[sources/2026-04-14/05_cross-region-data-magic-unity-catalog-delta-sharing-in-datab|Cross-Region Data Magic Unity Catalog Delta Sharing in Databricks]]
 - [[episodes/2026-03-17|2026-03-17]]
-    - [[sources/2026-03-17/02_how-hard-is-it-to-learn-spark-or-pyspark-from-sql-help-with|How hard is it to learn spark or pyspark from SQL? Help with deciding what to upskill next]]
     - [[sources/2026-03-17/03_the-secret-to-scaling-big-data-databricks-and-spark-databric|The Secret to Scaling Big Data Databricks and Spark! databricks apache spark data ml ai]]
+    - [[sources/2026-03-17/02_how-hard-is-it-to-learn-spark-or-pyspark-from-sql-help-with|How hard is it to learn spark or pyspark from SQL? Help with deciding what to upskill next]]

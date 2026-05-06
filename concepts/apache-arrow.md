@@ -3,17 +3,19 @@ type: concept
 name: Apache Arrow
 slug: apache-arrow
 first_seen: 2026-04-14
-last_seen: 2026-04-16
-mention_count: 4
-avg_confidence: 0.6
+last_seen: 2026-05-06
+mention_count: 5
+avg_confidence: 0.62
 tags: [concept]
 ---
 
 # Apache Arrow
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/06_what-is-dremio-the-unified-lakehouse-and-ai-platform|What is Dremio? The Unified Lakehouse and AI Platform]]
 - [[episodes/2026-04-16|2026-04-16]]
     - [[sources/2026-04-16/09_apache-data-lakehouse-weekly-april-9-15-2026|Apache Data Lakehouse Weekly April 9 15, 2026]]
 - [[episodes/2026-04-14|2026-04-14]]

@@ -1,6 +1,6 @@
 ---
 type: concept
-name: MCP server
+name: MCP Server
 slug: mcp-server
 first_seen: 2026-04-27
 last_seen: 2026-05-04
@@ -9,7 +9,7 @@ avg_confidence: 0.55
 tags: [concept]
 ---
 
-# MCP server
+# MCP Server
 
 _Concept mentioned across 2 stories._
 

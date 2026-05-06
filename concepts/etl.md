@@ -3,17 +3,20 @@ type: concept
 name: ETL
 slug: etl
 first_seen: 2026-04-05
-last_seen: 2026-05-02
-mention_count: 6
-avg_confidence: 0.733
+last_seen: 2026-05-06
+mention_count: 8
+avg_confidence: 0.725
 tags: [concept]
 ---
 
 # ETL
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/06_what-is-dremio-the-unified-lakehouse-and-ai-platform|What is Dremio? The Unified Lakehouse and AI Platform]]
+    - [[sources/2026-05-06/07_etl-vs-elt-the-difference-that-finally-clicked-for-me|ETL vs ELT The Difference That Finally Clicked for Me]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/09_meet-sdi-the-no-code-etl-tool-every-data-engineer-needs-in-t|Meet SDI The No-Code ETL Tool Every Data Engineer Needs in Their Toolbox]]
 - [[episodes/2026-05-01|2026-05-01]]

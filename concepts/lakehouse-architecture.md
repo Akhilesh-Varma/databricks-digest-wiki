@@ -1,6 +1,6 @@
 ---
 type: concept
-name: Lakehouse architecture
+name: Lakehouse Architecture
 slug: lakehouse-architecture
 first_seen: 2026-04-24
 last_seen: 2026-05-04
@@ -9,7 +9,7 @@ avg_confidence: 0.8
 tags: [concept]
 ---
 
-# Lakehouse architecture
+# Lakehouse Architecture
 
 _Concept mentioned across 3 stories._
 

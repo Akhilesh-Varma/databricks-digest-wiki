@@ -3,17 +3,19 @@ type: concept
 name: Large Language Models
 slug: large-language-models
 first_seen: 2026-04-06
-last_seen: 2026-05-05
-mention_count: 22
-avg_confidence: 0.727
+last_seen: 2026-05-06
+mention_count: 23
+avg_confidence: 0.726
 tags: [concept]
 ---
 
 # Large Language Models
 
-_Concept mentioned across 22 stories._
+_Concept mentioned across 23 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/08_finer-sql-boosting-small-language-models-for-text-to-sql|FINER-SQL Boosting Small Language Models for Text-to-SQL]]
 - [[episodes/2026-05-05|2026-05-05]]
     - [[sources/2026-05-05/06_hallucination-is-inevitable-an-innate-limitation-of-large-la|Hallucination Is Inevitable An Innate Limitation of Large Language Models]]
 - [[episodes/2026-05-01|2026-05-01]]

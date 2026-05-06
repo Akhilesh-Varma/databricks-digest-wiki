@@ -1,6 +1,6 @@
 ---
 type: concept
-name: Zookeeper
+name: ZooKeeper
 slug: zookeeper
 first_seen: 2026-04-27
 last_seen: 2026-05-01
@@ -9,7 +9,7 @@ avg_confidence: 0.55
 tags: [concept]
 ---
 
-# Zookeeper
+# ZooKeeper
 
 _Concept mentioned across 2 stories._
 

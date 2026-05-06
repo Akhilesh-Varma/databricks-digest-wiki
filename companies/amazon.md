@@ -3,17 +3,19 @@ type: company
 name: Amazon
 slug: amazon
 first_seen: 2026-04-13
-last_seen: 2026-05-02
-mention_count: 6
+last_seen: 2026-05-06
+mention_count: 7
 avg_confidence: ""
 tags: [company]
 ---
 
 # Amazon
 
-_Company mentioned across 6 stories._
+_Company mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/06_what-is-dremio-the-unified-lakehouse-and-ai-platform|What is Dremio? The Unified Lakehouse and AI Platform]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/04_aws-stops-billing-middle-east-cloud-customers-as-repairs-to|AWS stops billing Middle East cloud customers as repairs to war damage drag on]]
 - [[episodes/2026-04-21|2026-04-21]]

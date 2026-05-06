@@ -1,6 +1,6 @@
 ---
 type: concept
-name: Data Lineage
+name: data lineage
 slug: data-lineage
 first_seen: 2026-04-24
 last_seen: 2026-05-05
@@ -9,7 +9,7 @@ avg_confidence: 0.767
 tags: [concept]
 ---
 
-# Data Lineage
+# data lineage
 
 _Concept mentioned across 3 stories._
 

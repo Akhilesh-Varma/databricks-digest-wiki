@@ -3,17 +3,19 @@ type: concept
 name: Text-to-SQL
 slug: text-to-sql
 first_seen: 2026-04-07
-last_seen: 2026-05-01
-mention_count: 4
-avg_confidence: 0.925
+last_seen: 2026-05-06
+mention_count: 5
+avg_confidence: 0.94
 tags: [concept]
 ---
 
 # Text-to-SQL
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/08_finer-sql-boosting-small-language-models-for-text-to-sql|FINER-SQL Boosting Small Language Models for Text-to-SQL]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/10_synsql-synthesizing-relational-databases-for-robust-evaluati|SynSQL Synthesizing Relational Databases for Robust Evaluation of Text-to-SQL Systems]]
 - [[episodes/2026-04-28|2026-04-28]]

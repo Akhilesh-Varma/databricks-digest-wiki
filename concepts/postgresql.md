@@ -15,8 +15,8 @@ _Concept mentioned across 7 stories._
 
 ## Appears in
 - [[episodes/2026-04-30|2026-04-30]]
-    - [[sources/2026-04-30/07_deploying-apache-superset-on-azure-from-scratch-my-ccf501-as|Deploying Apache Superset on Azure From Scratch My CCF501 Assessment 3]]
     - [[sources/2026-04-30/08_building-a-psx-data-pipeline-how-i-get-introduced-to-dbt|Building a PSX Data Pipeline How I get introduced to dbt]]
+    - [[sources/2026-04-30/07_deploying-apache-superset-on-azure-from-scratch-my-ccf501-as|Deploying Apache Superset on Azure From Scratch My CCF501 Assessment 3]]
 - [[episodes/2026-04-23|2026-04-23]]
     - [[sources/2026-04-23/07_5-postgresql-time-bugs-you-ll-write-before-you-know-any-bett|5 PostgreSQL Time Bugs You ll Write Before You Know Any Better]]
 - [[episodes/2026-04-20|2026-04-20]]

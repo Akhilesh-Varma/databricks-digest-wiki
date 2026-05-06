@@ -3,17 +3,19 @@ type: concept
 name: BigQuery
 slug: bigquery
 first_seen: 2026-04-05
-last_seen: 2026-04-27
-mention_count: 4
-avg_confidence: 0.775
+last_seen: 2026-05-06
+mention_count: 5
+avg_confidence: 0.76
 tags: [concept]
 ---
 
 # BigQuery
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/07_etl-vs-elt-the-difference-that-finally-clicked-for-me|ETL vs ELT The Difference That Finally Clicked for Me]]
 - [[episodes/2026-04-27|2026-04-27]]
     - [[sources/2026-04-27/08_i-built-a-real-time-crypto-analytics-pipeline-for-0-01-month|I Built a Real-Time Crypto Analytics Pipeline for 0.01 Month Here's the Full Architecture]]
 - [[episodes/2026-04-21|2026-04-21]]

@@ -32,4 +32,4 @@ Databricks has introduced Agent Mode in Genie Spaces, a new capability that enab
 - **URL:** <https://community.databricks.com/t5/announcements/introducing-genie-agent-mode/td-p/155200>
 
 ## Related
-[[concepts/genie-agent-mode|genie-agent-mode]] · [[concepts/genie-spaces|genie-spaces]] · [[concepts/unity-catalog|unity-catalog]] · [[concepts/ai-bi-dashboards|ai-bi-dashboards]] · [[concepts/agentic-ai|agentic-ai]] · [[concepts/workspace|workspace]] · [[concepts/explain|explain]] · [[concepts/genie|genie]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[episodes/2026-05-03|2026-05-03]]
+[[concepts/genie-agent-mode|genie-agent-mode]] · [[concepts/genie-spaces|genie-spaces]] · [[concepts/unity-catalog|unity-catalog]] · [[concepts/ai-bi-dashboards|ai-bi-dashboards]] · [[concepts/agentic-ai|agentic-ai]] · [[concepts/genie-space|genie-space]] · [[concepts/workspace|workspace]] · [[concepts/explain|explain]] · [[concepts/genie|genie]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[episodes/2026-05-03|2026-05-03]]

@@ -3,17 +3,19 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-05-02
-mention_count: 12
-avg_confidence: 0.85
+last_seen: 2026-05-06
+mention_count: 13
+avg_confidence: 0.862
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 12 stories._
+_Concept mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/06_what-is-dremio-the-unified-lakehouse-and-ai-platform|What is Dremio? The Unified Lakehouse and AI Platform]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/08_what-is-apache-polaris-why-open-data-catalogs-matter-and-how|What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS]]
 - [[episodes/2026-05-01|2026-05-01]]

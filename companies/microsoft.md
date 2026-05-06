@@ -3,36 +3,39 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-05-05
-mention_count: 20
+last_seen: 2026-05-06
+mention_count: 22
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 20 stories._
+_Company mentioned across 22 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/06_what-is-dremio-the-unified-lakehouse-and-ai-platform|What is Dremio? The Unified Lakehouse and AI Platform]]
+    - [[sources/2026-05-06/05_stop-using-spark-for-your-small-data-why-azure-functions-is|Stop Using Spark for Your Small Data - Why Azure Functions is the Right Tool for the Job]]
 - [[episodes/2026-05-05|2026-05-05]]
     - [[sources/2026-05-05/04_satya-nadella-ali-ghodsi-a-must-see-data-ai-summit-keynote|Satya Nadella Ali Ghodsi A Must-See Data AI Summit Keynote]]
 - [[episodes/2026-05-04|2026-05-04]]
     - [[sources/2026-05-04/08_single-guide-for-dp-750-azure-databricks-certification|Single guide for DP-750 Azure Databricks certification]]
 - [[episodes/2026-05-03|2026-05-03]]
-    - [[sources/2026-05-03/04_show-hn-mljar-studio-local-ai-data-analyst-that-saves-analys|Show HN Mljar Studio local AI data analyst that saves analysis as notebooks]]
     - [[sources/2026-05-03/06_how-we-shipped-3-full-stack-data-platforms-in-one-session-us|How We Shipped 3 Full-Stack Data Platforms in One Session Using Microsoft Fabric Azure AI Foundry]]
+    - [[sources/2026-05-03/04_show-hn-mljar-studio-local-ai-data-analyst-that-saves-analys|Show HN Mljar Studio local AI data analyst that saves analysis as notebooks]]
 - [[episodes/2026-05-02|2026-05-02]]
+    - [[sources/2026-05-02/09_meet-sdi-the-no-code-etl-tool-every-data-engineer-needs-in-t|Meet SDI The No-Code ETL Tool Every Data Engineer Needs in Their Toolbox]]
     - [[sources/2026-05-02/08_what-is-apache-polaris-why-open-data-catalogs-matter-and-how|What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS]]
     - [[sources/2026-05-02/03_the-next-generation-of-databricks-genie|The next generation of Databricks Genie]]
-    - [[sources/2026-05-02/09_meet-sdi-the-no-code-etl-tool-every-data-engineer-needs-in-t|Meet SDI The No-Code ETL Tool Every Data Engineer Needs in Their Toolbox]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/01_databricks-sdk-java-v0-106-0-released|Databricks SDK Java v0.106.0 released]]
 - [[episodes/2026-04-29|2026-04-29]]
     - [[sources/2026-04-29/04_datahacks-2026-university-alliance-in-action-at-ucsd|DataHacks 2026 University Alliance in Action at UCSD]]
     - [[sources/2026-04-29/03_community-pulse-your-weekly-roundup-april-20-26-2026|Community Pulse Your Weekly Roundup! April 20 26, 2026]]
 - [[episodes/2026-04-28|2026-04-28]]
-    - [[sources/2026-04-28/02_partner-blog-access-databricks-data-natively-in-excel-using|PARTNER BLOG Access Databricks Data Natively in Excel Using the New Excel Add-in]]
     - [[sources/2026-04-28/05_microsoft-fabric-te-delta-time-travel-ile-veri-kurtarma|Microsoft Fabric te Delta Time Travel ile Veri Kurtarma]]
+    - [[sources/2026-04-28/02_partner-blog-access-databricks-data-natively-in-excel-using|PARTNER BLOG Access Databricks Data Natively in Excel Using the New Excel Add-in]]
 - [[episodes/2026-04-27|2026-04-27]]
     - [[sources/2026-04-27/10_how-i-finally-implemented-ci-cd-for-microsoft-fabric-and-wha|How I Finally implemented CI CD for Microsoft Fabric And What Nobody Tells You About It]]
 - [[episodes/2026-04-26|2026-04-26]]

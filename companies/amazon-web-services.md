@@ -3,20 +3,22 @@ type: company
 name: Amazon Web Services
 slug: amazon-web-services
 first_seen: 2026-04-08
-last_seen: 2026-05-02
-mention_count: 7
+last_seen: 2026-05-06
+mention_count: 8
 avg_confidence: ""
 tags: [company]
 ---
 
 # Amazon Web Services
 
-_Company mentioned across 7 stories._
+_Company mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/07_etl-vs-elt-the-difference-that-finally-clicked-for-me|ETL vs ELT The Difference That Finally Clicked for Me]]
 - [[episodes/2026-05-02|2026-05-02]]
-    - [[sources/2026-05-02/08_what-is-apache-polaris-why-open-data-catalogs-matter-and-how|What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS]]
     - [[sources/2026-05-02/09_meet-sdi-the-no-code-etl-tool-every-data-engineer-needs-in-t|Meet SDI The No-Code ETL Tool Every Data Engineer Needs in Their Toolbox]]
+    - [[sources/2026-05-02/08_what-is-apache-polaris-why-open-data-catalogs-matter-and-how|What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/07_the-metadata-structure-of-modern-table-formats|The Metadata Structure of Modern Table Formats]]
 - [[episodes/2026-04-17|2026-04-17]]

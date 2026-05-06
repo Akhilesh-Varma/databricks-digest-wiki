@@ -3,20 +3,23 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-05-04
-mention_count: 23
-avg_confidence: 0.761
+last_seen: 2026-05-06
+mention_count: 25
+avg_confidence: 0.744
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 23 stories._
+_Concept mentioned across 25 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/05_stop-using-spark-for-your-small-data-why-azure-functions-is|Stop Using Spark for Your Small Data - Why Azure Functions is the Right Tool for the Job]]
+    - [[sources/2026-05-06/07_etl-vs-elt-the-difference-that-finally-clicked-for-me|ETL vs ELT The Difference That Finally Clicked for Me]]
 - [[episodes/2026-05-04|2026-05-04]]
-    - [[sources/2026-05-04/07_5-reasons-your-databricks-implementation-is-underperforming|5 Reasons Your Databricks Implementation Is Underperforming And How a Consultant Fixes It]]
     - [[sources/2026-05-04/08_single-guide-for-dp-750-azure-databricks-certification|Single guide for DP-750 Azure Databricks certification]]
+    - [[sources/2026-05-04/07_5-reasons-your-databricks-implementation-is-underperforming|5 Reasons Your Databricks Implementation Is Underperforming And How a Consultant Fixes It]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/08_what-is-apache-polaris-why-open-data-catalogs-matter-and-how|What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS]]
     - [[sources/2026-05-02/01_apache-spark-pyspark-4-2-0-dev5-released-on-pypi|Apache Spark PySpark 4.2.0.dev5 released on PyPI]]
@@ -46,7 +49,7 @@ _Concept mentioned across 23 stories._
     - [[sources/2026-04-05/04_your-spark-job-is-oom-ing-because-you-don-t-understand-your|Your Spark Job Is OOM ing!! Because You Don t Understand Your Kitchen]]
     - [[sources/2026-04-05/06_spark-architecture-explained-what-actually-happens-when-your|Spark Architecture Explained What Actually Happens When Your PySpark Job Runs]]
 - [[episodes/2026-03-17|2026-03-17]]
-    - [[sources/2026-03-17/02_how-hard-is-it-to-learn-spark-or-pyspark-from-sql-help-with|How hard is it to learn spark or pyspark from SQL? Help with deciding what to upskill next]]
-    - [[sources/2026-03-17/01_the-databricks-notebooks-need-shortcuts-customisation|The Databricks notebooks need shortcuts customisation]]
     - [[sources/2026-03-17/04_the-only-apache-spark-roadmap-you-need-as-a-beginner-in-2026|The ONLY Apache Spark Roadmap You NEED As a BEGINNER In 2026]]
     - [[sources/2026-03-17/03_the-secret-to-scaling-big-data-databricks-and-spark-databric|The Secret to Scaling Big Data Databricks and Spark! databricks apache spark data ml ai]]
+    - [[sources/2026-03-17/02_how-hard-is-it-to-learn-spark-or-pyspark-from-sql-help-with|How hard is it to learn spark or pyspark from SQL? Help with deciding what to upskill next]]
+    - [[sources/2026-03-17/01_the-databricks-notebooks-need-shortcuts-customisation|The Databricks notebooks need shortcuts customisation]]

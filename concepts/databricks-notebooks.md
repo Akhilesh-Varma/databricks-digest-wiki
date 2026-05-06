@@ -15,8 +15,8 @@ _Concept mentioned across 4 stories._
 
 ## Appears in
 - [[episodes/2026-05-03|2026-05-03]]
-    - [[sources/2026-05-03/01_solution-accelerator-series-digital-twins|Solution Accelerator Series Digital Twins]]
     - [[sources/2026-05-03/03_solution-accelerator-series-propensity-scoring|Solution Accelerator Series Propensity Scoring]]
+    - [[sources/2026-05-03/01_solution-accelerator-series-digital-twins|Solution Accelerator Series Digital Twins]]
 - [[episodes/2026-04-27|2026-04-27]]
     - [[sources/2026-04-27/02_sandbox-magic-turn-your-databricks-notebooks-into-living-doc|Sandbox Magic Turn Your Databricks Notebooks into Living Documents and Presentations]]
 - [[episodes/2026-03-17|2026-03-17]]

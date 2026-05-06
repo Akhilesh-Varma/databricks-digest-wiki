@@ -3,35 +3,37 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-05
-last_seen: 2026-05-05
-mention_count: 23
-avg_confidence: 0.617
+last_seen: 2026-05-06
+mention_count: 24
+avg_confidence: 0.621
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 23 stories._
+_Concept mentioned across 24 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/06_what-is-dremio-the-unified-lakehouse-and-ai-platform|What is Dremio? The Unified Lakehouse and AI Platform]]
 - [[episodes/2026-05-05|2026-05-05]]
     - [[sources/2026-05-05/08_databricks-apps-construindo-aplicacoes-de-dados-sem-sair-do|Databricks Apps construindo aplicações de dados sem sair do Lakehouse]]
 - [[episodes/2026-05-04|2026-05-04]]
     - [[sources/2026-05-04/06_databricks-data-engineer-associate-exam-what-changed-in-2025|Databricks Data Engineer Associate Exam What Changed in 2025]]
     - [[sources/2026-05-04/04_when-ot-meets-it-what-happens-when-a-smart-grid-meets-a-lake|When OT Meets IT What Happens When a Smart Grid Meets a Lakehouse]]
 - [[episodes/2026-05-01|2026-05-01]]
-    - [[sources/2026-05-01/03_learning-series-data-preparation-for-machine-learning|Learning Series Data Preparation for Machine Learning]]
     - [[sources/2026-05-01/05_your-data-products-need-a-product-manager-here-is-what-that|Your Data Products Need a Product Manager. Here Is What That Actually Means]]
+    - [[sources/2026-05-01/03_learning-series-data-preparation-for-machine-learning|Learning Series Data Preparation for Machine Learning]]
 - [[episodes/2026-04-30|2026-04-30]]
     - [[sources/2026-04-30/02_securely-send-first-party-conversion-signals-with-snapchat-c|Securely send first-party conversion signals with Snapchat Conversions API on Databricks Marketplace]]
 - [[episodes/2026-04-29|2026-04-29]]
+    - [[sources/2026-04-29/08_how-databricks-handles-metadata-management-unity-catalog-sec|How Databricks Handles Metadata Management Unity Catalog Secrets Revealed 2026 Guide]]
     - [[sources/2026-04-29/04_datahacks-2026-university-alliance-in-action-at-ucsd|DataHacks 2026 University Alliance in Action at UCSD]]
     - [[sources/2026-04-29/02_customer-story-easyjet-creating-better-travel-experience-for|CUSTOMER STORY easyJet Creating better travel experience for all]]
-    - [[sources/2026-04-29/08_how-databricks-handles-metadata-management-unity-catalog-sec|How Databricks Handles Metadata Management Unity Catalog Secrets Revealed 2026 Guide]]
 - [[episodes/2026-04-28|2026-04-28]]
-    - [[sources/2026-04-28/02_partner-blog-access-databricks-data-natively-in-excel-using|PARTNER BLOG Access Databricks Data Natively in Excel Using the New Excel Add-in]]
     - [[sources/2026-04-28/05_microsoft-fabric-te-delta-time-travel-ile-veri-kurtarma|Microsoft Fabric te Delta Time Travel ile Veri Kurtarma]]
     - [[sources/2026-04-28/04_100-data-engineering-and-ai-concepts-day-5-of-7-lakehouse-an|100 Data Engineering and AI Concepts Day 5 of 7 Lakehouse and Storage]]
+    - [[sources/2026-04-28/02_partner-blog-access-databricks-data-natively-in-excel-using|PARTNER BLOG Access Databricks Data Natively in Excel Using the New Excel Add-in]]
 - [[episodes/2026-04-27|2026-04-27]]
     - [[sources/2026-04-27/10_how-i-finally-implemented-ci-cd-for-microsoft-fabric-and-wha|How I Finally implemented CI CD for Microsoft Fabric And What Nobody Tells You About It]]
 - [[episodes/2026-04-21|2026-04-21]]

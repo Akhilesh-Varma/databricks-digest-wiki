@@ -1,19 +1,21 @@
 ---
 type: concept
-name: Spider Benchmark
+name: Spider benchmark
 slug: spider-benchmark
 first_seen: 2026-04-07
-last_seen: 2026-05-01
-mention_count: 3
+last_seen: 2026-05-06
+mention_count: 4
 avg_confidence: 0.7
 tags: [concept]
 ---
 
-# Spider Benchmark
+# Spider benchmark
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/08_finer-sql-boosting-small-language-models-for-text-to-sql|FINER-SQL Boosting Small Language Models for Text-to-SQL]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/10_synsql-synthesizing-relational-databases-for-robust-evaluati|SynSQL Synthesizing Relational Databases for Robust Evaluation of Text-to-SQL Systems]]
 - [[episodes/2026-04-17|2026-04-17]]

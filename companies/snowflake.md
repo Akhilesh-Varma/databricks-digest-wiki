@@ -3,17 +3,19 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-08
-last_seen: 2026-05-03
-mention_count: 12
+last_seen: 2026-05-06
+mention_count: 13
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 12 stories._
+_Company mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/07_etl-vs-elt-the-difference-that-finally-clicked-for-me|ETL vs ELT The Difference That Finally Clicked for Me]]
 - [[episodes/2026-05-03|2026-05-03]]
     - [[sources/2026-05-03/04_show-hn-mljar-studio-local-ai-data-analyst-that-saves-analys|Show HN Mljar Studio local AI data analyst that saves analysis as notebooks]]
 - [[episodes/2026-05-02|2026-05-02]]

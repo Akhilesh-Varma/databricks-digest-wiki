@@ -1,6 +1,6 @@
 ---
 type: concept
-name: AUTO CDC
+name: Auto CDC
 slug: auto-cdc
 first_seen: 2026-04-15
 last_seen: 2026-04-29
@@ -9,7 +9,7 @@ avg_confidence: 0.8
 tags: [concept]
 ---
 
-# AUTO CDC
+# Auto CDC
 
 _Concept mentioned across 3 stories._
 

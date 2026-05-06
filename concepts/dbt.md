@@ -3,17 +3,19 @@ type: concept
 name: dbt
 slug: dbt
 first_seen: 2026-04-05
-last_seen: 2026-04-30
-mention_count: 4
-avg_confidence: 0.775
+last_seen: 2026-05-06
+mention_count: 5
+avg_confidence: 0.76
 tags: [concept]
 ---
 
 # dbt
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/07_etl-vs-elt-the-difference-that-finally-clicked-for-me|ETL vs ELT The Difference That Finally Clicked for Me]]
 - [[episodes/2026-04-30|2026-04-30]]
     - [[sources/2026-04-30/08_building-a-psx-data-pipeline-how-i-get-introduced-to-dbt|Building a PSX Data Pipeline How I get introduced to dbt]]
 - [[episodes/2026-04-29|2026-04-29]]

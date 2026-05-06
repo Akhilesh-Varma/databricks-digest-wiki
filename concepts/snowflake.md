@@ -3,17 +3,19 @@ type: concept
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-11
-last_seen: 2026-04-25
-mention_count: 5
-avg_confidence: 0.64
+last_seen: 2026-05-06
+mention_count: 6
+avg_confidence: 0.65
 tags: [concept]
 ---
 
 # Snowflake
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/07_etl-vs-elt-the-difference-that-finally-clicked-for-me|ETL vs ELT The Difference That Finally Clicked for Me]]
 - [[episodes/2026-04-25|2026-04-25]]
     - [[sources/2026-04-25/07_from-spreadsheets-to-a-self-driving-data-pipeline-how-we-aut|From Spreadsheets to a Self-Driving Data Pipeline How We Automated Agile Metrics for 17 Teams]]
 - [[episodes/2026-04-21|2026-04-21]]

@@ -1,6 +1,6 @@
 ---
 type: concept
-name: Data Discovery
+name: data discovery
 slug: data-discovery
 first_seen: 2026-04-24
 last_seen: 2026-04-29
@@ -9,7 +9,7 @@ avg_confidence: 0.7
 tags: [concept]
 ---
 
-# Data Discovery
+# data discovery
 
 _Concept mentioned across 2 stories._
 

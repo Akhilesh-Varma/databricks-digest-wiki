@@ -15,8 +15,8 @@ _Concept mentioned across 5 stories._
 
 ## Appears in
 - [[episodes/2026-05-04|2026-05-04]]
-    - [[sources/2026-05-04/06_databricks-data-engineer-associate-exam-what-changed-in-2025|Databricks Data Engineer Associate Exam What Changed in 2025]]
     - [[sources/2026-05-04/08_single-guide-for-dp-750-azure-databricks-certification|Single guide for DP-750 Azure Databricks certification]]
+    - [[sources/2026-05-04/06_databricks-data-engineer-associate-exam-what-changed-in-2025|Databricks Data Engineer Associate Exam What Changed in 2025]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/05_what-is-a-dlt-pipeline-a-beginner-guide-with-my-mistakes-lea|What is a DLT Pipeline? A Beginner Guide with My Mistakes Learnings]]
 - [[episodes/2026-04-27|2026-04-27]]

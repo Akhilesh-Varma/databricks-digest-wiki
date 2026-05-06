@@ -3,21 +3,24 @@ type: company
 name: Google
 slug: google
 first_seen: 2026-04-05
-last_seen: 2026-05-02
-mention_count: 7
+last_seen: 2026-05-06
+mention_count: 9
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google
 
-_Company mentioned across 7 stories._
+_Company mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-06|2026-05-06]]
+    - [[sources/2026-05-06/06_what-is-dremio-the-unified-lakehouse-and-ai-platform|What is Dremio? The Unified Lakehouse and AI Platform]]
+    - [[sources/2026-05-06/07_etl-vs-elt-the-difference-that-finally-clicked-for-me|ETL vs ELT The Difference That Finally Clicked for Me]]
 - [[episodes/2026-05-02|2026-05-02]]
+    - [[sources/2026-05-02/09_meet-sdi-the-no-code-etl-tool-every-data-engineer-needs-in-t|Meet SDI The No-Code ETL Tool Every Data Engineer Needs in Their Toolbox]]
     - [[sources/2026-05-02/08_what-is-apache-polaris-why-open-data-catalogs-matter-and-how|What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS]]
     - [[sources/2026-05-02/03_the-next-generation-of-databricks-genie|The next generation of Databricks Genie]]
-    - [[sources/2026-05-02/09_meet-sdi-the-no-code-etl-tool-every-data-engineer-needs-in-t|Meet SDI The No-Code ETL Tool Every Data Engineer Needs in Their Toolbox]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/01_databricks-sdk-java-v0-106-0-released|Databricks SDK Java v0.106.0 released]]
 - [[episodes/2026-04-16|2026-04-16]]
