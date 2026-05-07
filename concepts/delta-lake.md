@@ -3,17 +3,20 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-05
-mention_count: 25
-avg_confidence: 0.688
+last_seen: 2026-05-07
+mention_count: 27
+avg_confidence: 0.689
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 25 stories._
+_Concept mentioned across 27 stories._
 
 ## Appears in
+- [[episodes/2026-05-07|2026-05-07]]
+    - [[sources/2026-05-07/08_ursa-a-new-diskless-lakestream-engine-for-kafka|Ursa a new Diskless Lakestream engine for Kafka]]
+    - [[sources/2026-05-07/07_data-series-understanding-etl-medallion-architecture-part-1|Data Series Understanding ETL Medallion Architecture Part 1]]
 - [[episodes/2026-05-05|2026-05-05]]
     - [[sources/2026-05-05/04_satya-nadella-ali-ghodsi-a-must-see-data-ai-summit-keynote|Satya Nadella Ali Ghodsi A Must-See Data AI Summit Keynote]]
 - [[episodes/2026-05-04|2026-05-04]]

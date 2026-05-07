@@ -3,17 +3,26 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-06
-mention_count: 140
+last_seen: 2026-05-07
+mention_count: 148
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 140 stories._
+_Company mentioned across 148 stories._
 
 ## Appears in
+- [[episodes/2026-05-07|2026-05-07]]
+    - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
+    - [[sources/2026-05-07/09_how-databricks-genie-turns-plain-english-into-sql-code|How Databricks Genie Turns Plain English Into SQL Code]]
+    - [[sources/2026-05-07/04_beyond-rag-databricks-unified-approach-to-document-insights|Beyond RAG Databricks' Unified Approach to Document Insights]]
+    - [[sources/2026-05-07/07_data-series-understanding-etl-medallion-architecture-part-1|Data Series Understanding ETL Medallion Architecture Part 1]]
+    - [[sources/2026-05-07/03_deploying-django-apps-on-databricks-apps-with-lakebase|Deploying Django apps on Databricks Apps with Lakebase]]
+    - [[sources/2026-05-07/05_native-opentelemetry-observability-for-databricks-apps|Native OpenTelemetry Observability for Databricks Apps]]
+    - [[sources/2026-05-07/06_while-working-on-a-databricks-implementation-with-unity-cata|While working on a Databricks implementation with Unity Catalog enabled, we ran into an interesting]]
+    - [[sources/2026-05-07/01_databricks-connect-18-2-0-released-on-pypi|Databricks Connect 18.2.0 released on PyPI]]
 - [[episodes/2026-05-06|2026-05-06]]
     - [[sources/2026-05-06/05_stop-using-spark-for-your-small-data-why-azure-functions-is|Stop Using Spark for Your Small Data - Why Azure Functions is the Right Tool for the Job]]
     - [[sources/2026-05-06/04_genie-space-as-code-shipping-a-curated-salesforce-genie-spac|Genie Space as Code Shipping a Curated Salesforce Genie Space with a Databricks Asset Bundle]]

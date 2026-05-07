@@ -3,17 +3,19 @@ type: concept
 name: Lakeflow
 slug: lakeflow
 first_seen: 2026-04-15
-last_seen: 2026-04-29
-mention_count: 6
-avg_confidence: 0.7
+last_seen: 2026-05-07
+mention_count: 7
+avg_confidence: 0.657
 tags: [concept]
 ---
 
 # Lakeflow
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-07|2026-05-07]]
+    - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
 - [[episodes/2026-04-29|2026-04-29]]
     - [[sources/2026-04-29/04_datahacks-2026-university-alliance-in-action-at-ucsd|DataHacks 2026 University Alliance in Action at UCSD]]
     - [[sources/2026-04-29/02_customer-story-easyjet-creating-better-travel-experience-for|CUSTOMER STORY easyJet Creating better travel experience for all]]

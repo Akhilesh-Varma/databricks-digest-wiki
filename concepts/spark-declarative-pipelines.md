@@ -3,17 +3,19 @@ type: concept
 name: Spark Declarative Pipelines
 slug: spark-declarative-pipelines
 first_seen: 2026-04-14
-last_seen: 2026-04-28
-mention_count: 7
-avg_confidence: 0.686
+last_seen: 2026-05-07
+mention_count: 8
+avg_confidence: 0.688
 tags: [concept]
 ---
 
 # Spark Declarative Pipelines
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-07|2026-05-07]]
+    - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
 - [[episodes/2026-04-28|2026-04-28]]
     - [[sources/2026-04-28/01_openai-gpt-5-5-codex-now-available-and-fully-governed-in-dat|OpenAI GPT-5.5 Codex, now available and fully-governed in Databricks]]
 - [[episodes/2026-04-21|2026-04-21]]

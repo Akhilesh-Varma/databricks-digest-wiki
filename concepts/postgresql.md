@@ -3,17 +3,19 @@ type: concept
 name: PostgreSQL
 slug: postgresql
 first_seen: 2026-04-09
-last_seen: 2026-04-30
-mention_count: 7
+last_seen: 2026-05-07
+mention_count: 8
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # PostgreSQL
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-07|2026-05-07]]
+    - [[sources/2026-05-07/03_deploying-django-apps-on-databricks-apps-with-lakebase|Deploying Django apps on Databricks Apps with Lakebase]]
 - [[episodes/2026-04-30|2026-04-30]]
     - [[sources/2026-04-30/08_building-a-psx-data-pipeline-how-i-get-introduced-to-dbt|Building a PSX Data Pipeline How I get introduced to dbt]]
     - [[sources/2026-04-30/07_deploying-apache-superset-on-azure-from-scratch-my-ccf501-as|Deploying Apache Superset on Azure From Scratch My CCF501 Assessment 3]]

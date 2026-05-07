@@ -3,17 +3,19 @@ type: concept
 name: ETL Pipeline
 slug: etl-pipeline
 first_seen: 2026-04-13
-last_seen: 2026-04-18
-mention_count: 3
-avg_confidence: 0.5
+last_seen: 2026-05-07
+mention_count: 4
+avg_confidence: 0.6
 tags: [concept]
 ---
 
 # ETL Pipeline
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-07|2026-05-07]]
+    - [[sources/2026-05-07/07_data-series-understanding-etl-medallion-architecture-part-1|Data Series Understanding ETL Medallion Architecture Part 1]]
 - [[episodes/2026-04-18|2026-04-18]]
     - [[sources/2026-04-18/07_how-using-etl-automation-tools-and-generative-ai-can-help-yo|How Using ETL Automation Tools and Generative AI Can Help You Thrive in Private Equity Investment]]
 - [[episodes/2026-04-14|2026-04-14]]

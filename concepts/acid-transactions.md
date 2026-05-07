@@ -3,17 +3,19 @@ type: concept
 name: ACID Transactions
 slug: acid-transactions
 first_seen: 2026-04-14
-last_seen: 2026-05-01
-mention_count: 3
-avg_confidence: 0.567
+last_seen: 2026-05-07
+mention_count: 4
+avg_confidence: 0.525
 tags: [concept]
 ---
 
 # ACID Transactions
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-07|2026-05-07]]
+    - [[sources/2026-05-07/07_data-series-understanding-etl-medallion-architecture-part-1|Data Series Understanding ETL Medallion Architecture Part 1]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/07_the-metadata-structure-of-modern-table-formats|The Metadata Structure of Modern Table Formats]]
 - [[episodes/2026-04-22|2026-04-22]]

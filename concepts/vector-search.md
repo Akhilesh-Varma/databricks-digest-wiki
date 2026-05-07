@@ -3,17 +3,19 @@ type: concept
 name: Vector Search
 slug: vector-search
 first_seen: 2026-04-22
-last_seen: 2026-05-01
-mention_count: 2
-avg_confidence: 0.7
+last_seen: 2026-05-07
+mention_count: 3
+avg_confidence: 0.733
 tags: [concept]
 ---
 
 # Vector Search
 
-_Concept mentioned across 2 stories._
+_Concept mentioned across 3 stories._
 
 ## Appears in
+- [[episodes/2026-05-07|2026-05-07]]
+    - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/08_install-and-optimize-clickhouse-on-ubuntu-26-04-bare-metal|Install and Optimize ClickHouse on Ubuntu 26.04 Bare Metal]]
 - [[episodes/2026-04-22|2026-04-22]]

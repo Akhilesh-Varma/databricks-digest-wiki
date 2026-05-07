@@ -3,17 +3,19 @@ type: concept
 name: PySpark
 slug: pyspark
 first_seen: 2026-03-17
-last_seen: 2026-05-04
-mention_count: 10
-avg_confidence: 0.84
+last_seen: 2026-05-07
+mention_count: 11
+avg_confidence: 0.827
 tags: [concept]
 ---
 
 # PySpark
 
-_Concept mentioned across 10 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-05-07|2026-05-07]]
+    - [[sources/2026-05-07/07_data-series-understanding-etl-medallion-architecture-part-1|Data Series Understanding ETL Medallion Architecture Part 1]]
 - [[episodes/2026-05-04|2026-05-04]]
     - [[sources/2026-05-04/06_databricks-data-engineer-associate-exam-what-changed-in-2025|Databricks Data Engineer Associate Exam What Changed in 2025]]
 - [[episodes/2026-05-02|2026-05-02]]

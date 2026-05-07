@@ -3,17 +3,21 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-05
-mention_count: 50
-avg_confidence: 0.75
+last_seen: 2026-05-07
+mention_count: 53
+avg_confidence: 0.757
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 50 stories._
+_Concept mentioned across 53 stories._
 
 ## Appears in
+- [[episodes/2026-05-07|2026-05-07]]
+    - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
+    - [[sources/2026-05-07/05_native-opentelemetry-observability-for-databricks-apps|Native OpenTelemetry Observability for Databricks Apps]]
+    - [[sources/2026-05-07/06_while-working-on-a-databricks-implementation-with-unity-cata|While working on a Databricks implementation with Unity Catalog enabled, we ran into an interesting]]
 - [[episodes/2026-05-05|2026-05-05]]
     - [[sources/2026-05-05/05_customer-story-elliptic-protect-crypto-assets-with-governed|CUSTOMER STORY Elliptic Protect crypto assets with governed AI]]
     - [[sources/2026-05-05/04_satya-nadella-ali-ghodsi-a-must-see-data-ai-summit-keynote|Satya Nadella Ali Ghodsi A Must-See Data AI Summit Keynote]]

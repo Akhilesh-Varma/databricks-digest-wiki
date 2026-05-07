@@ -3,17 +3,19 @@ type: company
 name: Microsoft Azure
 slug: microsoft-azure
 first_seen: 2026-04-08
-last_seen: 2026-05-04
-mention_count: 7
+last_seen: 2026-05-07
+mention_count: 8
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft Azure
 
-_Company mentioned across 7 stories._
+_Company mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-07|2026-05-07]]
+    - [[sources/2026-05-07/07_data-series-understanding-etl-medallion-architecture-part-1|Data Series Understanding ETL Medallion Architecture Part 1]]
 - [[episodes/2026-05-04|2026-05-04]]
     - [[sources/2026-05-04/03_connecting-to-a-storage-account-using-databricks-unity-catal|Connecting to a Storage Account using Databricks Unity Catalog in Azure]]
     - [[sources/2026-05-04/01_finally-databricks-lets-you-disable-tasks-without-hacks|Finally! Databricks lets you disable tasks without hacks]]

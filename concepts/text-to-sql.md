@@ -3,17 +3,19 @@ type: concept
 name: Text-to-SQL
 slug: text-to-sql
 first_seen: 2026-04-07
-last_seen: 2026-05-06
-mention_count: 5
-avg_confidence: 0.94
+last_seen: 2026-05-07
+mention_count: 6
+avg_confidence: 0.917
 tags: [concept]
 ---
 
 # Text-to-SQL
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-07|2026-05-07]]
+    - [[sources/2026-05-07/09_how-databricks-genie-turns-plain-english-into-sql-code|How Databricks Genie Turns Plain English Into SQL Code]]
 - [[episodes/2026-05-06|2026-05-06]]
     - [[sources/2026-05-06/08_finer-sql-boosting-small-language-models-for-text-to-sql|FINER-SQL Boosting Small Language Models for Text-to-SQL]]
 - [[episodes/2026-05-01|2026-05-01]]

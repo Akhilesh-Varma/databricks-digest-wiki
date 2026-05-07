@@ -3,17 +3,20 @@ type: concept
 name: Delta Tables
 slug: delta-tables
 first_seen: 2026-04-18
-last_seen: 2026-05-04
-mention_count: 4
-avg_confidence: 0.55
+last_seen: 2026-05-07
+mention_count: 6
+avg_confidence: 0.6
 tags: [concept]
 ---
 
 # Delta Tables
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-07|2026-05-07]]
+    - [[sources/2026-05-07/07_data-series-understanding-etl-medallion-architecture-part-1|Data Series Understanding ETL Medallion Architecture Part 1]]
+    - [[sources/2026-05-07/05_native-opentelemetry-observability-for-databricks-apps|Native OpenTelemetry Observability for Databricks Apps]]
 - [[episodes/2026-05-04|2026-05-04]]
     - [[sources/2026-05-04/06_databricks-data-engineer-associate-exam-what-changed-in-2025|Databricks Data Engineer Associate Exam What Changed in 2025]]
 - [[episodes/2026-04-23|2026-04-23]]

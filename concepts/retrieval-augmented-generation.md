@@ -3,17 +3,19 @@ type: concept
 name: Retrieval-Augmented Generation
 slug: retrieval-augmented-generation
 first_seen: 2026-04-10
-last_seen: 2026-04-30
-mention_count: 8
-avg_confidence: 0.812
+last_seen: 2026-05-07
+mention_count: 9
+avg_confidence: 0.833
 tags: [concept]
 ---
 
 # Retrieval-Augmented Generation
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-07|2026-05-07]]
+    - [[sources/2026-05-07/04_beyond-rag-databricks-unified-approach-to-document-insights|Beyond RAG Databricks' Unified Approach to Document Insights]]
 - [[episodes/2026-04-30|2026-04-30]]
     - [[sources/2026-04-30/10_cacherag-a-semantic-caching-system-for-retrieval-augmented-g|CacheRAG A Semantic Caching System for Retrieval-Augmented Generation in Knowledge Graph Question Answering]]
 - [[episodes/2026-04-24|2026-04-24]]
