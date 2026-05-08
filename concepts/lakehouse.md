@@ -3,17 +3,20 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-05
-last_seen: 2026-05-06
-mention_count: 24
-avg_confidence: 0.621
+last_seen: 2026-05-08
+mention_count: 26
+avg_confidence: 0.615
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 24 stories._
+_Concept mentioned across 26 stories._
 
 ## Appears in
+- [[episodes/2026-05-08|2026-05-08]]
+    - [[sources/2026-05-08/04_how-databricks-genie-turns-collaboration-tools-into-ai-power|How Databricks Genie Turns Collaboration Tools into AI-Powered Intelligence Platforms]]
+    - [[sources/2026-05-08/03_best-moments-from-dais-2025-a-look-back-before-we-do-it-agai|Best Moments from DAIS 2025 A Look Back Before We Do It Again at DAIS 2026!]]
 - [[episodes/2026-05-06|2026-05-06]]
     - [[sources/2026-05-06/06_what-is-dremio-the-unified-lakehouse-and-ai-platform|What is Dremio? The Unified Lakehouse and AI Platform]]
 - [[episodes/2026-05-05|2026-05-05]]

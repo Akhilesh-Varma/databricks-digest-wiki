@@ -3,17 +3,19 @@ type: concept
 name: Retrieval-Augmented Generation
 slug: retrieval-augmented-generation
 first_seen: 2026-04-10
-last_seen: 2026-05-07
-mention_count: 9
-avg_confidence: 0.833
+last_seen: 2026-05-08
+mention_count: 10
+avg_confidence: 0.79
 tags: [concept]
 ---
 
 # Retrieval-Augmented Generation
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-05-08|2026-05-08]]
+    - [[sources/2026-05-08/02_semantic-caching-for-llm-applications-with-databricks-lakeba|Semantic Caching for LLM Applications with Databricks Lakebase and pgvector]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/04_beyond-rag-databricks-unified-approach-to-document-insights|Beyond RAG Databricks' Unified Approach to Document Insights]]
 - [[episodes/2026-04-30|2026-04-30]]

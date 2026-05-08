@@ -3,17 +3,21 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-07
-mention_count: 53
-avg_confidence: 0.757
+last_seen: 2026-05-08
+mention_count: 56
+avg_confidence: 0.743
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 53 stories._
+_Concept mentioned across 56 stories._
 
 ## Appears in
+- [[episodes/2026-05-08|2026-05-08]]
+    - [[sources/2026-05-08/02_semantic-caching-for-llm-applications-with-databricks-lakeba|Semantic Caching for LLM Applications with Databricks Lakebase and pgvector]]
+    - [[sources/2026-05-08/04_how-databricks-genie-turns-collaboration-tools-into-ai-power|How Databricks Genie Turns Collaboration Tools into AI-Powered Intelligence Platforms]]
+    - [[sources/2026-05-08/03_best-moments-from-dais-2025-a-look-back-before-we-do-it-agai|Best Moments from DAIS 2025 A Look Back Before We Do It Again at DAIS 2026!]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
     - [[sources/2026-05-07/05_native-opentelemetry-observability-for-databricks-apps|Native OpenTelemetry Observability for Databricks Apps]]

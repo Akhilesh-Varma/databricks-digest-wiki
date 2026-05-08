@@ -3,17 +3,19 @@ type: concept
 name: Apache Kafka
 slug: apache-kafka
 first_seen: 2026-04-14
-last_seen: 2026-05-07
-mention_count: 5
-avg_confidence: 0.52
+last_seen: 2026-05-08
+mention_count: 6
+avg_confidence: 0.6
 tags: [concept]
 ---
 
 # Apache Kafka
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-08|2026-05-08]]
+    - [[sources/2026-05-08/09_that-time-one-field-change-took-down-an-entire-production-pi|That Time One Field Change Took Down an Entire Production Pipeline]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/08_ursa-a-new-diskless-lakestream-engine-for-kafka|Ursa a new Diskless Lakestream engine for Kafka]]
 - [[episodes/2026-05-01|2026-05-01]]

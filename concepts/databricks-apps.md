@@ -3,17 +3,19 @@ type: concept
 name: Databricks Apps
 slug: databricks-apps
 first_seen: 2026-04-05
-last_seen: 2026-05-07
-mention_count: 11
-avg_confidence: 0.809
+last_seen: 2026-05-08
+mention_count: 12
+avg_confidence: 0.8
 tags: [concept]
 ---
 
 # Databricks Apps
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-05-08|2026-05-08]]
+    - [[sources/2026-05-08/03_best-moments-from-dais-2025-a-look-back-before-we-do-it-agai|Best Moments from DAIS 2025 A Look Back Before We Do It Again at DAIS 2026!]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
     - [[sources/2026-05-07/03_deploying-django-apps-on-databricks-apps-with-lakebase|Deploying Django apps on Databricks Apps with Lakebase]]

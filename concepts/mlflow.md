@@ -3,17 +3,19 @@ type: concept
 name: MLflow
 slug: mlflow
 first_seen: 2026-04-06
-last_seen: 2026-05-06
-mention_count: 11
-avg_confidence: 0.809
+last_seen: 2026-05-08
+mention_count: 12
+avg_confidence: 0.775
 tags: [concept]
 ---
 
 # MLflow
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-05-08|2026-05-08]]
+    - [[sources/2026-05-08/03_best-moments-from-dais-2025-a-look-back-before-we-do-it-agai|Best Moments from DAIS 2025 A Look Back Before We Do It Again at DAIS 2026!]]
 - [[episodes/2026-05-06|2026-05-06]]
     - [[sources/2026-05-06/01_mlflow-3-12-0-released-on-pypi|MLflow 3.12.0 released on PyPI]]
 - [[episodes/2026-05-04|2026-05-04]]

@@ -3,17 +3,24 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-07
-mention_count: 148
+last_seen: 2026-05-08
+mention_count: 154
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 148 stories._
+_Company mentioned across 154 stories._
 
 ## Appears in
+- [[episodes/2026-05-08|2026-05-08]]
+    - [[sources/2026-05-08/02_semantic-caching-for-llm-applications-with-databricks-lakeba|Semantic Caching for LLM Applications with Databricks Lakebase and pgvector]]
+    - [[sources/2026-05-08/04_how-databricks-genie-turns-collaboration-tools-into-ai-power|How Databricks Genie Turns Collaboration Tools into AI-Powered Intelligence Platforms]]
+    - [[sources/2026-05-08/03_best-moments-from-dais-2025-a-look-back-before-we-do-it-agai|Best Moments from DAIS 2025 A Look Back Before We Do It Again at DAIS 2026!]]
+    - [[sources/2026-05-08/01_databricks-cli-v0-299-1-released|Databricks CLI v0.299.1 released]]
+    - [[sources/2026-05-08/05_achieving-enterprise-healthcare-intelligence-bidirectional-s|Achieving Enterprise Healthcare Intelligence Bidirectional Sync with Databricks Lakebase]]
+    - [[sources/2026-05-08/06_how-lakebase-architecture-delivers-5x-faster-postgres-writes|How lakebase architecture delivers 5x faster Postgres writes]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
     - [[sources/2026-05-07/09_how-databricks-genie-turns-plain-english-into-sql-code|How Databricks Genie Turns Plain English Into SQL Code]]

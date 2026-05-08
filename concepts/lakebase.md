@@ -3,17 +3,20 @@ type: concept
 name: Lakebase
 slug: lakebase
 first_seen: 2026-04-05
-last_seen: 2026-05-07
-mention_count: 9
-avg_confidence: 0.789
+last_seen: 2026-05-08
+mention_count: 11
+avg_confidence: 0.827
 tags: [concept]
 ---
 
 # Lakebase
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-05-08|2026-05-08]]
+    - [[sources/2026-05-08/03_best-moments-from-dais-2025-a-look-back-before-we-do-it-agai|Best Moments from DAIS 2025 A Look Back Before We Do It Again at DAIS 2026!]]
+    - [[sources/2026-05-08/06_how-lakebase-architecture-delivers-5x-faster-postgres-writes|How lakebase architecture delivers 5x faster Postgres writes]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/03_deploying-django-apps-on-databricks-apps-with-lakebase|Deploying Django apps on Databricks Apps with Lakebase]]
 - [[episodes/2026-05-01|2026-05-01]]

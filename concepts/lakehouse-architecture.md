@@ -3,17 +3,19 @@ type: concept
 name: Lakehouse Architecture
 slug: lakehouse-architecture
 first_seen: 2026-04-24
-last_seen: 2026-05-04
-mention_count: 3
-avg_confidence: 0.8
+last_seen: 2026-05-08
+mention_count: 4
+avg_confidence: 0.775
 tags: [concept]
 ---
 
 # Lakehouse Architecture
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-08|2026-05-08]]
+    - [[sources/2026-05-08/05_achieving-enterprise-healthcare-intelligence-bidirectional-s|Achieving Enterprise Healthcare Intelligence Bidirectional Sync with Databricks Lakebase]]
 - [[episodes/2026-05-04|2026-05-04]]
     - [[sources/2026-05-04/08_single-guide-for-dp-750-azure-databricks-certification|Single guide for DP-750 Azure Databricks certification]]
 - [[episodes/2026-05-02|2026-05-02]]

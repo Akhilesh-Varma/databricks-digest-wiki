@@ -3,17 +3,19 @@ type: concept
 name: Agent Bricks
 slug: agent-bricks
 first_seen: 2026-04-19
-last_seen: 2026-05-05
-mention_count: 5
-avg_confidence: 0.7
+last_seen: 2026-05-08
+mention_count: 6
+avg_confidence: 0.75
 tags: [concept]
 ---
 
 # Agent Bricks
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-08|2026-05-08]]
+    - [[sources/2026-05-08/03_best-moments-from-dais-2025-a-look-back-before-we-do-it-agai|Best Moments from DAIS 2025 A Look Back Before We Do It Again at DAIS 2026!]]
 - [[episodes/2026-05-05|2026-05-05]]
     - [[sources/2026-05-05/05_customer-story-elliptic-protect-crypto-assets-with-governed|CUSTOMER STORY Elliptic Protect crypto assets with governed AI]]
 - [[episodes/2026-04-28|2026-04-28]]

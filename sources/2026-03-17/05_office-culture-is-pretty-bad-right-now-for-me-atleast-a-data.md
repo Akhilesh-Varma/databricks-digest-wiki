@@ -33,4 +33,4 @@ A solo data engineer at an 80-person startup describes growing workplace stress 
 - **URL:** <https://reddit.com/r/dataengineering/comments/1rtmere/office_culture_is_pretty_bad_right_now_for_me/>
 
 ## Related
-[[concepts/claude-ai-assistant|claude-ai-assistant]] · [[concepts/databricks|databricks]] · [[concepts/databricks-ai-bi-dashboard|databricks-ai-bi-dashboard]] · [[concepts/oltp|oltp]] · [[concepts/olap|olap]] · [[concepts/data-engineering|data-engineering]] · [[concepts/databricks-ai|databricks-ai]] · [[concepts/react|react]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[companies/anthropic|Anthropic]] · [[episodes/2026-03-17|2026-03-17]]
+[[concepts/claude-ai-assistant|claude-ai-assistant]] · [[concepts/databricks|databricks]] · [[concepts/databricks-ai-bi-dashboard|databricks-ai-bi-dashboard]] · [[concepts/oltp|oltp]] · [[concepts/olap|olap]] · [[concepts/data-engineering|data-engineering]] · [[concepts/databricks-ai|databricks-ai]] · [[concepts/react|react]] · [[concepts/ai-bi|ai-bi]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[companies/anthropic|Anthropic]] · [[episodes/2026-03-17|2026-03-17]]

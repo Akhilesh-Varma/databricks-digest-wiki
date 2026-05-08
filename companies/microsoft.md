@@ -3,17 +3,19 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-05-06
-mention_count: 22
+last_seen: 2026-05-08
+mention_count: 23
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 22 stories._
+_Company mentioned across 23 stories._
 
 ## Appears in
+- [[episodes/2026-05-08|2026-05-08]]
+    - [[sources/2026-05-08/04_how-databricks-genie-turns-collaboration-tools-into-ai-power|How Databricks Genie Turns Collaboration Tools into AI-Powered Intelligence Platforms]]
 - [[episodes/2026-05-06|2026-05-06]]
     - [[sources/2026-05-06/06_what-is-dremio-the-unified-lakehouse-and-ai-platform|What is Dremio? The Unified Lakehouse and AI Platform]]
     - [[sources/2026-05-06/05_stop-using-spark-for-your-small-data-why-azure-functions-is|Stop Using Spark for Your Small Data - Why Azure Functions is the Right Tool for the Job]]
