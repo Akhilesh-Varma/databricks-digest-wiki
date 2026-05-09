@@ -32,4 +32,4 @@ This paper presents a formal theoretical argument that hallucination in large la
 - **URL:** <https://arxiv.org/abs/2401.11817>
 
 ## Related
-[[concepts/large-language-models|large-language-models]] · [[concepts/hallucination-in-llms|hallucination-in-llms]] · [[concepts/learning-theory|learning-theory]] · [[concepts/computable-functions|computable-functions]] · [[concepts/hallucination-mitigation|hallucination-mitigation]] · [[concepts/html|html]] · [[concepts/llms|llms]] · [[concepts/llm|llm]] · [[companies/arxiv|arXiv]] · [[episodes/2026-05-05|2026-05-05]]
+[[concepts/large-language-models|large-language-models]] · [[concepts/hallucination-in-llms|hallucination-in-llms]] · [[concepts/learning-theory|learning-theory]] · [[concepts/computable-functions|computable-functions]] · [[concepts/hallucination-mitigation|hallucination-mitigation]] · [[concepts/llms|llms]] · [[concepts/html|html]] · [[concepts/llm|llm]] · [[companies/arxiv|arXiv]] · [[episodes/2026-05-05|2026-05-05]]

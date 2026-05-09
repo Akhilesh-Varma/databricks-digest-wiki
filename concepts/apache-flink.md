@@ -3,17 +3,19 @@ type: concept
 name: Apache Flink
 slug: apache-flink
 first_seen: 2026-04-14
-last_seen: 2026-05-02
-mention_count: 5
-avg_confidence: 0.64
+last_seen: 2026-05-09
+mention_count: 6
+avg_confidence: 0.65
 tags: [concept]
 ---
 
 # Apache Flink
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-09|2026-05-09]]
+    - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/08_what-is-apache-polaris-why-open-data-catalogs-matter-and-how|What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS]]
 - [[episodes/2026-04-27|2026-04-27]]

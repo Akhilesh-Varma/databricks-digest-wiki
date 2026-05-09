@@ -3,17 +3,19 @@ type: concept
 name: dbt
 slug: dbt
 first_seen: 2026-04-05
-last_seen: 2026-05-08
-mention_count: 6
-avg_confidence: 0.75
+last_seen: 2026-05-09
+mention_count: 7
+avg_confidence: 0.786
 tags: [concept]
 ---
 
 # dbt
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-09|2026-05-09]]
+    - [[sources/2026-05-09/07_dbt-apache-iceberg-duckdb-for-teams-under-50|dbt Apache Iceberg DuckDB for Teams Under 50]]
 - [[episodes/2026-05-08|2026-05-08]]
     - [[sources/2026-05-08/07_data-engineer-salaries-are-splitting-in-two-which-side-are-y|Data Engineer Salaries Are Splitting in Two. Which Side Are You On?]]
 - [[episodes/2026-05-06|2026-05-06]]

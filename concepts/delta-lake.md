@@ -3,17 +3,21 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-07
-mention_count: 27
-avg_confidence: 0.689
+last_seen: 2026-05-09
+mention_count: 30
+avg_confidence: 0.707
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 27 stories._
+_Concept mentioned across 30 stories._
 
 ## Appears in
+- [[episodes/2026-05-09|2026-05-09]]
+    - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
+    - [[sources/2026-05-09/03_delta-lake-under-the-hood-what-every-data-engineer-should-kn|Delta Lake Under the Hood What Every Data Engineer Should Know]]
+    - [[sources/2026-05-09/05_adf-vs-databricks-workflows-which-one-should-orchestrate-you|ADF vs Databricks Workflows Which One Should Orchestrate Your Data Pipelines?]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/08_ursa-a-new-diskless-lakestream-engine-for-kafka|Ursa a new Diskless Lakestream engine for Kafka]]
     - [[sources/2026-05-07/07_data-series-understanding-etl-medallion-architecture-part-1|Data Series Understanding ETL Medallion Architecture Part 1]]

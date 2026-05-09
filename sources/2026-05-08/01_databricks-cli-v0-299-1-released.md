@@ -33,4 +33,4 @@ Databricks CLI version 0.299.1 introduces several improvements to the `databrick
 - **URL:** <https://github.com/databricks/cli/releases/tag/v0.299.1>
 
 ## Related
-[[concepts/databricks-cli|databricks-cli]] · [[concepts/databricks-bundles|databricks-bundles]] · [[concepts/spog-url-convention|spog-url-convention]] · [[concepts/unified-hosts|unified-hosts]] · [[concepts/databricks|databricks]] · [[concepts/workspace|workspace]] · [[concepts/postgres|postgres]] · [[concepts/spog|spog]] · [[concepts/api|api]] · [[concepts/cli|cli]] · [[companies/databricks|Databricks]] · [[episodes/2026-05-08|2026-05-08]]
+[[concepts/databricks-cli|databricks-cli]] · [[concepts/databricks-bundles|databricks-bundles]] · [[concepts/spog-url-convention|spog-url-convention]] · [[concepts/unified-hosts|unified-hosts]] · [[concepts/databricks|databricks]] · [[concepts/workspace|workspace]] · [[concepts/postgres|postgres]] · [[concepts/spog|spog]] · [[concepts/cli|cli]] · [[concepts/api|api]] · [[companies/databricks|Databricks]] · [[episodes/2026-05-08|2026-05-08]]

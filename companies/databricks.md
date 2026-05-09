@@ -3,17 +3,24 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-08
-mention_count: 154
+last_seen: 2026-05-09
+mention_count: 160
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 154 stories._
+_Company mentioned across 160 stories._
 
 ## Appears in
+- [[episodes/2026-05-09|2026-05-09]]
+    - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
+    - [[sources/2026-05-09/03_delta-lake-under-the-hood-what-every-data-engineer-should-kn|Delta Lake Under the Hood What Every Data Engineer Should Know]]
+    - [[sources/2026-05-09/02_scaling-enterprise-ai-with-databricks-without-losing-control|Scaling Enterprise AI with Databricks Without Losing Control]]
+    - [[sources/2026-05-09/06_databricks-apps-tutorial-scalable-streamlit-modular-template|Databricks Apps Tutorial Scalable Streamlit modular Template for Production]]
+    - [[sources/2026-05-09/05_adf-vs-databricks-workflows-which-one-should-orchestrate-you|ADF vs Databricks Workflows Which One Should Orchestrate Your Data Pipelines?]]
+    - [[sources/2026-05-09/07_dbt-apache-iceberg-duckdb-for-teams-under-50|dbt Apache Iceberg DuckDB for Teams Under 50]]
 - [[episodes/2026-05-08|2026-05-08]]
     - [[sources/2026-05-08/02_semantic-caching-for-llm-applications-with-databricks-lakeba|Semantic Caching for LLM Applications with Databricks Lakebase and pgvector]]
     - [[sources/2026-05-08/04_how-databricks-genie-turns-collaboration-tools-into-ai-power|How Databricks Genie Turns Collaboration Tools into AI-Powered Intelligence Platforms]]

@@ -3,17 +3,19 @@ type: concept
 name: ACID Transactions
 slug: acid-transactions
 first_seen: 2026-04-14
-last_seen: 2026-05-07
-mention_count: 4
-avg_confidence: 0.525
+last_seen: 2026-05-09
+mention_count: 5
+avg_confidence: 0.56
 tags: [concept]
 ---
 
 # ACID Transactions
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-09|2026-05-09]]
+    - [[sources/2026-05-09/03_delta-lake-under-the-hood-what-every-data-engineer-should-kn|Delta Lake Under the Hood What Every Data Engineer Should Know]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/07_data-series-understanding-etl-medallion-architecture-part-1|Data Series Understanding ETL Medallion Architecture Part 1]]
 - [[episodes/2026-05-01|2026-05-01]]

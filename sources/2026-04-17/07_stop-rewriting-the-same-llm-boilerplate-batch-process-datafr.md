@@ -33,4 +33,4 @@ The author describes repeatedly rewriting the same LLM batch-processing boilerpl
 - **URL:** <https://dev.to/ptimizeroracle/stop-rewriting-the-same-llm-boilerplate-batch-process-dataframes-in-3-lines-48g2>
 
 ## Related
-[[concepts/ondine|ondine]] · [[concepts/pydantic|pydantic]] · [[concepts/sqlite-fts5|sqlite-fts5]] · [[concepts/parquet|parquet]] · [[concepts/dataframe|dataframe]] · [[concepts/sqlite|sqlite]] · [[concepts/schema|schema]] · [[concepts/python|python]] · [[concepts/rag|rag]] · [[concepts/api|api]] · [[concepts/llm|llm]] · [[companies/openai|OpenAI]] · [[episodes/2026-04-17|2026-04-17]]
+[[concepts/ondine|ondine]] · [[concepts/pydantic|pydantic]] · [[concepts/sqlite-fts5|sqlite-fts5]] · [[concepts/parquet|parquet]] · [[concepts/schema-enforcement|schema-enforcement]] · [[concepts/dataframe|dataframe]] · [[concepts/schema|schema]] · [[concepts/sqlite|sqlite]] · [[concepts/python|python]] · [[concepts/api|api]] · [[concepts/rag|rag]] · [[concepts/llm|llm]] · [[companies/openai|OpenAI]] · [[episodes/2026-04-17|2026-04-17]]

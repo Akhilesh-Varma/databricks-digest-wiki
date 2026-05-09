@@ -31,4 +31,4 @@ A RAG system can retrieve the right documents but still produce wrong answers du
 - **URL:** <https://towardsdatascience.com/your-rag-system-retrieves-the-right-data-but-still-produces-wrong-answers-heres-why-and-how-to-fix-it/>
 
 ## Related
-[[concepts/rag-system|rag-system]] · [[concepts/pipeline|pipeline]] · [[concepts/rag|rag]] · [[concepts/api|api]] · [[episodes/2026-04-19|2026-04-19]]
+[[concepts/rag-system|rag-system]] · [[concepts/pipeline|pipeline]] · [[concepts/api|api]] · [[concepts/rag|rag]] · [[episodes/2026-04-19|2026-04-19]]

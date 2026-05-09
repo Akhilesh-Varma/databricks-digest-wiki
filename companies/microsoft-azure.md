@@ -3,17 +3,19 @@ type: company
 name: Microsoft Azure
 slug: microsoft-azure
 first_seen: 2026-04-08
-last_seen: 2026-05-07
-mention_count: 8
+last_seen: 2026-05-09
+mention_count: 9
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft Azure
 
-_Company mentioned across 8 stories._
+_Company mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-09|2026-05-09]]
+    - [[sources/2026-05-09/05_adf-vs-databricks-workflows-which-one-should-orchestrate-you|ADF vs Databricks Workflows Which One Should Orchestrate Your Data Pipelines?]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/07_data-series-understanding-etl-medallion-architecture-part-1|Data Series Understanding ETL Medallion Architecture Part 1]]
 - [[episodes/2026-05-04|2026-05-04]]

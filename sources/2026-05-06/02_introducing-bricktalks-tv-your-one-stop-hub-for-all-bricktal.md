@@ -30,4 +30,4 @@ Databricks has launched a dedicated 'Bricktalks TV' section within the Databrick
 - **URL:** <https://community.databricks.com/t5/announcements/introducing-bricktalks-tv-your-one-stop-hub-for-all-bricktalk/td-p/156172>
 
 ## Related
-[[concepts/bricktalks-tv|bricktalks-tv]] · [[concepts/databricks-community|databricks-community]] · [[concepts/databricks|databricks]] · [[concepts/bricktalks|bricktalks]] · [[companies/databricks|Databricks]] · [[episodes/2026-05-06|2026-05-06]]
+[[concepts/bricktalks-tv|bricktalks-tv]] · [[concepts/databricks-community|databricks-community]] · [[concepts/bricktalks|bricktalks]] · [[concepts/databricks|databricks]] · [[companies/databricks|Databricks]] · [[episodes/2026-05-06|2026-05-06]]

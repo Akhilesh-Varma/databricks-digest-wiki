@@ -3,17 +3,21 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-05-06
-mention_count: 25
-avg_confidence: 0.744
+last_seen: 2026-05-09
+mention_count: 28
+avg_confidence: 0.718
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 25 stories._
+_Concept mentioned across 28 stories._
 
 ## Appears in
+- [[episodes/2026-05-09|2026-05-09]]
+    - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
+    - [[sources/2026-05-09/03_delta-lake-under-the-hood-what-every-data-engineer-should-kn|Delta Lake Under the Hood What Every Data Engineer Should Know]]
+    - [[sources/2026-05-09/07_dbt-apache-iceberg-duckdb-for-teams-under-50|dbt Apache Iceberg DuckDB for Teams Under 50]]
 - [[episodes/2026-05-06|2026-05-06]]
     - [[sources/2026-05-06/05_stop-using-spark-for-your-small-data-why-azure-functions-is|Stop Using Spark for Your Small Data - Why Azure Functions is the Right Tool for the Job]]
     - [[sources/2026-05-06/07_etl-vs-elt-the-difference-that-finally-clicked-for-me|ETL vs ELT The Difference That Finally Clicked for Me]]

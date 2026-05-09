@@ -30,4 +30,4 @@ The author attended a full-day Databricks training and keynote session covering 
 - **URL:** <https://medium.com/@agarwal.bh/reflections-from-a-full-day-databricks-session-where-data-apps-and-ai-are-converging-e5e5791af45f?source=rss------databricks-5>
 
 ## Related
-[[concepts/data-engineering|data-engineering]] · [[concepts/data-governance|data-governance]] · [[concepts/databricks|databricks]] · [[concepts/governance|governance]] · [[companies/databricks|Databricks]] · [[companies/medium|Medium]] · [[episodes/2026-04-12|2026-04-12]]
+[[concepts/data-engineering|data-engineering]] · [[concepts/data-governance|data-governance]] · [[concepts/governance|governance]] · [[concepts/databricks|databricks]] · [[companies/databricks|Databricks]] · [[companies/medium|Medium]] · [[episodes/2026-04-12|2026-04-12]]

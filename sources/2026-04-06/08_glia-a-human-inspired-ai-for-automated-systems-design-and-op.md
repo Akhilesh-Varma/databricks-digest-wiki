@@ -32,4 +32,4 @@ Glia is an AI architecture for networked systems design that leverages large lan
 - **URL:** <https://arxiv.org/abs/2510.27176>
 
 ## Related
-[[concepts/glia|glia]] · [[concepts/large-language-models|large-language-models]] · [[concepts/multi-agent-workflow|multi-agent-workflow]] · [[concepts/ml-for-systems|ml-for-systems]] · [[concepts/request-routing|request-routing]] · [[concepts/auto-scaling|auto-scaling]] · [[concepts/llm-inference|llm-inference]] · [[concepts/llms|llms]] · [[concepts/llm|llm]] · [[concepts/ai|ai]] · [[episodes/2026-04-06|2026-04-06]]
+[[concepts/glia|glia]] · [[concepts/large-language-models|large-language-models]] · [[concepts/multi-agent-workflow|multi-agent-workflow]] · [[concepts/ml-for-systems|ml-for-systems]] · [[concepts/request-routing|request-routing]] · [[concepts/auto-scaling|auto-scaling]] · [[concepts/llm-inference|llm-inference]] · [[concepts/optimize|optimize]] · [[concepts/llms|llms]] · [[concepts/llm|llm]] · [[concepts/ai|ai]] · [[episodes/2026-04-06|2026-04-06]]

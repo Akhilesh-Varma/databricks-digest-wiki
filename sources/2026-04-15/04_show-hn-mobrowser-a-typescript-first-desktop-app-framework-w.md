@@ -33,4 +33,4 @@ MōBrowser is a new TypeScript-first desktop application framework built on Type
 - **URL:** <https://teamdev.com/mobrowser/>
 
 ## Related
-[[concepts/mobrowser|mobrowser]] · [[concepts/typed-ipc|typed-ipc]] · [[concepts/protobuf|protobuf]] · [[concepts/electron|electron]] · [[concepts/tauri|tauri]] · [[concepts/jxbrowser|jxbrowser]] · [[concepts/dotnetbrowser|dotnetbrowser]] · [[concepts/chromium|chromium]] · [[concepts/node-js|node-js]] · [[concepts/typescript|typescript]] · [[concepts/views|views]] · [[concepts/delta|delta]] · [[companies/teamdev|TeamDev]] · [[episodes/2026-04-15|2026-04-15]]
+[[concepts/mobrowser|mobrowser]] · [[concepts/typed-ipc|typed-ipc]] · [[concepts/protobuf|protobuf]] · [[concepts/electron|electron]] · [[concepts/tauri|tauri]] · [[concepts/jxbrowser|jxbrowser]] · [[concepts/dotnetbrowser|dotnetbrowser]] · [[concepts/chromium|chromium]] · [[concepts/node-js|node-js]] · [[concepts/typescript|typescript]] · [[concepts/delta|delta]] · [[concepts/views|views]] · [[companies/teamdev|TeamDev]] · [[episodes/2026-04-15|2026-04-15]]

@@ -3,17 +3,19 @@ type: concept
 name: Lakeflow Spark Declarative Pipelines
 slug: lakeflow-spark-declarative-pipelines
 first_seen: 2026-04-14
-last_seen: 2026-04-24
-mention_count: 7
-avg_confidence: 0.829
+last_seen: 2026-05-09
+mention_count: 8
+avg_confidence: 0.812
 tags: [concept]
 ---
 
 # Lakeflow Spark Declarative Pipelines
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-09|2026-05-09]]
+    - [[sources/2026-05-09/02_scaling-enterprise-ai-with-databricks-without-losing-control|Scaling Enterprise AI with Databricks Without Losing Control]]
 - [[episodes/2026-04-24|2026-04-24]]
     - [[sources/2026-04-24/07_databricks-in-production-8-architectural-decisions-that-actu|Databricks in Production 8 Architectural Decisions That Actually Matter]]
 - [[episodes/2026-04-23|2026-04-23]]

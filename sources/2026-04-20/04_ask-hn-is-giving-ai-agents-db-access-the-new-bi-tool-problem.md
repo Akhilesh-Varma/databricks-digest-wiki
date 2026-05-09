@@ -31,4 +31,4 @@ The article discusses the challenge of giving AI/ML teams access to production d
 - **URL:** <https://news.ycombinator.com/item?id=47827486>
 
 ## Related
-[[concepts/postgres|postgres]] · [[concepts/read-replica|read-replica]] · [[concepts/snowflake|snowflake]] · [[concepts/bigquery|bigquery]] · [[concepts/pii|pii]] · [[concepts/rls|rls]] · [[concepts/ai|ai]] · [[concepts/s3|s3]] · [[companies/snowflake|Snowflake]] · [[companies/bigquery|BigQuery]] · [[companies/redshift|Redshift]] · [[episodes/2026-04-20|2026-04-20]]
+[[concepts/postgres|postgres]] · [[concepts/read-replica|read-replica]] · [[concepts/snowflake|snowflake]] · [[concepts/bigquery|bigquery]] · [[concepts/rls|rls]] · [[concepts/pii|pii]] · [[concepts/ai|ai]] · [[concepts/s3|s3]] · [[companies/snowflake|Snowflake]] · [[companies/bigquery|BigQuery]] · [[companies/redshift|Redshift]] · [[episodes/2026-04-20|2026-04-20]]

@@ -3,17 +3,19 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-06
-mention_count: 18
+last_seen: 2026-05-09
+mention_count: 19
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 18 stories._
+_Company mentioned across 19 stories._
 
 ## Appears in
+- [[episodes/2026-05-09|2026-05-09]]
+    - [[sources/2026-05-09/05_adf-vs-databricks-workflows-which-one-should-orchestrate-you|ADF vs Databricks Workflows Which One Should Orchestrate Your Data Pipelines?]]
 - [[episodes/2026-05-06|2026-05-06]]
     - [[sources/2026-05-06/04_genie-space-as-code-shipping-a-curated-salesforce-genie-spac|Genie Space as Code Shipping a Curated Salesforce Genie Space with a Databricks Asset Bundle]]
 - [[episodes/2026-05-05|2026-05-05]]

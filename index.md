@@ -1,8 +1,8 @@
 ---
 type: index
-generated_at: 2026-05-08T10:27:17.015378+00:00
-episode_count: 36
-story_count: 297
+generated_at: 2026-05-09T10:23:38.475950+00:00
+episode_count: 37
+story_count: 304
 ---
 
 # Daily Databricks Digest — Knowledge Wiki
@@ -11,6 +11,7 @@ An auto-generated Obsidian vault covering every story aired on the [Daily Databr
 
 ## Recent episodes
 
+- [[episodes/2026-05-09|Daily Databricks Digest - May 09, 2026]] — 7 stories
 - [[episodes/2026-05-08|Daily Databricks Digest - May 08, 2026]] — 10 stories
 - [[episodes/2026-05-07|Daily Databricks Digest - May 07, 2026]] — 10 stories
 - [[episodes/2026-05-06|Daily Databricks Digest - May 06, 2026]] — 8 stories
@@ -30,41 +31,40 @@ An auto-generated Obsidian vault covering every story aired on the [Daily Databr
 - [[episodes/2026-04-22|Daily Databricks Digest - April 22, 2026]] — 10 stories
 - [[episodes/2026-04-21|Daily Databricks Digest - April 21, 2026]] — 10 stories
 - [[episodes/2026-04-20|Daily Databricks Digest - April 20, 2026]] — 10 stories
-- [[episodes/2026-04-19|Daily Databricks Digest - April 19, 2026]] — 6 stories
-- _…and 16 earlier episodes._
+- _…and 17 earlier episodes._
 
 ## Most-referenced concepts
 
-- [[concepts/unity-catalog|Unity Catalog]] — 56 stories
-- [[concepts/delta-lake|Delta Lake]] — 27 stories
-- [[concepts/lakehouse|Lakehouse]] — 26 stories
-- [[concepts/apache-spark|Apache Spark]] — 25 stories
+- [[concepts/unity-catalog|Unity Catalog]] — 58 stories
+- [[concepts/delta-lake|Delta Lake]] — 30 stories
+- [[concepts/apache-spark|Apache Spark]] — 28 stories
+- [[concepts/lakehouse|Lakehouse]] — 28 stories
 - [[concepts/large-language-models|Large Language Models]] — 24 stories
-- [[concepts/apache-iceberg|Apache Iceberg]] — 14 stories
-- [[concepts/databricks-apps|Databricks Apps]] — 12 stories
-- [[concepts/mlflow|MLflow]] — 12 stories
+- [[concepts/apache-iceberg|Apache Iceberg]] — 15 stories
+- [[concepts/databricks-apps|Databricks Apps]] — 13 stories
+- [[concepts/mlflow|MLflow]] — 13 stories
+- [[concepts/pyspark|PySpark]] — 12 stories
+- [[concepts/retrieval-augmented-generation|Retrieval-Augmented Generation]] — 11 stories
 - [[concepts/lakebase|Lakebase]] — 11 stories
-- [[concepts/pyspark|PySpark]] — 11 stories
 - [[concepts/databricks|Databricks]] — 11 stories
 - [[concepts/data-engineering|Data Engineering]] — 11 stories
-- [[concepts/retrieval-augmented-generation|Retrieval-Augmented Generation]] — 10 stories
 - [[concepts/data-pipeline|Data Pipeline]] — 10 stories
 - [[concepts/postgresql|PostgreSQL]] — 10 stories
 - [[concepts/medallion-architecture|Medallion Architecture]] — 9 stories
 - [[concepts/spark-declarative-pipelines|Spark Declarative Pipelines]] — 9 stories
 - [[concepts/pypi|PyPI]] — 9 stories
+- [[concepts/lakeflow-spark-declarative-pipelines|Lakeflow Spark Declarative Pipelines]] — 8 stories
 - [[concepts/etl|ETL]] — 8 stories
 - [[concepts/lakeflow|Lakeflow]] — 8 stories
 - [[concepts/genie|Genie]] — 8 stories
+- [[concepts/apache-parquet|Apache Parquet]] — 7 stories
+- [[concepts/data-lakehouse|Data Lakehouse]] — 7 stories
 - [[concepts/databricks-asset-bundles|Databricks Asset Bundles]] — 7 stories
-- [[concepts/lakeflow-spark-declarative-pipelines|Lakeflow Spark Declarative Pipelines]] — 7 stories
 - [[concepts/snowflake|Snowflake]] — 7 stories
 - [[concepts/lakeflow-jobs|Lakeflow Jobs]] — 7 stories
+- [[concepts/dbt|dbt]] — 7 stories
 - [[concepts/sql|SQL]] — 7 stories
-- [[concepts/apache-parquet|Apache Parquet]] — 6 stories
-- [[concepts/data-lakehouse|Data Lakehouse]] — 6 stories
-- [[concepts/apache-kafka|Apache Kafka]] — 6 stories
-- [[concepts/large-language-models-llms|Large Language Models (LLMs)]] — 6 stories
+- [[concepts/delta-tables|Delta Tables]] — 7 stories
 
 ## Folder map
 

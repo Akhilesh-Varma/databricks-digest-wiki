@@ -3,17 +3,19 @@ type: concept
 name: Databricks Apps
 slug: databricks-apps
 first_seen: 2026-04-05
-last_seen: 2026-05-08
-mention_count: 12
-avg_confidence: 0.8
+last_seen: 2026-05-09
+mention_count: 13
+avg_confidence: 0.815
 tags: [concept]
 ---
 
 # Databricks Apps
 
-_Concept mentioned across 12 stories._
+_Concept mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-09|2026-05-09]]
+    - [[sources/2026-05-09/06_databricks-apps-tutorial-scalable-streamlit-modular-template|Databricks Apps Tutorial Scalable Streamlit modular Template for Production]]
 - [[episodes/2026-05-08|2026-05-08]]
     - [[sources/2026-05-08/03_best-moments-from-dais-2025-a-look-back-before-we-do-it-agai|Best Moments from DAIS 2025 A Look Back Before We Do It Again at DAIS 2026!]]
 - [[episodes/2026-05-07|2026-05-07]]

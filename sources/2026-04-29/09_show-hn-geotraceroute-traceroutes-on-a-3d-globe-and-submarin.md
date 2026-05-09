@@ -32,4 +32,4 @@ GeoTraceroute v2.3 now infers submarine cable routes, a significant addition to 
 - **URL:** <https://geotraceroute.com>
 
 ## Related
-[[concepts/traceroute|traceroute]] · [[concepts/geolocation|geolocation]] · [[concepts/pathfinding|pathfinding]] · [[concepts/views|views]] · [[concepts/delta|delta]] · [[people/salim|Salim]] · [[episodes/2026-04-29|2026-04-29]]
+[[concepts/traceroute|traceroute]] · [[concepts/geolocation|geolocation]] · [[concepts/pathfinding|pathfinding]] · [[concepts/delta|delta]] · [[concepts/views|views]] · [[people/salim|Salim]] · [[episodes/2026-04-29|2026-04-29]]

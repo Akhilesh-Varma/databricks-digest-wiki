@@ -31,4 +31,4 @@ Databricks is a powerful platform for data engineering, analytics, and machine l
 - **URL:** <https://dev.to/raghav_sharma_0c5d39f61a9/cost-optimization-strategies-for-databricks-workloads-5cm2>
 
 ## Related
-[[concepts/databricks|databricks]] · [[concepts/delta-lake|delta-lake]] · [[concepts/data-engineering|data-engineering]] · [[concepts/machine-learning|machine-learning]] · [[concepts/tiered-storage|tiered-storage]] · [[concepts/analytics|analytics]] · [[concepts/delta|delta]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-24|2026-04-24]]
+[[concepts/databricks|databricks]] · [[concepts/delta-lake|delta-lake]] · [[concepts/data-engineering|data-engineering]] · [[concepts/machine-learning|machine-learning]] · [[concepts/tiered-storage|tiered-storage]] · [[concepts/analytics|analytics]] · [[concepts/optimize|optimize]] · [[concepts/delta|delta]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-24|2026-04-24]]

@@ -3,17 +3,19 @@ type: concept
 name: Streamlit
 slug: streamlit
 first_seen: 2026-04-13
-last_seen: 2026-05-07
-mention_count: 3
-avg_confidence: 0.5
+last_seen: 2026-05-09
+mention_count: 4
+avg_confidence: 0.55
 tags: [concept]
 ---
 
 # Streamlit
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-09|2026-05-09]]
+    - [[sources/2026-05-09/06_databricks-apps-tutorial-scalable-streamlit-modular-template|Databricks Apps Tutorial Scalable Streamlit modular Template for Production]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/03_deploying-django-apps-on-databricks-apps-with-lakebase|Deploying Django apps on Databricks Apps with Lakebase]]
 - [[episodes/2026-04-16|2026-04-16]]

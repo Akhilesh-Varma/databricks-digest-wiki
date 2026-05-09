@@ -3,17 +3,19 @@ type: company
 name: Apache Software Foundation
 slug: apache-software-foundation
 first_seen: 2026-03-17
-last_seen: 2026-05-02
-mention_count: 12
+last_seen: 2026-05-09
+mention_count: 13
 avg_confidence: ""
 tags: [company]
 ---
 
 # Apache Software Foundation
 
-_Company mentioned across 12 stories._
+_Company mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-09|2026-05-09]]
+    - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/08_what-is-apache-polaris-why-open-data-catalogs-matter-and-how|What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS]]
     - [[sources/2026-05-02/01_apache-spark-pyspark-4-2-0-dev5-released-on-pypi|Apache Spark PySpark 4.2.0.dev5 released on PyPI]]

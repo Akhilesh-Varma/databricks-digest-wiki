@@ -30,4 +30,4 @@ The article discusses how healthcare organizations can achieve enterprise intell
 - **URL:** <https://medium.com/@balajij8/achieving-enterprise-healthcare-intelligence-bidirectional-sync-with-databricks-lakebase-ee23fd0f4c2d?source=rss------databricks-5>
 
 ## Related
-[[concepts/databricks-lakebase|databricks-lakebase]] · [[concepts/lakehouse-architecture|lakehouse-architecture]] · [[concepts/bidirectional-sync|bidirectional-sync]] · [[concepts/governance|governance]] · [[concepts/lakehouse|lakehouse]] · [[concepts/analytics|analytics]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[episodes/2026-05-08|2026-05-08]]
+[[concepts/databricks-lakebase|databricks-lakebase]] · [[concepts/lakehouse-architecture|lakehouse-architecture]] · [[concepts/bidirectional-sync|bidirectional-sync]] · [[concepts/governance|governance]] · [[concepts/analytics|analytics]] · [[concepts/lakehouse|lakehouse]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[episodes/2026-05-08|2026-05-08]]

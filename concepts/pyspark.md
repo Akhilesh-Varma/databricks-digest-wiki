@@ -3,17 +3,19 @@ type: concept
 name: PySpark
 slug: pyspark
 first_seen: 2026-03-17
-last_seen: 2026-05-07
-mention_count: 11
-avg_confidence: 0.827
+last_seen: 2026-05-09
+mention_count: 12
+avg_confidence: 0.817
 tags: [concept]
 ---
 
 # PySpark
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-05-09|2026-05-09]]
+    - [[sources/2026-05-09/05_adf-vs-databricks-workflows-which-one-should-orchestrate-you|ADF vs Databricks Workflows Which One Should Orchestrate Your Data Pipelines?]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/07_data-series-understanding-etl-medallion-architecture-part-1|Data Series Understanding ETL Medallion Architecture Part 1]]
 - [[episodes/2026-05-04|2026-05-04]]

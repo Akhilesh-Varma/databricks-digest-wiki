@@ -32,4 +32,4 @@ Nitsum is a distributed LLM serving system that treats tensor parallelism (TP) a
 - **URL:** <https://arxiv.org/abs/2605.05467>
 
 ## Related
-[[concepts/tensor-parallelism|tensor-parallelism]] · [[concepts/llm-serving|llm-serving]] · [[concepts/tiered-slo|tiered-slo]] · [[concepts/kv-migration|kv-migration]] · [[concepts/prefill-decode-disaggregation|prefill-decode-disaggregation]] · [[concepts/goodput|goodput]] · [[concepts/llm|llm]] · [[episodes/2026-05-08|2026-05-08]]
+[[concepts/tensor-parallelism|tensor-parallelism]] · [[concepts/llm-serving|llm-serving]] · [[concepts/tiered-slo|tiered-slo]] · [[concepts/kv-migration|kv-migration]] · [[concepts/prefill-decode-disaggregation|prefill-decode-disaggregation]] · [[concepts/goodput|goodput]] · [[concepts/optimize|optimize]] · [[concepts/llm|llm]] · [[episodes/2026-05-08|2026-05-08]]
