@@ -3,17 +3,19 @@ type: concept
 name: Delta Tables
 slug: delta-tables
 first_seen: 2026-04-18
-last_seen: 2026-05-09
-mention_count: 7
-avg_confidence: 0.614
+last_seen: 2026-05-10
+mention_count: 8
+avg_confidence: 0.625
 tags: [concept]
 ---
 
 # Delta Tables
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-10|2026-05-10]]
+    - [[sources/2026-05-10/03_partner-blog-revolutionizing-enterprise-data-with-databricks|PARTNER BLOG Revolutionizing Enterprise Data with Databricks Agent Bricks Tale of Two Industries]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/02_scaling-enterprise-ai-with-databricks-without-losing-control|Scaling Enterprise AI with Databricks Without Losing Control]]
 - [[episodes/2026-05-07|2026-05-07]]

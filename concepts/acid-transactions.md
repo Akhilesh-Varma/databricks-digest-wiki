@@ -3,17 +3,19 @@ type: concept
 name: ACID Transactions
 slug: acid-transactions
 first_seen: 2026-04-14
-last_seen: 2026-05-09
-mention_count: 5
-avg_confidence: 0.56
+last_seen: 2026-05-10
+mention_count: 6
+avg_confidence: 0.533
 tags: [concept]
 ---
 
 # ACID Transactions
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-10|2026-05-10]]
+    - [[sources/2026-05-10/06_delta-lake-transaction-logs-explained-the-ultimate-troublesh|Delta Lake Transaction Logs Explained The Ultimate Troubleshooting Superpower for Data Engineers]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/03_delta-lake-under-the-hood-what-every-data-engineer-should-kn|Delta Lake Under the Hood What Every Data Engineer Should Know]]
 - [[episodes/2026-05-07|2026-05-07]]

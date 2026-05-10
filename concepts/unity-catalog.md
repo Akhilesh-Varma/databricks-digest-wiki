@@ -3,17 +3,19 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-09
-mention_count: 58
-avg_confidence: 0.752
+last_seen: 2026-05-10
+mention_count: 59
+avg_confidence: 0.751
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 58 stories._
+_Concept mentioned across 59 stories._
 
 ## Appears in
+- [[episodes/2026-05-10|2026-05-10]]
+    - [[sources/2026-05-10/01_community-pulse-your-weekly-roundup-april-27-may-03-2026|Community Pulse Your Weekly Roundup! April 27 May 03, 2026]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
     - [[sources/2026-05-09/02_scaling-enterprise-ai-with-databricks-without-losing-control|Scaling Enterprise AI with Databricks Without Losing Control]]

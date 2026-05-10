@@ -3,17 +3,20 @@ type: concept
 name: Databricks Genie
 slug: databricks-genie
 first_seen: 2026-04-23
-last_seen: 2026-05-08
-mention_count: 4
-avg_confidence: 0.925
+last_seen: 2026-05-10
+mention_count: 6
+avg_confidence: 0.85
 tags: [concept]
 ---
 
 # Databricks Genie
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-10|2026-05-10]]
+    - [[sources/2026-05-10/03_partner-blog-revolutionizing-enterprise-data-with-databricks|PARTNER BLOG Revolutionizing Enterprise Data with Databricks Agent Bricks Tale of Two Industries]]
+    - [[sources/2026-05-10/01_community-pulse-your-weekly-roundup-april-27-may-03-2026|Community Pulse Your Weekly Roundup! April 27 May 03, 2026]]
 - [[episodes/2026-05-08|2026-05-08]]
     - [[sources/2026-05-08/04_how-databricks-genie-turns-collaboration-tools-into-ai-power|How Databricks Genie Turns Collaboration Tools into AI-Powered Intelligence Platforms]]
 - [[episodes/2026-05-05|2026-05-05]]

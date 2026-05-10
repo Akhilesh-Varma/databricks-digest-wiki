@@ -3,17 +3,19 @@ type: company
 name: Amazon Web Services
 slug: amazon-web-services
 first_seen: 2026-04-08
-last_seen: 2026-05-07
-mention_count: 10
+last_seen: 2026-05-10
+mention_count: 11
 avg_confidence: ""
 tags: [company]
 ---
 
 # Amazon Web Services
 
-_Company mentioned across 10 stories._
+_Company mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-05-10|2026-05-10]]
+    - [[sources/2026-05-10/01_community-pulse-your-weekly-roundup-april-27-may-03-2026|Community Pulse Your Weekly Roundup! April 27 May 03, 2026]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/08_ursa-a-new-diskless-lakestream-engine-for-kafka|Ursa a new Diskless Lakestream engine for Kafka]]
     - [[sources/2026-05-07/06_while-working-on-a-databricks-implementation-with-unity-cata|While working on a Databricks implementation with Unity Catalog enabled, we ran into an interesting]]

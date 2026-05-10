@@ -3,17 +3,22 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-09
-mention_count: 160
+last_seen: 2026-05-10
+mention_count: 164
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 160 stories._
+_Company mentioned across 164 stories._
 
 ## Appears in
+- [[episodes/2026-05-10|2026-05-10]]
+    - [[sources/2026-05-10/03_partner-blog-revolutionizing-enterprise-data-with-databricks|PARTNER BLOG Revolutionizing Enterprise Data with Databricks Agent Bricks Tale of Two Industries]]
+    - [[sources/2026-05-10/02_solution-accelerator-series-supply-chain-distribution-optimi|Solution Accelerator Series Supply Chain Distribution Optimization]]
+    - [[sources/2026-05-10/01_community-pulse-your-weekly-roundup-april-27-may-03-2026|Community Pulse Your Weekly Roundup! April 27 May 03, 2026]]
+    - [[sources/2026-05-10/06_delta-lake-transaction-logs-explained-the-ultimate-troublesh|Delta Lake Transaction Logs Explained The Ultimate Troubleshooting Superpower for Data Engineers]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
     - [[sources/2026-05-09/03_delta-lake-under-the-hood-what-every-data-engineer-should-kn|Delta Lake Under the Hood What Every Data Engineer Should Know]]

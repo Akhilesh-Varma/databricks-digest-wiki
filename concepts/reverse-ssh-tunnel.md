@@ -3,16 +3,18 @@ type: concept
 name: Reverse SSH Tunnel
 slug: reverse-ssh-tunnel
 first_seen: 2026-05-02
-last_seen: 2026-05-02
-mention_count: 1
-avg_confidence: 1.0
+last_seen: 2026-05-10
+mention_count: 2
+avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Reverse SSH Tunnel
 
-_Concept mentioned across 1 story._
+_Concept mentioned across 2 stories._
 
 ## Appears in
+- [[episodes/2026-05-10|2026-05-10]]
+    - [[sources/2026-05-10/01_community-pulse-your-weekly-roundup-april-27-may-03-2026|Community Pulse Your Weekly Roundup! April 27 May 03, 2026]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/02_azure-databricks-reverse-ssh-tunnel-for-on-premises-connecti|Azure Databricks Reverse SSH Tunnel for On-Premises Connectivity]]

@@ -3,17 +3,20 @@ type: company
 name: Microsoft Azure
 slug: microsoft-azure
 first_seen: 2026-04-08
-last_seen: 2026-05-09
-mention_count: 9
+last_seen: 2026-05-10
+mention_count: 11
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft Azure
 
-_Company mentioned across 9 stories._
+_Company mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-05-10|2026-05-10]]
+    - [[sources/2026-05-10/02_solution-accelerator-series-supply-chain-distribution-optimi|Solution Accelerator Series Supply Chain Distribution Optimization]]
+    - [[sources/2026-05-10/01_community-pulse-your-weekly-roundup-april-27-may-03-2026|Community Pulse Your Weekly Roundup! April 27 May 03, 2026]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/05_adf-vs-databricks-workflows-which-one-should-orchestrate-you|ADF vs Databricks Workflows Which One Should Orchestrate Your Data Pipelines?]]
 - [[episodes/2026-05-07|2026-05-07]]

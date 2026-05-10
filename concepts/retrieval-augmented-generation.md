@@ -3,17 +3,20 @@ type: concept
 name: Retrieval-Augmented Generation
 slug: retrieval-augmented-generation
 first_seen: 2026-04-10
-last_seen: 2026-05-09
-mention_count: 11
-avg_confidence: 0.755
+last_seen: 2026-05-10
+mention_count: 13
+avg_confidence: 0.792
 tags: [concept]
 ---
 
 # Retrieval-Augmented Generation
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-10|2026-05-10]]
+    - [[sources/2026-05-10/04_rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-p|RAG Is Blind to Time I Built a Temporal Layer to Fix It in Production]]
+    - [[sources/2026-05-10/05_chatbot-lardan-otonom-ajanlara-rag-ve-n8n-ile-kurumsal-veri|Chatbot lardan Otonom Ajanlara RAG ve n8n ile Kurumsal Veri Boru Hatlarını İnşa Etmek]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/02_scaling-enterprise-ai-with-databricks-without-losing-control|Scaling Enterprise AI with Databricks Without Losing Control]]
 - [[episodes/2026-05-08|2026-05-08]]

@@ -3,17 +3,20 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-05-09
-mention_count: 28
-avg_confidence: 0.718
+last_seen: 2026-05-10
+mention_count: 30
+avg_confidence: 0.717
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 28 stories._
+_Concept mentioned across 30 stories._
 
 ## Appears in
+- [[episodes/2026-05-10|2026-05-10]]
+    - [[sources/2026-05-10/02_solution-accelerator-series-supply-chain-distribution-optimi|Solution Accelerator Series Supply Chain Distribution Optimization]]
+    - [[sources/2026-05-10/06_delta-lake-transaction-logs-explained-the-ultimate-troublesh|Delta Lake Transaction Logs Explained The Ultimate Troubleshooting Superpower for Data Engineers]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
     - [[sources/2026-05-09/03_delta-lake-under-the-hood-what-every-data-engineer-should-kn|Delta Lake Under the Hood What Every Data Engineer Should Know]]
