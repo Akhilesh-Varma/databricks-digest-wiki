@@ -32,4 +32,4 @@ The author describes debugging a broken S3-compatible backup setup caused by a f
 - **URL:** <https://dev.to/mohhddhassan/why-my-s3-backup-setup-broke-buckets-folders-and-scheduling-misconceptions-315e>
 
 ## Related
-[[concepts/s3-object-storage|s3-object-storage]] · [[concepts/object-key|object-key]] · [[concepts/s3-compatible-storage|s3-compatible-storage]] · [[concepts/cron-jobs|cron-jobs]] · [[concepts/snapshot|snapshot]] · [[concepts/aws|aws]] · [[concepts/s3|s3]] · [[companies/aws|AWS]] · [[episodes/2026-04-16|2026-04-16]]
+[[concepts/s3-object-storage|s3-object-storage]] · [[concepts/object-key|object-key]] · [[concepts/s3-compatible-storage|s3-compatible-storage]] · [[concepts/cron-jobs|cron-jobs]] · [[concepts/object-storage|object-storage]] · [[concepts/snapshot|snapshot]] · [[concepts/aws|aws]] · [[concepts/s3|s3]] · [[companies/aws|AWS]] · [[episodes/2026-04-16|2026-04-16]]

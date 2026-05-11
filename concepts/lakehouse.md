@@ -3,17 +3,19 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-05
-last_seen: 2026-05-09
-mention_count: 28
-avg_confidence: 0.621
+last_seen: 2026-05-11
+mention_count: 29
+avg_confidence: 0.624
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 28 stories._
+_Concept mentioned across 29 stories._
 
 ## Appears in
+- [[episodes/2026-05-11|2026-05-11]]
+    - [[sources/2026-05-11/08_building-your-first-data-warehouse-in-databricks-end-to-end|Building Your First Data Warehouse in Databricks End to End]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/05_adf-vs-databricks-workflows-which-one-should-orchestrate-you|ADF vs Databricks Workflows Which One Should Orchestrate Your Data Pipelines?]]
     - [[sources/2026-05-09/07_dbt-apache-iceberg-duckdb-for-teams-under-50|dbt Apache Iceberg DuckDB for Teams Under 50]]

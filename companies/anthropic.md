@@ -3,17 +3,19 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-05-05
-mention_count: 7
+last_seen: 2026-05-11
+mention_count: 8
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 7 stories._
+_Company mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-11|2026-05-11]]
+    - [[sources/2026-05-11/05_the-sequence-radar-857-last-week-in-ai-inside-the-machine-ou|The Sequence Radar 857 Last Week in AI Inside the Machine, Outside the Text Box]]
 - [[episodes/2026-05-05|2026-05-05]]
     - [[sources/2026-05-05/10_show-hn-agent-evals-claude-skill-to-build-your-own-evals|Show HN Agent-evals Claude skill to build your own evals]]
 - [[episodes/2026-05-04|2026-05-04]]

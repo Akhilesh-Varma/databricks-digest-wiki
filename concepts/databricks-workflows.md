@@ -3,17 +3,19 @@ type: concept
 name: Databricks Workflows
 slug: databricks-workflows
 first_seen: 2026-04-26
-last_seen: 2026-05-09
-mention_count: 3
-avg_confidence: 0.9
+last_seen: 2026-05-11
+mention_count: 4
+avg_confidence: 0.85
 tags: [concept]
 ---
 
 # Databricks Workflows
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-11|2026-05-11]]
+    - [[sources/2026-05-11/08_building-your-first-data-warehouse-in-databricks-end-to-end|Building Your First Data Warehouse in Databricks End to End]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/05_adf-vs-databricks-workflows-which-one-should-orchestrate-you|ADF vs Databricks Workflows Which One Should Orchestrate Your Data Pipelines?]]
 - [[episodes/2026-05-04|2026-05-04]]

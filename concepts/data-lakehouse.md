@@ -3,17 +3,19 @@ type: concept
 name: Data Lakehouse
 slug: data-lakehouse
 first_seen: 2026-04-10
-last_seen: 2026-05-09
-mention_count: 7
-avg_confidence: 0.8
+last_seen: 2026-05-11
+mention_count: 8
+avg_confidence: 0.812
 tags: [concept]
 ---
 
 # Data Lakehouse
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-11|2026-05-11]]
+    - [[sources/2026-05-11/07_data-lake-architecture-for-data-engineering-interviews|Data Lake Architecture for Data Engineering Interviews]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/03_delta-lake-under-the-hood-what-every-data-engineer-should-kn|Delta Lake Under the Hood What Every Data Engineer Should Know]]
 - [[episodes/2026-05-01|2026-05-01]]

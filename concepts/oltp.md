@@ -3,17 +3,19 @@ type: concept
 name: OLTP
 slug: oltp
 first_seen: 2026-03-17
-last_seen: 2026-04-27
-mention_count: 3
-avg_confidence: 0.5
+last_seen: 2026-05-11
+mention_count: 4
+avg_confidence: 0.55
 tags: [concept]
 ---
 
 # OLTP
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-11|2026-05-11]]
+    - [[sources/2026-05-11/09_why-postgresql-and-clickhouse-work-so-well-together|Why PostgreSQL and ClickHouse Work So Well Together]]
 - [[episodes/2026-04-27|2026-04-27]]
     - [[sources/2026-04-27/05_data-lake-data-warehouse-data-lakehouse-explained-so-simply|Data Lake, Data Warehouse Data Lakehouse Explained So Simply Even a First-Year Engineer Gets It]]
 - [[episodes/2026-04-21|2026-04-21]]

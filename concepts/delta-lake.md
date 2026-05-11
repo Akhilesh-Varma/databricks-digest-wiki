@@ -3,17 +3,22 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-10
-mention_count: 32
-avg_confidence: 0.716
+last_seen: 2026-05-11
+mention_count: 36
+avg_confidence: 0.714
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 32 stories._
+_Concept mentioned across 36 stories._
 
 ## Appears in
+- [[episodes/2026-05-11|2026-05-11]]
+    - [[sources/2026-05-11/02_mastering-delta-lake-merge-performance-why-it-slows-down-and|Mastering Delta Lake MERGE Performance Why It Slows Down and How to Fix It]]
+    - [[sources/2026-05-11/07_data-lake-architecture-for-data-engineering-interviews|Data Lake Architecture for Data Engineering Interviews]]
+    - [[sources/2026-05-11/08_building-your-first-data-warehouse-in-databricks-end-to-end|Building Your First Data Warehouse in Databricks End to End]]
+    - [[sources/2026-05-11/01_learning-series-machine-learning-model-development|Learning Series Machine Learning Model Development]]
 - [[episodes/2026-05-10|2026-05-10]]
     - [[sources/2026-05-10/01_community-pulse-your-weekly-roundup-april-27-may-03-2026|Community Pulse Your Weekly Roundup! April 27 May 03, 2026]]
     - [[sources/2026-05-10/06_delta-lake-transaction-logs-explained-the-ultimate-troublesh|Delta Lake Transaction Logs Explained The Ultimate Troubleshooting Superpower for Data Engineers]]

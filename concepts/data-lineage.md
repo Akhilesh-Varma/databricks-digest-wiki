@@ -3,17 +3,19 @@ type: concept
 name: data lineage
 slug: data-lineage
 first_seen: 2026-04-24
-last_seen: 2026-05-05
-mention_count: 3
-avg_confidence: 0.767
+last_seen: 2026-05-11
+mention_count: 4
+avg_confidence: 0.75
 tags: [concept]
 ---
 
 # data lineage
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-11|2026-05-11]]
+    - [[sources/2026-05-11/07_data-lake-architecture-for-data-engineering-interviews|Data Lake Architecture for Data Engineering Interviews]]
 - [[episodes/2026-05-05|2026-05-05]]
     - [[sources/2026-05-05/09_selective-rebuild-in-databricks-free-edition-using-lineage-b|Selective Rebuild In Databricks Free Edition Using Lineage BFS]]
 - [[episodes/2026-04-29|2026-04-29]]

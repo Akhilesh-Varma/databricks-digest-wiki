@@ -3,17 +3,19 @@ type: company
 name: Apache Software Foundation
 slug: apache-software-foundation
 first_seen: 2026-03-17
-last_seen: 2026-05-09
-mention_count: 13
+last_seen: 2026-05-11
+mention_count: 14
 avg_confidence: ""
 tags: [company]
 ---
 
 # Apache Software Foundation
 
-_Company mentioned across 13 stories._
+_Company mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-05-11|2026-05-11]]
+    - [[sources/2026-05-11/02_mastering-delta-lake-merge-performance-why-it-slows-down-and|Mastering Delta Lake MERGE Performance Why It Slows Down and How to Fix It]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
 - [[episodes/2026-05-02|2026-05-02]]

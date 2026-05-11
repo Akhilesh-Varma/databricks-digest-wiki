@@ -3,17 +3,24 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-10
-mention_count: 164
+last_seen: 2026-05-11
+mention_count: 170
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 164 stories._
+_Company mentioned across 170 stories._
 
 ## Appears in
+- [[episodes/2026-05-11|2026-05-11]]
+    - [[sources/2026-05-11/02_mastering-delta-lake-merge-performance-why-it-slows-down-and|Mastering Delta Lake MERGE Performance Why It Slows Down and How to Fix It]]
+    - [[sources/2026-05-11/08_building-your-first-data-warehouse-in-databricks-end-to-end|Building Your First Data Warehouse in Databricks End to End]]
+    - [[sources/2026-05-11/01_learning-series-machine-learning-model-development|Learning Series Machine Learning Model Development]]
+    - [[sources/2026-05-11/04_delta-live-tables-dlt-is-powerful-these-are-its-real-constra|Delta Live Tables DLT Is Powerful. These Are Its Real Constraints.]]
+    - [[sources/2026-05-11/03_share-your-expertise-submit-your-blogs-and-videos-to-the-dat|Share Your Expertise Submit Your Blogs and Videos to the Databricks Community!]]
+    - [[sources/2026-05-11/06_databricks-apps-feel-more-enterprise-ready-with-user-authori|Databricks Apps Feel More Enterprise-Ready with User Authorization]]
 - [[episodes/2026-05-10|2026-05-10]]
     - [[sources/2026-05-10/03_partner-blog-revolutionizing-enterprise-data-with-databricks|PARTNER BLOG Revolutionizing Enterprise Data with Databricks Agent Bricks Tale of Two Industries]]
     - [[sources/2026-05-10/02_solution-accelerator-series-supply-chain-distribution-optimi|Solution Accelerator Series Supply Chain Distribution Optimization]]

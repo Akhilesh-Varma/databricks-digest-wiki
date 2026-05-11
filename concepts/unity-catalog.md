@@ -3,17 +3,19 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-10
-mention_count: 59
-avg_confidence: 0.751
+last_seen: 2026-05-11
+mention_count: 60
+avg_confidence: 0.745
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 59 stories._
+_Concept mentioned across 60 stories._
 
 ## Appears in
+- [[episodes/2026-05-11|2026-05-11]]
+    - [[sources/2026-05-11/01_learning-series-machine-learning-model-development|Learning Series Machine Learning Model Development]]
 - [[episodes/2026-05-10|2026-05-10]]
     - [[sources/2026-05-10/01_community-pulse-your-weekly-roundup-april-27-may-03-2026|Community Pulse Your Weekly Roundup! April 27 May 03, 2026]]
 - [[episodes/2026-05-09|2026-05-09]]

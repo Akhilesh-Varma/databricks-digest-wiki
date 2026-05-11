@@ -31,4 +31,4 @@ MLflow version 3.11.1 introduces several major features including automatic AI-p
 - **URL:** <https://github.com/mlflow/mlflow/releases/tag/v3.11.1>
 
 ## Related
-[[concepts/mlflow|mlflow]] · [[concepts/ai-gateway|ai-gateway]] · [[concepts/opentelemetry-genai-semantic-conventions|opentelemetry-genai-semantic-conventions]] · [[concepts/trace-graph-view|trace-graph-view]] · [[concepts/opentelemetry|opentelemetry]] · [[concepts/genai|genai]] · [[concepts/ai|ai]] · [[companies/mlflow-oss-project|MLflow (OSS Project)]] · [[people/tome-hirata|Tome Hirata]] · [[people/joel-robin|Joel Robin]] · [[episodes/2026-04-08|2026-04-08]]
+[[concepts/mlflow|mlflow]] · [[concepts/ai-gateway|ai-gateway]] · [[concepts/opentelemetry-genai-semantic-conventions|opentelemetry-genai-semantic-conventions]] · [[concepts/trace-graph-view|trace-graph-view]] · [[concepts/observability|observability]] · [[concepts/opentelemetry|opentelemetry]] · [[concepts/genai|genai]] · [[concepts/ai|ai]] · [[companies/mlflow-oss-project|MLflow (OSS Project)]] · [[people/tome-hirata|Tome Hirata]] · [[people/joel-robin|Joel Robin]] · [[episodes/2026-04-08|2026-04-08]]
