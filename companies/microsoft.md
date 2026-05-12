@@ -3,17 +3,19 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-05-08
-mention_count: 23
+last_seen: 2026-05-12
+mention_count: 24
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 23 stories._
+_Company mentioned across 24 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/09_snowflake-for-data-engineering-interviews-a-beginner-s-guide|Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse]]
 - [[episodes/2026-05-08|2026-05-08]]
     - [[sources/2026-05-08/04_how-databricks-genie-turns-collaboration-tools-into-ai-power|How Databricks Genie Turns Collaboration Tools into AI-Powered Intelligence Platforms]]
 - [[episodes/2026-05-06|2026-05-06]]

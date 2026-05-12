@@ -3,17 +3,24 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-11
-mention_count: 170
+last_seen: 2026-05-12
+mention_count: 176
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 170 stories._
+_Company mentioned across 176 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/03_introducing-5xl-sql-warehouses-a-practical-guide-to-meeting|Introducing 5XL SQL Warehouses A Practical Guide to Meeting SLAs for Your Most Demanding Workloads]]
+    - [[sources/2026-05-12/02_agentic-data-engineering-with-genie-code-and-lakeflow|Agentic Data Engineering with Genie Code and Lakeflow]]
+    - [[sources/2026-05-12/09_snowflake-for-data-engineering-interviews-a-beginner-s-guide|Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse]]
+    - [[sources/2026-05-12/06_building-a-spark-declarative-pipeline-a-modern-financial-dat|Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP, Apache Iceberg]]
+    - [[sources/2026-05-12/07_building-scalable-data-pipelines-with-azure-data-factory-dat|Building Scalable Data Pipelines with Azure Data Factory, Databricks Azure DevOps]]
+    - [[sources/2026-05-12/05_databricks-sdp-explained-unified-ddl-dml-in-modern-pipelines|Databricks SDP Explained Unified DDL DML in Modern Pipelines]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/02_mastering-delta-lake-merge-performance-why-it-slows-down-and|Mastering Delta Lake MERGE Performance Why It Slows Down and How to Fix It]]
     - [[sources/2026-05-11/08_building-your-first-data-warehouse-in-databricks-end-to-end|Building Your First Data Warehouse in Databricks End to End]]

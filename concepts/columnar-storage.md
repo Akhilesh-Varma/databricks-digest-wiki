@@ -3,17 +3,19 @@ type: concept
 name: Columnar Storage
 slug: columnar-storage
 first_seen: 2026-04-14
-last_seen: 2026-05-11
-mention_count: 2
-avg_confidence: 0.8
+last_seen: 2026-05-12
+mention_count: 3
+avg_confidence: 0.867
 tags: [concept]
 ---
 
 # Columnar Storage
 
-_Concept mentioned across 2 stories._
+_Concept mentioned across 3 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/10_amazon-redshift-for-data-engineering-columnar-storage-mpp-co|Amazon Redshift for Data Engineering Columnar Storage, MPP, COPY, Distribution Keys, Spectrum]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/09_why-postgresql-and-clickhouse-work-so-well-together|Why PostgreSQL and ClickHouse Work So Well Together]]
 - [[episodes/2026-04-14|2026-04-14]]

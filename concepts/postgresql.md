@@ -3,17 +3,20 @@ type: concept
 name: PostgreSQL
 slug: postgresql
 first_seen: 2026-04-09
-last_seen: 2026-05-11
-mention_count: 11
-avg_confidence: 0.7
+last_seen: 2026-05-12
+mention_count: 13
+avg_confidence: 0.654
 tags: [concept]
 ---
 
 # PostgreSQL
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/10_amazon-redshift-for-data-engineering-columnar-storage-mpp-co|Amazon Redshift for Data Engineering Columnar Storage, MPP, COPY, Distribution Keys, Spectrum]]
+    - [[sources/2026-05-12/04_show-hn-e2a-open-source-email-gateway-for-ai-agents|Show HN E2a Open-source email gateway for AI agents]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/09_why-postgresql-and-clickhouse-work-so-well-together|Why PostgreSQL and ClickHouse Work So Well Together]]
 - [[episodes/2026-05-08|2026-05-08]]

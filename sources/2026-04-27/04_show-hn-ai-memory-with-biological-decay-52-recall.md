@@ -33,4 +33,4 @@ This project introduces a novel approach to AI memory management inspired by bio
 - **URL:** <https://github.com/sachitrafa/YourMemory>
 
 ## Related
-[[concepts/rag|rag]] · [[concepts/ebbinghaus-forgetting-curve|ebbinghaus-forgetting-curve]] · [[concepts/context-window|context-window]] · [[concepts/spaced-repetition|spaced-repetition]] · [[concepts/vector-store|vector-store]] · [[concepts/semantic-search|semantic-search]] · [[concepts/linear|linear]] · [[concepts/ai|ai]] · [[episodes/2026-04-27|2026-04-27]]
+[[concepts/rag|rag]] · [[concepts/ebbinghaus-forgetting-curve|ebbinghaus-forgetting-curve]] · [[concepts/context-window|context-window]] · [[concepts/spaced-repetition|spaced-repetition]] · [[concepts/vector-store|vector-store]] · [[concepts/semantic-search|semantic-search]] · [[concepts/linear|linear]] · [[concepts/mcp|mcp]] · [[concepts/ai|ai]] · [[episodes/2026-04-27|2026-04-27]]

@@ -3,17 +3,19 @@ type: concept
 name: MLflow
 slug: mlflow
 first_seen: 2026-04-06
-last_seen: 2026-05-11
-mention_count: 14
-avg_confidence: 0.786
+last_seen: 2026-05-12
+mention_count: 15
+avg_confidence: 0.8
 tags: [concept]
 ---
 
 # MLflow
 
-_Concept mentioned across 14 stories._
+_Concept mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/01_mlflow-2-22-5-released-on-pypi|MLflow 2.22.5 released on PyPI]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/01_learning-series-machine-learning-model-development|Learning Series Machine Learning Model Development]]
 - [[episodes/2026-05-09|2026-05-09]]

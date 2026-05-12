@@ -3,17 +3,19 @@ type: company
 name: Google
 slug: google
 first_seen: 2026-04-05
-last_seen: 2026-05-10
-mention_count: 12
+last_seen: 2026-05-12
+mention_count: 13
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google
 
-_Company mentioned across 12 stories._
+_Company mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/09_snowflake-for-data-engineering-interviews-a-beginner-s-guide|Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse]]
 - [[episodes/2026-05-10|2026-05-10]]
     - [[sources/2026-05-10/01_community-pulse-your-weekly-roundup-april-27-may-03-2026|Community Pulse Your Weekly Roundup! April 27 May 03, 2026]]
 - [[episodes/2026-05-08|2026-05-08]]

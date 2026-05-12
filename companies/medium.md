@@ -3,17 +3,20 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-10
-mention_count: 20
+last_seen: 2026-05-12
+mention_count: 22
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 20 stories._
+_Company mentioned across 22 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/07_building-scalable-data-pipelines-with-azure-data-factory-dat|Building Scalable Data Pipelines with Azure Data Factory, Databricks Azure DevOps]]
+    - [[sources/2026-05-12/05_databricks-sdp-explained-unified-ddl-dml-in-modern-pipelines|Databricks SDP Explained Unified DDL DML in Modern Pipelines]]
 - [[episodes/2026-05-10|2026-05-10]]
     - [[sources/2026-05-10/05_chatbot-lardan-otonom-ajanlara-rag-ve-n8n-ile-kurumsal-veri|Chatbot lardan Otonom Ajanlara RAG ve n8n ile Kurumsal Veri Boru Hatlarını İnşa Etmek]]
 - [[episodes/2026-05-09|2026-05-09]]

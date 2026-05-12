@@ -3,17 +3,19 @@ type: concept
 name: dbt
 slug: dbt
 first_seen: 2026-04-05
-last_seen: 2026-05-09
-mention_count: 7
-avg_confidence: 0.786
+last_seen: 2026-05-12
+mention_count: 8
+avg_confidence: 0.775
 tags: [concept]
 ---
 
 # dbt
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/08_etl-pipeline-for-data-engineering-a-beginner-s-guide-to-extr|ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/07_dbt-apache-iceberg-duckdb-for-teams-under-50|dbt Apache Iceberg DuckDB for Teams Under 50]]
 - [[episodes/2026-05-08|2026-05-08]]

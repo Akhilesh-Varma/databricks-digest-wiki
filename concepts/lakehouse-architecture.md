@@ -3,17 +3,19 @@ type: concept
 name: Lakehouse Architecture
 slug: lakehouse-architecture
 first_seen: 2026-04-24
-last_seen: 2026-05-08
-mention_count: 4
-avg_confidence: 0.775
+last_seen: 2026-05-12
+mention_count: 5
+avg_confidence: 0.78
 tags: [concept]
 ---
 
 # Lakehouse Architecture
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/07_building-scalable-data-pipelines-with-azure-data-factory-dat|Building Scalable Data Pipelines with Azure Data Factory, Databricks Azure DevOps]]
 - [[episodes/2026-05-08|2026-05-08]]
     - [[sources/2026-05-08/05_achieving-enterprise-healthcare-intelligence-bidirectional-s|Achieving Enterprise Healthcare Intelligence Bidirectional Sync with Databricks Lakebase]]
 - [[episodes/2026-05-04|2026-05-04]]

@@ -3,17 +3,19 @@ type: concept
 name: MERGE
 slug: merge
 first_seen: 2026-04-30
-last_seen: 2026-05-11
-mention_count: 3
-avg_confidence: 0.5
+last_seen: 2026-05-12
+mention_count: 4
+avg_confidence: 0.475
 tags: [concept]
 ---
 
 # MERGE
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/03_introducing-5xl-sql-warehouses-a-practical-guide-to-meeting|Introducing 5XL SQL Warehouses A Practical Guide to Meeting SLAs for Your Most Demanding Workloads]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/08_building-your-first-data-warehouse-in-databricks-end-to-end|Building Your First Data Warehouse in Databricks End to End]]
 - [[episodes/2026-05-09|2026-05-09]]

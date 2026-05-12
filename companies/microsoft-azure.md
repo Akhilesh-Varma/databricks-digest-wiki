@@ -3,17 +3,19 @@ type: company
 name: Microsoft Azure
 slug: microsoft-azure
 first_seen: 2026-04-08
-last_seen: 2026-05-11
-mention_count: 12
+last_seen: 2026-05-12
+mention_count: 13
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft Azure
 
-_Company mentioned across 12 stories._
+_Company mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/07_building-scalable-data-pipelines-with-azure-data-factory-dat|Building Scalable Data Pipelines with Azure Data Factory, Databricks Azure DevOps]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/07_data-lake-architecture-for-data-engineering-interviews|Data Lake Architecture for Data Engineering Interviews]]
 - [[episodes/2026-05-10|2026-05-10]]

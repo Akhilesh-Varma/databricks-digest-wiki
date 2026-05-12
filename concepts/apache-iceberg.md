@@ -3,17 +3,19 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-05-11
-mention_count: 16
-avg_confidence: 0.85
+last_seen: 2026-05-12
+mention_count: 17
+avg_confidence: 0.853
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 16 stories._
+_Concept mentioned across 17 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/06_building-a-spark-declarative-pipeline-a-modern-financial-dat|Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP, Apache Iceberg]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/07_data-lake-architecture-for-data-engineering-interviews|Data Lake Architecture for Data Engineering Interviews]]
 - [[episodes/2026-05-09|2026-05-09]]

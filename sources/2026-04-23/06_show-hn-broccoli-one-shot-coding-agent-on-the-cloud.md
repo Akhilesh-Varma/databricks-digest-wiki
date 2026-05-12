@@ -31,4 +31,4 @@ The authors built Broccoli, an open-source coding agent that runs tasks in isola
 - **URL:** <https://github.com/besimple-oss/broccoli>
 
 ## Related
-[[concepts/broccoli|broccoli]] · [[concepts/coding-agents|coding-agents]] · [[companies/besimple-oss|Besimple OSS]] · [[episodes/2026-04-23|2026-04-23]]
+[[concepts/broccoli|broccoli]] · [[concepts/coding-agents|coding-agents]] · [[concepts/webhook|webhook]] · [[companies/besimple-oss|Besimple OSS]] · [[episodes/2026-04-23|2026-04-23]]

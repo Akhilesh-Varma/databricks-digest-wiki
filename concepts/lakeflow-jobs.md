@@ -3,17 +3,19 @@ type: concept
 name: Lakeflow Jobs
 slug: lakeflow-jobs
 first_seen: 2026-04-15
-last_seen: 2026-05-04
-mention_count: 7
-avg_confidence: 0.657
+last_seen: 2026-05-12
+mention_count: 8
+avg_confidence: 0.662
 tags: [concept]
 ---
 
 # Lakeflow Jobs
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/02_agentic-data-engineering-with-genie-code-and-lakeflow|Agentic Data Engineering with Genie Code and Lakeflow]]
 - [[episodes/2026-05-04|2026-05-04]]
     - [[sources/2026-05-04/08_single-guide-for-dp-750-azure-databricks-certification|Single guide for DP-750 Azure Databricks certification]]
     - [[sources/2026-05-04/01_finally-databricks-lets-you-disable-tasks-without-hacks|Finally! Databricks lets you disable tasks without hacks]]

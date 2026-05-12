@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-05-11T10:24:54.815164+00:00",
-  "node_count": 1816,
-  "edge_count": 2860,
+  "generated_at": "2026-05-12T10:26:24.183515+00:00",
+  "node_count": 1861,
+  "edge_count": 2967,
   "nodes": [
+    {
+      "id": "episode/2026-05-12",
+      "type": "episode",
+      "label": "Daily Databricks Digest - May 12, 2026",
+      "episode_date": "2026-05-12",
+      "story_count": 10
+    },
     {
       "id": "episode/2026-05-11",
       "type": "episode",
@@ -2221,6 +2228,86 @@
       "quality_score": 0.7963290399885913
     },
     {
+      "id": "story/pypi_mlflow_2.22.5",
+      "type": "story",
+      "label": "MLflow 2.22.5 released on PyPI",
+      "episode_date": "2026-05-12",
+      "rank": 1,
+      "quality_score": 0.6191952416493056
+    },
+    {
+      "id": "story/community_1928ebc1a925",
+      "type": "story",
+      "label": "Agentic Data Engineering with Genie Code and Lakeflow",
+      "episode_date": "2026-05-12",
+      "rank": 2,
+      "quality_score": 0.78
+    },
+    {
+      "id": "story/community_fbb7823a247b",
+      "type": "story",
+      "label": "Introducing 5XL SQL Warehouses A Practical Guide to Meeting SLAs for Your Most Demanding Workloads",
+      "episode_date": "2026-05-12",
+      "rank": 3,
+      "quality_score": 0.66
+    },
+    {
+      "id": "story/hn_48100227",
+      "type": "story",
+      "label": "Show HN E2a Open-source email gateway for AI agents",
+      "episode_date": "2026-05-12",
+      "rank": 4,
+      "quality_score": 0.6498452815532613
+    },
+    {
+      "id": "story/rss_0c366ee27309",
+      "type": "story",
+      "label": "Databricks SDP Explained Unified DDL DML in Modern Pipelines",
+      "episode_date": "2026-05-12",
+      "rank": 5,
+      "quality_score": 0.8159152551795635
+    },
+    {
+      "id": "story/rss_051628febc08",
+      "type": "story",
+      "label": "Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP, Apache Iceberg",
+      "episode_date": "2026-05-12",
+      "rank": 6,
+      "quality_score": 0.8098826823293651
+    },
+    {
+      "id": "story/rss_da423ad924d3",
+      "type": "story",
+      "label": "Building Scalable Data Pipelines with Azure Data Factory, Databricks Azure DevOps",
+      "episode_date": "2026-05-12",
+      "rank": 7,
+      "quality_score": 0.7699018622468585
+    },
+    {
+      "id": "story/devto_3653680",
+      "type": "story",
+      "label": "ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load",
+      "episode_date": "2026-05-12",
+      "rank": 8,
+      "quality_score": 0.9366869156739419
+    },
+    {
+      "id": "story/devto_3653659",
+      "type": "story",
+      "label": "Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse",
+      "episode_date": "2026-05-12",
+      "rank": 9,
+      "quality_score": 0.9366530199871033
+    },
+    {
+      "id": "story/devto_3653638",
+      "type": "story",
+      "label": "Amazon Redshift for Data Engineering Columnar Storage, MPP, COPY, Distribution Keys, Spectrum",
+      "episode_date": "2026-05-12",
+      "rank": 10,
+      "quality_score": 0.9366268955717594
+    },
+    {
       "id": "story/community_63f5465f4783",
       "type": "story",
       "label": "Learning Series Machine Learning Model Development",
@@ -2868,7 +2955,7 @@
       "id": "concept/apache-iceberg",
       "type": "concept",
       "label": "Apache Iceberg",
-      "mention_count": 16
+      "mention_count": 17
     },
     {
       "id": "concept/apache-polaris",
@@ -2892,7 +2979,7 @@
       "id": "concept/data-lakehouse",
       "type": "concept",
       "label": "Data Lakehouse",
-      "mention_count": 8
+      "mention_count": 9
     },
     {
       "id": "concept/v4-metadata-json",
@@ -3036,7 +3123,7 @@
       "id": "concept/bigquery",
       "type": "concept",
       "label": "BigQuery",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "concept/redpanda-cloud",
@@ -3102,7 +3189,7 @@
       "id": "company/google",
       "type": "company",
       "label": "Google",
-      "mention_count": 12
+      "mention_count": 13
     },
     {
       "id": "company/redpanda",
@@ -3144,7 +3231,7 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 170
+      "mention_count": 176
     },
     {
       "id": "concept/fulfillment-center-operations",
@@ -3324,7 +3411,7 @@
       "id": "concept/azure-devops",
       "type": "concept",
       "label": "Azure DevOps",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/trunk-based-branching-strategy",
@@ -3348,7 +3435,7 @@
       "id": "concept/declarative-automation-bundles",
       "type": "concept",
       "label": "Declarative Automation Bundles",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/visual-studio-code",
@@ -3360,7 +3447,7 @@
       "id": "company/microsoft",
       "type": "company",
       "label": "Microsoft",
-      "mention_count": 23
+      "mention_count": 24
     },
     {
       "id": "concept/databricks-terraform-provider",
@@ -3402,7 +3489,7 @@
       "id": "concept/delta-lake",
       "type": "concept",
       "label": "Delta Lake",
-      "mention_count": 36
+      "mention_count": 37
     },
     {
       "id": "concept/delta-kernel",
@@ -3414,7 +3501,7 @@
       "id": "concept/apache-spark",
       "type": "concept",
       "label": "Apache Spark",
-      "mention_count": 32
+      "mention_count": 34
     },
     {
       "id": "concept/apache-flink",
@@ -3528,7 +3615,7 @@
       "id": "concept/columnar-storage",
       "type": "concept",
       "label": "Columnar Storage",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/row-groups",
@@ -3624,7 +3711,7 @@
       "id": "company/microsoft-azure",
       "type": "company",
       "label": "Microsoft Azure",
-      "mention_count": 12
+      "mention_count": 13
     },
     {
       "id": "company/google-cloud",
@@ -3654,7 +3741,7 @@
       "id": "concept/time-travel",
       "type": "concept",
       "label": "Time Travel",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/zero-copy-reads",
@@ -3678,7 +3765,7 @@
       "id": "company/amazon-web-services",
       "type": "company",
       "label": "Amazon Web Services",
-      "mention_count": 12
+      "mention_count": 15
     },
     {
       "id": "concept/databricks-platform",
@@ -3714,7 +3801,7 @@
       "id": "company/medium",
       "type": "company",
       "label": "Medium",
-      "mention_count": 20
+      "mention_count": 22
     },
     {
       "id": "concept/occupational-safety-and-health-administration-osha",
@@ -3852,7 +3939,7 @@
       "id": "concept/spark-declarative-pipelines",
       "type": "concept",
       "label": "Spark Declarative Pipelines",
-      "mention_count": 9
+      "mention_count": 12
     },
     {
       "id": "concept/apache-sedona",
@@ -3912,7 +3999,7 @@
       "id": "concept/etl-pipeline",
       "type": "concept",
       "label": "ETL Pipeline",
-      "mention_count": 4
+      "mention_count": 6
     },
     {
       "id": "company/overture-maps",
@@ -4290,13 +4377,13 @@
       "id": "company/snowflake",
       "type": "company",
       "label": "Snowflake",
-      "mention_count": 13
+      "mention_count": 15
     },
     {
       "id": "concept/mlflow",
       "type": "concept",
       "label": "MLflow",
-      "mention_count": 14
+      "mention_count": 15
     },
     {
       "id": "concept/ai-gateway",
@@ -4734,7 +4821,7 @@
       "id": "concept/auto-loader",
       "type": "concept",
       "label": "Auto Loader",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/kafka",
@@ -4836,7 +4923,7 @@
       "id": "concept/change-data-capture",
       "type": "concept",
       "label": "Change Data Capture",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/materializedmysql",
@@ -5034,7 +5121,7 @@
       "id": "concept/etl",
       "type": "concept",
       "label": "ETL",
-      "mention_count": 8
+      "mention_count": 9
     },
     {
       "id": "concept/llm-powered-transpilation",
@@ -5310,7 +5397,7 @@
       "id": "concept/pandas",
       "type": "concept",
       "label": "Pandas",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "company/tiktok",
@@ -5334,7 +5421,7 @@
       "id": "concept/apache-airflow",
       "type": "concept",
       "label": "Apache Airflow",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/data-warehouse",
@@ -5346,7 +5433,7 @@
       "id": "concept/data-lake",
       "type": "concept",
       "label": "Data Lake",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/aws-s3",
@@ -5358,7 +5445,7 @@
       "id": "concept/snowflake",
       "type": "concept",
       "label": "Snowflake",
-      "mention_count": 7
+      "mention_count": 9
     },
     {
       "id": "concept/ondine",
@@ -5406,7 +5493,7 @@
       "id": "concept/postgresql",
       "type": "concept",
       "label": "PostgreSQL",
-      "mention_count": 11
+      "mention_count": 13
     },
     {
       "id": "concept/mysql",
@@ -5544,7 +5631,7 @@
       "id": "concept/lakeflow-jobs",
       "type": "concept",
       "label": "Lakeflow Jobs",
-      "mention_count": 7
+      "mention_count": 8
     },
     {
       "id": "concept/databricks-runtime-dbr",
@@ -5556,7 +5643,7 @@
       "id": "concept/lakeflow",
       "type": "concept",
       "label": "Lakeflow",
-      "mention_count": 8
+      "mention_count": 9
     },
     {
       "id": "concept/lakeflow-designer",
@@ -5778,7 +5865,7 @@
       "id": "concept/dbt",
       "type": "concept",
       "label": "dbt",
-      "mention_count": 7
+      "mention_count": 8
     },
     {
       "id": "concept/duckdb",
@@ -6126,7 +6213,7 @@
       "id": "concept/lakehouse-architecture",
       "type": "concept",
       "label": "Lakehouse Architecture",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/aws-glue-data-catalog",
@@ -6156,7 +6243,7 @@
       "id": "concept/amazon-s3",
       "type": "concept",
       "label": "Amazon S3",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/amazon-athena",
@@ -6330,7 +6417,7 @@
       "id": "concept/pypi",
       "type": "concept",
       "label": "PyPI",
-      "mention_count": 9
+      "mention_count": 10
     },
     {
       "id": "concept/knowledge-graph-question-answering",
@@ -6390,7 +6477,7 @@
       "id": "concept/merge",
       "type": "concept",
       "label": "MERGE",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/cdf",
@@ -7194,7 +7281,7 @@
       "id": "concept/oltp",
       "type": "concept",
       "label": "OLTP",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/agent-bricks",
@@ -8088,7 +8175,7 @@
       "id": "concept/genie-code",
       "type": "concept",
       "label": "Genie Code",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/git-integration",
@@ -8172,7 +8259,7 @@
       "id": "concept/websocket",
       "type": "concept",
       "label": "WebSocket",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/binance",
@@ -8238,7 +8325,7 @@
       "id": "concept/data-pipelines",
       "type": "concept",
       "label": "data pipelines",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/streaming-data",
@@ -9462,7 +9549,7 @@
       "id": "concept/azure-synapse",
       "type": "concept",
       "label": "Azure Synapse",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/teradata",
@@ -9618,7 +9705,7 @@
       "id": "concept/aws-glue",
       "type": "concept",
       "label": "AWS Glue",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/knime",
@@ -10380,7 +10467,7 @@
       "id": "concept/olap",
       "type": "concept",
       "label": "OLAP",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/react-js",
@@ -10626,7 +10713,7 @@
       "id": "concept/human-in-the-loop",
       "type": "concept",
       "label": "Human-in-the-Loop",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/multi-agent-pipeline",
@@ -11085,6 +11172,48 @@
       "mention_count": 1
     },
     {
+      "id": "concept/5xl-sql-warehouse",
+      "type": "concept",
+      "label": "5XL SQL Warehouse",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/4xl-sql-warehouse",
+      "type": "concept",
+      "label": "4XL SQL Warehouse",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/databricks-sql-warehouse",
+      "type": "concept",
+      "label": "Databricks SQL Warehouse",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/ctas",
+      "type": "concept",
+      "label": "CTAS",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/query-history-system-table",
+      "type": "concept",
+      "label": "Query History System Table",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/disk-spill",
+      "type": "concept",
+      "label": "Disk Spill",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/dbu",
+      "type": "concept",
+      "label": "DBU",
+      "mention_count": 1
+    },
+    {
       "id": "concept/uc-metrics",
       "type": "concept",
       "label": "UC Metrics",
@@ -11154,6 +11283,48 @@
       "id": "concept/onedrive",
       "type": "concept",
       "label": "OneDrive",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/amazon-redshift",
+      "type": "concept",
+      "label": "Amazon Redshift",
+      "mention_count": 4
+    },
+    {
+      "id": "concept/massively-parallel-processing",
+      "type": "concept",
+      "label": "Massively Parallel Processing",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/redshift-spectrum",
+      "type": "concept",
+      "label": "Redshift Spectrum",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/distribution-keys",
+      "type": "concept",
+      "label": "Distribution Keys",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/sort-keys",
+      "type": "concept",
+      "label": "Sort Keys",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/copy-command",
+      "type": "concept",
+      "label": "COPY Command",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/mpp-architecture",
+      "type": "concept",
+      "label": "MPP Architecture",
       "mention_count": 1
     },
     {
@@ -11286,18 +11457,12 @@
       "id": "concept/elt",
       "type": "concept",
       "label": "ELT",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/talend",
       "type": "concept",
       "label": "Talend",
-      "mention_count": 1
-    },
-    {
-      "id": "concept/amazon-redshift",
-      "type": "concept",
-      "label": "Amazon Redshift",
       "mention_count": 1
     },
     {
@@ -11397,6 +11562,12 @@
       "mention_count": 1
     },
     {
+      "id": "concept/mcp",
+      "type": "concept",
+      "label": "MCP",
+      "mention_count": 1
+    },
+    {
       "id": "concept/temporal-layer",
       "type": "concept",
       "label": "Temporal Layer",
@@ -11413,6 +11584,54 @@
       "type": "concept",
       "label": "Knowledge Base",
       "mention_count": 1
+    },
+    {
+      "id": "concept/three-layer-architecture",
+      "type": "concept",
+      "label": "Three-Layer Architecture",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/separation-of-compute-and-storage",
+      "type": "concept",
+      "label": "Separation of Compute and Storage",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/virtual-warehouses",
+      "type": "concept",
+      "label": "Virtual Warehouses",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/zero-copy-cloning",
+      "type": "concept",
+      "label": "Zero-Copy Cloning",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/micro-partitions",
+      "type": "concept",
+      "label": "Micro-Partitions",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/query-pruning",
+      "type": "concept",
+      "label": "Query Pruning",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/mpp-warehouse",
+      "type": "concept",
+      "label": "MPP Warehouse",
+      "mention_count": 1
+    },
+    {
+      "id": "company/pipecode",
+      "type": "company",
+      "label": "PipeCode",
+      "mention_count": 2
     },
     {
       "id": "concept/genie-space",
@@ -11451,6 +11670,60 @@
       "mention_count": 1
     },
     {
+      "id": "concept/e2a",
+      "type": "concept",
+      "label": "E2a",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/email-gateway",
+      "type": "concept",
+      "label": "Email Gateway",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/webhook",
+      "type": "concept",
+      "label": "Webhook",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/spf",
+      "type": "concept",
+      "label": "SPF",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/dkim",
+      "type": "concept",
+      "label": "DKIM",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/dmarc",
+      "type": "concept",
+      "label": "DMARC",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/soc-2",
+      "type": "concept",
+      "label": "SOC 2",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/hipaa",
+      "type": "concept",
+      "label": "HIPAA",
+      "mention_count": 1
+    },
+    {
+      "id": "company/mnexa-ai",
+      "type": "company",
+      "label": "Mnexa-AI",
+      "mention_count": 1
+    },
+    {
       "id": "concept/knowledge-sharing-hub",
       "type": "concept",
       "label": "Knowledge Sharing Hub",
@@ -11484,7 +11757,7 @@
       "id": "concept/azure-data-factory",
       "type": "concept",
       "label": "Azure Data Factory",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/pipeline-orchestration",
@@ -11550,6 +11823,24 @@
       "id": "concept/voice-models",
       "type": "concept",
       "label": "Voice Models",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/lakeflow-declarative-pipelines",
+      "type": "concept",
+      "label": "Lakeflow Declarative Pipelines",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/ddl",
+      "type": "concept",
+      "label": "DDL",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/dml",
+      "type": "concept",
+      "label": "DML",
       "mention_count": 1
     },
     {
@@ -24509,6 +24800,61 @@
       "kind": "mentions"
     },
     {
+      "source": "story/community_fbb7823a247b",
+      "target": "episode/2026-05-12",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_fbb7823a247b",
+      "target": "concept/5xl-sql-warehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fbb7823a247b",
+      "target": "concept/4xl-sql-warehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fbb7823a247b",
+      "target": "concept/databricks-sql-warehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fbb7823a247b",
+      "target": "concept/etl-pipeline",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fbb7823a247b",
+      "target": "concept/merge",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fbb7823a247b",
+      "target": "concept/ctas",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fbb7823a247b",
+      "target": "concept/query-history-system-table",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fbb7823a247b",
+      "target": "concept/disk-spill",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fbb7823a247b",
+      "target": "concept/dbu",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_fbb7823a247b",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
       "source": "story/community_e21624713288",
       "target": "episode/2026-05-08",
       "kind": "aired_in"
@@ -24676,6 +25022,76 @@
     {
       "source": "story/devto_3292121",
       "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653638",
+      "target": "episode/2026-05-12",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3653638",
+      "target": "concept/amazon-redshift",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653638",
+      "target": "concept/columnar-storage",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653638",
+      "target": "concept/massively-parallel-processing",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653638",
+      "target": "concept/redshift-spectrum",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653638",
+      "target": "concept/distribution-keys",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653638",
+      "target": "concept/sort-keys",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653638",
+      "target": "concept/copy-command",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653638",
+      "target": "concept/olap",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653638",
+      "target": "concept/oltp",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653638",
+      "target": "concept/mpp-architecture",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653638",
+      "target": "concept/postgresql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653638",
+      "target": "concept/amazon-s3",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653638",
+      "target": "company/amazon-web-services",
       "kind": "mentions"
     },
     {
@@ -25279,6 +25695,56 @@
       "kind": "mentions"
     },
     {
+      "source": "story/community_1928ebc1a925",
+      "target": "episode/2026-05-12",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_1928ebc1a925",
+      "target": "concept/genie-code",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_1928ebc1a925",
+      "target": "concept/lakeflow",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_1928ebc1a925",
+      "target": "concept/spark-declarative-pipelines",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_1928ebc1a925",
+      "target": "concept/lakeflow-jobs",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_1928ebc1a925",
+      "target": "concept/auto-loader",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_1928ebc1a925",
+      "target": "concept/declarative-automation-bundles",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_1928ebc1a925",
+      "target": "concept/change-data-capture",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_1928ebc1a925",
+      "target": "concept/mcp",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_1928ebc1a925",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_f9e14c46fb83",
       "target": "episode/2026-05-10",
       "kind": "aired_in"
@@ -25306,6 +25772,106 @@
     {
       "source": "story/rss_f9e14c46fb83",
       "target": "company/towards-data-science",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "episode/2026-05-12",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "concept/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "concept/three-layer-architecture",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "concept/separation-of-compute-and-storage",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "concept/virtual-warehouses",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "concept/time-travel",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "concept/zero-copy-cloning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "concept/micro-partitions",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "concept/query-pruning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "concept/amazon-redshift",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "concept/bigquery",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "concept/azure-synapse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "concept/mpp-warehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "concept/etl",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "company/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "company/amazon-web-services",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "company/google",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "company/microsoft",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653659",
+      "target": "company/pipecode",
       "kind": "mentions"
     },
     {
@@ -25341,6 +25907,76 @@
     {
       "source": "story/rss_f5085870c81f",
       "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653680",
+      "target": "episode/2026-05-12",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3653680",
+      "target": "concept/etl-pipeline",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653680",
+      "target": "concept/elt",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653680",
+      "target": "concept/apache-airflow",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653680",
+      "target": "concept/dbt",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653680",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653680",
+      "target": "concept/aws-glue",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653680",
+      "target": "concept/amazon-redshift",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653680",
+      "target": "concept/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653680",
+      "target": "concept/pandas",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653680",
+      "target": "concept/data-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653680",
+      "target": "company/amazon-web-services",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653680",
+      "target": "company/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3653680",
+      "target": "company/pipecode",
       "kind": "mentions"
     },
     {
@@ -25406,6 +26042,71 @@
     {
       "source": "story/rss_e9719b137573",
       "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48100227",
+      "target": "episode/2026-05-12",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/hn_48100227",
+      "target": "concept/e2a",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48100227",
+      "target": "concept/email-gateway",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48100227",
+      "target": "concept/human-in-the-loop",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48100227",
+      "target": "concept/websocket",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48100227",
+      "target": "concept/webhook",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48100227",
+      "target": "concept/spf",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48100227",
+      "target": "concept/dkim",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48100227",
+      "target": "concept/dmarc",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48100227",
+      "target": "concept/postgresql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48100227",
+      "target": "concept/soc-2",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48100227",
+      "target": "concept/hipaa",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48100227",
+      "target": "company/mnexa-ai",
       "kind": "mentions"
     },
     {
@@ -25510,6 +26211,36 @@
     },
     {
       "source": "story/rss_a716d983a169",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_051628febc08",
+      "target": "episode/2026-05-12",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_051628febc08",
+      "target": "concept/spark-declarative-pipelines",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_051628febc08",
+      "target": "concept/apache-iceberg",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_051628febc08",
+      "target": "concept/data-lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_051628febc08",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_051628febc08",
       "target": "company/databricks",
       "kind": "mentions"
     },
@@ -25674,6 +26405,51 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_da423ad924d3",
+      "target": "episode/2026-05-12",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_da423ad924d3",
+      "target": "concept/azure-data-factory",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_da423ad924d3",
+      "target": "concept/delta-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_da423ad924d3",
+      "target": "concept/lakehouse-architecture",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_da423ad924d3",
+      "target": "concept/azure-devops",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_da423ad924d3",
+      "target": "concept/data-pipelines",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_da423ad924d3",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_da423ad924d3",
+      "target": "company/microsoft-azure",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_da423ad924d3",
+      "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_efa9fd2fb82f",
       "target": "episode/2026-05-11",
       "kind": "aired_in"
@@ -25746,6 +26522,41 @@
     {
       "source": "story/rss_2ed31ead0a0c",
       "target": "company/openai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_0c366ee27309",
+      "target": "episode/2026-05-12",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_0c366ee27309",
+      "target": "concept/lakeflow-declarative-pipelines",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_0c366ee27309",
+      "target": "concept/spark-declarative-pipelines",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_0c366ee27309",
+      "target": "concept/ddl",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_0c366ee27309",
+      "target": "concept/dml",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_0c366ee27309",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_0c366ee27309",
+      "target": "company/medium",
       "kind": "mentions"
     },
     {
@@ -25876,6 +26687,21 @@
     {
       "source": "story/pypi_databricks-connect_18.2.0",
       "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/pypi_mlflow_2.22.5",
+      "target": "episode/2026-05-12",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/pypi_mlflow_2.22.5",
+      "target": "concept/mlflow",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/pypi_mlflow_2.22.5",
+      "target": "concept/pypi",
       "kind": "mentions"
     }
   ]

@@ -3,17 +3,20 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-05-11
-mention_count: 32
+last_seen: 2026-05-12
+mention_count: 34
 avg_confidence: 0.706
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 32 stories._
+_Concept mentioned across 34 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/08_etl-pipeline-for-data-engineering-a-beginner-s-guide-to-extr|ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load]]
+    - [[sources/2026-05-12/06_building-a-spark-declarative-pipeline-a-modern-financial-dat|Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP, Apache Iceberg]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/08_building-your-first-data-warehouse-in-databricks-end-to-end|Building Your First Data Warehouse in Databricks End to End]]
     - [[sources/2026-05-11/01_learning-series-machine-learning-model-development|Learning Series Machine Learning Model Development]]

@@ -3,17 +3,19 @@ type: concept
 name: PyPI
 slug: pypi
 first_seen: 2026-04-06
-last_seen: 2026-05-07
-mention_count: 9
+last_seen: 2026-05-12
+mention_count: 10
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # PyPI
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/01_mlflow-2-22-5-released-on-pypi|MLflow 2.22.5 released on PyPI]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/01_databricks-connect-18-2-0-released-on-pypi|Databricks Connect 18.2.0 released on PyPI]]
 - [[episodes/2026-05-06|2026-05-06]]

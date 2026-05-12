@@ -3,17 +3,20 @@ type: concept
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-11
-last_seen: 2026-05-08
-mention_count: 7
-avg_confidence: 0.629
+last_seen: 2026-05-12
+mention_count: 9
+avg_confidence: 0.644
 tags: [concept]
 ---
 
 # Snowflake
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/09_snowflake-for-data-engineering-interviews-a-beginner-s-guide|Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse]]
+    - [[sources/2026-05-12/08_etl-pipeline-for-data-engineering-a-beginner-s-guide-to-extr|ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load]]
 - [[episodes/2026-05-08|2026-05-08]]
     - [[sources/2026-05-08/07_data-engineer-salaries-are-splitting-in-two-which-side-are-y|Data Engineer Salaries Are Splitting in Two. Which Side Are You On?]]
 - [[episodes/2026-05-06|2026-05-06]]

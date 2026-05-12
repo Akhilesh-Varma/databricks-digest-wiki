@@ -3,17 +3,19 @@ type: concept
 name: Data Lake
 slug: data-lake
 first_seen: 2026-04-17
-last_seen: 2026-04-27
-mention_count: 4
-avg_confidence: 0.7
+last_seen: 2026-05-12
+mention_count: 5
+avg_confidence: 0.64
 tags: [concept]
 ---
 
 # Data Lake
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/08_etl-pipeline-for-data-engineering-a-beginner-s-guide-to-extr|ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load]]
 - [[episodes/2026-04-27|2026-04-27]]
     - [[sources/2026-04-27/09_what-makes-apache-hudi-a-game-changer-for-data-engineering|What Makes Apache Hudi a Game-Changer for Data Engineering]]
     - [[sources/2026-04-27/05_data-lake-data-warehouse-data-lakehouse-explained-so-simply|Data Lake, Data Warehouse Data Lakehouse Explained So Simply Even a First-Year Engineer Gets It]]

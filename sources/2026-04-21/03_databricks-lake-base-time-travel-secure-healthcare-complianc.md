@@ -32,4 +32,4 @@ Databricks Lake base was used by a global healthcare giant for a Phase III compl
 - **URL:** <https://community.databricks.com/t5/community-articles/databricks-lake-base-time-travel-secure-healthcare-compliance/td-p/154955>
 
 ## Related
-[[concepts/lake-base|lake-base]] · [[concepts/unity-catalog|unity-catalog]] · [[concepts/time-travel|time-travel]] · [[concepts/governance|governance]] · [[concepts/databricks|databricks]] · [[concepts/schema|schema]] · [[concepts/delta|delta]] · [[concepts/sql|sql]] · [[concepts/git|git]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-21|2026-04-21]]
+[[concepts/lake-base|lake-base]] · [[concepts/unity-catalog|unity-catalog]] · [[concepts/time-travel|time-travel]] · [[concepts/governance|governance]] · [[concepts/databricks|databricks]] · [[concepts/schema|schema]] · [[concepts/delta|delta]] · [[concepts/sql|sql]] · [[concepts/git|git]] · [[concepts/ddl|ddl]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-21|2026-04-21]]

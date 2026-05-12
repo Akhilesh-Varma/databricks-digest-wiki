@@ -3,17 +3,19 @@ type: concept
 name: Change Data Capture
 slug: change-data-capture
 first_seen: 2026-04-25
-last_seen: 2026-05-11
-mention_count: 3
-avg_confidence: 0.8
+last_seen: 2026-05-12
+mention_count: 4
+avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Change Data Capture
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/02_agentic-data-engineering-with-genie-code-and-lakeflow|Agentic Data Engineering with Genie Code and Lakeflow]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/07_data-lake-architecture-for-data-engineering-interviews|Data Lake Architecture for Data Engineering Interviews]]
 - [[episodes/2026-05-01|2026-05-01]]

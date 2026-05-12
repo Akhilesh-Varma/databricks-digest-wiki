@@ -3,17 +3,19 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-11
-mention_count: 36
-avg_confidence: 0.714
+last_seen: 2026-05-12
+mention_count: 37
+avg_confidence: 0.719
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 36 stories._
+_Concept mentioned across 37 stories._
 
 ## Appears in
+- [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/07_building-scalable-data-pipelines-with-azure-data-factory-dat|Building Scalable Data Pipelines with Azure Data Factory, Databricks Azure DevOps]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/02_mastering-delta-lake-merge-performance-why-it-slows-down-and|Mastering Delta Lake MERGE Performance Why It Slows Down and How to Fix It]]
     - [[sources/2026-05-11/07_data-lake-architecture-for-data-engineering-interviews|Data Lake Architecture for Data Engineering Interviews]]
