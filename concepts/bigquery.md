@@ -3,17 +3,19 @@ type: concept
 name: BigQuery
 slug: bigquery
 first_seen: 2026-04-05
-last_seen: 2026-05-12
-mention_count: 6
-avg_confidence: 0.75
+last_seen: 2026-05-13
+mention_count: 7
+avg_confidence: 0.743
 tags: [concept]
 ---
 
 # BigQuery
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-13|2026-05-13]]
+    - [[sources/2026-05-13/08_senior-sql-advanced-joins-window-analytics-plans-indexing-pr|Senior SQL Advanced Joins, Window Analytics, Plans, Indexing Production Mindset]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/09_snowflake-for-data-engineering-interviews-a-beginner-s-guide|Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse]]
 - [[episodes/2026-05-06|2026-05-06]]

@@ -3,17 +3,19 @@ type: concept
 name: Genie
 slug: genie
 first_seen: 2026-04-17
-last_seen: 2026-05-07
-mention_count: 8
-avg_confidence: 0.713
+last_seen: 2026-05-13
+mention_count: 9
+avg_confidence: 0.722
 tags: [concept]
 ---
 
 # Genie
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-13|2026-05-13]]
+    - [[sources/2026-05-13/02_step-by-step-building-a-vacation-rental-operations-app-with|Step-by-Step Building a Vacation Rental Operations App with AppKit]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
 - [[episodes/2026-05-05|2026-05-05]]

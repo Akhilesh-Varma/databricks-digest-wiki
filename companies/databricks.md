@@ -3,58 +3,63 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-12
-mention_count: 176
+last_seen: 2026-05-13
+mention_count: 180
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 176 stories._
+_Company mentioned across 180 stories._
 
 ## Appears in
+- [[episodes/2026-05-13|2026-05-13]]
+    - [[sources/2026-05-13/02_step-by-step-building-a-vacation-rental-operations-app-with|Step-by-Step Building a Vacation Rental Operations App with AppKit]]
+    - [[sources/2026-05-13/05_multimodal-rag-needs-real-pixels-so-i-wired-a-webcam-straigh|Multimodal RAG Needs Real Pixels So I Wired a Webcam Straight Into Delta with Clone-Xs]]
+    - [[sources/2026-05-13/01_databricks-sdk-java-v0-108-0-released|Databricks SDK Java v0.108.0 released]]
+    - [[sources/2026-05-13/04_databricks-lakebase-autoscaling-cost-model-decoded-what-you|Databricks Lakebase Autoscaling Cost Model Decoded What You Actually Pay and When It s Worth It]]
 - [[episodes/2026-05-12|2026-05-12]]
+    - [[sources/2026-05-12/09_snowflake-for-data-engineering-interviews-a-beginner-s-guide|Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse]]
+    - [[sources/2026-05-12/07_building-scalable-data-pipelines-with-azure-data-factory-dat|Building Scalable Data Pipelines with Azure Data Factory, Databricks Azure DevOps]]
+    - [[sources/2026-05-12/06_building-a-spark-declarative-pipeline-a-modern-financial-dat|Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP, Apache Iceberg]]
+    - [[sources/2026-05-12/05_databricks-sdp-explained-unified-ddl-dml-in-modern-pipelines|Databricks SDP Explained Unified DDL DML in Modern Pipelines]]
     - [[sources/2026-05-12/03_introducing-5xl-sql-warehouses-a-practical-guide-to-meeting|Introducing 5XL SQL Warehouses A Practical Guide to Meeting SLAs for Your Most Demanding Workloads]]
     - [[sources/2026-05-12/02_agentic-data-engineering-with-genie-code-and-lakeflow|Agentic Data Engineering with Genie Code and Lakeflow]]
-    - [[sources/2026-05-12/09_snowflake-for-data-engineering-interviews-a-beginner-s-guide|Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse]]
-    - [[sources/2026-05-12/06_building-a-spark-declarative-pipeline-a-modern-financial-dat|Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP, Apache Iceberg]]
-    - [[sources/2026-05-12/07_building-scalable-data-pipelines-with-azure-data-factory-dat|Building Scalable Data Pipelines with Azure Data Factory, Databricks Azure DevOps]]
-    - [[sources/2026-05-12/05_databricks-sdp-explained-unified-ddl-dml-in-modern-pipelines|Databricks SDP Explained Unified DDL DML in Modern Pipelines]]
 - [[episodes/2026-05-11|2026-05-11]]
-    - [[sources/2026-05-11/02_mastering-delta-lake-merge-performance-why-it-slows-down-and|Mastering Delta Lake MERGE Performance Why It Slows Down and How to Fix It]]
     - [[sources/2026-05-11/08_building-your-first-data-warehouse-in-databricks-end-to-end|Building Your First Data Warehouse in Databricks End to End]]
-    - [[sources/2026-05-11/01_learning-series-machine-learning-model-development|Learning Series Machine Learning Model Development]]
+    - [[sources/2026-05-11/06_databricks-apps-feel-more-enterprise-ready-with-user-authori|Databricks Apps Feel More Enterprise-Ready with User Authorization]]
     - [[sources/2026-05-11/04_delta-live-tables-dlt-is-powerful-these-are-its-real-constra|Delta Live Tables DLT Is Powerful. These Are Its Real Constraints.]]
     - [[sources/2026-05-11/03_share-your-expertise-submit-your-blogs-and-videos-to-the-dat|Share Your Expertise Submit Your Blogs and Videos to the Databricks Community!]]
-    - [[sources/2026-05-11/06_databricks-apps-feel-more-enterprise-ready-with-user-authori|Databricks Apps Feel More Enterprise-Ready with User Authorization]]
+    - [[sources/2026-05-11/02_mastering-delta-lake-merge-performance-why-it-slows-down-and|Mastering Delta Lake MERGE Performance Why It Slows Down and How to Fix It]]
+    - [[sources/2026-05-11/01_learning-series-machine-learning-model-development|Learning Series Machine Learning Model Development]]
 - [[episodes/2026-05-10|2026-05-10]]
+    - [[sources/2026-05-10/06_delta-lake-transaction-logs-explained-the-ultimate-troublesh|Delta Lake Transaction Logs Explained The Ultimate Troubleshooting Superpower for Data Engineers]]
     - [[sources/2026-05-10/03_partner-blog-revolutionizing-enterprise-data-with-databricks|PARTNER BLOG Revolutionizing Enterprise Data with Databricks Agent Bricks Tale of Two Industries]]
     - [[sources/2026-05-10/02_solution-accelerator-series-supply-chain-distribution-optimi|Solution Accelerator Series Supply Chain Distribution Optimization]]
     - [[sources/2026-05-10/01_community-pulse-your-weekly-roundup-april-27-may-03-2026|Community Pulse Your Weekly Roundup! April 27 May 03, 2026]]
-    - [[sources/2026-05-10/06_delta-lake-transaction-logs-explained-the-ultimate-troublesh|Delta Lake Transaction Logs Explained The Ultimate Troubleshooting Superpower for Data Engineers]]
 - [[episodes/2026-05-09|2026-05-09]]
-    - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
-    - [[sources/2026-05-09/03_delta-lake-under-the-hood-what-every-data-engineer-should-kn|Delta Lake Under the Hood What Every Data Engineer Should Know]]
-    - [[sources/2026-05-09/02_scaling-enterprise-ai-with-databricks-without-losing-control|Scaling Enterprise AI with Databricks Without Losing Control]]
+    - [[sources/2026-05-09/07_dbt-apache-iceberg-duckdb-for-teams-under-50|dbt Apache Iceberg DuckDB for Teams Under 50]]
     - [[sources/2026-05-09/06_databricks-apps-tutorial-scalable-streamlit-modular-template|Databricks Apps Tutorial Scalable Streamlit modular Template for Production]]
     - [[sources/2026-05-09/05_adf-vs-databricks-workflows-which-one-should-orchestrate-you|ADF vs Databricks Workflows Which One Should Orchestrate Your Data Pipelines?]]
-    - [[sources/2026-05-09/07_dbt-apache-iceberg-duckdb-for-teams-under-50|dbt Apache Iceberg DuckDB for Teams Under 50]]
+    - [[sources/2026-05-09/03_delta-lake-under-the-hood-what-every-data-engineer-should-kn|Delta Lake Under the Hood What Every Data Engineer Should Know]]
+    - [[sources/2026-05-09/02_scaling-enterprise-ai-with-databricks-without-losing-control|Scaling Enterprise AI with Databricks Without Losing Control]]
+    - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
 - [[episodes/2026-05-08|2026-05-08]]
-    - [[sources/2026-05-08/02_semantic-caching-for-llm-applications-with-databricks-lakeba|Semantic Caching for LLM Applications with Databricks Lakebase and pgvector]]
+    - [[sources/2026-05-08/06_how-lakebase-architecture-delivers-5x-faster-postgres-writes|How lakebase architecture delivers 5x faster Postgres writes]]
+    - [[sources/2026-05-08/05_achieving-enterprise-healthcare-intelligence-bidirectional-s|Achieving Enterprise Healthcare Intelligence Bidirectional Sync with Databricks Lakebase]]
     - [[sources/2026-05-08/04_how-databricks-genie-turns-collaboration-tools-into-ai-power|How Databricks Genie Turns Collaboration Tools into AI-Powered Intelligence Platforms]]
     - [[sources/2026-05-08/03_best-moments-from-dais-2025-a-look-back-before-we-do-it-agai|Best Moments from DAIS 2025 A Look Back Before We Do It Again at DAIS 2026!]]
+    - [[sources/2026-05-08/02_semantic-caching-for-llm-applications-with-databricks-lakeba|Semantic Caching for LLM Applications with Databricks Lakebase and pgvector]]
     - [[sources/2026-05-08/01_databricks-cli-v0-299-1-released|Databricks CLI v0.299.1 released]]
-    - [[sources/2026-05-08/05_achieving-enterprise-healthcare-intelligence-bidirectional-s|Achieving Enterprise Healthcare Intelligence Bidirectional Sync with Databricks Lakebase]]
-    - [[sources/2026-05-08/06_how-lakebase-architecture-delivers-5x-faster-postgres-writes|How lakebase architecture delivers 5x faster Postgres writes]]
 - [[episodes/2026-05-07|2026-05-07]]
-    - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
     - [[sources/2026-05-07/09_how-databricks-genie-turns-plain-english-into-sql-code|How Databricks Genie Turns Plain English Into SQL Code]]
-    - [[sources/2026-05-07/04_beyond-rag-databricks-unified-approach-to-document-insights|Beyond RAG Databricks' Unified Approach to Document Insights]]
     - [[sources/2026-05-07/07_data-series-understanding-etl-medallion-architecture-part-1|Data Series Understanding ETL Medallion Architecture Part 1]]
-    - [[sources/2026-05-07/03_deploying-django-apps-on-databricks-apps-with-lakebase|Deploying Django apps on Databricks Apps with Lakebase]]
-    - [[sources/2026-05-07/05_native-opentelemetry-observability-for-databricks-apps|Native OpenTelemetry Observability for Databricks Apps]]
     - [[sources/2026-05-07/06_while-working-on-a-databricks-implementation-with-unity-cata|While working on a Databricks implementation with Unity Catalog enabled, we ran into an interesting]]
+    - [[sources/2026-05-07/05_native-opentelemetry-observability-for-databricks-apps|Native OpenTelemetry Observability for Databricks Apps]]
+    - [[sources/2026-05-07/04_beyond-rag-databricks-unified-approach-to-document-insights|Beyond RAG Databricks' Unified Approach to Document Insights]]
+    - [[sources/2026-05-07/03_deploying-django-apps-on-databricks-apps-with-lakebase|Deploying Django apps on Databricks Apps with Lakebase]]
+    - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
     - [[sources/2026-05-07/01_databricks-connect-18-2-0-released-on-pypi|Databricks Connect 18.2.0 released on PyPI]]
 - [[episodes/2026-05-06|2026-05-06]]
     - [[sources/2026-05-06/05_stop-using-spark-for-your-small-data-why-azure-functions-is|Stop Using Spark for Your Small Data - Why Azure Functions is the Right Tool for the Job]]

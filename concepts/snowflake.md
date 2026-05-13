@@ -3,17 +3,19 @@ type: concept
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-11
-last_seen: 2026-05-12
-mention_count: 9
-avg_confidence: 0.644
+last_seen: 2026-05-13
+mention_count: 10
+avg_confidence: 0.65
 tags: [concept]
 ---
 
 # Snowflake
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-05-13|2026-05-13]]
+    - [[sources/2026-05-13/08_senior-sql-advanced-joins-window-analytics-plans-indexing-pr|Senior SQL Advanced Joins, Window Analytics, Plans, Indexing Production Mindset]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/09_snowflake-for-data-engineering-interviews-a-beginner-s-guide|Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse]]
     - [[sources/2026-05-12/08_etl-pipeline-for-data-engineering-a-beginner-s-guide-to-extr|ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load]]

@@ -3,17 +3,20 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-05-12
-mention_count: 24
+last_seen: 2026-05-13
+mention_count: 26
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 24 stories._
+_Company mentioned across 26 stories._
 
 ## Appears in
+- [[episodes/2026-05-13|2026-05-13]]
+    - [[sources/2026-05-13/08_senior-sql-advanced-joins-window-analytics-plans-indexing-pr|Senior SQL Advanced Joins, Window Analytics, Plans, Indexing Production Mindset]]
+    - [[sources/2026-05-13/04_databricks-lakebase-autoscaling-cost-model-decoded-what-you|Databricks Lakebase Autoscaling Cost Model Decoded What You Actually Pay and When It s Worth It]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/09_snowflake-for-data-engineering-interviews-a-beginner-s-guide|Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse]]
 - [[episodes/2026-05-08|2026-05-08]]

@@ -32,4 +32,4 @@ A production pipeline running on Apache Kafka was taken down by a single field t
 - **URL:** <https://dev.to/reetesh_kumar/that-time-one-field-change-took-down-an-entire-production-pipeline-1bf3>
 
 ## Related
-[[concepts/apache-kafka|apache-kafka]] · [[concepts/schema-mismatch|schema-mismatch]] · [[concepts/consumer-offset|consumer-offset]] · [[concepts/deserialization|deserialization]] · [[concepts/event-driven-architecture|event-driven-architecture]] · [[concepts/poison-pill-message|poison-pill-message]] · [[concepts/pipeline|pipeline]] · [[concepts/markdown|markdown]] · [[concepts/schema|schema]] · [[concepts/kafka|kafka]] · [[episodes/2026-05-08|2026-05-08]]
+[[concepts/apache-kafka|apache-kafka]] · [[concepts/schema-mismatch|schema-mismatch]] · [[concepts/consumer-offset|consumer-offset]] · [[concepts/deserialization|deserialization]] · [[concepts/event-driven-architecture|event-driven-architecture]] · [[concepts/poison-pill-message|poison-pill-message]] · [[concepts/autoscaling|autoscaling]] · [[concepts/pipeline|pipeline]] · [[concepts/markdown|markdown]] · [[concepts/schema|schema]] · [[concepts/kafka|kafka]] · [[episodes/2026-05-08|2026-05-08]]

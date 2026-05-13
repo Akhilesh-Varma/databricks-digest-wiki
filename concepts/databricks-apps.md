@@ -3,17 +3,19 @@ type: concept
 name: Databricks Apps
 slug: databricks-apps
 first_seen: 2026-04-05
-last_seen: 2026-05-11
-mention_count: 14
-avg_confidence: 0.829
+last_seen: 2026-05-13
+mention_count: 15
+avg_confidence: 0.82
 tags: [concept]
 ---
 
 # Databricks Apps
 
-_Concept mentioned across 14 stories._
+_Concept mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-05-13|2026-05-13]]
+    - [[sources/2026-05-13/02_step-by-step-building-a-vacation-rental-operations-app-with|Step-by-Step Building a Vacation Rental Operations App with AppKit]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/06_databricks-apps-feel-more-enterprise-ready-with-user-authori|Databricks Apps Feel More Enterprise-Ready with User Authorization]]
 - [[episodes/2026-05-09|2026-05-09]]
@@ -21,9 +23,9 @@ _Concept mentioned across 14 stories._
 - [[episodes/2026-05-08|2026-05-08]]
     - [[sources/2026-05-08/03_best-moments-from-dais-2025-a-look-back-before-we-do-it-agai|Best Moments from DAIS 2025 A Look Back Before We Do It Again at DAIS 2026!]]
 - [[episodes/2026-05-07|2026-05-07]]
-    - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
-    - [[sources/2026-05-07/03_deploying-django-apps-on-databricks-apps-with-lakebase|Deploying Django apps on Databricks Apps with Lakebase]]
     - [[sources/2026-05-07/05_native-opentelemetry-observability-for-databricks-apps|Native OpenTelemetry Observability for Databricks Apps]]
+    - [[sources/2026-05-07/03_deploying-django-apps-on-databricks-apps-with-lakebase|Deploying Django apps on Databricks Apps with Lakebase]]
+    - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
 - [[episodes/2026-05-05|2026-05-05]]
     - [[sources/2026-05-05/08_databricks-apps-construindo-aplicacoes-de-dados-sem-sair-do|Databricks Apps construindo aplicações de dados sem sair do Lakehouse]]
 - [[episodes/2026-04-29|2026-04-29]]

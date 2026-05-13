@@ -3,17 +3,19 @@ type: concept
 name: Azure Databricks
 slug: azure-databricks
 first_seen: 2026-05-02
-last_seen: 2026-05-06
-mention_count: 2
-avg_confidence: 0.85
+last_seen: 2026-05-13
+mention_count: 3
+avg_confidence: 0.8
 tags: [concept]
 ---
 
 # Azure Databricks
 
-_Concept mentioned across 2 stories._
+_Concept mentioned across 3 stories._
 
 ## Appears in
+- [[episodes/2026-05-13|2026-05-13]]
+    - [[sources/2026-05-13/04_databricks-lakebase-autoscaling-cost-model-decoded-what-you|Databricks Lakebase Autoscaling Cost Model Decoded What You Actually Pay and When It s Worth It]]
 - [[episodes/2026-05-06|2026-05-06]]
     - [[sources/2026-05-06/05_stop-using-spark-for-your-small-data-why-azure-functions-is|Stop Using Spark for Your Small Data - Why Azure Functions is the Right Tool for the Job]]
 - [[episodes/2026-05-02|2026-05-02]]

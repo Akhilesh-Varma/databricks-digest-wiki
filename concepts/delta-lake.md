@@ -3,31 +3,33 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-12
-mention_count: 37
-avg_confidence: 0.719
+last_seen: 2026-05-13
+mention_count: 38
+avg_confidence: 0.724
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 37 stories._
+_Concept mentioned across 38 stories._
 
 ## Appears in
+- [[episodes/2026-05-13|2026-05-13]]
+    - [[sources/2026-05-13/05_multimodal-rag-needs-real-pixels-so-i-wired-a-webcam-straigh|Multimodal RAG Needs Real Pixels So I Wired a Webcam Straight Into Delta with Clone-Xs]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/07_building-scalable-data-pipelines-with-azure-data-factory-dat|Building Scalable Data Pipelines with Azure Data Factory, Databricks Azure DevOps]]
 - [[episodes/2026-05-11|2026-05-11]]
-    - [[sources/2026-05-11/02_mastering-delta-lake-merge-performance-why-it-slows-down-and|Mastering Delta Lake MERGE Performance Why It Slows Down and How to Fix It]]
-    - [[sources/2026-05-11/07_data-lake-architecture-for-data-engineering-interviews|Data Lake Architecture for Data Engineering Interviews]]
     - [[sources/2026-05-11/08_building-your-first-data-warehouse-in-databricks-end-to-end|Building Your First Data Warehouse in Databricks End to End]]
+    - [[sources/2026-05-11/07_data-lake-architecture-for-data-engineering-interviews|Data Lake Architecture for Data Engineering Interviews]]
+    - [[sources/2026-05-11/02_mastering-delta-lake-merge-performance-why-it-slows-down-and|Mastering Delta Lake MERGE Performance Why It Slows Down and How to Fix It]]
     - [[sources/2026-05-11/01_learning-series-machine-learning-model-development|Learning Series Machine Learning Model Development]]
 - [[episodes/2026-05-10|2026-05-10]]
-    - [[sources/2026-05-10/01_community-pulse-your-weekly-roundup-april-27-may-03-2026|Community Pulse Your Weekly Roundup! April 27 May 03, 2026]]
     - [[sources/2026-05-10/06_delta-lake-transaction-logs-explained-the-ultimate-troublesh|Delta Lake Transaction Logs Explained The Ultimate Troubleshooting Superpower for Data Engineers]]
+    - [[sources/2026-05-10/01_community-pulse-your-weekly-roundup-april-27-may-03-2026|Community Pulse Your Weekly Roundup! April 27 May 03, 2026]]
 - [[episodes/2026-05-09|2026-05-09]]
-    - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
-    - [[sources/2026-05-09/03_delta-lake-under-the-hood-what-every-data-engineer-should-kn|Delta Lake Under the Hood What Every Data Engineer Should Know]]
     - [[sources/2026-05-09/05_adf-vs-databricks-workflows-which-one-should-orchestrate-you|ADF vs Databricks Workflows Which One Should Orchestrate Your Data Pipelines?]]
+    - [[sources/2026-05-09/03_delta-lake-under-the-hood-what-every-data-engineer-should-kn|Delta Lake Under the Hood What Every Data Engineer Should Know]]
+    - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/08_ursa-a-new-diskless-lakestream-engine-for-kafka|Ursa a new Diskless Lakestream engine for Kafka]]
     - [[sources/2026-05-07/07_data-series-understanding-etl-medallion-architecture-part-1|Data Series Understanding ETL Medallion Architecture Part 1]]

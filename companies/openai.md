@@ -3,17 +3,19 @@ type: company
 name: OpenAI
 slug: openai
 first_seen: 2026-04-17
-last_seen: 2026-05-11
-mention_count: 5
+last_seen: 2026-05-13
+mention_count: 6
 avg_confidence: ""
 tags: [company]
 ---
 
 # OpenAI
 
-_Company mentioned across 5 stories._
+_Company mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-13|2026-05-13]]
+    - [[sources/2026-05-13/03_launch-hn-voker-yc-s24-analytics-for-ai-agents|Launch HN Voker YC S24 Analytics for AI Agents]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/05_the-sequence-radar-857-last-week-in-ai-inside-the-machine-ou|The Sequence Radar 857 Last Week in AI Inside the Machine, Outside the Text Box]]
 - [[episodes/2026-05-07|2026-05-07]]

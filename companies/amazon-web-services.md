@@ -3,17 +3,19 @@ type: company
 name: Amazon Web Services
 slug: amazon-web-services
 first_seen: 2026-04-08
-last_seen: 2026-05-12
-mention_count: 15
+last_seen: 2026-05-13
+mention_count: 16
 avg_confidence: ""
 tags: [company]
 ---
 
 # Amazon Web Services
 
-_Company mentioned across 15 stories._
+_Company mentioned across 16 stories._
 
 ## Appears in
+- [[episodes/2026-05-13|2026-05-13]]
+    - [[sources/2026-05-13/08_senior-sql-advanced-joins-window-analytics-plans-indexing-pr|Senior SQL Advanced Joins, Window Analytics, Plans, Indexing Production Mindset]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/10_amazon-redshift-for-data-engineering-columnar-storage-mpp-co|Amazon Redshift for Data Engineering Columnar Storage, MPP, COPY, Distribution Keys, Spectrum]]
     - [[sources/2026-05-12/09_snowflake-for-data-engineering-interviews-a-beginner-s-guide|Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse]]

@@ -32,4 +32,4 @@ Autopoiesis is a novel self-evolving system paradigm for Large Language Model se
 - **URL:** <https://arxiv.org/abs/2604.07144>
 
 ## Related
-[[concepts/autopoiesis|autopoiesis]] · [[concepts/llm-serving|llm-serving]] · [[concepts/program-synthesis|program-synthesis]] · [[concepts/online-policy-evolution|online-policy-evolution]] · [[concepts/large-language-models|large-language-models]] · [[concepts/large-language-model|large-language-model]] · [[concepts/language-model|language-model]] · [[concepts/llms|llms]] · [[concepts/llm|llm]] · [[episodes/2026-04-09|2026-04-09]]
+[[concepts/autopoiesis|autopoiesis]] · [[concepts/llm-serving|llm-serving]] · [[concepts/program-synthesis|program-synthesis]] · [[concepts/online-policy-evolution|online-policy-evolution]] · [[concepts/large-language-models|large-language-models]] · [[concepts/large-language-model|large-language-model]] · [[concepts/language-model|language-model]] · [[concepts/autoscaling|autoscaling]] · [[concepts/llms|llms]] · [[concepts/llm|llm]] · [[episodes/2026-04-09|2026-04-09]]

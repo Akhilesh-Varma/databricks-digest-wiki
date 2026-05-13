@@ -3,32 +3,35 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-11
-mention_count: 60
-avg_confidence: 0.745
+last_seen: 2026-05-13
+mention_count: 62
+avg_confidence: 0.742
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 60 stories._
+_Concept mentioned across 62 stories._
 
 ## Appears in
+- [[episodes/2026-05-13|2026-05-13]]
+    - [[sources/2026-05-13/02_step-by-step-building-a-vacation-rental-operations-app-with|Step-by-Step Building a Vacation Rental Operations App with AppKit]]
+    - [[sources/2026-05-13/05_multimodal-rag-needs-real-pixels-so-i-wired-a-webcam-straigh|Multimodal RAG Needs Real Pixels So I Wired a Webcam Straight Into Delta with Clone-Xs]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/01_learning-series-machine-learning-model-development|Learning Series Machine Learning Model Development]]
 - [[episodes/2026-05-10|2026-05-10]]
     - [[sources/2026-05-10/01_community-pulse-your-weekly-roundup-april-27-may-03-2026|Community Pulse Your Weekly Roundup! April 27 May 03, 2026]]
 - [[episodes/2026-05-09|2026-05-09]]
-    - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
     - [[sources/2026-05-09/02_scaling-enterprise-ai-with-databricks-without-losing-control|Scaling Enterprise AI with Databricks Without Losing Control]]
+    - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
 - [[episodes/2026-05-08|2026-05-08]]
-    - [[sources/2026-05-08/02_semantic-caching-for-llm-applications-with-databricks-lakeba|Semantic Caching for LLM Applications with Databricks Lakebase and pgvector]]
     - [[sources/2026-05-08/04_how-databricks-genie-turns-collaboration-tools-into-ai-power|How Databricks Genie Turns Collaboration Tools into AI-Powered Intelligence Platforms]]
     - [[sources/2026-05-08/03_best-moments-from-dais-2025-a-look-back-before-we-do-it-agai|Best Moments from DAIS 2025 A Look Back Before We Do It Again at DAIS 2026!]]
+    - [[sources/2026-05-08/02_semantic-caching-for-llm-applications-with-databricks-lakeba|Semantic Caching for LLM Applications with Databricks Lakebase and pgvector]]
 - [[episodes/2026-05-07|2026-05-07]]
-    - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
-    - [[sources/2026-05-07/05_native-opentelemetry-observability-for-databricks-apps|Native OpenTelemetry Observability for Databricks Apps]]
     - [[sources/2026-05-07/06_while-working-on-a-databricks-implementation-with-unity-cata|While working on a Databricks implementation with Unity Catalog enabled, we ran into an interesting]]
+    - [[sources/2026-05-07/05_native-opentelemetry-observability-for-databricks-apps|Native OpenTelemetry Observability for Databricks Apps]]
+    - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
 - [[episodes/2026-05-05|2026-05-05]]
     - [[sources/2026-05-05/05_customer-story-elliptic-protect-crypto-assets-with-governed|CUSTOMER STORY Elliptic Protect crypto assets with governed AI]]
     - [[sources/2026-05-05/04_satya-nadella-ali-ghodsi-a-must-see-data-ai-summit-keynote|Satya Nadella Ali Ghodsi A Must-See Data AI Summit Keynote]]

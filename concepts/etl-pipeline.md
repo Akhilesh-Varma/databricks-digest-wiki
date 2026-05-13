@@ -15,8 +15,8 @@ _Concept mentioned across 6 stories._
 
 ## Appears in
 - [[episodes/2026-05-12|2026-05-12]]
-    - [[sources/2026-05-12/03_introducing-5xl-sql-warehouses-a-practical-guide-to-meeting|Introducing 5XL SQL Warehouses A Practical Guide to Meeting SLAs for Your Most Demanding Workloads]]
     - [[sources/2026-05-12/08_etl-pipeline-for-data-engineering-a-beginner-s-guide-to-extr|ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load]]
+    - [[sources/2026-05-12/03_introducing-5xl-sql-warehouses-a-practical-guide-to-meeting|Introducing 5XL SQL Warehouses A Practical Guide to Meeting SLAs for Your Most Demanding Workloads]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/07_data-series-understanding-etl-medallion-architecture-part-1|Data Series Understanding ETL Medallion Architecture Part 1]]
 - [[episodes/2026-04-18|2026-04-18]]

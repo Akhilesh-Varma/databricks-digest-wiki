@@ -1,6 +1,6 @@
 ---
 type: concept
-name: LakeBridge
+name: Lakebridge
 slug: lakebridge
 first_seen: 2026-05-01
 last_seen: 2026-05-08
@@ -9,7 +9,7 @@ avg_confidence: 0.7
 tags: [concept]
 ---
 
-# LakeBridge
+# Lakebridge
 
 _Concept mentioned across 2 stories._
 

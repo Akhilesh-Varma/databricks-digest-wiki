@@ -3,17 +3,20 @@ type: company
 name: Google
 slug: google
 first_seen: 2026-04-05
-last_seen: 2026-05-12
-mention_count: 13
+last_seen: 2026-05-13
+mention_count: 15
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google
 
-_Company mentioned across 13 stories._
+_Company mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-05-13|2026-05-13]]
+    - [[sources/2026-05-13/08_senior-sql-advanced-joins-window-analytics-plans-indexing-pr|Senior SQL Advanced Joins, Window Analytics, Plans, Indexing Production Mindset]]
+    - [[sources/2026-05-13/03_launch-hn-voker-yc-s24-analytics-for-ai-agents|Launch HN Voker YC S24 Analytics for AI Agents]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/09_snowflake-for-data-engineering-interviews-a-beginner-s-guide|Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse]]
 - [[episodes/2026-05-10|2026-05-10]]
@@ -22,8 +25,8 @@ _Company mentioned across 13 stories._
     - [[sources/2026-05-08/07_data-engineer-salaries-are-splitting-in-two-which-side-are-y|Data Engineer Salaries Are Splitting in Two. Which Side Are You On?]]
     - [[sources/2026-05-08/03_best-moments-from-dais-2025-a-look-back-before-we-do-it-agai|Best Moments from DAIS 2025 A Look Back Before We Do It Again at DAIS 2026!]]
 - [[episodes/2026-05-06|2026-05-06]]
-    - [[sources/2026-05-06/06_what-is-dremio-the-unified-lakehouse-and-ai-platform|What is Dremio? The Unified Lakehouse and AI Platform]]
     - [[sources/2026-05-06/07_etl-vs-elt-the-difference-that-finally-clicked-for-me|ETL vs ELT The Difference That Finally Clicked for Me]]
+    - [[sources/2026-05-06/06_what-is-dremio-the-unified-lakehouse-and-ai-platform|What is Dremio? The Unified Lakehouse and AI Platform]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/09_meet-sdi-the-no-code-etl-tool-every-data-engineer-needs-in-t|Meet SDI The No-Code ETL Tool Every Data Engineer Needs in Their Toolbox]]
     - [[sources/2026-05-02/08_what-is-apache-polaris-why-open-data-catalogs-matter-and-how|What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS]]

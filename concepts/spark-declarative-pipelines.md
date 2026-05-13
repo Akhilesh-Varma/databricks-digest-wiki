@@ -15,9 +15,9 @@ _Concept mentioned across 12 stories._
 
 ## Appears in
 - [[episodes/2026-05-12|2026-05-12]]
-    - [[sources/2026-05-12/02_agentic-data-engineering-with-genie-code-and-lakeflow|Agentic Data Engineering with Genie Code and Lakeflow]]
     - [[sources/2026-05-12/06_building-a-spark-declarative-pipeline-a-modern-financial-dat|Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP, Apache Iceberg]]
     - [[sources/2026-05-12/05_databricks-sdp-explained-unified-ddl-dml-in-modern-pipelines|Databricks SDP Explained Unified DDL DML in Modern Pipelines]]
+    - [[sources/2026-05-12/02_agentic-data-engineering-with-genie-code-and-lakeflow|Agentic Data Engineering with Genie Code and Lakeflow]]
 - [[episodes/2026-05-08|2026-05-08]]
     - [[sources/2026-05-08/03_best-moments-from-dais-2025-a-look-back-before-we-do-it-agai|Best Moments from DAIS 2025 A Look Back Before We Do It Again at DAIS 2026!]]
 - [[episodes/2026-05-07|2026-05-07]]

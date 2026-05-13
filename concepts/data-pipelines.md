@@ -1,6 +1,6 @@
 ---
 type: concept
-name: data pipelines
+name: Data Pipelines
 slug: data-pipelines
 first_seen: 2026-04-27
 last_seen: 2026-05-12
@@ -9,7 +9,7 @@ avg_confidence: 0.625
 tags: [concept]
 ---
 
-# data pipelines
+# Data Pipelines
 
 _Concept mentioned across 4 stories._
 

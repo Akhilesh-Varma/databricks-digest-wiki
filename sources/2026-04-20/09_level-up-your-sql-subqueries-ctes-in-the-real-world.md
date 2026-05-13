@@ -32,4 +32,4 @@ This article discusses the use of subqueries and Common Table Expressions (CTEs)
 - **URL:** <https://dev.to/adev3loper/level-up-your-sql-subqueries-ctes-in-the-real-world-539k>
 
 ## Related
-[[concepts/subquery|subquery]] · [[concepts/common-table-expression|common-table-expression]] · [[concepts/scalar-subquery|scalar-subquery]] · [[concepts/single-row-subquery|single-row-subquery]] · [[concepts/multi-row-subquery|multi-row-subquery]] · [[concepts/correlated-subquery|correlated-subquery]] · [[concepts/postgres|postgres]] · [[concepts/sql|sql]] · [[episodes/2026-04-20|2026-04-20]]
+[[concepts/subquery|subquery]] · [[concepts/common-table-expression|common-table-expression]] · [[concepts/scalar-subquery|scalar-subquery]] · [[concepts/single-row-subquery|single-row-subquery]] · [[concepts/multi-row-subquery|multi-row-subquery]] · [[concepts/correlated-subquery|correlated-subquery]] · [[concepts/temporary-table|temporary-table]] · [[concepts/postgres|postgres]] · [[concepts/sql|sql]] · [[episodes/2026-04-20|2026-04-20]]

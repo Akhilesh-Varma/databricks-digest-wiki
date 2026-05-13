@@ -3,17 +3,19 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-08
-last_seen: 2026-05-12
-mention_count: 15
+last_seen: 2026-05-13
+mention_count: 16
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 15 stories._
+_Company mentioned across 16 stories._
 
 ## Appears in
+- [[episodes/2026-05-13|2026-05-13]]
+    - [[sources/2026-05-13/08_senior-sql-advanced-joins-window-analytics-plans-indexing-pr|Senior SQL Advanced Joins, Window Analytics, Plans, Indexing Production Mindset]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/09_snowflake-for-data-engineering-interviews-a-beginner-s-guide|Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse]]
     - [[sources/2026-05-12/08_etl-pipeline-for-data-engineering-a-beginner-s-guide-to-extr|ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load]]

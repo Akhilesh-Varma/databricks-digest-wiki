@@ -1,6 +1,6 @@
 ---
 type: concept
-name: Multi-Agent Architecture
+name: Multi-agent Architecture
 slug: multi-agent-architecture
 first_seen: 2026-05-07
 last_seen: 2026-05-10
@@ -9,7 +9,7 @@ avg_confidence: 0.8
 tags: [concept]
 ---
 
-# Multi-Agent Architecture
+# Multi-agent Architecture
 
 _Concept mentioned across 2 stories._
 
