@@ -3,17 +3,19 @@ type: concept
 name: Lakebase
 slug: lakebase
 first_seen: 2026-04-05
-last_seen: 2026-05-13
-mention_count: 13
-avg_confidence: 0.846
+last_seen: 2026-05-14
+mention_count: 14
+avg_confidence: 0.836
 tags: [concept]
 ---
 
 # Lakebase
 
-_Concept mentioned across 13 stories._
+_Concept mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-05-14|2026-05-14]]
+    - [[sources/2026-05-14/02_community-pulse-your-weekly-roundup-may-04-10-2026|Community Pulse Your Weekly Roundup! May 04 10, 2026]]
 - [[episodes/2026-05-13|2026-05-13]]
     - [[sources/2026-05-13/02_step-by-step-building-a-vacation-rental-operations-app-with|Step-by-Step Building a Vacation Rental Operations App with AppKit]]
     - [[sources/2026-05-13/04_databricks-lakebase-autoscaling-cost-model-decoded-what-you|Databricks Lakebase Autoscaling Cost Model Decoded What You Actually Pay and When It s Worth It]]

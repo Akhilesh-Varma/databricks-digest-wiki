@@ -30,4 +30,4 @@ The article discusses fine-tuning an open-source large language model (LLM) usin
 - **URL:** <https://blog.dataengineerthings.org/i-used-agent-skills-to-fine-tune-an-open-source-llm-on-nebius-token-factory-ae3ecef25d42?source=rss------data_engineering-5>
 
 ## Related
-[[concepts/llm|llm]] · [[concepts/nebius-token-factory|nebius-token-factory]] · [[concepts/claude-opus-4-6|claude-opus-4-6]] · [[concepts/composer-2-llm|composer-2-llm]] · [[companies/cursor|Cursor]] · [[episodes/2026-04-20|2026-04-20]]
+[[concepts/llm|llm]] · [[concepts/nebius-token-factory|nebius-token-factory]] · [[concepts/claude-opus-4-6|claude-opus-4-6]] · [[concepts/composer-2-llm|composer-2-llm]] · [[concepts/cursor|cursor]] · [[companies/cursor|Cursor]] · [[episodes/2026-04-20|2026-04-20]]

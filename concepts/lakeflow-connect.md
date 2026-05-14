@@ -3,17 +3,19 @@ type: concept
 name: Lakeflow Connect
 slug: lakeflow-connect
 first_seen: 2026-04-05
-last_seen: 2026-05-02
-mention_count: 5
-avg_confidence: 0.76
+last_seen: 2026-05-14
+mention_count: 6
+avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Lakeflow Connect
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-14|2026-05-14]]
+    - [[sources/2026-05-14/02_community-pulse-your-weekly-roundup-may-04-10-2026|Community Pulse Your Weekly Roundup! May 04 10, 2026]]
 - [[episodes/2026-05-02|2026-05-02]]
     - [[sources/2026-05-02/02_azure-databricks-reverse-ssh-tunnel-for-on-premises-connecti|Azure Databricks Reverse SSH Tunnel for On-Premises Connectivity]]
 - [[episodes/2026-04-29|2026-04-29]]

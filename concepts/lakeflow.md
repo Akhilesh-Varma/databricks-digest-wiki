@@ -3,17 +3,19 @@ type: concept
 name: Lakeflow
 slug: lakeflow
 first_seen: 2026-04-15
-last_seen: 2026-05-12
-mention_count: 9
+last_seen: 2026-05-14
+mention_count: 10
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Lakeflow
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-05-14|2026-05-14]]
+    - [[sources/2026-05-14/02_community-pulse-your-weekly-roundup-may-04-10-2026|Community Pulse Your Weekly Roundup! May 04 10, 2026]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/02_agentic-data-engineering-with-genie-code-and-lakeflow|Agentic Data Engineering with Genie Code and Lakeflow]]
 - [[episodes/2026-05-08|2026-05-08]]

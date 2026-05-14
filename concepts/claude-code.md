@@ -3,17 +3,19 @@ type: concept
 name: Claude Code
 slug: claude-code
 first_seen: 2026-04-05
-last_seen: 2026-04-23
-mention_count: 5
-avg_confidence: 0.58
+last_seen: 2026-05-14
+mention_count: 6
+avg_confidence: 0.55
 tags: [concept]
 ---
 
 # Claude Code
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-14|2026-05-14]]
+    - [[sources/2026-05-14/08_show-hn-headless-cloud-security-headless-saas-has-come-to-se|Show HN Headless Cloud Security Headless SaaS has come to security]]
 - [[episodes/2026-04-23|2026-04-23]]
     - [[sources/2026-04-23/06_show-hn-broccoli-one-shot-coding-agent-on-the-cloud|Show HN Broccoli, one shot coding agent on the cloud]]
 - [[episodes/2026-04-18|2026-04-18]]

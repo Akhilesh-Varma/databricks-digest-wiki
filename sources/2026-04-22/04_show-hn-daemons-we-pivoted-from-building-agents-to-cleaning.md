@@ -31,4 +31,4 @@ Charlie Labs has pivoted from building coding agents to creating Daemons, a new 
 - **URL:** <https://charlielabs.ai/>
 
 ## Related
-[[concepts/daemons|daemons]] · [[concepts/coding-agents|coding-agents]] · [[concepts/typescript|typescript]] · [[concepts/codex|codex]] · [[concepts/ai|ai]] · [[companies/charlie-labs|Charlie Labs]] · [[episodes/2026-04-22|2026-04-22]]
+[[concepts/daemons|daemons]] · [[concepts/coding-agents|coding-agents]] · [[concepts/typescript|typescript]] · [[concepts/cursor|cursor]] · [[concepts/codex|codex]] · [[concepts/ai|ai]] · [[companies/charlie-labs|Charlie Labs]] · [[episodes/2026-04-22|2026-04-22]]

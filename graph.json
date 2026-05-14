@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-05-13T10:27:06.113524+00:00",
-  "node_count": 1919,
-  "edge_count": 3072,
+  "generated_at": "2026-05-14T10:24:41.792254+00:00",
+  "node_count": 1963,
+  "edge_count": 3153,
   "nodes": [
+    {
+      "id": "episode/2026-05-14",
+      "type": "episode",
+      "label": "Daily Databricks Digest - May 14, 2026",
+      "episode_date": "2026-05-14",
+      "story_count": 8
+    },
     {
       "id": "episode/2026-05-13",
       "type": "episode",
@@ -2667,6 +2674,70 @@
       "quality_score": 0.7163324140740741
     },
     {
+      "id": "story/community_bfe543167d55",
+      "type": "story",
+      "label": "Community Pulse Your Weekly Roundup! May 04 10, 2026",
+      "episode_date": "2026-05-14",
+      "rank": 2,
+      "quality_score": 0.78
+    },
+    {
+      "id": "story/community_8c0892d83dd1",
+      "type": "story",
+      "label": "Databricks Community Fellows April 2026 Shout Outs!",
+      "episode_date": "2026-05-14",
+      "rank": 3,
+      "quality_score": 0.66
+    },
+    {
+      "id": "story/community_9209ab229d3a",
+      "type": "story",
+      "label": "Data Detective Series Ready to crack a case with data?",
+      "episode_date": "2026-05-14",
+      "rank": 4,
+      "quality_score": 0.6200000000000001
+    },
+    {
+      "id": "story/hn_48124436",
+      "type": "story",
+      "label": "Launch HN Ardent YC P26 Postgres sandboxes in seconds with zero migration",
+      "episode_date": "2026-05-14",
+      "rank": 5,
+      "quality_score": 0.7299569161271414
+    },
+    {
+      "id": "story/rss_148739e37d06",
+      "type": "story",
+      "label": "Monitoring Databricks Pipelines From Blind Spots to Full Visibility",
+      "episode_date": "2026-05-14",
+      "rank": 6,
+      "quality_score": 0.7261477471177249
+    },
+    {
+      "id": "story/rss_b632db648571",
+      "type": "story",
+      "label": "Zero-Latency BI Embedding Qwen-3 and Phi-4 On-Device LLMs into Power BI and Qlik Cloud",
+      "episode_date": "2026-05-14",
+      "rank": 7,
+      "quality_score": 0.6993382236450066
+    },
+    {
+      "id": "story/hn_48121671",
+      "type": "story",
+      "label": "Show HN Headless Cloud Security Headless SaaS has come to security",
+      "episode_date": "2026-05-14",
+      "rank": 8,
+      "quality_score": 0.6160348171289557
+    },
+    {
+      "id": "story/rss_8d36f7f39659",
+      "type": "story",
+      "label": "OxyEcomBench Benchmarking Multimodal Foundation Models across E-Commerce Ecosystems",
+      "episode_date": "2026-05-14",
+      "rank": 9,
+      "quality_score": 0.7163322711274802
+    },
+    {
       "id": "story/community_608ffec25bab",
       "type": "story",
       "label": "Solution Accelerator Series Digital Twins",
@@ -3318,7 +3389,7 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 180
+      "mention_count": 184
     },
     {
       "id": "concept/fulfillment-center-operations",
@@ -3426,13 +3497,13 @@
       "id": "concept/unity-catalog",
       "type": "concept",
       "label": "Unity Catalog",
-      "mention_count": 62
+      "mention_count": 63
     },
     {
       "id": "concept/medallion-architecture",
       "type": "concept",
       "label": "Medallion Architecture",
-      "mention_count": 12
+      "mention_count": 13
     },
     {
       "id": "concept/databricks-asset-bundles",
@@ -3462,7 +3533,7 @@
       "id": "concept/databricks-apps",
       "type": "concept",
       "label": "Databricks Apps",
-      "mention_count": 15
+      "mention_count": 16
     },
     {
       "id": "concept/ai-playground",
@@ -3534,7 +3605,7 @@
       "id": "company/microsoft",
       "type": "company",
       "label": "Microsoft",
-      "mention_count": 26
+      "mention_count": 27
     },
     {
       "id": "concept/databricks-terraform-provider",
@@ -3576,7 +3647,7 @@
       "id": "concept/delta-lake",
       "type": "concept",
       "label": "Delta Lake",
-      "mention_count": 38
+      "mention_count": 40
     },
     {
       "id": "concept/delta-kernel",
@@ -3588,7 +3659,7 @@
       "id": "concept/apache-spark",
       "type": "concept",
       "label": "Apache Spark",
-      "mention_count": 34
+      "mention_count": 35
     },
     {
       "id": "concept/apache-flink",
@@ -3888,7 +3959,7 @@
       "id": "company/medium",
       "type": "company",
       "label": "Medium",
-      "mention_count": 23
+      "mention_count": 24
     },
     {
       "id": "concept/occupational-safety-and-health-administration-osha",
@@ -4164,7 +4235,7 @@
       "id": "concept/large-language-models-llms",
       "type": "concept",
       "label": "Large Language Models (LLMs)",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "id": "concept/prompt-injection-attacks",
@@ -4854,7 +4925,7 @@
       "id": "concept/lakebase",
       "type": "concept",
       "label": "Lakebase",
-      "mention_count": 13
+      "mention_count": 14
     },
     {
       "id": "concept/point-in-polygon-query",
@@ -4914,7 +4985,7 @@
       "id": "concept/kafka",
       "type": "concept",
       "label": "Kafka",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/grpc",
@@ -5226,7 +5297,7 @@
       "id": "concept/databricks-genie",
       "type": "concept",
       "label": "Databricks Genie",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "id": "concept/natural-language-sql-generation",
@@ -5250,7 +5321,7 @@
       "id": "concept/agent-bricks",
       "type": "concept",
       "label": "Agent Bricks",
-      "mention_count": 7
+      "mention_count": 8
     },
     {
       "id": "concept/lakeflow-designer",
@@ -5262,7 +5333,7 @@
       "id": "concept/lakeflow",
       "type": "concept",
       "label": "Lakeflow",
-      "mention_count": 9
+      "mention_count": 10
     },
     {
       "id": "concept/uc-metrics",
@@ -5304,7 +5375,7 @@
       "id": "concept/pgvector",
       "type": "concept",
       "label": "pgvector",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/databricks-foundation-model-apis",
@@ -5766,7 +5837,7 @@
       "id": "concept/databricks-pipelines",
       "type": "concept",
       "label": "Databricks Pipelines",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/supervisor-agents",
@@ -6084,7 +6155,7 @@
       "id": "company/y-combinator",
       "type": "company",
       "label": "Y Combinator",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "person/alex",
@@ -6120,7 +6191,7 @@
       "id": "concept/genie",
       "type": "concept",
       "label": "Genie",
-      "mention_count": 9
+      "mention_count": 10
     },
     {
       "id": "person/emily-piekarski",
@@ -6138,7 +6209,7 @@
       "id": "concept/lakeflow-connect",
       "type": "concept",
       "label": "Lakeflow Connect",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "concept/document-intelligence",
@@ -6354,7 +6425,7 @@
       "id": "concept/databricks-free-edition",
       "type": "concept",
       "label": "Databricks Free Edition",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/mlh",
@@ -6366,7 +6437,7 @@
       "id": "concept/power-bi",
       "type": "concept",
       "label": "Power BI",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/tableau",
@@ -7194,7 +7265,7 @@
       "id": "company/anthropic",
       "type": "company",
       "label": "Anthropic",
-      "mention_count": 10
+      "mention_count": 11
     },
     {
       "id": "concept/declarative-pipeline-framework",
@@ -7230,7 +7301,7 @@
       "id": "concept/copy-on-write",
       "type": "concept",
       "label": "Copy-on-Write",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/deletion-vectors",
@@ -7386,7 +7457,7 @@
       "id": "concept/neon",
       "type": "concept",
       "label": "Neon",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/dbt-core",
@@ -7404,7 +7475,7 @@
       "id": "company/neon",
       "type": "company",
       "label": "Neon",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/apache-superset",
@@ -7962,7 +8033,7 @@
       "id": "concept/mcp",
       "type": "concept",
       "label": "MCP",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/open-table-formats",
@@ -8424,7 +8495,7 @@
       "id": "concept/ai-coding-agents",
       "type": "concept",
       "label": "AI coding agents",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/grace",
@@ -8652,7 +8723,7 @@
       "id": "concept/mcp-servers",
       "type": "concept",
       "label": "MCP Servers",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/azure-databricks-custom-urls",
@@ -8814,7 +8885,7 @@
       "id": "concept/claude-code",
       "type": "concept",
       "label": "Claude Code",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "person/sudhir-gajre",
@@ -9342,7 +9413,7 @@
       "id": "concept/ci-cd-pipelines",
       "type": "concept",
       "label": "CI/CD Pipelines",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/rag-system",
@@ -9594,7 +9665,7 @@
       "id": "concept/rag",
       "type": "concept",
       "label": "RAG",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/ebbinghaus-forgetting-curve",
@@ -10140,7 +10211,7 @@
       "id": "company/elliptic",
       "type": "company",
       "label": "Elliptic",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "person/amar-chandarana",
@@ -11736,7 +11807,7 @@
       "id": "concept/fellows-hub",
       "type": "concept",
       "label": "Fellows Hub",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/fastapi",
@@ -11850,7 +11921,7 @@
       "id": "concept/spark-connect",
       "type": "concept",
       "label": "Spark Connect",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/vs-code",
@@ -12033,6 +12104,60 @@
       "mention_count": 1
     },
     {
+      "id": "concept/headless-cloud-security",
+      "type": "concept",
+      "label": "Headless Cloud Security",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/agentic-workflows",
+      "type": "concept",
+      "label": "Agentic Workflows",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/cursor",
+      "type": "concept",
+      "label": "Cursor",
+      "mention_count": 1
+    },
+    {
+      "id": "company/sysdig",
+      "type": "company",
+      "label": "Sysdig",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/oxyecombench",
+      "type": "concept",
+      "label": "OxyEcomBench",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/multimodal-large-language-models-mllms",
+      "type": "concept",
+      "label": "Multimodal Large Language Models (MLLMs)",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/multimodal-benchmarking",
+      "type": "concept",
+      "label": "Multimodal Benchmarking",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/difficulty-aware-rubric",
+      "type": "concept",
+      "label": "Difficulty-Aware Rubric",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/long-tail-product-evidence",
+      "type": "concept",
+      "label": "Long-Tail Product Evidence",
+      "mention_count": 1
+    },
+    {
       "id": "concept/agent-analytics",
       "type": "concept",
       "label": "Agent Analytics",
@@ -12081,6 +12206,66 @@
       "mention_count": 1
     },
     {
+      "id": "concept/postgres-sandboxes",
+      "type": "concept",
+      "label": "Postgres Sandboxes",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/logical-replication",
+      "type": "concept",
+      "label": "Logical Replication",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/ddl-triggers",
+      "type": "concept",
+      "label": "DDL Triggers",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/byoc",
+      "type": "concept",
+      "label": "BYOC",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/pii-redaction",
+      "type": "concept",
+      "label": "PII Redaction",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/split-plane-architecture",
+      "type": "concept",
+      "label": "Split-Plane Architecture",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/database-branching",
+      "type": "concept",
+      "label": "Database Branching",
+      "mention_count": 1
+    },
+    {
+      "id": "company/ardent",
+      "type": "company",
+      "label": "Ardent",
+      "mention_count": 1
+    },
+    {
+      "id": "person/vikram",
+      "type": "person",
+      "label": "Vikram",
+      "mention_count": 1
+    },
+    {
+      "id": "person/evan",
+      "type": "person",
+      "label": "Evan",
+      "mention_count": 1
+    },
+    {
       "id": "concept/duckdb-postgresql-extension",
       "type": "concept",
       "label": "DuckDB PostgreSQL Extension",
@@ -12114,6 +12299,24 @@
       "id": "person/evan-pandya",
       "type": "person",
       "label": "Evan Pandya",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/databricks-detective-series",
+      "type": "concept",
+      "label": "Databricks Detective Series",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/data-ai-summit-2026",
+      "type": "concept",
+      "label": "Data AI Summit 2026",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/lakeview-dashboards",
+      "type": "concept",
+      "label": "Lakeview Dashboards",
       "mention_count": 1
     },
     {
@@ -12213,6 +12416,60 @@
       "mention_count": 1
     },
     {
+      "id": "concept/community-fellows-program",
+      "type": "concept",
+      "label": "Community Fellows Program",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/bug-bash",
+      "type": "concept",
+      "label": "Bug Bash",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/qwen-3",
+      "type": "concept",
+      "label": "Qwen-3",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/phi-4",
+      "type": "concept",
+      "label": "Phi-4",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/on-device-llm",
+      "type": "concept",
+      "label": "On-Device LLM",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/qlik-cloud",
+      "type": "concept",
+      "label": "Qlik Cloud",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/ai-assisted-bi",
+      "type": "concept",
+      "label": "AI-assisted BI",
+      "mention_count": 1
+    },
+    {
+      "id": "company/qlik",
+      "type": "company",
+      "label": "Qlik",
+      "mention_count": 1
+    },
+    {
+      "id": "company/alibaba",
+      "type": "company",
+      "label": "Alibaba",
+      "mention_count": 1
+    },
+    {
       "id": "concept/served-model-workload-type",
       "type": "concept",
       "label": "Served Model Workload Type",
@@ -12222,6 +12479,30 @@
       "id": "concept/gpu-xlarge",
       "type": "concept",
       "label": "GPU_XLARGE",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/serverless-sql-warehouses",
+      "type": "concept",
+      "label": "Serverless SQL Warehouses",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/lakeflow-declarative-pipeline",
+      "type": "concept",
+      "label": "Lakeflow Declarative Pipeline",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/lakehouse-sync",
+      "type": "concept",
+      "label": "Lakehouse Sync",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/pipeline-monitoring",
+      "type": "concept",
+      "label": "Pipeline Monitoring",
       "mention_count": 1
     },
     {
@@ -27104,6 +27385,86 @@
       "kind": "mentions"
     },
     {
+      "source": "story/hn_48121671",
+      "target": "episode/2026-05-14",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/hn_48121671",
+      "target": "concept/headless-cloud-security",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48121671",
+      "target": "concept/agentic-workflows",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48121671",
+      "target": "concept/ci-cd-pipelines",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48121671",
+      "target": "concept/mcp-servers",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48121671",
+      "target": "concept/claude-code",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48121671",
+      "target": "concept/cursor",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48121671",
+      "target": "company/sysdig",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48121671",
+      "target": "company/anthropic",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_8d36f7f39659",
+      "target": "episode/2026-05-14",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_8d36f7f39659",
+      "target": "concept/oxyecombench",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_8d36f7f39659",
+      "target": "concept/multimodal-large-language-models-mllms",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_8d36f7f39659",
+      "target": "concept/large-language-models-llms",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_8d36f7f39659",
+      "target": "concept/multimodal-benchmarking",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_8d36f7f39659",
+      "target": "concept/difficulty-aware-rubric",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_8d36f7f39659",
+      "target": "concept/long-tail-product-evidence",
+      "kind": "mentions"
+    },
+    {
       "source": "story/hn_48109962",
       "target": "episode/2026-05-13",
       "kind": "aired_in"
@@ -27176,6 +27537,91 @@
     {
       "source": "story/hn_48109962",
       "target": "person/tyler",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "episode/2026-05-14",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "concept/postgres-sandboxes",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "concept/copy-on-write",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "concept/logical-replication",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "concept/ddl-triggers",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "concept/kafka",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "concept/neon",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "concept/byoc",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "concept/pii-redaction",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "concept/split-plane-architecture",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "concept/database-branching",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "concept/ai-coding-agents",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "company/ardent",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "company/neon",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "company/y-combinator",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "person/vikram",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48124436",
+      "target": "person/evan",
       "kind": "mentions"
     },
     {
@@ -27286,6 +27732,41 @@
     {
       "source": "story/community_beaf997b496f",
       "target": "person/evan-pandya",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_9209ab229d3a",
+      "target": "episode/2026-05-14",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_9209ab229d3a",
+      "target": "concept/databricks-detective-series",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_9209ab229d3a",
+      "target": "concept/genie",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_9209ab229d3a",
+      "target": "concept/databricks-free-edition",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_9209ab229d3a",
+      "target": "concept/data-ai-summit-2026",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_9209ab229d3a",
+      "target": "concept/lakeview-dashboards",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_9209ab229d3a",
+      "target": "company/databricks",
       "kind": "mentions"
     },
     {
@@ -27509,6 +27990,81 @@
       "kind": "mentions"
     },
     {
+      "source": "story/community_8c0892d83dd1",
+      "target": "episode/2026-05-14",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_8c0892d83dd1",
+      "target": "concept/community-fellows-program",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_8c0892d83dd1",
+      "target": "concept/fellows-hub",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_8c0892d83dd1",
+      "target": "concept/bug-bash",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_8c0892d83dd1",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b632db648571",
+      "target": "episode/2026-05-14",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_b632db648571",
+      "target": "concept/qwen-3",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b632db648571",
+      "target": "concept/phi-4",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b632db648571",
+      "target": "concept/on-device-llm",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b632db648571",
+      "target": "concept/power-bi",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b632db648571",
+      "target": "concept/qlik-cloud",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b632db648571",
+      "target": "concept/ai-assisted-bi",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b632db648571",
+      "target": "company/microsoft",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b632db648571",
+      "target": "company/qlik",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b632db648571",
+      "target": "company/alibaba",
+      "kind": "mentions"
+    },
+    {
       "source": "story/github_release_databricks_databricks-sdk-java_321748990",
       "target": "episode/2026-05-13",
       "kind": "aired_in"
@@ -27536,6 +28092,136 @@
     {
       "source": "story/github_release_databricks_databricks-sdk-java_321748990",
       "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "episode/2026-05-14",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "concept/unity-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "concept/delta-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "concept/lakeflow",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "concept/lakebase",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "concept/serverless-sql-warehouses",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "concept/lakeflow-connect",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "concept/lakeflow-declarative-pipeline",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "concept/databricks-genie",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "concept/pgvector",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "concept/rag",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "concept/lakehouse-sync",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "concept/databricks-apps",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "concept/spark-connect",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "concept/agent-bricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "concept/mcp",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_bfe543167d55",
+      "target": "company/elliptic",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_148739e37d06",
+      "target": "episode/2026-05-14",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_148739e37d06",
+      "target": "concept/medallion-architecture",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_148739e37d06",
+      "target": "concept/delta-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_148739e37d06",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_148739e37d06",
+      "target": "concept/databricks-pipelines",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_148739e37d06",
+      "target": "concept/pipeline-monitoring",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_148739e37d06",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_148739e37d06",
+      "target": "company/medium",
       "kind": "mentions"
     },
     {

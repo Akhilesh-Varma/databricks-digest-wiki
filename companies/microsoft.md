@@ -3,17 +3,19 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-05-13
-mention_count: 26
+last_seen: 2026-05-14
+mention_count: 27
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 26 stories._
+_Company mentioned across 27 stories._
 
 ## Appears in
+- [[episodes/2026-05-14|2026-05-14]]
+    - [[sources/2026-05-14/07_zero-latency-bi-embedding-qwen-3-and-phi-4-on-device-llms-in|Zero-Latency BI Embedding Qwen-3 and Phi-4 On-Device LLMs into Power BI and Qlik Cloud]]
 - [[episodes/2026-05-13|2026-05-13]]
     - [[sources/2026-05-13/08_senior-sql-advanced-joins-window-analytics-plans-indexing-pr|Senior SQL Advanced Joins, Window Analytics, Plans, Indexing Production Mindset]]
     - [[sources/2026-05-13/04_databricks-lakebase-autoscaling-cost-model-decoded-what-you|Databricks Lakebase Autoscaling Cost Model Decoded What You Actually Pay and When It s Worth It]]

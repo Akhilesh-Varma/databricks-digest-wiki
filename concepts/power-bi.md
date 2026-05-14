@@ -3,17 +3,19 @@ type: concept
 name: Power BI
 slug: power-bi
 first_seen: 2026-04-18
-last_seen: 2026-04-29
-mention_count: 3
-avg_confidence: 0.4
+last_seen: 2026-05-14
+mention_count: 4
+avg_confidence: 0.525
 tags: [concept]
 ---
 
 # Power BI
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-14|2026-05-14]]
+    - [[sources/2026-05-14/07_zero-latency-bi-embedding-qwen-3-and-phi-4-on-device-llms-in|Zero-Latency BI Embedding Qwen-3 and Phi-4 On-Device LLMs into Power BI and Qlik Cloud]]
 - [[episodes/2026-04-29|2026-04-29]]
     - [[sources/2026-04-29/04_datahacks-2026-university-alliance-in-action-at-ucsd|DataHacks 2026 University Alliance in Action at UCSD]]
     - [[sources/2026-04-29/03_community-pulse-your-weekly-roundup-april-20-26-2026|Community Pulse Your Weekly Roundup! April 20 26, 2026]]

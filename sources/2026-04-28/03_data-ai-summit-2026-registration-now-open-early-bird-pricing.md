@@ -32,4 +32,4 @@ Registration for the Data AI Summit 2026, the world's largest conference for dat
 - **URL:** <https://community.databricks.com/t5/announcements/data-ai-summit-2026-registration-now-open-early-bird-pricing/td-p/148835>
 
 ## Related
-[[concepts/data-ai-summit|data-ai-summit]] · [[concepts/data-engineering|data-engineering]] · [[concepts/analytics|analytics]] · [[concepts/ai|ai]] · [[concepts/databricks|databricks]] · [[companies/databricks|Databricks]] · [[people/ali-ghodsi|Ali Ghodsi]] · [[people/matei-zaharia|Matei Zaharia]] · [[people/reynold-xin|Reynold Xin]] · [[people/wiliam-rosa|Wiliam Rosa]] · [[episodes/2026-04-28|2026-04-28]]
+[[concepts/data-ai-summit|data-ai-summit]] · [[concepts/data-engineering|data-engineering]] · [[concepts/analytics|analytics]] · [[concepts/ai|ai]] · [[concepts/data-ai-summit-2026|data-ai-summit-2026]] · [[concepts/databricks|databricks]] · [[companies/databricks|Databricks]] · [[people/ali-ghodsi|Ali Ghodsi]] · [[people/matei-zaharia|Matei Zaharia]] · [[people/reynold-xin|Reynold Xin]] · [[people/wiliam-rosa|Wiliam Rosa]] · [[episodes/2026-04-28|2026-04-28]]

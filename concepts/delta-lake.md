@@ -3,17 +3,20 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-13
-mention_count: 38
-avg_confidence: 0.724
+last_seen: 2026-05-14
+mention_count: 40
+avg_confidence: 0.722
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 38 stories._
+_Concept mentioned across 40 stories._
 
 ## Appears in
+- [[episodes/2026-05-14|2026-05-14]]
+    - [[sources/2026-05-14/02_community-pulse-your-weekly-roundup-may-04-10-2026|Community Pulse Your Weekly Roundup! May 04 10, 2026]]
+    - [[sources/2026-05-14/06_monitoring-databricks-pipelines-from-blind-spots-to-full-vis|Monitoring Databricks Pipelines From Blind Spots to Full Visibility]]
 - [[episodes/2026-05-13|2026-05-13]]
     - [[sources/2026-05-13/05_multimodal-rag-needs-real-pixels-so-i-wired-a-webcam-straigh|Multimodal RAG Needs Real Pixels So I Wired a Webcam Straight Into Delta with Clone-Xs]]
 - [[episodes/2026-05-12|2026-05-12]]

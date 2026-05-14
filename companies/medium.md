@@ -3,17 +3,19 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-13
-mention_count: 23
+last_seen: 2026-05-14
+mention_count: 24
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 23 stories._
+_Company mentioned across 24 stories._
 
 ## Appears in
+- [[episodes/2026-05-14|2026-05-14]]
+    - [[sources/2026-05-14/06_monitoring-databricks-pipelines-from-blind-spots-to-full-vis|Monitoring Databricks Pipelines From Blind Spots to Full Visibility]]
 - [[episodes/2026-05-13|2026-05-13]]
     - [[sources/2026-05-13/05_multimodal-rag-needs-real-pixels-so-i-wired-a-webcam-straigh|Multimodal RAG Needs Real Pixels So I Wired a Webcam Straight Into Delta with Clone-Xs]]
 - [[episodes/2026-05-12|2026-05-12]]

@@ -3,17 +3,19 @@ type: concept
 name: Large Language Models (LLMs)
 slug: large-language-models-llms
 first_seen: 2026-04-06
-last_seen: 2026-04-09
-mention_count: 6
-avg_confidence: 0.733
+last_seen: 2026-05-14
+mention_count: 7
+avg_confidence: 0.743
 tags: [concept]
 ---
 
 # Large Language Models (LLMs)
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-14|2026-05-14]]
+    - [[sources/2026-05-14/09_oxyecombench-benchmarking-multimodal-foundation-models-acros|OxyEcomBench Benchmarking Multimodal Foundation Models across E-Commerce Ecosystems]]
 - [[episodes/2026-04-09|2026-04-09]]
     - [[sources/2026-04-09/04_beyond-end-to-end-dynamic-chain-optimization-for-private-llm|Beyond End-to-End Dynamic Chain Optimization for Private LLM Adaptation on the Edge]]
 - [[episodes/2026-04-08|2026-04-08]]
