@@ -3,17 +3,19 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-05-14
-mention_count: 11
+last_seen: 2026-05-15
+mention_count: 12
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 11 stories._
+_Company mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-05-15|2026-05-15]]
+    - [[sources/2026-05-15/04_show-hn-glycemicgpt-open-source-ai-powered-diabetes-manageme|Show HN GlycemicGPT Open-source AI-powered diabetes management]]
 - [[episodes/2026-05-14|2026-05-14]]
     - [[sources/2026-05-14/08_show-hn-headless-cloud-security-headless-saas-has-come-to-se|Show HN Headless Cloud Security Headless SaaS has come to security]]
 - [[episodes/2026-05-13|2026-05-13]]

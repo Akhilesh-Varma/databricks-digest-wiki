@@ -3,17 +3,19 @@ type: company
 name: Microsoft Azure
 slug: microsoft-azure
 first_seen: 2026-04-08
-last_seen: 2026-05-12
-mention_count: 13
+last_seen: 2026-05-15
+mention_count: 14
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft Azure
 
-_Company mentioned across 13 stories._
+_Company mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-05-15|2026-05-15]]
+    - [[sources/2026-05-15/06_azure-databricks-under-the-hood-how-compute-storage-and-orch|Azure Databricks Under the Hood How Compute, Storage, and Orchestration Work Together]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/07_building-scalable-data-pipelines-with-azure-data-factory-dat|Building Scalable Data Pipelines with Azure Data Factory, Databricks Azure DevOps]]
 - [[episodes/2026-05-11|2026-05-11]]

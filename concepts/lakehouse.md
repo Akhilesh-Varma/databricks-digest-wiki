@@ -3,17 +3,19 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-05
-last_seen: 2026-05-11
-mention_count: 29
-avg_confidence: 0.624
+last_seen: 2026-05-15
+mention_count: 30
+avg_confidence: 0.627
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 29 stories._
+_Concept mentioned across 30 stories._
 
 ## Appears in
+- [[episodes/2026-05-15|2026-05-15]]
+    - [[sources/2026-05-15/03_databricks-vs-bigquery-through-a-workload-lens|Databricks vs. BigQuery Through a Workload Lens]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/08_building-your-first-data-warehouse-in-databricks-end-to-end|Building Your First Data Warehouse in Databricks End to End]]
 - [[episodes/2026-05-09|2026-05-09]]
@@ -55,7 +57,7 @@ _Concept mentioned across 29 stories._
     - [[sources/2026-04-15/03_learning-series-advanced-techniques-with-spark-declarative-p|Learning Series Advanced Techniques with Spark Declarative Pipelines]]
 - [[episodes/2026-04-14|2026-04-14]]
     - [[sources/2026-04-14/08_what-is-apache-polaris-unifying-the-iceberg-ecosystem|What is Apache Polaris? Unifying the Iceberg Ecosystem]]
-    - [[sources/2026-04-14/03_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
+    - [[sources/2026-04-14/02_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
 - [[episodes/2026-04-13|2026-04-13]]
     - [[sources/2026-04-13/06_state-of-data-engineering-2026-why-data-teams-spend-60-of-th|State of Data Engineering 2026 Why Data Teams Spend 60 of Their Time Firefighting]]
     - [[sources/2026-04-13/02_from-19-hours-to-80-milliseconds-a-geospatial-cheesecake|From 19 Hours to 80 Milliseconds A Geospatial Cheesecake]]

@@ -3,17 +3,19 @@ type: concept
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-04-30
-mention_count: 11
-avg_confidence: 0.773
+last_seen: 2026-05-15
+mention_count: 12
+avg_confidence: 0.767
 tags: [concept]
 ---
 
 # Databricks
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-05-15|2026-05-15]]
+    - [[sources/2026-05-15/05_sda-01-why-build-a-synthetic-data-agent-on-databricks|SDA 01 Why Build a Synthetic Data Agent on Databricks?]]
 - [[episodes/2026-04-30|2026-04-30]]
     - [[sources/2026-04-30/05_configuring-databricks-with-terraform-clusters-unity-catalog|Configuring Databricks with Terraform Clusters, Unity Catalog Permissions]]
 - [[episodes/2026-04-26|2026-04-26]]

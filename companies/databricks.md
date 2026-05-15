@@ -3,17 +3,21 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-14
-mention_count: 184
+last_seen: 2026-05-15
+mention_count: 187
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 184 stories._
+_Company mentioned across 187 stories._
 
 ## Appears in
+- [[episodes/2026-05-15|2026-05-15]]
+    - [[sources/2026-05-15/03_databricks-vs-bigquery-through-a-workload-lens|Databricks vs. BigQuery Through a Workload Lens]]
+    - [[sources/2026-05-15/06_azure-databricks-under-the-hood-how-compute-storage-and-orch|Azure Databricks Under the Hood How Compute, Storage, and Orchestration Work Together]]
+    - [[sources/2026-05-15/05_sda-01-why-build-a-synthetic-data-agent-on-databricks|SDA 01 Why Build a Synthetic Data Agent on Databricks?]]
 - [[episodes/2026-05-14|2026-05-14]]
     - [[sources/2026-05-14/04_data-detective-series-ready-to-crack-a-case-with-data|Data Detective Series Ready to crack a case with data?]]
     - [[sources/2026-05-14/03_databricks-community-fellows-april-2026-shout-outs|Databricks Community Fellows April 2026 Shout Outs!]]
@@ -205,7 +209,7 @@ _Company mentioned across 184 stories._
 - [[episodes/2026-04-14|2026-04-14]]
     - [[sources/2026-04-14/06_lovable-databricks-build-data-driven-apps-at-the-speed-of-th|Lovable Databricks Build Data-Driven Apps at the Speed of Thought]]
     - [[sources/2026-04-14/05_cross-region-data-magic-unity-catalog-delta-sharing-in-datab|Cross-Region Data Magic Unity Catalog Delta Sharing in Databricks]]
-    - [[sources/2026-04-14/03_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
+    - [[sources/2026-04-14/02_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
     - [[sources/2026-04-14/02_sdp-how-to-series-part-2-how-to-master-streaming-tables-and|SDP How-To Series. Part 2 How to Master Streaming Tables and Materialized Views]]
     - [[sources/2026-04-14/01_the-where-problem-real-time-spatial-engineering-with-lakeflo|The Where Problem Real-Time Spatial Engineering with Lakeflow SDP]]
 - [[episodes/2026-04-13|2026-04-13]]

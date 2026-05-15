@@ -3,17 +3,19 @@ type: concept
 name: PostgreSQL
 slug: postgresql
 first_seen: 2026-04-09
-last_seen: 2026-05-13
-mention_count: 17
-avg_confidence: 0.665
+last_seen: 2026-05-15
+mention_count: 18
+avg_confidence: 0.65
 tags: [concept]
 ---
 
 # PostgreSQL
 
-_Concept mentioned across 17 stories._
+_Concept mentioned across 18 stories._
 
 ## Appears in
+- [[episodes/2026-05-15|2026-05-15]]
+    - [[sources/2026-05-15/07_python-and-how-python-is-used-in-the-data-analytics-space-a|Python and How Python Is Used In The Data Analytics Space. A Beginner's Guide.]]
 - [[episodes/2026-05-13|2026-05-13]]
     - [[sources/2026-05-13/08_senior-sql-advanced-joins-window-analytics-plans-indexing-pr|Senior SQL Advanced Joins, Window Analytics, Plans, Indexing Production Mindset]]
     - [[sources/2026-05-13/09_duckdb-postgres-and-parquet-when-one-sql-query-becomes-a-wor|DuckDB, Postgres, and Parquet when one SQL query becomes a workflow]]

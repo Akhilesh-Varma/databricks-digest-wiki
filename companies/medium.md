@@ -3,17 +3,19 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-14
-mention_count: 24
+last_seen: 2026-05-15
+mention_count: 25
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 24 stories._
+_Company mentioned across 25 stories._
 
 ## Appears in
+- [[episodes/2026-05-15|2026-05-15]]
+    - [[sources/2026-05-15/06_azure-databricks-under-the-hood-how-compute-storage-and-orch|Azure Databricks Under the Hood How Compute, Storage, and Orchestration Work Together]]
 - [[episodes/2026-05-14|2026-05-14]]
     - [[sources/2026-05-14/06_monitoring-databricks-pipelines-from-blind-spots-to-full-vis|Monitoring Databricks Pipelines From Blind Spots to Full Visibility]]
 - [[episodes/2026-05-13|2026-05-13]]

@@ -3,17 +3,19 @@ type: concept
 name: dbt
 slug: dbt
 first_seen: 2026-04-05
-last_seen: 2026-05-12
-mention_count: 8
-avg_confidence: 0.775
+last_seen: 2026-05-15
+mention_count: 9
+avg_confidence: 0.767
 tags: [concept]
 ---
 
 # dbt
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-15|2026-05-15]]
+    - [[sources/2026-05-15/08_etl-vs-elt-which-approach-should-you-use-and-why|ETL vs. ELT Which Approach Should You Use and Why?]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/08_etl-pipeline-for-data-engineering-a-beginner-s-guide-to-extr|ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load]]
 - [[episodes/2026-05-09|2026-05-09]]

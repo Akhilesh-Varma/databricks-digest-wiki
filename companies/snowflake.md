@@ -3,17 +3,19 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-08
-last_seen: 2026-05-13
-mention_count: 16
+last_seen: 2026-05-15
+mention_count: 17
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 16 stories._
+_Company mentioned across 17 stories._
 
 ## Appears in
+- [[episodes/2026-05-15|2026-05-15]]
+    - [[sources/2026-05-15/08_etl-vs-elt-which-approach-should-you-use-and-why|ETL vs. ELT Which Approach Should You Use and Why?]]
 - [[episodes/2026-05-13|2026-05-13]]
     - [[sources/2026-05-13/08_senior-sql-advanced-joins-window-analytics-plans-indexing-pr|Senior SQL Advanced Joins, Window Analytics, Plans, Indexing Production Mindset]]
 - [[episodes/2026-05-12|2026-05-12]]

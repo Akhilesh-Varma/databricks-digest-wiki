@@ -3,17 +3,19 @@ type: concept
 name: Vector Search
 slug: vector-search
 first_seen: 2026-04-22
-last_seen: 2026-05-07
-mention_count: 3
-avg_confidence: 0.733
+last_seen: 2026-05-15
+mention_count: 4
+avg_confidence: 0.65
 tags: [concept]
 ---
 
 # Vector Search
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-15|2026-05-15]]
+    - [[sources/2026-05-15/03_databricks-vs-bigquery-through-a-workload-lens|Databricks vs. BigQuery Through a Workload Lens]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
 - [[episodes/2026-05-01|2026-05-01]]

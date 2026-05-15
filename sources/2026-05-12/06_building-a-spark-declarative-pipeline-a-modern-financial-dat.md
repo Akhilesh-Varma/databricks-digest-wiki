@@ -30,4 +30,4 @@ The article discusses Spark Declarative Pipelines (SDP), a configuration-driven 
 - **URL:** <https://blog.devgenius.io/building-a-spark-declarative-pipeline-a-modern-financial-data-lakehouse-with-sdp-apache-iceberg-36ae6c6523ae?source=rss------databricks-5>
 
 ## Related
-[[concepts/spark-declarative-pipelines|spark-declarative-pipelines]] · [[concepts/apache-iceberg|apache-iceberg]] · [[concepts/data-lakehouse|data-lakehouse]] · [[concepts/apache-spark|apache-spark]] · [[concepts/declarative-pipelines|declarative-pipelines]] · [[concepts/databricks|databricks]] · [[concepts/spark|spark]] · [[companies/databricks|Databricks]] · [[episodes/2026-05-12|2026-05-12]]
+[[concepts/spark-declarative-pipelines|spark-declarative-pipelines]] · [[concepts/apache-iceberg|apache-iceberg]] · [[concepts/data-lakehouse|data-lakehouse]] · [[concepts/apache-spark|apache-spark]] · [[concepts/declarative-pipelines|declarative-pipelines]] · [[concepts/orchestration|orchestration]] · [[concepts/databricks|databricks]] · [[concepts/spark|spark]] · [[companies/databricks|Databricks]] · [[episodes/2026-05-12|2026-05-12]]

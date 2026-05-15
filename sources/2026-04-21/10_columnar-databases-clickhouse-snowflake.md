@@ -31,4 +31,4 @@ Columnar databases like ClickHouse and Snowflake are changing the data landscape
 - **URL:** <https://dev.to/godofgeeks/columnar-databases-clickhousesnowflake-42kd>
 
 ## Related
-[[concepts/columnar-databases|columnar-databases]] · [[concepts/clickhouse|clickhouse]] · [[concepts/snowflake|snowflake]] · [[concepts/analytics|analytics]] · [[companies/clickhouse|ClickHouse]] · [[companies/snowflake|Snowflake]] · [[episodes/2026-04-21|2026-04-21]]
+[[concepts/columnar-databases|columnar-databases]] · [[concepts/clickhouse|clickhouse]] · [[concepts/snowflake|snowflake]] · [[concepts/data-analytics|data-analytics]] · [[concepts/analytics|analytics]] · [[companies/clickhouse|ClickHouse]] · [[companies/snowflake|Snowflake]] · [[episodes/2026-04-21|2026-04-21]]

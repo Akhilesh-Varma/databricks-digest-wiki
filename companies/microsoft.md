@@ -3,17 +3,20 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-05-14
-mention_count: 27
+last_seen: 2026-05-15
+mention_count: 29
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 27 stories._
+_Company mentioned across 29 stories._
 
 ## Appears in
+- [[episodes/2026-05-15|2026-05-15]]
+    - [[sources/2026-05-15/08_etl-vs-elt-which-approach-should-you-use-and-why|ETL vs. ELT Which Approach Should You Use and Why?]]
+    - [[sources/2026-05-15/07_python-and-how-python-is-used-in-the-data-analytics-space-a|Python and How Python Is Used In The Data Analytics Space. A Beginner's Guide.]]
 - [[episodes/2026-05-14|2026-05-14]]
     - [[sources/2026-05-14/07_zero-latency-bi-embedding-qwen-3-and-phi-4-on-device-llms-in|Zero-Latency BI Embedding Qwen-3 and Phi-4 On-Device LLMs into Power BI and Qlik Cloud]]
 - [[episodes/2026-05-13|2026-05-13]]

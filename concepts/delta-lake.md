@@ -70,7 +70,7 @@ _Concept mentioned across 40 stories._
 - [[episodes/2026-04-15|2026-04-15]]
     - [[sources/2026-04-15/03_learning-series-advanced-techniques-with-spark-declarative-p|Learning Series Advanced Techniques with Spark Declarative Pipelines]]
 - [[episodes/2026-04-14|2026-04-14]]
-    - [[sources/2026-04-14/03_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
+    - [[sources/2026-04-14/02_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
 - [[episodes/2026-04-13|2026-04-13]]
     - [[sources/2026-04-13/04_upcoming-behavioral-change-void-columns-included-in-delta-ta|Upcoming behavioral change VOID columns included in Delta table reads]]
     - [[sources/2026-04-13/02_from-19-hours-to-80-milliseconds-a-geospatial-cheesecake|From 19 Hours to 80 Milliseconds A Geospatial Cheesecake]]

@@ -3,17 +3,19 @@ type: concept
 name: Python
 slug: python
 first_seen: 2026-04-04
-last_seen: 2026-04-30
-mention_count: 4
-avg_confidence: 0.475
+last_seen: 2026-05-15
+mention_count: 5
+avg_confidence: 0.58
 tags: [concept]
 ---
 
 # Python
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-15|2026-05-15]]
+    - [[sources/2026-05-15/07_python-and-how-python-is-used-in-the-data-analytics-space-a|Python and How Python Is Used In The Data Analytics Space. A Beginner's Guide.]]
 - [[episodes/2026-04-30|2026-04-30]]
     - [[sources/2026-04-30/08_building-a-psx-data-pipeline-how-i-get-introduced-to-dbt|Building a PSX Data Pipeline How I get introduced to dbt]]
 - [[episodes/2026-04-25|2026-04-25]]

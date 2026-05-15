@@ -3,17 +3,19 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-14
-mention_count: 63
-avg_confidence: 0.741
+last_seen: 2026-05-15
+mention_count: 64
+avg_confidence: 0.744
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 63 stories._
+_Concept mentioned across 64 stories._
 
 ## Appears in
+- [[episodes/2026-05-15|2026-05-15]]
+    - [[sources/2026-05-15/03_databricks-vs-bigquery-through-a-workload-lens|Databricks vs. BigQuery Through a Workload Lens]]
 - [[episodes/2026-05-14|2026-05-14]]
     - [[sources/2026-05-14/02_community-pulse-your-weekly-roundup-may-04-10-2026|Community Pulse Your Weekly Roundup! May 04 10, 2026]]
 - [[episodes/2026-05-13|2026-05-13]]

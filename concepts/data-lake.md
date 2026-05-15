@@ -3,17 +3,19 @@ type: concept
 name: Data Lake
 slug: data-lake
 first_seen: 2026-04-17
-last_seen: 2026-05-12
-mention_count: 5
-avg_confidence: 0.64
+last_seen: 2026-05-15
+mention_count: 6
+avg_confidence: 0.65
 tags: [concept]
 ---
 
 # Data Lake
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-15|2026-05-15]]
+    - [[sources/2026-05-15/08_etl-vs-elt-which-approach-should-you-use-and-why|ETL vs. ELT Which Approach Should You Use and Why?]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/08_etl-pipeline-for-data-engineering-a-beginner-s-guide-to-extr|ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load]]
 - [[episodes/2026-04-27|2026-04-27]]

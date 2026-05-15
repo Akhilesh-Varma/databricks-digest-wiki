@@ -3,16 +3,18 @@ type: concept
 name: Retrieval-Augmented Generation (RAG)
 slug: retrieval-augmented-generation-rag
 first_seen: 2026-05-08
-last_seen: 2026-05-08
-mention_count: 1
-avg_confidence: 1.0
+last_seen: 2026-05-15
+mention_count: 2
+avg_confidence: 0.85
 tags: [concept]
 ---
 
 # Retrieval-Augmented Generation (RAG)
 
-_Concept mentioned across 1 story._
+_Concept mentioned across 2 stories._
 
 ## Appears in
+- [[episodes/2026-05-15|2026-05-15]]
+    - [[sources/2026-05-15/04_show-hn-glycemicgpt-open-source-ai-powered-diabetes-manageme|Show HN GlycemicGPT Open-source AI-powered diabetes management]]
 - [[episodes/2026-05-08|2026-05-08]]
     - [[sources/2026-05-08/07_data-engineer-salaries-are-splitting-in-two-which-side-are-y|Data Engineer Salaries Are Splitting in Two. Which Side Are You On?]]

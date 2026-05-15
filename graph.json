@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-05-14T10:24:41.792254+00:00",
-  "node_count": 1963,
-  "edge_count": 3153,
+  "generated_at": "2026-05-15T10:26:47.129751+00:00",
+  "node_count": 2017,
+  "edge_count": 3251,
   "nodes": [
+    {
+      "id": "episode/2026-05-15",
+      "type": "episode",
+      "label": "Daily Databricks Digest - May 15, 2026",
+      "episode_date": "2026-05-15",
+      "story_count": 9
+    },
     {
       "id": "episode/2026-05-14",
       "type": "episode",
@@ -893,8 +900,8 @@
       "id": "story/community_0fd805d2f795",
       "type": "story",
       "label": "Top 10 query performance tuning tips for Databricks Serverless SQL",
-      "episode_date": "2026-04-14",
-      "rank": 3,
+      "episode_date": "2026-05-15",
+      "rank": 2,
       "quality_score": 0.78
     },
     {
@@ -2162,6 +2169,78 @@
       "quality_score": 0.7163120096569114
     },
     {
+      "id": "story/github_release_mlflow_mlflow_323002932",
+      "type": "story",
+      "label": "MLflow ts v0.2.0 released",
+      "episode_date": "2026-05-15",
+      "rank": 1,
+      "quality_score": 0.5364125715939154
+    },
+    {
+      "id": "story/community_5d31093a8af6",
+      "type": "story",
+      "label": "Databricks vs. BigQuery Through a Workload Lens",
+      "episode_date": "2026-05-15",
+      "rank": 3,
+      "quality_score": 0.6799999999999999
+    },
+    {
+      "id": "story/hn_48144670",
+      "type": "story",
+      "label": "Show HN GlycemicGPT Open-source AI-powered diabetes management",
+      "episode_date": "2026-05-15",
+      "rank": 4,
+      "quality_score": 0.8175921777519523
+    },
+    {
+      "id": "story/rss_79b80bfbe07a",
+      "type": "story",
+      "label": "SDA 01 Why Build a Synthetic Data Agent on Databricks?",
+      "episode_date": "2026-05-15",
+      "rank": 5,
+      "quality_score": 0.6952604553991403
+    },
+    {
+      "id": "story/rss_5828f3f2e6e1",
+      "type": "story",
+      "label": "Azure Databricks Under the Hood How Compute, Storage, and Orchestration Work Together",
+      "episode_date": "2026-05-15",
+      "rank": 6,
+      "quality_score": 0.6920058257337963
+    },
+    {
+      "id": "story/devto_3641954",
+      "type": "story",
+      "label": "Python and How Python Is Used In The Data Analytics Space. A Beginner's Guide.",
+      "episode_date": "2026-05-15",
+      "rank": 7,
+      "quality_score": 0.8551855549209656
+    },
+    {
+      "id": "story/devto_3671758",
+      "type": "story",
+      "label": "ETL vs. ELT Which Approach Should You Use and Why?",
+      "episode_date": "2026-05-15",
+      "rank": 8,
+      "quality_score": 0.831763762931713
+    },
+    {
+      "id": "story/devto_3670369",
+      "type": "story",
+      "label": "Fraud Detection and Recommendation Are the Same Pipeline. Most Teams Build Two.",
+      "episode_date": "2026-05-15",
+      "rank": 9,
+      "quality_score": 0.7757275524998347
+    },
+    {
+      "id": "story/rss_a78eea866fd0",
+      "type": "story",
+      "label": "From Schema to Signal Retrieval-Augmented Modeling for Relational Data Analytics",
+      "episode_date": "2026-05-15",
+      "rank": 10,
+      "quality_score": 0.7563227901493056
+    },
+    {
       "id": "story/github_release_databricks_databricks-sdk-java_321748990",
       "type": "story",
       "label": "Databricks SDK Java v0.108.0 released",
@@ -3281,7 +3360,7 @@
       "id": "concept/bigquery",
       "type": "concept",
       "label": "BigQuery",
-      "mention_count": 7
+      "mention_count": 8
     },
     {
       "id": "concept/redpanda-cloud",
@@ -3347,7 +3426,7 @@
       "id": "company/google",
       "type": "company",
       "label": "Google",
-      "mention_count": 15
+      "mention_count": 17
     },
     {
       "id": "company/redpanda",
@@ -3389,7 +3468,7 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 184
+      "mention_count": 187
     },
     {
       "id": "concept/fulfillment-center-operations",
@@ -3497,7 +3576,7 @@
       "id": "concept/unity-catalog",
       "type": "concept",
       "label": "Unity Catalog",
-      "mention_count": 63
+      "mention_count": 64
     },
     {
       "id": "concept/medallion-architecture",
@@ -3605,7 +3684,7 @@
       "id": "company/microsoft",
       "type": "company",
       "label": "Microsoft",
-      "mention_count": 27
+      "mention_count": 29
     },
     {
       "id": "concept/databricks-terraform-provider",
@@ -3659,7 +3738,7 @@
       "id": "concept/apache-spark",
       "type": "concept",
       "label": "Apache Spark",
-      "mention_count": 35
+      "mention_count": 37
     },
     {
       "id": "concept/apache-flink",
@@ -3863,13 +3942,13 @@
       "id": "concept/lakehouse",
       "type": "concept",
       "label": "Lakehouse",
-      "mention_count": 29
+      "mention_count": 30
     },
     {
       "id": "company/microsoft-azure",
       "type": "company",
       "label": "Microsoft Azure",
-      "mention_count": 13
+      "mention_count": 14
     },
     {
       "id": "company/google-cloud",
@@ -3959,7 +4038,7 @@
       "id": "company/medium",
       "type": "company",
       "label": "Medium",
-      "mention_count": 24
+      "mention_count": 25
     },
     {
       "id": "concept/occupational-safety-and-health-administration-osha",
@@ -4535,13 +4614,13 @@
       "id": "company/snowflake",
       "type": "company",
       "label": "Snowflake",
-      "mention_count": 16
+      "mention_count": 17
     },
     {
       "id": "concept/mlflow",
       "type": "concept",
       "label": "MLflow",
-      "mention_count": 15
+      "mention_count": 16
     },
     {
       "id": "concept/ai-gateway",
@@ -4781,7 +4860,7 @@
       "id": "concept/anomaly-detection",
       "type": "concept",
       "label": "Anomaly Detection",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/technical-debt",
@@ -5177,7 +5256,7 @@
       "id": "concept/postgresql",
       "type": "concept",
       "label": "PostgreSQL",
-      "mention_count": 17
+      "mention_count": 18
     },
     {
       "id": "concept/duckdb",
@@ -5195,13 +5274,13 @@
       "id": "concept/mysql",
       "type": "concept",
       "label": "MySQL",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/retrieval-augmented-generation-rag",
       "type": "concept",
       "label": "Retrieval-Augmented Generation (RAG)",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/vector-databases",
@@ -5225,19 +5304,19 @@
       "id": "concept/dbt",
       "type": "concept",
       "label": "dbt",
-      "mention_count": 8
+      "mention_count": 9
     },
     {
       "id": "concept/snowflake",
       "type": "concept",
       "label": "Snowflake",
-      "mention_count": 10
+      "mention_count": 11
     },
     {
       "id": "concept/fivetran",
       "type": "concept",
       "label": "Fivetran",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/streaming-systems",
@@ -5261,7 +5340,7 @@
       "id": "company/fivetran",
       "type": "company",
       "label": "Fivetran",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/compute-storage-separation",
@@ -5579,7 +5658,7 @@
       "id": "concept/vector-search",
       "type": "concept",
       "label": "Vector Search",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/columnar-database",
@@ -5711,7 +5790,7 @@
       "id": "company/informatica",
       "type": "company",
       "label": "Informatica",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/data-products",
@@ -5777,7 +5856,7 @@
       "id": "concept/feature-store",
       "type": "concept",
       "label": "Feature Store",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/genie-code-agent-mode",
@@ -5957,7 +6036,7 @@
       "id": "concept/databricks",
       "type": "concept",
       "label": "Databricks",
-      "mention_count": 11
+      "mention_count": 12
     },
     {
       "id": "concept/pandas",
@@ -5987,13 +6066,13 @@
       "id": "concept/data-warehouse",
       "type": "concept",
       "label": "Data Warehouse",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/data-lake",
       "type": "concept",
       "label": "Data Lake",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "concept/aws-s3",
@@ -6041,7 +6120,7 @@
       "id": "company/openai",
       "type": "company",
       "label": "OpenAI",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "id": "concept/mongodb",
@@ -6401,7 +6480,7 @@
       "id": "company/airbyte",
       "type": "company",
       "label": "Airbyte",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "company/dagster-labs",
@@ -6635,7 +6714,7 @@
       "id": "concept/representation-learning",
       "type": "concept",
       "label": "Representation Learning",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/lucas-survey",
@@ -7121,7 +7200,7 @@
       "id": "concept/azure-databricks",
       "type": "concept",
       "label": "Azure Databricks",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/azure-expressroute",
@@ -7265,7 +7344,7 @@
       "id": "company/anthropic",
       "type": "company",
       "label": "Anthropic",
-      "mention_count": 11
+      "mention_count": 12
     },
     {
       "id": "concept/declarative-pipeline-framework",
@@ -7409,7 +7488,7 @@
       "id": "concept/docker",
       "type": "concept",
       "label": "Docker",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/kraft",
@@ -7451,7 +7530,7 @@
       "id": "concept/python",
       "type": "concept",
       "label": "Python",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/neon",
@@ -8543,7 +8622,7 @@
       "id": "concept/rag-retrieval-augmented-generation",
       "type": "concept",
       "label": "RAG (Retrieval-Augmented Generation)",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/context-engineering",
@@ -8873,7 +8952,7 @@
       "id": "concept/kubernetes",
       "type": "concept",
       "label": "Kubernetes",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/vocal-bridge",
@@ -8975,7 +9054,7 @@
       "id": "concept/talend",
       "type": "concept",
       "label": "Talend",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/data-modeling",
@@ -8987,7 +9066,7 @@
       "id": "company/talend",
       "type": "company",
       "label": "Talend",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/federated-query-engine",
@@ -9449,7 +9528,7 @@
       "id": "concept/ollama",
       "type": "concept",
       "label": "Ollama",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/qdrant-hnsw",
@@ -11135,7 +11214,7 @@
       "id": "concept/jupyter-notebook",
       "type": "concept",
       "label": "Jupyter Notebook",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/mljar-supervised",
@@ -11813,7 +11892,7 @@
       "id": "concept/fastapi",
       "type": "concept",
       "label": "FastAPI",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/cora",
@@ -11957,7 +12036,7 @@
       "id": "concept/typescript",
       "type": "concept",
       "label": "TypeScript",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/claude-agent",
@@ -12053,6 +12132,84 @@
       "id": "concept/redshift",
       "type": "concept",
       "label": "Redshift",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/glycemicgpt",
+      "type": "concept",
+      "label": "GlycemicGPT",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/nightscout",
+      "type": "concept",
+      "label": "Nightscout",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/continuous-glucose-monitor",
+      "type": "concept",
+      "label": "Continuous Glucose Monitor",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/bluetooth-low-energy-ble",
+      "type": "concept",
+      "label": "Bluetooth Low Energy (BLE)",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/next-js",
+      "type": "concept",
+      "label": "Next.js",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/jetpack-compose",
+      "type": "concept",
+      "label": "Jetpack Compose",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/wear-os",
+      "type": "concept",
+      "label": "Wear OS",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/gpl-3-0",
+      "type": "concept",
+      "label": "GPL-3.0",
+      "mention_count": 1
+    },
+    {
+      "id": "company/dexcom",
+      "type": "company",
+      "label": "Dexcom",
+      "mention_count": 1
+    },
+    {
+      "id": "company/tandem-diabetes-care",
+      "type": "company",
+      "label": "Tandem Diabetes Care",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/mlops",
+      "type": "concept",
+      "label": "MLOps",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/streaming-pipelines",
+      "type": "concept",
+      "label": "Streaming Pipelines",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/cluster-policies",
+      "type": "concept",
+      "label": "Cluster Policies",
       "mention_count": 1
     },
     {
@@ -12206,6 +12363,60 @@
       "mention_count": 1
     },
     {
+      "id": "concept/fraud-detection-pipeline",
+      "type": "concept",
+      "label": "Fraud Detection Pipeline",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/recommendation-engine",
+      "type": "concept",
+      "label": "Recommendation Engine",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/identity-graph",
+      "type": "concept",
+      "label": "Identity Graph",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/identity-resolution",
+      "type": "concept",
+      "label": "Identity Resolution",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/event-pipeline",
+      "type": "concept",
+      "label": "Event Pipeline",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/velocity-signals",
+      "type": "concept",
+      "label": "Velocity Signals",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/session-stitching",
+      "type": "concept",
+      "label": "Session Stitching",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/device-graph",
+      "type": "concept",
+      "label": "Device Graph",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/recency-decay",
+      "type": "concept",
+      "label": "Recency Decay",
+      "mention_count": 1
+    },
+    {
       "id": "concept/postgres-sandboxes",
       "type": "concept",
       "label": "Postgres Sandboxes",
@@ -12266,6 +12477,60 @@
       "mention_count": 1
     },
     {
+      "id": "concept/retrieval-augmented-modeling-ram",
+      "type": "concept",
+      "label": "Retrieval-Augmented Modeling (RAM)",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/relational-database-management-system-rdbms",
+      "type": "concept",
+      "label": "Relational Database Management System (RDBMS)",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/graph-neural-networks",
+      "type": "concept",
+      "label": "Graph Neural Networks",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/contrastive-learning",
+      "type": "concept",
+      "label": "Contrastive Learning",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/random-walks",
+      "type": "concept",
+      "label": "Random Walks",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/information-retrieval",
+      "type": "concept",
+      "label": "Information Retrieval",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/intra-table-retrieval-augmentation-atra",
+      "type": "concept",
+      "label": "Intra-Table Retrieval Augmentation (ATRA)",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/extra-table-retrieval-augmentation-etra",
+      "type": "concept",
+      "label": "Extra-Table Retrieval Augmentation (ETRA)",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/deep-neural-networks",
+      "type": "concept",
+      "label": "Deep Neural Networks",
+      "mention_count": 1
+    },
+    {
       "id": "concept/duckdb-postgresql-extension",
       "type": "concept",
       "label": "DuckDB PostgreSQL Extension",
@@ -12320,6 +12585,42 @@
       "mention_count": 1
     },
     {
+      "id": "concept/etl-extract-transform-load",
+      "type": "concept",
+      "label": "ETL (Extract, Transform, Load)",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/elt-extract-load-transform",
+      "type": "concept",
+      "label": "ELT (Extract, Load, Transform)",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/staging-layer",
+      "type": "concept",
+      "label": "Staging Layer",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/airbyte",
+      "type": "concept",
+      "label": "Airbyte",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/microsoft-ssis",
+      "type": "concept",
+      "label": "Microsoft SSIS",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/informatica",
+      "type": "concept",
+      "label": "Informatica",
+      "mention_count": 1
+    },
+    {
       "id": "concept/aws-data-engineering",
       "type": "concept",
       "label": "AWS Data Engineering",
@@ -12335,6 +12636,30 @@
       "id": "concept/stateless-llm-architecture",
       "type": "concept",
       "label": "Stateless LLM Architecture",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/data-analytics",
+      "type": "concept",
+      "label": "Data Analytics",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/json",
+      "type": "concept",
+      "label": "JSON",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/xml",
+      "type": "concept",
+      "label": "XML",
+      "mention_count": 1
+    },
+    {
+      "id": "person/guido-van-rossum",
+      "type": "person",
+      "label": "Guido Van Rossum",
       "mention_count": 1
     },
     {
@@ -12512,9 +12837,27 @@
       "mention_count": 1
     },
     {
+      "id": "concept/orchestration",
+      "type": "concept",
+      "label": "Orchestration",
+      "mention_count": 1
+    },
+    {
       "id": "company/worlddataiq",
       "type": "company",
       "label": "WorldDataIQ",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/synthetic-data-agent",
+      "type": "concept",
+      "label": "Synthetic Data Agent",
+      "mention_count": 1
+    },
+    {
+      "id": "company/mlflow",
+      "type": "company",
+      "label": "MLflow",
       "mention_count": 1
     }
   ],
@@ -27330,6 +27673,151 @@
       "kind": "mentions"
     },
     {
+      "source": "story/hn_48144670",
+      "target": "episode/2026-05-15",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "concept/glycemicgpt",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "concept/nightscout",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "concept/retrieval-augmented-generation-rag",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "concept/ollama",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "concept/continuous-glucose-monitor",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "concept/bluetooth-low-energy-ble",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "concept/fastapi",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "concept/next-js",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "concept/jetpack-compose",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "concept/wear-os",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "concept/docker",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "concept/kubernetes",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "concept/gpl-3-0",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "company/dexcom",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "company/tandem-diabetes-care",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "company/anthropic",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48144670",
+      "target": "company/openai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_5d31093a8af6",
+      "target": "episode/2026-05-15",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_5d31093a8af6",
+      "target": "concept/unity-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_5d31093a8af6",
+      "target": "concept/lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_5d31093a8af6",
+      "target": "concept/mlops",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_5d31093a8af6",
+      "target": "concept/rag-retrieval-augmented-generation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_5d31093a8af6",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_5d31093a8af6",
+      "target": "concept/vector-search",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_5d31093a8af6",
+      "target": "concept/streaming-pipelines",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_5d31093a8af6",
+      "target": "concept/cluster-policies",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_5d31093a8af6",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_5d31093a8af6",
+      "target": "company/google",
+      "kind": "mentions"
+    },
+    {
       "source": "story/hn_48110593",
       "target": "episode/2026-05-13",
       "kind": "aired_in"
@@ -27540,6 +28028,66 @@
       "kind": "mentions"
     },
     {
+      "source": "story/devto_3670369",
+      "target": "episode/2026-05-15",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3670369",
+      "target": "concept/fraud-detection-pipeline",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3670369",
+      "target": "concept/recommendation-engine",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3670369",
+      "target": "concept/feature-store",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3670369",
+      "target": "concept/identity-graph",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3670369",
+      "target": "concept/identity-resolution",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3670369",
+      "target": "concept/event-pipeline",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3670369",
+      "target": "concept/velocity-signals",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3670369",
+      "target": "concept/session-stitching",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3670369",
+      "target": "concept/device-graph",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3670369",
+      "target": "concept/anomaly-detection",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3670369",
+      "target": "concept/recency-decay",
+      "kind": "mentions"
+    },
+    {
       "source": "story/hn_48124436",
       "target": "episode/2026-05-14",
       "kind": "aired_in"
@@ -27622,6 +28170,61 @@
     {
       "source": "story/hn_48124436",
       "target": "person/evan",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a78eea866fd0",
+      "target": "episode/2026-05-15",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_a78eea866fd0",
+      "target": "concept/retrieval-augmented-modeling-ram",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a78eea866fd0",
+      "target": "concept/relational-database-management-system-rdbms",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a78eea866fd0",
+      "target": "concept/graph-neural-networks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a78eea866fd0",
+      "target": "concept/contrastive-learning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a78eea866fd0",
+      "target": "concept/random-walks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a78eea866fd0",
+      "target": "concept/information-retrieval",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a78eea866fd0",
+      "target": "concept/intra-table-retrieval-augmentation-atra",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a78eea866fd0",
+      "target": "concept/extra-table-retrieval-augmentation-etra",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a78eea866fd0",
+      "target": "concept/deep-neural-networks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_a78eea866fd0",
+      "target": "concept/representation-learning",
       "kind": "mentions"
     },
     {
@@ -27770,6 +28373,111 @@
       "kind": "mentions"
     },
     {
+      "source": "story/devto_3671758",
+      "target": "episode/2026-05-15",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "concept/etl-extract-transform-load",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "concept/elt-extract-load-transform",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "concept/data-warehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "concept/data-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "concept/staging-layer",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "concept/dbt",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "concept/fivetran",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "concept/airbyte",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "concept/bigquery",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "concept/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "concept/microsoft-ssis",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "concept/talend",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "concept/informatica",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "company/microsoft",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "company/talend",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "company/informatica",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "company/fivetran",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "company/airbyte",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "company/google",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3671758",
+      "target": "company/snowflake",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_f706a4afcd82",
       "target": "episode/2026-04-11",
       "kind": "aired_in"
@@ -27862,6 +28570,56 @@
     {
       "source": "story/rss_88e7b918dc29",
       "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3641954",
+      "target": "episode/2026-05-15",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3641954",
+      "target": "concept/python",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3641954",
+      "target": "concept/data-analytics",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3641954",
+      "target": "concept/jupyter-notebook",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3641954",
+      "target": "concept/json",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3641954",
+      "target": "concept/xml",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3641954",
+      "target": "concept/mysql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3641954",
+      "target": "concept/postgresql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3641954",
+      "target": "company/microsoft",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3641954",
+      "target": "person/guido-van-rossum",
       "kind": "mentions"
     },
     {
@@ -28255,6 +29013,41 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_5828f3f2e6e1",
+      "target": "episode/2026-05-15",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_5828f3f2e6e1",
+      "target": "concept/azure-databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_5828f3f2e6e1",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_5828f3f2e6e1",
+      "target": "concept/orchestration",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_5828f3f2e6e1",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_5828f3f2e6e1",
+      "target": "company/microsoft-azure",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_5828f3f2e6e1",
+      "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_4fe10c1c2c55",
       "target": "episode/2026-04-04",
       "kind": "aired_in"
@@ -28282,6 +29075,46 @@
     {
       "source": "story/rss_4fe10c1c2c55",
       "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_79b80bfbe07a",
+      "target": "episode/2026-05-15",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_79b80bfbe07a",
+      "target": "concept/synthetic-data-agent",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_79b80bfbe07a",
+      "target": "concept/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_79b80bfbe07a",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_mlflow_mlflow_323002932",
+      "target": "episode/2026-05-15",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/github_release_mlflow_mlflow_323002932",
+      "target": "concept/mlflow",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_mlflow_mlflow_323002932",
+      "target": "concept/typescript",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_mlflow_mlflow_323002932",
+      "target": "company/mlflow",
       "kind": "mentions"
     }
   ]
