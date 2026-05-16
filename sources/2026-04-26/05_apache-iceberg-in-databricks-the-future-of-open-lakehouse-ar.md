@@ -30,4 +30,4 @@ Databricks' acquisition of Tabular is changing the modern data stack. The compan
 - **URL:** <https://medium.com/@divyanshgoyal8989/apache-iceberg-in-databricks-the-future-of-open-lakehouse-architecture-fb20d503ded3?source=rss------databricks-5>
 
 ## Related
-[[concepts/apache-iceberg|apache-iceberg]] · [[concepts/open-lakehouse-architecture|open-lakehouse-architecture]] · [[concepts/databricks|databricks]] · [[companies/databricks|Databricks]] · [[companies/tabular|Tabular]] · [[episodes/2026-04-26|2026-04-26]]
+[[concepts/apache-iceberg|apache-iceberg]] · [[concepts/open-lakehouse-architecture|open-lakehouse-architecture]] · [[concepts/data-stack|data-stack]] · [[concepts/databricks|databricks]] · [[companies/databricks|Databricks]] · [[companies/tabular|Tabular]] · [[episodes/2026-04-26|2026-04-26]]

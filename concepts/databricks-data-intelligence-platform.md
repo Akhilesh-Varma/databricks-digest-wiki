@@ -3,17 +3,20 @@ type: concept
 name: Databricks Data Intelligence Platform
 slug: databricks-data-intelligence-platform
 first_seen: 2026-04-15
-last_seen: 2026-05-11
-mention_count: 7
-avg_confidence: 0.786
+last_seen: 2026-05-16
+mention_count: 9
+avg_confidence: 0.733
 tags: [concept]
 ---
 
 # Databricks Data Intelligence Platform
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-16|2026-05-16]]
+    - [[sources/2026-05-16/01_processing-unstructured-data-in-volumes-with-unity-catalog-o|Processing Unstructured Data in Volumes with Unity Catalog Open APIs]]
+    - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/01_learning-series-machine-learning-model-development|Learning Series Machine Learning Model Development]]
 - [[episodes/2026-05-04|2026-05-04]]

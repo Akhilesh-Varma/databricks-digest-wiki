@@ -3,17 +3,19 @@ type: company
 name: Amazon Web Services
 slug: amazon-web-services
 first_seen: 2026-04-08
-last_seen: 2026-05-13
-mention_count: 16
+last_seen: 2026-05-16
+mention_count: 17
 avg_confidence: ""
 tags: [company]
 ---
 
 # Amazon Web Services
 
-_Company mentioned across 16 stories._
+_Company mentioned across 17 stories._
 
 ## Appears in
+- [[episodes/2026-05-16|2026-05-16]]
+    - [[sources/2026-05-16/07_building-a-letterboxd-film-review-data-pipeline-from-raw-scr|Building a Letterboxd Film Review data pipeline from raw scrape to first insight]]
 - [[episodes/2026-05-13|2026-05-13]]
     - [[sources/2026-05-13/08_senior-sql-advanced-joins-window-analytics-plans-indexing-pr|Senior SQL Advanced Joins, Window Analytics, Plans, Indexing Production Mindset]]
 - [[episodes/2026-05-12|2026-05-12]]

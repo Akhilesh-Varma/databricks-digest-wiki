@@ -3,17 +3,19 @@ type: concept
 name: Delta Live Tables
 slug: delta-live-tables
 first_seen: 2026-04-25
-last_seen: 2026-05-11
-mention_count: 6
-avg_confidence: 0.8
+last_seen: 2026-05-16
+mention_count: 7
+avg_confidence: 0.786
 tags: [concept]
 ---
 
 # Delta Live Tables
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-16|2026-05-16]]
+    - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/04_delta-live-tables-dlt-is-powerful-these-are-its-real-constra|Delta Live Tables DLT Is Powerful. These Are Its Real Constraints.]]
 - [[episodes/2026-05-04|2026-05-04]]

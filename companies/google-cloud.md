@@ -3,17 +3,19 @@ type: company
 name: Google Cloud
 slug: google-cloud
 first_seen: 2026-04-14
-last_seen: 2026-05-11
-mention_count: 4
+last_seen: 2026-05-16
+mention_count: 5
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google Cloud
 
-_Company mentioned across 4 stories._
+_Company mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-16|2026-05-16]]
+    - [[sources/2026-05-16/07_building-a-letterboxd-film-review-data-pipeline-from-raw-scr|Building a Letterboxd Film Review data pipeline from raw scrape to first insight]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/07_data-lake-architecture-for-data-engineering-interviews|Data Lake Architecture for Data Engineering Interviews]]
 - [[episodes/2026-04-27|2026-04-27]]

@@ -3,17 +3,19 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-05-15
-mention_count: 37
-avg_confidence: 0.705
+last_seen: 2026-05-16
+mention_count: 38
+avg_confidence: 0.697
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 37 stories._
+_Concept mentioned across 38 stories._
 
 ## Appears in
+- [[episodes/2026-05-16|2026-05-16]]
+    - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/03_databricks-vs-bigquery-through-a-workload-lens|Databricks vs. BigQuery Through a Workload Lens]]
     - [[sources/2026-05-15/06_azure-databricks-under-the-hood-how-compute-storage-and-orch|Azure Databricks Under the Hood How Compute, Storage, and Orchestration Work Together]]

@@ -3,16 +3,18 @@ type: concept
 name: Model Serving
 slug: model-serving
 first_seen: 2026-05-05
-last_seen: 2026-05-05
-mention_count: 1
-avg_confidence: 0.4
+last_seen: 2026-05-16
+mention_count: 2
+avg_confidence: 0.55
 tags: [concept]
 ---
 
 # Model Serving
 
-_Concept mentioned across 1 story._
+_Concept mentioned across 2 stories._
 
 ## Appears in
+- [[episodes/2026-05-16|2026-05-16]]
+    - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
 - [[episodes/2026-05-05|2026-05-05]]
     - [[sources/2026-05-05/05_customer-story-elliptic-protect-crypto-assets-with-governed|CUSTOMER STORY Elliptic Protect crypto assets with governed AI]]

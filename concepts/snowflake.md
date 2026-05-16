@@ -3,17 +3,19 @@ type: concept
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-11
-last_seen: 2026-05-15
-mention_count: 11
-avg_confidence: 0.627
+last_seen: 2026-05-16
+mention_count: 12
+avg_confidence: 0.608
 tags: [concept]
 ---
 
 # Snowflake
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-05-16|2026-05-16]]
+    - [[sources/2026-05-16/07_building-a-letterboxd-film-review-data-pipeline-from-raw-scr|Building a Letterboxd Film Review data pipeline from raw scrape to first insight]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/08_etl-vs-elt-which-approach-should-you-use-and-why|ETL vs. ELT Which Approach Should You Use and Why?]]
 - [[episodes/2026-05-13|2026-05-13]]

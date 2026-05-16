@@ -3,17 +3,20 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-15
-mention_count: 64
-avg_confidence: 0.744
+last_seen: 2026-05-16
+mention_count: 66
+avg_confidence: 0.742
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 64 stories._
+_Concept mentioned across 66 stories._
 
 ## Appears in
+- [[episodes/2026-05-16|2026-05-16]]
+    - [[sources/2026-05-16/01_processing-unstructured-data-in-volumes-with-unity-catalog-o|Processing Unstructured Data in Volumes with Unity Catalog Open APIs]]
+    - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/03_databricks-vs-bigquery-through-a-workload-lens|Databricks vs. BigQuery Through a Workload Lens]]
 - [[episodes/2026-05-14|2026-05-14]]

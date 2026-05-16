@@ -3,17 +3,19 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-15
-mention_count: 25
+last_seen: 2026-05-16
+mention_count: 26
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 25 stories._
+_Company mentioned across 26 stories._
 
 ## Appears in
+- [[episodes/2026-05-16|2026-05-16]]
+    - [[sources/2026-05-16/04_snowflake-and-databricks-swallow-niche-saas-tools-forcing-da|Snowflake and Databricks Swallow Niche SaaS Tools Forcing Data Stack Overhaul]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/06_azure-databricks-under-the-hood-how-compute-storage-and-orch|Azure Databricks Under the Hood How Compute, Storage, and Orchestration Work Together]]
 - [[episodes/2026-05-14|2026-05-14]]

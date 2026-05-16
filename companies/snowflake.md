@@ -3,17 +3,20 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-08
-last_seen: 2026-05-15
-mention_count: 17
+last_seen: 2026-05-16
+mention_count: 19
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 17 stories._
+_Company mentioned across 19 stories._
 
 ## Appears in
+- [[episodes/2026-05-16|2026-05-16]]
+    - [[sources/2026-05-16/07_building-a-letterboxd-film-review-data-pipeline-from-raw-scr|Building a Letterboxd Film Review data pipeline from raw scrape to first insight]]
+    - [[sources/2026-05-16/04_snowflake-and-databricks-swallow-niche-saas-tools-forcing-da|Snowflake and Databricks Swallow Niche SaaS Tools Forcing Data Stack Overhaul]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/08_etl-vs-elt-which-approach-should-you-use-and-why|ETL vs. ELT Which Approach Should You Use and Why?]]
 - [[episodes/2026-05-13|2026-05-13]]

@@ -3,17 +3,19 @@ type: concept
 name: ETL
 slug: etl
 first_seen: 2026-04-05
-last_seen: 2026-05-13
-mention_count: 10
-avg_confidence: 0.66
+last_seen: 2026-05-16
+mention_count: 11
+avg_confidence: 0.664
 tags: [concept]
 ---
 
 # ETL
 
-_Concept mentioned across 10 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-05-16|2026-05-16]]
+    - [[sources/2026-05-16/05_what-happens-if-two-jobs-run-a-delta-merge-on-the-same-parti|What Happens If Two Jobs Run a Delta MERGE on the Same Partition? Concurrency Deep Dive]]
 - [[episodes/2026-05-13|2026-05-13]]
     - [[sources/2026-05-13/09_duckdb-postgres-and-parquet-when-one-sql-query-becomes-a-wor|DuckDB, Postgres, and Parquet when one SQL query becomes a workflow]]
 - [[episodes/2026-05-12|2026-05-12]]

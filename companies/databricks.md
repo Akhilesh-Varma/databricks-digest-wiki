@@ -3,17 +3,22 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-15
-mention_count: 187
+last_seen: 2026-05-16
+mention_count: 191
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 187 stories._
+_Company mentioned across 191 stories._
 
 ## Appears in
+- [[episodes/2026-05-16|2026-05-16]]
+    - [[sources/2026-05-16/01_processing-unstructured-data-in-volumes-with-unity-catalog-o|Processing Unstructured Data in Volumes with Unity Catalog Open APIs]]
+    - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
+    - [[sources/2026-05-16/04_snowflake-and-databricks-swallow-niche-saas-tools-forcing-da|Snowflake and Databricks Swallow Niche SaaS Tools Forcing Data Stack Overhaul]]
+    - [[sources/2026-05-16/05_what-happens-if-two-jobs-run-a-delta-merge-on-the-same-parti|What Happens If Two Jobs Run a Delta MERGE on the Same Partition? Concurrency Deep Dive]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/03_databricks-vs-bigquery-through-a-workload-lens|Databricks vs. BigQuery Through a Workload Lens]]
     - [[sources/2026-05-15/06_azure-databricks-under-the-hood-how-compute-storage-and-orch|Azure Databricks Under the Hood How Compute, Storage, and Orchestration Work Together]]

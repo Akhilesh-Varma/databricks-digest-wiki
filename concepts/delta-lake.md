@@ -3,17 +3,20 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-14
-mention_count: 40
-avg_confidence: 0.722
+last_seen: 2026-05-16
+mention_count: 42
+avg_confidence: 0.721
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 40 stories._
+_Concept mentioned across 42 stories._
 
 ## Appears in
+- [[episodes/2026-05-16|2026-05-16]]
+    - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
+    - [[sources/2026-05-16/05_what-happens-if-two-jobs-run-a-delta-merge-on-the-same-parti|What Happens If Two Jobs Run a Delta MERGE on the Same Partition? Concurrency Deep Dive]]
 - [[episodes/2026-05-14|2026-05-14]]
     - [[sources/2026-05-14/02_community-pulse-your-weekly-roundup-may-04-10-2026|Community Pulse Your Weekly Roundup! May 04 10, 2026]]
     - [[sources/2026-05-14/06_monitoring-databricks-pipelines-from-blind-spots-to-full-vis|Monitoring Databricks Pipelines From Blind Spots to Full Visibility]]

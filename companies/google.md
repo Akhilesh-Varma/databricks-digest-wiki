@@ -3,17 +3,19 @@ type: company
 name: Google
 slug: google
 first_seen: 2026-04-05
-last_seen: 2026-05-15
-mention_count: 17
+last_seen: 2026-05-16
+mention_count: 18
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google
 
-_Company mentioned across 17 stories._
+_Company mentioned across 18 stories._
 
 ## Appears in
+- [[episodes/2026-05-16|2026-05-16]]
+    - [[sources/2026-05-16/06_the-context-layer-why-enterprise-ai-agents-fail-without-it-a|The Context Layer Why Enterprise AI Agents Fail Without It and What It Actually Takes to Fix That]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/03_databricks-vs-bigquery-through-a-workload-lens|Databricks vs. BigQuery Through a Workload Lens]]
     - [[sources/2026-05-15/08_etl-vs-elt-which-approach-should-you-use-and-why|ETL vs. ELT Which Approach Should You Use and Why?]]

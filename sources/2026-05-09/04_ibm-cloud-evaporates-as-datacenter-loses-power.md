@@ -29,4 +29,4 @@ An IBM Cloud datacenter experienced a power outage that caused a significant ser
 - **URL:** <https://www.theregister.com/off-prem/2026/05/07/ibm-cloud-evaporates-as-datacenter-loses-power/5234835>
 
 ## Related
-[[concepts/ibm-cloud|ibm-cloud]] · [[concepts/datacenter-power-outage|datacenter-power-outage]] · [[concepts/llm|llm]] · [[concepts/ai|ai]] · [[companies/ibm|IBM]] · [[companies/akamai|Akamai]] · [[companies/cloudflare|Cloudflare]] · [[companies/druva|Druva]] · [[episodes/2026-05-09|2026-05-09]]
+[[concepts/ibm-cloud|ibm-cloud]] · [[concepts/datacenter-power-outage|datacenter-power-outage]] · [[concepts/ai-agent|ai-agent]] · [[concepts/llm|llm]] · [[concepts/ai|ai]] · [[companies/ibm|IBM]] · [[companies/akamai|Akamai]] · [[companies/cloudflare|Cloudflare]] · [[companies/druva|Druva]] · [[episodes/2026-05-09|2026-05-09]]

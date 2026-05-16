@@ -3,17 +3,19 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-05-15
-mention_count: 12
+last_seen: 2026-05-16
+mention_count: 13
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 12 stories._
+_Company mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-16|2026-05-16]]
+    - [[sources/2026-05-16/06_the-context-layer-why-enterprise-ai-agents-fail-without-it-a|The Context Layer Why Enterprise AI Agents Fail Without It and What It Actually Takes to Fix That]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/04_show-hn-glycemicgpt-open-source-ai-powered-diabetes-manageme|Show HN GlycemicGPT Open-source AI-powered diabetes management]]
 - [[episodes/2026-05-14|2026-05-14]]
