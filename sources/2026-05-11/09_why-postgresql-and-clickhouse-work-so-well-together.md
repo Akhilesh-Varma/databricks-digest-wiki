@@ -32,4 +32,4 @@ The article argues that PostgreSQL and ClickHouse are complementary rather than 
 - **URL:** <https://dev.to/mohhddhassan/why-postgresql-and-clickhouse-work-so-well-together-5128>
 
 ## Related
-[[concepts/postgresql|postgresql]] · [[concepts/clickhouse|clickhouse]] · [[concepts/oltp|oltp]] · [[concepts/olap|olap]] · [[concepts/columnar-storage|columnar-storage]] · [[concepts/vectorized-execution|vectorized-execution]] · [[concepts/acid-guarantees|acid-guarantees]] · [[concepts/analytics|analytics]] · [[concepts/telemetry|telemetry]] · [[episodes/2026-05-11|2026-05-11]]
+[[concepts/postgresql|postgresql]] · [[concepts/clickhouse|clickhouse]] · [[concepts/oltp|oltp]] · [[concepts/olap|olap]] · [[concepts/columnar-storage|columnar-storage]] · [[concepts/vectorized-execution|vectorized-execution]] · [[concepts/acid-guarantees|acid-guarantees]] · [[concepts/real-time-analytics|real-time-analytics]] · [[concepts/analytics|analytics]] · [[concepts/telemetry|telemetry]] · [[episodes/2026-05-11|2026-05-11]]

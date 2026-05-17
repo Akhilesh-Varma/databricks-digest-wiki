@@ -3,17 +3,19 @@ type: company
 name: Google
 slug: google
 first_seen: 2026-04-05
-last_seen: 2026-05-16
-mention_count: 18
+last_seen: 2026-05-17
+mention_count: 19
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google
 
-_Company mentioned across 18 stories._
+_Company mentioned across 19 stories._
 
 ## Appears in
+- [[episodes/2026-05-17|2026-05-17]]
+    - [[sources/2026-05-17/09_cosa-sono-i-modelli-di-apprendimento-automatico-tipi-databri|Cosa sono i modelli di apprendimento automatico? Tipi - Databricks]]
 - [[episodes/2026-05-16|2026-05-16]]
     - [[sources/2026-05-16/06_the-context-layer-why-enterprise-ai-agents-fail-without-it-a|The Context Layer Why Enterprise AI Agents Fail Without It and What It Actually Takes to Fix That]]
 - [[episodes/2026-05-15|2026-05-15]]

@@ -3,17 +3,19 @@ type: concept
 name: Data Warehouse
 slug: data-warehouse
 first_seen: 2026-04-17
-last_seen: 2026-05-15
-mention_count: 4
-avg_confidence: 0.625
+last_seen: 2026-05-17
+mention_count: 5
+avg_confidence: 0.64
 tags: [concept]
 ---
 
 # Data Warehouse
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-17|2026-05-17]]
+    - [[sources/2026-05-17/07_part-4-demystifying-data-jargons-datalake-warehouse-and-delt|Part 4 Demystifying Data Jargons Datalake, Warehouse, and Delta Lake Explained]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/08_etl-vs-elt-which-approach-should-you-use-and-why|ETL vs. ELT Which Approach Should You Use and Why?]]
 - [[episodes/2026-04-27|2026-04-27]]

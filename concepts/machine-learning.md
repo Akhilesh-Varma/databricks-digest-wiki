@@ -3,17 +3,19 @@ type: concept
 name: Machine Learning
 slug: machine-learning
 first_seen: 2026-03-17
-last_seen: 2026-04-28
-mention_count: 4
+last_seen: 2026-05-17
+mention_count: 5
 avg_confidence: 0.4
 tags: [concept]
 ---
 
 # Machine Learning
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-17|2026-05-17]]
+    - [[sources/2026-05-17/03_databricks-learning-festival-instructor-led-apac-emea|Databricks Learning Festival Instructor-Led APAC EMEA]]
 - [[episodes/2026-04-28|2026-04-28]]
     - [[sources/2026-04-28/03_data-ai-summit-2026-registration-now-open-early-bird-pricing|Data AI Summit 2026 Registration Now Open - Early Bird Pricing!]]
 - [[episodes/2026-04-14|2026-04-14]]

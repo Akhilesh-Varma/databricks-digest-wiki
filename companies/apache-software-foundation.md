@@ -3,17 +3,19 @@ type: company
 name: Apache Software Foundation
 slug: apache-software-foundation
 first_seen: 2026-03-17
-last_seen: 2026-05-11
-mention_count: 14
+last_seen: 2026-05-17
+mention_count: 15
 avg_confidence: ""
 tags: [company]
 ---
 
 # Apache Software Foundation
 
-_Company mentioned across 14 stories._
+_Company mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-05-17|2026-05-17]]
+    - [[sources/2026-05-17/08_apache-iceberg-on-hadoop-why-it-matters-for-real-time-analyt|Apache Iceberg on Hadoop Why It Matters for Real-Time Analytics and Edge AI]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/02_mastering-delta-lake-merge-performance-why-it-slows-down-and|Mastering Delta Lake MERGE Performance Why It Slows Down and How to Fix It]]
 - [[episodes/2026-05-09|2026-05-09]]

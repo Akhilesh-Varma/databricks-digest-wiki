@@ -3,17 +3,19 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-16
-mention_count: 26
+last_seen: 2026-05-17
+mention_count: 27
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 26 stories._
+_Company mentioned across 27 stories._
 
 ## Appears in
+- [[episodes/2026-05-17|2026-05-17]]
+    - [[sources/2026-05-17/06_lower-cost-and-latency-for-ai-using-snowflake-postgres-as-a|Lower cost and latency for AI using Snowflake Postgres as a Semantic Cache]]
 - [[episodes/2026-05-16|2026-05-16]]
     - [[sources/2026-05-16/04_snowflake-and-databricks-swallow-niche-saas-tools-forcing-da|Snowflake and Databricks Swallow Niche SaaS Tools Forcing Data Stack Overhaul]]
 - [[episodes/2026-05-15|2026-05-15]]

@@ -3,17 +3,19 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-08
-last_seen: 2026-05-16
-mention_count: 19
+last_seen: 2026-05-17
+mention_count: 20
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 19 stories._
+_Company mentioned across 20 stories._
 
 ## Appears in
+- [[episodes/2026-05-17|2026-05-17]]
+    - [[sources/2026-05-17/06_lower-cost-and-latency-for-ai-using-snowflake-postgres-as-a|Lower cost and latency for AI using Snowflake Postgres as a Semantic Cache]]
 - [[episodes/2026-05-16|2026-05-16]]
     - [[sources/2026-05-16/07_building-a-letterboxd-film-review-data-pipeline-from-raw-scr|Building a Letterboxd Film Review data pipeline from raw scrape to first insight]]
     - [[sources/2026-05-16/04_snowflake-and-databricks-swallow-niche-saas-tools-forcing-da|Snowflake and Databricks Swallow Niche SaaS Tools Forcing Data Stack Overhaul]]

@@ -3,17 +3,20 @@ type: concept
 name: Generative AI
 slug: generative-ai
 first_seen: 2026-04-05
-last_seen: 2026-04-22
-mention_count: 5
-avg_confidence: 0.64
+last_seen: 2026-05-17
+mention_count: 7
+avg_confidence: 0.614
 tags: [concept]
 ---
 
 # Generative AI
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-17|2026-05-17]]
+    - [[sources/2026-05-17/03_databricks-learning-festival-instructor-led-apac-emea|Databricks Learning Festival Instructor-Led APAC EMEA]]
+    - [[sources/2026-05-17/06_lower-cost-and-latency-for-ai-using-snowflake-postgres-as-a|Lower cost and latency for AI using Snowflake Postgres as a Semantic Cache]]
 - [[episodes/2026-04-22|2026-04-22]]
     - [[sources/2026-04-22/02_intelligent-document-processing-for-data-extraction-transfor|Intelligent Document Processing for Data Extraction Transforming Product Manuals into Insights]]
 - [[episodes/2026-04-18|2026-04-18]]

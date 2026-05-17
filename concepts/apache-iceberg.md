@@ -3,17 +3,19 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-05-12
-mention_count: 17
-avg_confidence: 0.853
+last_seen: 2026-05-17
+mention_count: 18
+avg_confidence: 0.861
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 17 stories._
+_Concept mentioned across 18 stories._
 
 ## Appears in
+- [[episodes/2026-05-17|2026-05-17]]
+    - [[sources/2026-05-17/08_apache-iceberg-on-hadoop-why-it-matters-for-real-time-analyt|Apache Iceberg on Hadoop Why It Matters for Real-Time Analytics and Edge AI]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/06_building-a-spark-declarative-pipeline-a-modern-financial-dat|Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP, Apache Iceberg]]
 - [[episodes/2026-05-11|2026-05-11]]

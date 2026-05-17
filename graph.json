@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-05-16T10:24:53.736869+00:00",
-  "node_count": 2071,
-  "edge_count": 3343,
+  "generated_at": "2026-05-17T10:25:45.397117+00:00",
+  "node_count": 2103,
+  "edge_count": 3399,
   "nodes": [
+    {
+      "id": "episode/2026-05-17",
+      "type": "episode",
+      "label": "Daily Databricks Digest - May 17, 2026",
+      "episode_date": "2026-05-17",
+      "story_count": 8
+    },
     {
       "id": "episode/2026-05-16",
       "type": "episode",
@@ -907,7 +914,7 @@
       "id": "story/community_0fd805d2f795",
       "type": "story",
       "label": "Top 10 query performance tuning tips for Databricks Serverless SQL",
-      "episode_date": "2026-05-15",
+      "episode_date": "2026-05-17",
       "rank": 2,
       "quality_score": 0.78
     },
@@ -3016,6 +3023,70 @@
       "quality_score": 0.7563185232046957
     },
     {
+      "id": "story/github_release_delta-io_delta-rs_323759919",
+      "type": "story",
+      "label": "Delta Lake Rust Python rust-v0.32.2 released",
+      "episode_date": "2026-05-17",
+      "rank": 1,
+      "quality_score": 0.771389143611442
+    },
+    {
+      "id": "story/community_9440698eec23",
+      "type": "story",
+      "label": "Databricks Learning Festival Instructor-Led APAC EMEA",
+      "episode_date": "2026-05-17",
+      "rank": 3,
+      "quality_score": 0.6200000000000001
+    },
+    {
+      "id": "story/community_b5cc02e492bb",
+      "type": "story",
+      "label": "Finally! A simple way to validate whether your Materialized View can actually refresh incrementally",
+      "episode_date": "2026-05-17",
+      "rank": 4,
+      "quality_score": 0.6200000000000001
+    },
+    {
+      "id": "story/hn_48166275",
+      "type": "story",
+      "label": "Show HN Codiff, a local diff review tool",
+      "episode_date": "2026-05-17",
+      "rank": 5,
+      "quality_score": 0.5661856870523162
+    },
+    {
+      "id": "story/rss_f2ff9ec9680a",
+      "type": "story",
+      "label": "Lower cost and latency for AI using Snowflake Postgres as a Semantic Cache",
+      "episode_date": "2026-05-17",
+      "rank": 6,
+      "quality_score": 0.8197914253420966
+    },
+    {
+      "id": "story/rss_43975fa72420",
+      "type": "story",
+      "label": "Part 4 Demystifying Data Jargons Datalake, Warehouse, and Delta Lake Explained",
+      "episode_date": "2026-05-17",
+      "rank": 7,
+      "quality_score": 0.6975043882700066
+    },
+    {
+      "id": "story/rss_c43391016bb3",
+      "type": "story",
+      "label": "Apache Iceberg on Hadoop Why It Matters for Real-Time Analytics and Edge AI",
+      "episode_date": "2026-05-17",
+      "rank": 8,
+      "quality_score": 0.6968507837465279
+    },
+    {
+      "id": "story/devto_3684030",
+      "type": "story",
+      "label": "Cosa sono i modelli di apprendimento automatico? Tipi - Databricks",
+      "episode_date": "2026-05-17",
+      "rank": 9,
+      "quality_score": 0.7689665243040675
+    },
+    {
       "id": "story/pypi_pyspark_4.2.0.dev5",
       "type": "story",
       "label": "Apache Spark PySpark 4.2.0.dev5 released on PyPI",
@@ -3263,7 +3334,7 @@
       "id": "concept/apache-iceberg",
       "type": "concept",
       "label": "Apache Iceberg",
-      "mention_count": 17
+      "mention_count": 18
     },
     {
       "id": "concept/apache-polaris",
@@ -3329,7 +3400,7 @@
       "id": "company/apache-software-foundation",
       "type": "company",
       "label": "Apache Software Foundation",
-      "mention_count": 14
+      "mention_count": 15
     },
     {
       "id": "company/dremio",
@@ -3497,7 +3568,7 @@
       "id": "company/google",
       "type": "company",
       "label": "Google",
-      "mention_count": 18
+      "mention_count": 19
     },
     {
       "id": "company/redpanda",
@@ -3539,7 +3610,7 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 191
+      "mention_count": 194
     },
     {
       "id": "concept/fulfillment-center-operations",
@@ -3797,13 +3868,13 @@
       "id": "concept/delta-lake",
       "type": "concept",
       "label": "Delta Lake",
-      "mention_count": 42
+      "mention_count": 44
     },
     {
       "id": "concept/delta-kernel",
       "type": "concept",
       "label": "Delta Kernel",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/apache-spark",
@@ -3875,7 +3946,7 @@
       "id": "concept/large-language-models",
       "type": "concept",
       "label": "Large Language Models",
-      "mention_count": 24
+      "mention_count": 25
     },
     {
       "id": "concept/cost-based-query-optimization",
@@ -4103,13 +4174,13 @@
       "id": "concept/machine-learning",
       "type": "concept",
       "label": "Machine Learning",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "company/medium",
       "type": "company",
       "label": "Medium",
-      "mention_count": 26
+      "mention_count": 27
     },
     {
       "id": "concept/occupational-safety-and-health-administration-osha",
@@ -4415,7 +4486,7 @@
       "id": "concept/generative-ai",
       "type": "concept",
       "label": "Generative AI",
-      "mention_count": 5
+      "mention_count": 7
     },
     {
       "id": "concept/secure-by-design",
@@ -4685,7 +4756,7 @@
       "id": "company/snowflake",
       "type": "company",
       "label": "Snowflake",
-      "mention_count": 19
+      "mention_count": 20
     },
     {
       "id": "concept/mlflow",
@@ -5555,7 +5626,7 @@
       "id": "concept/vector-embeddings",
       "type": "concept",
       "label": "Vector Embeddings",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/sqlalchemy",
@@ -6137,13 +6208,13 @@
       "id": "concept/data-warehouse",
       "type": "concept",
       "label": "Data Warehouse",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/data-lake",
       "type": "concept",
       "label": "Data Lake",
-      "mention_count": 6
+      "mention_count": 8
     },
     {
       "id": "concept/aws-s3",
@@ -8531,7 +8602,7 @@
       "id": "concept/data-engineering",
       "type": "concept",
       "label": "Data Engineering",
-      "mention_count": 11
+      "mention_count": 13
     },
     {
       "id": "concept/databricks-delta-lake",
@@ -9389,7 +9460,7 @@
       "id": "company/udemy",
       "type": "company",
       "label": "Udemy",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "person/milka-kutseva",
@@ -10613,7 +10684,7 @@
       "id": "concept/edge-ai",
       "type": "concept",
       "label": "Edge AI",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/discedge",
@@ -11513,7 +11584,7 @@
       "id": "concept/databricks-certification",
       "type": "concept",
       "label": "Databricks Certification",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/open-lakehouse-architecture",
@@ -11615,7 +11686,7 @@
       "id": "concept/machine-learning-models",
       "type": "concept",
       "label": "machine learning models",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/deepeye-sql",
@@ -12638,6 +12709,36 @@
       "mention_count": 1
     },
     {
+      "id": "concept/materialized-view",
+      "type": "concept",
+      "label": "Materialized View",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/incremental-refresh",
+      "type": "concept",
+      "label": "Incremental Refresh",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/explain-create-materialized-view",
+      "type": "concept",
+      "label": "EXPLAIN CREATE MATERIALIZED VIEW",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/auto-refresh-policy",
+      "type": "concept",
+      "label": "AUTO Refresh Policy",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/event-log",
+      "type": "concept",
+      "label": "Event Log",
+      "mention_count": 1
+    },
+    {
       "id": "concept/retrieval-augmented-modeling-ram",
       "type": "concept",
       "label": "Retrieval-Augmented Modeling (RAM)",
@@ -13100,6 +13201,48 @@
       "mention_count": 1
     },
     {
+      "id": "concept/delta-rs",
+      "type": "concept",
+      "label": "delta-rs",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/dynamodb-locking",
+      "type": "concept",
+      "label": "DynamoDB locking",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/commitproperties",
+      "type": "concept",
+      "label": "CommitProperties",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/deltascan",
+      "type": "concept",
+      "label": "DeltaScan",
+      "mention_count": 1
+    },
+    {
+      "id": "company/delta-io",
+      "type": "company",
+      "label": "delta-io",
+      "mention_count": 1
+    },
+    {
+      "id": "person/ethan-tyler",
+      "type": "person",
+      "label": "Ethan Tyler",
+      "mention_count": 1
+    },
+    {
+      "id": "person/r-tyler",
+      "type": "person",
+      "label": "R Tyler",
+      "mention_count": 1
+    },
+    {
       "id": "concept/machine-learning-model-deployment",
       "type": "concept",
       "label": "Machine Learning Model Deployment",
@@ -13133,6 +13276,36 @@
       "id": "concept/lakehouse-sync",
       "type": "concept",
       "label": "Lakehouse Sync",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/databricks-learning-festival",
+      "type": "concept",
+      "label": "Databricks Learning Festival",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/databricks-academy",
+      "type": "concept",
+      "label": "Databricks Academy",
+      "mention_count": 1
+    },
+    {
+      "id": "company/linkedin",
+      "type": "company",
+      "label": "LinkedIn",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/semantic-cache",
+      "type": "concept",
+      "label": "Semantic Cache",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/snowflake-postgres",
+      "type": "concept",
+      "label": "Snowflake Postgres",
       "mention_count": 1
     },
     {
@@ -13175,6 +13348,42 @@
       "id": "concept/autoscaling",
       "type": "concept",
       "label": "Autoscaling",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/hadoop",
+      "type": "concept",
+      "label": "Hadoop",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/real-time-analytics",
+      "type": "concept",
+      "label": "Real-Time Analytics",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/codiff",
+      "type": "concept",
+      "label": "Codiff",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/git-delta",
+      "type": "concept",
+      "label": "git delta",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/llm-walkthrough-mode",
+      "type": "concept",
+      "label": "LLM walkthrough mode",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/diff-review",
+      "type": "concept",
+      "label": "diff review",
       "mention_count": 1
     },
     {
@@ -28624,6 +28833,41 @@
       "kind": "mentions"
     },
     {
+      "source": "story/community_b5cc02e492bb",
+      "target": "episode/2026-05-17",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_b5cc02e492bb",
+      "target": "concept/materialized-view",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_b5cc02e492bb",
+      "target": "concept/incremental-refresh",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_b5cc02e492bb",
+      "target": "concept/explain-create-materialized-view",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_b5cc02e492bb",
+      "target": "concept/auto-refresh-policy",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_b5cc02e492bb",
+      "target": "concept/event-log",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_b5cc02e492bb",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_a78eea866fd0",
       "target": "episode/2026-05-15",
       "kind": "aired_in"
@@ -29514,6 +29758,56 @@
       "kind": "mentions"
     },
     {
+      "source": "story/github_release_delta-io_delta-rs_323759919",
+      "target": "episode/2026-05-17",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/github_release_delta-io_delta-rs_323759919",
+      "target": "concept/delta-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_delta-io_delta-rs_323759919",
+      "target": "concept/delta-rs",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_delta-io_delta-rs_323759919",
+      "target": "concept/dynamodb-locking",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_delta-io_delta-rs_323759919",
+      "target": "concept/commitproperties",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_delta-io_delta-rs_323759919",
+      "target": "concept/deltascan",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_delta-io_delta-rs_323759919",
+      "target": "concept/delta-kernel",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_delta-io_delta-rs_323759919",
+      "target": "company/delta-io",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_delta-io_delta-rs_323759919",
+      "target": "person/ethan-tyler",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_delta-io_delta-rs_323759919",
+      "target": "person/r-tyler",
+      "kind": "mentions"
+    },
+    {
       "source": "story/community_f57a60b542be",
       "target": "episode/2026-05-16",
       "kind": "aired_in"
@@ -29661,6 +29955,96 @@
     {
       "source": "story/community_bfe543167d55",
       "target": "company/elliptic",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_9440698eec23",
+      "target": "episode/2026-05-17",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_9440698eec23",
+      "target": "concept/databricks-learning-festival",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_9440698eec23",
+      "target": "concept/data-engineering",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_9440698eec23",
+      "target": "concept/machine-learning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_9440698eec23",
+      "target": "concept/generative-ai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_9440698eec23",
+      "target": "concept/databricks-certification",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_9440698eec23",
+      "target": "concept/databricks-academy",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_9440698eec23",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_9440698eec23",
+      "target": "company/udemy",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_9440698eec23",
+      "target": "company/linkedin",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_f2ff9ec9680a",
+      "target": "episode/2026-05-17",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_f2ff9ec9680a",
+      "target": "concept/semantic-cache",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_f2ff9ec9680a",
+      "target": "concept/large-language-models",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_f2ff9ec9680a",
+      "target": "concept/snowflake-postgres",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_f2ff9ec9680a",
+      "target": "concept/generative-ai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_f2ff9ec9680a",
+      "target": "concept/vector-embeddings",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_f2ff9ec9680a",
+      "target": "company/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_f2ff9ec9680a",
+      "target": "company/medium",
       "kind": "mentions"
     },
     {
@@ -29814,6 +30198,91 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_c43391016bb3",
+      "target": "episode/2026-05-17",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_c43391016bb3",
+      "target": "concept/apache-iceberg",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c43391016bb3",
+      "target": "concept/hadoop",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c43391016bb3",
+      "target": "concept/data-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c43391016bb3",
+      "target": "concept/real-time-analytics",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c43391016bb3",
+      "target": "concept/edge-ai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c43391016bb3",
+      "target": "company/apache-software-foundation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48166275",
+      "target": "episode/2026-05-17",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/hn_48166275",
+      "target": "concept/codiff",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48166275",
+      "target": "concept/git-delta",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48166275",
+      "target": "concept/llm-walkthrough-mode",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48166275",
+      "target": "concept/diff-review",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_43975fa72420",
+      "target": "episode/2026-05-17",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_43975fa72420",
+      "target": "concept/data-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_43975fa72420",
+      "target": "concept/data-warehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_43975fa72420",
+      "target": "concept/delta-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_43975fa72420",
+      "target": "concept/data-engineering",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_5828f3f2e6e1",
       "target": "episode/2026-05-15",
       "kind": "aired_in"
@@ -29846,6 +30315,26 @@
     {
       "source": "story/rss_5828f3f2e6e1",
       "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3684030",
+      "target": "episode/2026-05-17",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3684030",
+      "target": "concept/machine-learning-models",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3684030",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3684030",
+      "target": "company/google",
       "kind": "mentions"
     },
     {

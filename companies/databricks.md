@@ -3,17 +3,21 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-16
-mention_count: 191
+last_seen: 2026-05-17
+mention_count: 194
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 191 stories._
+_Company mentioned across 194 stories._
 
 ## Appears in
+- [[episodes/2026-05-17|2026-05-17]]
+    - [[sources/2026-05-17/04_finally-a-simple-way-to-validate-whether-your-materialized-v|Finally! A simple way to validate whether your Materialized View can actually refresh incrementally]]
+    - [[sources/2026-05-17/03_databricks-learning-festival-instructor-led-apac-emea|Databricks Learning Festival Instructor-Led APAC EMEA]]
+    - [[sources/2026-05-17/09_cosa-sono-i-modelli-di-apprendimento-automatico-tipi-databri|Cosa sono i modelli di apprendimento automatico? Tipi - Databricks]]
 - [[episodes/2026-05-16|2026-05-16]]
     - [[sources/2026-05-16/01_processing-unstructured-data-in-volumes-with-unity-catalog-o|Processing Unstructured Data in Volumes with Unity Catalog Open APIs]]
     - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]

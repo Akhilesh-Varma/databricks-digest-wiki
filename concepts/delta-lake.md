@@ -3,17 +3,20 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-16
-mention_count: 42
-avg_confidence: 0.721
+last_seen: 2026-05-17
+mention_count: 44
+avg_confidence: 0.734
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 42 stories._
+_Concept mentioned across 44 stories._
 
 ## Appears in
+- [[episodes/2026-05-17|2026-05-17]]
+    - [[sources/2026-05-17/01_delta-lake-rust-python-rust-v0-32-2-released|Delta Lake Rust Python rust-v0.32.2 released]]
+    - [[sources/2026-05-17/07_part-4-demystifying-data-jargons-datalake-warehouse-and-delt|Part 4 Demystifying Data Jargons Datalake, Warehouse, and Delta Lake Explained]]
 - [[episodes/2026-05-16|2026-05-16]]
     - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
     - [[sources/2026-05-16/05_what-happens-if-two-jobs-run-a-delta-merge-on-the-same-parti|What Happens If Two Jobs Run a Delta MERGE on the Same Partition? Concurrency Deep Dive]]

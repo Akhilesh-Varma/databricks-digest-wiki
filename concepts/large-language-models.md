@@ -3,17 +3,19 @@ type: concept
 name: Large Language Models
 slug: large-language-models
 first_seen: 2026-04-06
-last_seen: 2026-05-07
-mention_count: 24
-avg_confidence: 0.725
+last_seen: 2026-05-17
+mention_count: 25
+avg_confidence: 0.732
 tags: [concept]
 ---
 
 # Large Language Models
 
-_Concept mentioned across 24 stories._
+_Concept mentioned across 25 stories._
 
 ## Appears in
+- [[episodes/2026-05-17|2026-05-17]]
+    - [[sources/2026-05-17/06_lower-cost-and-latency-for-ai-using-snowflake-postgres-as-a|Lower cost and latency for AI using Snowflake Postgres as a Semantic Cache]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/04_beyond-rag-databricks-unified-approach-to-document-insights|Beyond RAG Databricks' Unified Approach to Document Insights]]
 - [[episodes/2026-05-06|2026-05-06]]
