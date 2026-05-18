@@ -3,17 +3,19 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-17
-mention_count: 27
+last_seen: 2026-05-18
+mention_count: 28
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 27 stories._
+_Company mentioned across 28 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/04_building-rag-pipeline-using-delta-lake-on-databricks|Building RAG Pipeline using Delta Lake on Databricks]]
 - [[episodes/2026-05-17|2026-05-17]]
     - [[sources/2026-05-17/06_lower-cost-and-latency-for-ai-using-snowflake-postgres-as-a|Lower cost and latency for AI using Snowflake Postgres as a Semantic Cache]]
 - [[episodes/2026-05-16|2026-05-16]]

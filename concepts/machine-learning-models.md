@@ -1,6 +1,6 @@
 ---
 type: concept
-name: machine learning models
+name: Machine Learning Models
 slug: machine-learning-models
 first_seen: 2026-04-26
 last_seen: 2026-05-17
@@ -9,7 +9,7 @@ avg_confidence: 0.55
 tags: [concept]
 ---
 
-# machine learning models
+# Machine Learning Models
 
 _Concept mentioned across 2 stories._
 

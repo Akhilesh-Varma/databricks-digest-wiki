@@ -3,17 +3,19 @@ type: concept
 name: Medallion Architecture
 slug: medallion-architecture
 first_seen: 2026-04-14
-last_seen: 2026-05-14
-mention_count: 13
-avg_confidence: 0.723
+last_seen: 2026-05-18
+mention_count: 14
+avg_confidence: 0.743
 tags: [concept]
 ---
 
 # Medallion Architecture
 
-_Concept mentioned across 13 stories._
+_Concept mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/09_the-missing-organizing-principle-of-microsoft-fabric-medalli|The Missing Organizing Principle of Microsoft Fabric Medallion Architecture Explained gem]]
 - [[episodes/2026-05-14|2026-05-14]]
     - [[sources/2026-05-14/06_monitoring-databricks-pipelines-from-blind-spots-to-full-vis|Monitoring Databricks Pipelines From Blind Spots to Full Visibility]]
 - [[episodes/2026-05-11|2026-05-11]]

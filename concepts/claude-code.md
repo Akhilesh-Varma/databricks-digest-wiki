@@ -3,17 +3,19 @@ type: concept
 name: Claude Code
 slug: claude-code
 first_seen: 2026-04-05
-last_seen: 2026-05-14
-mention_count: 6
-avg_confidence: 0.55
+last_seen: 2026-05-18
+mention_count: 7
+avg_confidence: 0.557
 tags: [concept]
 ---
 
 # Claude Code
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/03_show-hn-semble-code-search-for-agents-that-uses-98-fewer-tok|Show HN Semble Code search for agents that uses 98 fewer tokens than grep]]
 - [[episodes/2026-05-14|2026-05-14]]
     - [[sources/2026-05-14/08_show-hn-headless-cloud-security-headless-saas-has-come-to-se|Show HN Headless Cloud Security Headless SaaS has come to security]]
 - [[episodes/2026-04-23|2026-04-23]]

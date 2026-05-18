@@ -3,17 +3,19 @@ type: company
 name: Dremio
 slug: dremio
 first_seen: 2026-04-14
-last_seen: 2026-05-06
-mention_count: 5
+last_seen: 2026-05-18
+mention_count: 6
 avg_confidence: ""
 tags: [company]
 ---
 
 # Dremio
 
-_Company mentioned across 5 stories._
+_Company mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/06_apache-fluss-architecting-the-streaming-first-persistent-dat|Apache Fluss Architecting the Streaming-First Persistent Data Stack]]
 - [[episodes/2026-05-06|2026-05-06]]
     - [[sources/2026-05-06/06_what-is-dremio-the-unified-lakehouse-and-ai-platform|What is Dremio? The Unified Lakehouse and AI Platform]]
 - [[episodes/2026-05-02|2026-05-02]]

@@ -3,17 +3,19 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-05-17
-mention_count: 18
-avg_confidence: 0.861
+last_seen: 2026-05-18
+mention_count: 19
+avg_confidence: 0.853
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 18 stories._
+_Concept mentioned across 19 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/06_apache-fluss-architecting-the-streaming-first-persistent-dat|Apache Fluss Architecting the Streaming-First Persistent Data Stack]]
 - [[episodes/2026-05-17|2026-05-17]]
     - [[sources/2026-05-17/08_apache-iceberg-on-hadoop-why-it-matters-for-real-time-analyt|Apache Iceberg on Hadoop Why It Matters for Real-Time Analytics and Edge AI]]
 - [[episodes/2026-05-12|2026-05-12]]

@@ -3,17 +3,19 @@ type: concept
 name: OLAP
 slug: olap
 first_seen: 2026-03-17
-last_seen: 2026-05-12
-mention_count: 3
-avg_confidence: 0.7
+last_seen: 2026-05-18
+mention_count: 4
+avg_confidence: 0.625
 tags: [concept]
 ---
 
 # OLAP
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/06_apache-fluss-architecting-the-streaming-first-persistent-dat|Apache Fluss Architecting the Streaming-First Persistent Data Stack]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/10_amazon-redshift-for-data-engineering-columnar-storage-mpp-co|Amazon Redshift for Data Engineering Columnar Storage, MPP, COPY, Distribution Keys, Spectrum]]
 - [[episodes/2026-05-11|2026-05-11]]

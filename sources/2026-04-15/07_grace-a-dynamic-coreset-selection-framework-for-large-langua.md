@@ -31,4 +31,4 @@ The paper introduces GRACE, a graph-guided adaptive and dynamic coreset selectio
 - **URL:** <https://arxiv.org/abs/2604.11810>
 
 ## Related
-[[concepts/grace|grace]] · [[concepts/coreset-selection|coreset-selection]] · [[concepts/large-language-models|large-language-models]] · [[concepts/transformer-architecture|transformer-architecture]] · [[concepts/k-nn-graph|k-nn-graph]] · [[concepts/gradient-based-importance-metrics|gradient-based-importance-metrics]] · [[concepts/optimize|optimize]] · [[concepts/llms|llms]] · [[concepts/llm|llm]] · [[episodes/2026-04-15|2026-04-15]]
+[[concepts/grace|grace]] · [[concepts/coreset-selection|coreset-selection]] · [[concepts/large-language-models|large-language-models]] · [[concepts/transformer-architecture|transformer-architecture]] · [[concepts/k-nn-graph|k-nn-graph]] · [[concepts/gradient-based-importance-metrics|gradient-based-importance-metrics]] · [[concepts/embeddings|embeddings]] · [[concepts/optimize|optimize]] · [[concepts/llms|llms]] · [[concepts/llm|llm]] · [[episodes/2026-04-15|2026-04-15]]

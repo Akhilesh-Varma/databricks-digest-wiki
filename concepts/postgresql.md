@@ -3,23 +3,25 @@ type: concept
 name: PostgreSQL
 slug: postgresql
 first_seen: 2026-04-09
-last_seen: 2026-05-15
-mention_count: 18
-avg_confidence: 0.65
+last_seen: 2026-05-18
+mention_count: 19
+avg_confidence: 0.653
 tags: [concept]
 ---
 
 # PostgreSQL
 
-_Concept mentioned across 18 stories._
+_Concept mentioned across 19 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/08_building-a-real-time-weather-streaming-pipeline-with-kafka-d|Building a Real-Time Weather Streaming Pipeline with Kafka, Docker Python]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/07_python-and-how-python-is-used-in-the-data-analytics-space-a|Python and How Python Is Used In The Data Analytics Space. A Beginner's Guide.]]
 - [[episodes/2026-05-13|2026-05-13]]
-    - [[sources/2026-05-13/08_senior-sql-advanced-joins-window-analytics-plans-indexing-pr|Senior SQL Advanced Joins, Window Analytics, Plans, Indexing Production Mindset]]
-    - [[sources/2026-05-13/09_duckdb-postgres-and-parquet-when-one-sql-query-becomes-a-wor|DuckDB, Postgres, and Parquet when one SQL query becomes a workflow]]
     - [[sources/2026-05-13/10_protect-db-protecting-data-using-replicated-state-machines-e|PROTECT-DB Protecting Data using Replicated State Machines Efficient Corruption Detection Recovery]]
+    - [[sources/2026-05-13/09_duckdb-postgres-and-parquet-when-one-sql-query-becomes-a-wor|DuckDB, Postgres, and Parquet when one SQL query becomes a workflow]]
+    - [[sources/2026-05-13/08_senior-sql-advanced-joins-window-analytics-plans-indexing-pr|Senior SQL Advanced Joins, Window Analytics, Plans, Indexing Production Mindset]]
     - [[sources/2026-05-13/07_cte-in-sql-for-data-engineering-interviews-with-clauses-recu|CTE in SQL for Data Engineering Interviews WITH Clauses, Recursive CTEs, and Window SQL Patterns]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/10_amazon-redshift-for-data-engineering-columnar-storage-mpp-co|Amazon Redshift for Data Engineering Columnar Storage, MPP, COPY, Distribution Keys, Spectrum]]

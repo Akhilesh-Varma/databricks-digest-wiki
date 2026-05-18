@@ -3,17 +3,20 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-05
-last_seen: 2026-05-15
-mention_count: 30
-avg_confidence: 0.627
+last_seen: 2026-05-18
+mention_count: 32
+avg_confidence: 0.622
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 30 stories._
+_Concept mentioned across 32 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/06_apache-fluss-architecting-the-streaming-first-persistent-dat|Apache Fluss Architecting the Streaming-First Persistent Data Stack]]
+    - [[sources/2026-05-18/09_the-missing-organizing-principle-of-microsoft-fabric-medalli|The Missing Organizing Principle of Microsoft Fabric Medallion Architecture Explained gem]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/03_databricks-vs-bigquery-through-a-workload-lens|Databricks vs. BigQuery Through a Workload Lens]]
 - [[episodes/2026-05-11|2026-05-11]]

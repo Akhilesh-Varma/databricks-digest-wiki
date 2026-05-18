@@ -3,17 +3,19 @@ type: concept
 name: PySpark
 slug: pyspark
 first_seen: 2026-03-17
-last_seen: 2026-05-09
-mention_count: 12
-avg_confidence: 0.817
+last_seen: 2026-05-18
+mention_count: 13
+avg_confidence: 0.785
 tags: [concept]
 ---
 
 # PySpark
 
-_Concept mentioned across 12 stories._
+_Concept mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/09_the-missing-organizing-principle-of-microsoft-fabric-medalli|The Missing Organizing Principle of Microsoft Fabric Medallion Architecture Explained gem]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/05_adf-vs-databricks-workflows-which-one-should-orchestrate-you|ADF vs Databricks Workflows Which One Should Orchestrate Your Data Pipelines?]]
 - [[episodes/2026-05-07|2026-05-07]]

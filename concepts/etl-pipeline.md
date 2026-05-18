@@ -3,17 +3,19 @@ type: concept
 name: ETL Pipeline
 slug: etl-pipeline
 first_seen: 2026-04-13
-last_seen: 2026-05-12
-mention_count: 6
-avg_confidence: 0.683
+last_seen: 2026-05-18
+mention_count: 7
+avg_confidence: 0.714
 tags: [concept]
 ---
 
 # ETL Pipeline
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/08_building-a-real-time-weather-streaming-pipeline-with-kafka-d|Building a Real-Time Weather Streaming Pipeline with Kafka, Docker Python]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/08_etl-pipeline-for-data-engineering-a-beginner-s-guide-to-extr|ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load]]
     - [[sources/2026-05-12/03_introducing-5xl-sql-warehouses-a-practical-guide-to-meeting|Introducing 5XL SQL Warehouses A Practical Guide to Meeting SLAs for Your Most Demanding Workloads]]

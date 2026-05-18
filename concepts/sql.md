@@ -3,17 +3,19 @@ type: concept
 name: SQL
 slug: sql
 first_seen: 2026-03-17
-last_seen: 2026-05-03
-mention_count: 7
-avg_confidence: 0.486
+last_seen: 2026-05-18
+mention_count: 8
+avg_confidence: 0.5
 tags: [concept]
 ---
 
 # SQL
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/10_to-gpu-or-not-to-gpu-vector-search-in-relational-engines|To GPU or Not to GPU Vector Search in Relational Engines]]
 - [[episodes/2026-05-03|2026-05-03]]
     - [[sources/2026-05-03/08_top-20-advanced-data-engineering-interview-questions|Top 20 Advanced Data Engineering Interview Questions]]
 - [[episodes/2026-04-28|2026-04-28]]

@@ -1,6 +1,6 @@
 ---
 type: concept
-name: vector store
+name: Vector Store
 slug: vector-store
 first_seen: 2026-04-27
 last_seen: 2026-05-16
@@ -9,7 +9,7 @@ avg_confidence: 0.6
 tags: [concept]
 ---
 
-# vector store
+# Vector Store
 
 _Concept mentioned across 2 stories._
 

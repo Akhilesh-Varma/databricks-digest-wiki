@@ -15,8 +15,8 @@ _Concept mentioned across 13 stories._
 
 ## Appears in
 - [[episodes/2026-05-17|2026-05-17]]
-    - [[sources/2026-05-17/03_databricks-learning-festival-instructor-led-apac-emea|Databricks Learning Festival Instructor-Led APAC EMEA]]
     - [[sources/2026-05-17/07_part-4-demystifying-data-jargons-datalake-warehouse-and-delt|Part 4 Demystifying Data Jargons Datalake, Warehouse, and Delta Lake Explained]]
+    - [[sources/2026-05-17/03_databricks-learning-festival-instructor-led-apac-emea|Databricks Learning Festival Instructor-Led APAC EMEA]]
 - [[episodes/2026-05-06|2026-05-06]]
     - [[sources/2026-05-06/03_editing-pipelines-feels-more-natural-in-databricks-now|Editing Pipelines Feels More Natural in Databricks Now.]]
 - [[episodes/2026-05-03|2026-05-03]]

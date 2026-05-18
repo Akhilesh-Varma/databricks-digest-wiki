@@ -3,17 +3,19 @@ type: concept
 name: Retrieval-Augmented Generation (RAG)
 slug: retrieval-augmented-generation-rag
 first_seen: 2026-05-08
-last_seen: 2026-05-15
-mention_count: 2
-avg_confidence: 0.85
+last_seen: 2026-05-18
+mention_count: 3
+avg_confidence: 0.9
 tags: [concept]
 ---
 
 # Retrieval-Augmented Generation (RAG)
 
-_Concept mentioned across 2 stories._
+_Concept mentioned across 3 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/04_building-rag-pipeline-using-delta-lake-on-databricks|Building RAG Pipeline using Delta Lake on Databricks]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/04_show-hn-glycemicgpt-open-source-ai-powered-diabetes-manageme|Show HN GlycemicGPT Open-source AI-powered diabetes management]]
 - [[episodes/2026-05-08|2026-05-08]]

@@ -3,17 +3,19 @@ type: concept
 name: Microsoft Fabric
 slug: microsoft-fabric
 first_seen: 2026-04-11
-last_seen: 2026-05-03
-mention_count: 5
-avg_confidence: 0.88
+last_seen: 2026-05-18
+mention_count: 6
+avg_confidence: 0.883
 tags: [concept]
 ---
 
 # Microsoft Fabric
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/09_the-missing-organizing-principle-of-microsoft-fabric-medalli|The Missing Organizing Principle of Microsoft Fabric Medallion Architecture Explained gem]]
 - [[episodes/2026-05-03|2026-05-03]]
     - [[sources/2026-05-03/06_how-we-shipped-3-full-stack-data-platforms-in-one-session-us|How We Shipped 3 Full-Stack Data Platforms in One Session Using Microsoft Fabric Azure AI Foundry]]
 - [[episodes/2026-04-28|2026-04-28]]

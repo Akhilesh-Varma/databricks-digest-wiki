@@ -15,15 +15,15 @@ _Concept mentioned across 66 stories._
 
 ## Appears in
 - [[episodes/2026-05-16|2026-05-16]]
-    - [[sources/2026-05-16/01_processing-unstructured-data-in-volumes-with-unity-catalog-o|Processing Unstructured Data in Volumes with Unity Catalog Open APIs]]
     - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
+    - [[sources/2026-05-16/01_processing-unstructured-data-in-volumes-with-unity-catalog-o|Processing Unstructured Data in Volumes with Unity Catalog Open APIs]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/03_databricks-vs-bigquery-through-a-workload-lens|Databricks vs. BigQuery Through a Workload Lens]]
 - [[episodes/2026-05-14|2026-05-14]]
     - [[sources/2026-05-14/02_community-pulse-your-weekly-roundup-may-04-10-2026|Community Pulse Your Weekly Roundup! May 04 10, 2026]]
 - [[episodes/2026-05-13|2026-05-13]]
-    - [[sources/2026-05-13/02_step-by-step-building-a-vacation-rental-operations-app-with|Step-by-Step Building a Vacation Rental Operations App with AppKit]]
     - [[sources/2026-05-13/05_multimodal-rag-needs-real-pixels-so-i-wired-a-webcam-straigh|Multimodal RAG Needs Real Pixels So I Wired a Webcam Straight Into Delta with Clone-Xs]]
+    - [[sources/2026-05-13/02_step-by-step-building-a-vacation-rental-operations-app-with|Step-by-Step Building a Vacation Rental Operations App with AppKit]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/01_learning-series-machine-learning-model-development|Learning Series Machine Learning Model Development]]
 - [[episodes/2026-05-10|2026-05-10]]

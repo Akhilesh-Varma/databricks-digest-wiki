@@ -32,4 +32,4 @@ This paper investigates GPU underutilization in HPC, AI, and data analytics work
 - **URL:** <https://arxiv.org/abs/2604.08451>
 
 ## Related
-[[concepts/multi-instance-gpu-mig|multi-instance-gpu-mig]] · [[concepts/nvlink-c2c|nvlink-c2c]] · [[concepts/gpu-partitioning|gpu-partitioning]] · [[concepts/cpu-memory-offloading|cpu-memory-offloading]] · [[concepts/data-analytics|data-analytics]] · [[concepts/partitioning|partitioning]] · [[concepts/analytics|analytics]] · [[concepts/ai|ai]] · [[companies/nvidia|NVIDIA]] · [[companies/ibm|IBM]] · [[episodes/2026-04-10|2026-04-10]]
+[[concepts/multi-instance-gpu-mig|multi-instance-gpu-mig]] · [[concepts/nvlink-c2c|nvlink-c2c]] · [[concepts/gpu-partitioning|gpu-partitioning]] · [[concepts/cpu-memory-offloading|cpu-memory-offloading]] · [[concepts/data-analytics|data-analytics]] · [[concepts/partitioning|partitioning]] · [[concepts/analytics|analytics]] · [[concepts/nvlink|nvlink]] · [[concepts/ai|ai]] · [[companies/nvidia|NVIDIA]] · [[companies/ibm|IBM]] · [[episodes/2026-04-10|2026-04-10]]

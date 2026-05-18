@@ -3,17 +3,19 @@ type: company
 name: OpenAI
 slug: openai
 first_seen: 2026-04-17
-last_seen: 2026-05-16
-mention_count: 8
+last_seen: 2026-05-18
+mention_count: 9
 avg_confidence: ""
 tags: [company]
 ---
 
 # OpenAI
 
-_Company mentioned across 8 stories._
+_Company mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/03_show-hn-semble-code-search-for-agents-that-uses-98-fewer-tok|Show HN Semble Code search for agents that uses 98 fewer tokens than grep]]
 - [[episodes/2026-05-16|2026-05-16]]
     - [[sources/2026-05-16/06_the-context-layer-why-enterprise-ai-agents-fail-without-it-a|The Context Layer Why Enterprise AI Agents Fail Without It and What It Actually Takes to Fix That]]
 - [[episodes/2026-05-15|2026-05-15]]

@@ -3,17 +3,19 @@ type: company
 name: Apache Software Foundation
 slug: apache-software-foundation
 first_seen: 2026-03-17
-last_seen: 2026-05-17
-mention_count: 15
+last_seen: 2026-05-18
+mention_count: 16
 avg_confidence: ""
 tags: [company]
 ---
 
 # Apache Software Foundation
 
-_Company mentioned across 15 stories._
+_Company mentioned across 16 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/06_apache-fluss-architecting-the-streaming-first-persistent-dat|Apache Fluss Architecting the Streaming-First Persistent Data Stack]]
 - [[episodes/2026-05-17|2026-05-17]]
     - [[sources/2026-05-17/08_apache-iceberg-on-hadoop-why-it-matters-for-real-time-analyt|Apache Iceberg on Hadoop Why It Matters for Real-Time Analytics and Edge AI]]
 - [[episodes/2026-05-11|2026-05-11]]

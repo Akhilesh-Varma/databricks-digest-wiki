@@ -3,40 +3,46 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-17
-mention_count: 194
+last_seen: 2026-05-18
+mention_count: 199
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 194 stories._
+_Company mentioned across 199 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/09_the-missing-organizing-principle-of-microsoft-fabric-medalli|The Missing Organizing Principle of Microsoft Fabric Medallion Architecture Explained gem]]
+    - [[sources/2026-05-18/07_stop-naming-your-healthcare-columns-wrong-iso-11179-explaine|Stop Naming Your Healthcare Columns Wrong ISO-11179 Explained]]
+    - [[sources/2026-05-18/05_adding-ai-extract-to-the-mix-building-a-unified-rag-pipeline|Adding ai_extract to the mix building a unified RAG pipeline with three Databricks SQL AI]]
+    - [[sources/2026-05-18/04_building-rag-pipeline-using-delta-lake-on-databricks|Building RAG Pipeline using Delta Lake on Databricks]]
+    - [[sources/2026-05-18/01_databricks-sdk-0-109-0-released-on-pypi|Databricks SDK 0.109.0 released on PyPI]]
 - [[episodes/2026-05-17|2026-05-17]]
+    - [[sources/2026-05-17/09_cosa-sono-i-modelli-di-apprendimento-automatico-tipi-databri|Cosa sono i modelli di apprendimento automatico? Tipi - Databricks]]
     - [[sources/2026-05-17/04_finally-a-simple-way-to-validate-whether-your-materialized-v|Finally! A simple way to validate whether your Materialized View can actually refresh incrementally]]
     - [[sources/2026-05-17/03_databricks-learning-festival-instructor-led-apac-emea|Databricks Learning Festival Instructor-Led APAC EMEA]]
-    - [[sources/2026-05-17/09_cosa-sono-i-modelli-di-apprendimento-automatico-tipi-databri|Cosa sono i modelli di apprendimento automatico? Tipi - Databricks]]
 - [[episodes/2026-05-16|2026-05-16]]
-    - [[sources/2026-05-16/01_processing-unstructured-data-in-volumes-with-unity-catalog-o|Processing Unstructured Data in Volumes with Unity Catalog Open APIs]]
-    - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
-    - [[sources/2026-05-16/04_snowflake-and-databricks-swallow-niche-saas-tools-forcing-da|Snowflake and Databricks Swallow Niche SaaS Tools Forcing Data Stack Overhaul]]
     - [[sources/2026-05-16/05_what-happens-if-two-jobs-run-a-delta-merge-on-the-same-parti|What Happens If Two Jobs Run a Delta MERGE on the Same Partition? Concurrency Deep Dive]]
+    - [[sources/2026-05-16/04_snowflake-and-databricks-swallow-niche-saas-tools-forcing-da|Snowflake and Databricks Swallow Niche SaaS Tools Forcing Data Stack Overhaul]]
+    - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
+    - [[sources/2026-05-16/01_processing-unstructured-data-in-volumes-with-unity-catalog-o|Processing Unstructured Data in Volumes with Unity Catalog Open APIs]]
 - [[episodes/2026-05-15|2026-05-15]]
-    - [[sources/2026-05-15/03_databricks-vs-bigquery-through-a-workload-lens|Databricks vs. BigQuery Through a Workload Lens]]
     - [[sources/2026-05-15/06_azure-databricks-under-the-hood-how-compute-storage-and-orch|Azure Databricks Under the Hood How Compute, Storage, and Orchestration Work Together]]
     - [[sources/2026-05-15/05_sda-01-why-build-a-synthetic-data-agent-on-databricks|SDA 01 Why Build a Synthetic Data Agent on Databricks?]]
+    - [[sources/2026-05-15/03_databricks-vs-bigquery-through-a-workload-lens|Databricks vs. BigQuery Through a Workload Lens]]
 - [[episodes/2026-05-14|2026-05-14]]
+    - [[sources/2026-05-14/06_monitoring-databricks-pipelines-from-blind-spots-to-full-vis|Monitoring Databricks Pipelines From Blind Spots to Full Visibility]]
     - [[sources/2026-05-14/04_data-detective-series-ready-to-crack-a-case-with-data|Data Detective Series Ready to crack a case with data?]]
     - [[sources/2026-05-14/03_databricks-community-fellows-april-2026-shout-outs|Databricks Community Fellows April 2026 Shout Outs!]]
     - [[sources/2026-05-14/02_community-pulse-your-weekly-roundup-may-04-10-2026|Community Pulse Your Weekly Roundup! May 04 10, 2026]]
-    - [[sources/2026-05-14/06_monitoring-databricks-pipelines-from-blind-spots-to-full-vis|Monitoring Databricks Pipelines From Blind Spots to Full Visibility]]
 - [[episodes/2026-05-13|2026-05-13]]
-    - [[sources/2026-05-13/02_step-by-step-building-a-vacation-rental-operations-app-with|Step-by-Step Building a Vacation Rental Operations App with AppKit]]
     - [[sources/2026-05-13/05_multimodal-rag-needs-real-pixels-so-i-wired-a-webcam-straigh|Multimodal RAG Needs Real Pixels So I Wired a Webcam Straight Into Delta with Clone-Xs]]
-    - [[sources/2026-05-13/01_databricks-sdk-java-v0-108-0-released|Databricks SDK Java v0.108.0 released]]
     - [[sources/2026-05-13/04_databricks-lakebase-autoscaling-cost-model-decoded-what-you|Databricks Lakebase Autoscaling Cost Model Decoded What You Actually Pay and When It s Worth It]]
+    - [[sources/2026-05-13/02_step-by-step-building-a-vacation-rental-operations-app-with|Step-by-Step Building a Vacation Rental Operations App with AppKit]]
+    - [[sources/2026-05-13/01_databricks-sdk-java-v0-108-0-released|Databricks SDK Java v0.108.0 released]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/09_snowflake-for-data-engineering-interviews-a-beginner-s-guide|Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse]]
     - [[sources/2026-05-12/07_building-scalable-data-pipelines-with-azure-data-factory-dat|Building Scalable Data Pipelines with Azure Data Factory, Databricks Azure DevOps]]

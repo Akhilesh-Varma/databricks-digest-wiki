@@ -3,17 +3,19 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-08
-last_seen: 2026-05-17
-mention_count: 20
+last_seen: 2026-05-18
+mention_count: 21
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 20 stories._
+_Company mentioned across 21 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/07_stop-naming-your-healthcare-columns-wrong-iso-11179-explaine|Stop Naming Your Healthcare Columns Wrong ISO-11179 Explained]]
 - [[episodes/2026-05-17|2026-05-17]]
     - [[sources/2026-05-17/06_lower-cost-and-latency-for-ai-using-snowflake-postgres-as-a|Lower cost and latency for AI using Snowflake Postgres as a Semantic Cache]]
 - [[episodes/2026-05-16|2026-05-16]]

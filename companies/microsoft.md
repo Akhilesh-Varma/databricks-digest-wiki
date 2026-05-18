@@ -3,17 +3,19 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-05-15
-mention_count: 29
+last_seen: 2026-05-18
+mention_count: 30
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 29 stories._
+_Company mentioned across 30 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/09_the-missing-organizing-principle-of-microsoft-fabric-medalli|The Missing Organizing Principle of Microsoft Fabric Medallion Architecture Explained gem]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/08_etl-vs-elt-which-approach-should-you-use-and-why|ETL vs. ELT Which Approach Should You Use and Why?]]
     - [[sources/2026-05-15/07_python-and-how-python-is-used-in-the-data-analytics-space-a|Python and How Python Is Used In The Data Analytics Space. A Beginner's Guide.]]

@@ -3,26 +3,28 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-17
-mention_count: 44
-avg_confidence: 0.734
+last_seen: 2026-05-18
+mention_count: 45
+avg_confidence: 0.738
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 44 stories._
+_Concept mentioned across 45 stories._
 
 ## Appears in
+- [[episodes/2026-05-18|2026-05-18]]
+    - [[sources/2026-05-18/04_building-rag-pipeline-using-delta-lake-on-databricks|Building RAG Pipeline using Delta Lake on Databricks]]
 - [[episodes/2026-05-17|2026-05-17]]
-    - [[sources/2026-05-17/01_delta-lake-rust-python-rust-v0-32-2-released|Delta Lake Rust Python rust-v0.32.2 released]]
     - [[sources/2026-05-17/07_part-4-demystifying-data-jargons-datalake-warehouse-and-delt|Part 4 Demystifying Data Jargons Datalake, Warehouse, and Delta Lake Explained]]
+    - [[sources/2026-05-17/01_delta-lake-rust-python-rust-v0-32-2-released|Delta Lake Rust Python rust-v0.32.2 released]]
 - [[episodes/2026-05-16|2026-05-16]]
-    - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
     - [[sources/2026-05-16/05_what-happens-if-two-jobs-run-a-delta-merge-on-the-same-parti|What Happens If Two Jobs Run a Delta MERGE on the Same Partition? Concurrency Deep Dive]]
+    - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
 - [[episodes/2026-05-14|2026-05-14]]
-    - [[sources/2026-05-14/02_community-pulse-your-weekly-roundup-may-04-10-2026|Community Pulse Your Weekly Roundup! May 04 10, 2026]]
     - [[sources/2026-05-14/06_monitoring-databricks-pipelines-from-blind-spots-to-full-vis|Monitoring Databricks Pipelines From Blind Spots to Full Visibility]]
+    - [[sources/2026-05-14/02_community-pulse-your-weekly-roundup-may-04-10-2026|Community Pulse Your Weekly Roundup! May 04 10, 2026]]
 - [[episodes/2026-05-13|2026-05-13]]
     - [[sources/2026-05-13/05_multimodal-rag-needs-real-pixels-so-i-wired-a-webcam-straigh|Multimodal RAG Needs Real Pixels So I Wired a Webcam Straight Into Delta with Clone-Xs]]
 - [[episodes/2026-05-12|2026-05-12]]
