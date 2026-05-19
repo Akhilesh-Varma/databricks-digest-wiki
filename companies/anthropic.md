@@ -3,17 +3,19 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-05-18
-mention_count: 14
+last_seen: 2026-05-19
+mention_count: 15
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 14 stories._
+_Company mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/05_show-hn-insforge-open-source-heroku-for-coding-agents|Show HN InsForge Open-source Heroku for coding agents]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/03_show-hn-semble-code-search-for-agents-that-uses-98-fewer-tok|Show HN Semble Code search for agents that uses 98 fewer tokens than grep]]
 - [[episodes/2026-05-16|2026-05-16]]

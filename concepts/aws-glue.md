@@ -3,17 +3,19 @@ type: concept
 name: AWS Glue
 slug: aws-glue
 first_seen: 2026-04-25
-last_seen: 2026-05-12
-mention_count: 2
+last_seen: 2026-05-19
+mention_count: 3
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # AWS Glue
 
-_Concept mentioned across 2 stories._
+_Concept mentioned across 3 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/08_etl-pipeline-for-data-engineering-a-beginner-s-guide-to-extr|ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load]]
 - [[episodes/2026-04-25|2026-04-25]]

@@ -3,17 +3,21 @@ type: company
 name: Amazon Web Services
 slug: amazon-web-services
 first_seen: 2026-04-08
-last_seen: 2026-05-16
-mention_count: 17
+last_seen: 2026-05-19
+mention_count: 20
 avg_confidence: ""
 tags: [company]
 ---
 
 # Amazon Web Services
 
-_Company mentioned across 17 stories._
+_Company mentioned across 20 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/08_bigquery-snowflake-redshift-databricks-fabric-where-each-one|BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill]]
+    - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]
+    - [[sources/2026-05-19/10_integrating-oic-with-databricks-using-aws-s3-external-tables|Integrating OIC with Databricks using AWS S3 External Tables Approach]]
 - [[episodes/2026-05-16|2026-05-16]]
     - [[sources/2026-05-16/07_building-a-letterboxd-film-review-data-pipeline-from-raw-scr|Building a Letterboxd Film Review data pipeline from raw scrape to first insight]]
 - [[episodes/2026-05-13|2026-05-13]]

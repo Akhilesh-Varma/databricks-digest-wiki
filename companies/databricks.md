@@ -3,17 +3,25 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-18
-mention_count: 199
+last_seen: 2026-05-19
+mention_count: 206
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 199 stories._
+_Company mentioned across 206 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/04_from-fragmented-schedulers-to-unified-orchestration-a-lakeho|From Fragmented Schedulers to Unified Orchestration A Lakehouse Evolution]]
+    - [[sources/2026-05-19/08_bigquery-snowflake-redshift-databricks-fabric-where-each-one|BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill]]
+    - [[sources/2026-05-19/03_customer-story-nab-s-journey-to-100-declarative-pipelines|CUSTOMER STORY NAB s Journey to 100 Declarative Pipelines]]
+    - [[sources/2026-05-19/10_integrating-oic-with-databricks-using-aws-s3-external-tables|Integrating OIC with Databricks using AWS S3 External Tables Approach]]
+    - [[sources/2026-05-19/07_running-100-billion-rows-on-databricks-serverless-photon-wit|Running 100 Billion Rows on Databricks Serverless Photon Without Managing Infrastructure]]
+    - [[sources/2026-05-19/06_understanding-delta-lake-delta-tables-and-delta-live-tables|Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks]]
+    - [[sources/2026-05-19/01_databricks-sdk-java-v0-110-0-released|Databricks SDK Java v0.110.0 released]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/09_the-missing-organizing-principle-of-microsoft-fabric-medalli|The Missing Organizing Principle of Microsoft Fabric Medallion Architecture Explained gem]]
     - [[sources/2026-05-18/07_stop-naming-your-healthcare-columns-wrong-iso-11179-explaine|Stop Naming Your Healthcare Columns Wrong ISO-11179 Explained]]

@@ -3,17 +3,19 @@ type: concept
 name: Spark Declarative Pipelines
 slug: spark-declarative-pipelines
 first_seen: 2026-04-14
-last_seen: 2026-05-12
-mention_count: 12
-avg_confidence: 0.742
+last_seen: 2026-05-19
+mention_count: 13
+avg_confidence: 0.762
 tags: [concept]
 ---
 
 # Spark Declarative Pipelines
 
-_Concept mentioned across 12 stories._
+_Concept mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/03_customer-story-nab-s-journey-to-100-declarative-pipelines|CUSTOMER STORY NAB s Journey to 100 Declarative Pipelines]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/06_building-a-spark-declarative-pipeline-a-modern-financial-dat|Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP, Apache Iceberg]]
     - [[sources/2026-05-12/05_databricks-sdp-explained-unified-ddl-dml-in-modern-pipelines|Databricks SDP Explained Unified DDL DML in Modern Pipelines]]

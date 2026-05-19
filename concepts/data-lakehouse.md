@@ -3,17 +3,19 @@ type: concept
 name: Data Lakehouse
 slug: data-lakehouse
 first_seen: 2026-04-10
-last_seen: 2026-05-12
-mention_count: 9
-avg_confidence: 0.8
+last_seen: 2026-05-19
+mention_count: 10
+avg_confidence: 0.79
 tags: [concept]
 ---
 
 # Data Lakehouse
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/06_understanding-delta-lake-delta-tables-and-delta-live-tables|Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/06_building-a-spark-declarative-pipeline-a-modern-financial-dat|Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP, Apache Iceberg]]
 - [[episodes/2026-05-11|2026-05-11]]

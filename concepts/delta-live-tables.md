@@ -3,17 +3,19 @@ type: concept
 name: Delta Live Tables
 slug: delta-live-tables
 first_seen: 2026-04-25
-last_seen: 2026-05-16
-mention_count: 7
-avg_confidence: 0.786
+last_seen: 2026-05-19
+mention_count: 8
+avg_confidence: 0.812
 tags: [concept]
 ---
 
 # Delta Live Tables
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/06_understanding-delta-lake-delta-tables-and-delta-live-tables|Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks]]
 - [[episodes/2026-05-16|2026-05-16]]
     - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
 - [[episodes/2026-05-11|2026-05-11]]

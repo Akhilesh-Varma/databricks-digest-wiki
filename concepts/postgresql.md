@@ -3,17 +3,19 @@ type: concept
 name: PostgreSQL
 slug: postgresql
 first_seen: 2026-04-09
-last_seen: 2026-05-18
-mention_count: 19
-avg_confidence: 0.653
+last_seen: 2026-05-19
+mention_count: 20
+avg_confidence: 0.665
 tags: [concept]
 ---
 
 # PostgreSQL
 
-_Concept mentioned across 19 stories._
+_Concept mentioned across 20 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/08_building-a-real-time-weather-streaming-pipeline-with-kafka-d|Building a Real-Time Weather Streaming Pipeline with Kafka, Docker Python]]
 - [[episodes/2026-05-15|2026-05-15]]

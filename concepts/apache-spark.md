@@ -3,17 +3,20 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-05-16
-mention_count: 38
-avg_confidence: 0.697
+last_seen: 2026-05-19
+mention_count: 40
+avg_confidence: 0.682
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 38 stories._
+_Concept mentioned across 40 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]
+    - [[sources/2026-05-19/07_running-100-billion-rows-on-databricks-serverless-photon-wit|Running 100 Billion Rows on Databricks Serverless Photon Without Managing Infrastructure]]
 - [[episodes/2026-05-16|2026-05-16]]
     - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
 - [[episodes/2026-05-15|2026-05-15]]

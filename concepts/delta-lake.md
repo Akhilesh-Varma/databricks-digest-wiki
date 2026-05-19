@@ -3,17 +3,19 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-18
-mention_count: 45
-avg_confidence: 0.738
+last_seen: 2026-05-19
+mention_count: 46
+avg_confidence: 0.743
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 45 stories._
+_Concept mentioned across 46 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/06_understanding-delta-lake-delta-tables-and-delta-live-tables|Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/04_building-rag-pipeline-using-delta-lake-on-databricks|Building RAG Pipeline using Delta Lake on Databricks]]
 - [[episodes/2026-05-17|2026-05-17]]

@@ -3,17 +3,19 @@ type: concept
 name: Medallion Architecture
 slug: medallion-architecture
 first_seen: 2026-04-14
-last_seen: 2026-05-18
-mention_count: 14
-avg_confidence: 0.743
+last_seen: 2026-05-19
+mention_count: 15
+avg_confidence: 0.74
 tags: [concept]
 ---
 
 # Medallion Architecture
 
-_Concept mentioned across 14 stories._
+_Concept mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/03_customer-story-nab-s-journey-to-100-declarative-pipelines|CUSTOMER STORY NAB s Journey to 100 Declarative Pipelines]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/09_the-missing-organizing-principle-of-microsoft-fabric-medalli|The Missing Organizing Principle of Microsoft Fabric Medallion Architecture Explained gem]]
 - [[episodes/2026-05-14|2026-05-14]]

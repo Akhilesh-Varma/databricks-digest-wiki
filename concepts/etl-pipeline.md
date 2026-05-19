@@ -3,17 +3,19 @@ type: concept
 name: ETL Pipeline
 slug: etl-pipeline
 first_seen: 2026-04-13
-last_seen: 2026-05-18
-mention_count: 7
-avg_confidence: 0.714
+last_seen: 2026-05-19
+mention_count: 8
+avg_confidence: 0.713
 tags: [concept]
 ---
 
 # ETL Pipeline
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/06_understanding-delta-lake-delta-tables-and-delta-live-tables|Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/08_building-a-real-time-weather-streaming-pipeline-with-kafka-d|Building a Real-Time Weather Streaming Pipeline with Kafka, Docker Python]]
 - [[episodes/2026-05-12|2026-05-12]]

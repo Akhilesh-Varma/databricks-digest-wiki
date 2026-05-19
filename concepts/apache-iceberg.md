@@ -3,17 +3,19 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-05-18
-mention_count: 19
-avg_confidence: 0.853
+last_seen: 2026-05-19
+mention_count: 20
+avg_confidence: 0.86
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 19 stories._
+_Concept mentioned across 20 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/06_apache-fluss-architecting-the-streaming-first-persistent-dat|Apache Fluss Architecting the Streaming-First Persistent Data Stack]]
 - [[episodes/2026-05-17|2026-05-17]]

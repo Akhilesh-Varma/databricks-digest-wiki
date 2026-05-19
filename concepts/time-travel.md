@@ -3,17 +3,20 @@ type: concept
 name: Time Travel
 slug: time-travel
 first_seen: 2026-04-14
-last_seen: 2026-05-12
-mention_count: 5
-avg_confidence: 0.64
+last_seen: 2026-05-19
+mention_count: 7
+avg_confidence: 0.614
 tags: [concept]
 ---
 
 # Time Travel
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]
+    - [[sources/2026-05-19/06_understanding-delta-lake-delta-tables-and-delta-live-tables|Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/09_snowflake-for-data-engineering-interviews-a-beginner-s-guide|Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse]]
 - [[episodes/2026-05-09|2026-05-09]]

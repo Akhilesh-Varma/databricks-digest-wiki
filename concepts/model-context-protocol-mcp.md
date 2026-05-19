@@ -3,17 +3,19 @@ type: concept
 name: Model Context Protocol (MCP)
 slug: model-context-protocol-mcp
 first_seen: 2026-04-17
-last_seen: 2026-05-07
-mention_count: 3
-avg_confidence: 0.8
+last_seen: 2026-05-19
+mention_count: 4
+avg_confidence: 0.775
 tags: [concept]
 ---
 
 # Model Context Protocol (MCP)
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/05_show-hn-insforge-open-source-heroku-for-coding-agents|Show HN InsForge Open-source Heroku for coding agents]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
 - [[episodes/2026-05-02|2026-05-02]]

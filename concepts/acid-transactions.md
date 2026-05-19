@@ -3,17 +3,19 @@ type: concept
 name: ACID Transactions
 slug: acid-transactions
 first_seen: 2026-04-14
-last_seen: 2026-05-10
-mention_count: 6
-avg_confidence: 0.533
+last_seen: 2026-05-19
+mention_count: 7
+avg_confidence: 0.557
 tags: [concept]
 ---
 
 # ACID Transactions
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/06_understanding-delta-lake-delta-tables-and-delta-live-tables|Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks]]
 - [[episodes/2026-05-10|2026-05-10]]
     - [[sources/2026-05-10/06_delta-lake-transaction-logs-explained-the-ultimate-troublesh|Delta Lake Transaction Logs Explained The Ultimate Troubleshooting Superpower for Data Engineers]]
 - [[episodes/2026-05-09|2026-05-09]]

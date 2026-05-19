@@ -3,17 +3,19 @@ type: concept
 name: Serverless Compute
 slug: serverless-compute
 first_seen: 2026-04-13
-last_seen: 2026-05-04
-mention_count: 4
+last_seen: 2026-05-19
+mention_count: 5
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Serverless Compute
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/07_running-100-billion-rows-on-databricks-serverless-photon-wit|Running 100 Billion Rows on Databricks Serverless Photon Without Managing Infrastructure]]
 - [[episodes/2026-05-04|2026-05-04]]
     - [[sources/2026-05-04/06_databricks-data-engineer-associate-exam-what-changed-in-2025|Databricks Data Engineer Associate Exam What Changed in 2025]]
 - [[episodes/2026-05-01|2026-05-01]]

@@ -3,17 +3,19 @@ type: concept
 name: Lakeflow
 slug: lakeflow
 first_seen: 2026-04-15
-last_seen: 2026-05-14
-mention_count: 10
-avg_confidence: 0.7
+last_seen: 2026-05-19
+mention_count: 11
+avg_confidence: 0.718
 tags: [concept]
 ---
 
 # Lakeflow
 
-_Concept mentioned across 10 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/04_from-fragmented-schedulers-to-unified-orchestration-a-lakeho|From Fragmented Schedulers to Unified Orchestration A Lakehouse Evolution]]
 - [[episodes/2026-05-14|2026-05-14]]
     - [[sources/2026-05-14/02_community-pulse-your-weekly-roundup-may-04-10-2026|Community Pulse Your Weekly Roundup! May 04 10, 2026]]
 - [[episodes/2026-05-12|2026-05-12]]

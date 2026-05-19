@@ -3,17 +3,19 @@ type: company
 name: Google
 slug: google
 first_seen: 2026-04-05
-last_seen: 2026-05-17
-mention_count: 19
+last_seen: 2026-05-19
+mention_count: 20
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google
 
-_Company mentioned across 19 stories._
+_Company mentioned across 20 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/08_bigquery-snowflake-redshift-databricks-fabric-where-each-one|BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill]]
 - [[episodes/2026-05-17|2026-05-17]]
     - [[sources/2026-05-17/09_cosa-sono-i-modelli-di-apprendimento-automatico-tipi-databri|Cosa sono i modelli di apprendimento automatico? Tipi - Databricks]]
 - [[episodes/2026-05-16|2026-05-16]]

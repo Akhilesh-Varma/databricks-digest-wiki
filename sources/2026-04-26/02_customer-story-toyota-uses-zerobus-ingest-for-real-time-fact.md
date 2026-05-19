@@ -32,4 +32,4 @@ Toyota is leveraging Zerobus Ingest on the Databricks platform to process factor
 - **URL:** <https://community.databricks.com/t5/announcements/customer-story-toyota-uses-zerobus-ingest-for-real-time-factory/td-p/155358>
 
 ## Related
-[[concepts/zerobus-ingest|zerobus-ingest]] · [[concepts/databricks|databricks]] · [[concepts/unity-catalog|unity-catalog]] · [[concepts/anomaly-detection|anomaly-detection]] · [[concepts/analytics|analytics]] · [[concepts/ai|ai]] · [[companies/toyota|Toyota]] · [[companies/databricks|Databricks]] · [[companies/soracom|Soracom]] · [[people/kento-izumi|Kento Izumi]] · [[episodes/2026-04-26|2026-04-26]]
+[[concepts/zerobus-ingest|zerobus-ingest]] · [[concepts/databricks|databricks]] · [[concepts/unity-catalog|unity-catalog]] · [[concepts/anomaly-detection|anomaly-detection]] · [[concepts/analytics|analytics]] · [[concepts/zerobus|zerobus]] · [[concepts/ai|ai]] · [[companies/toyota|Toyota]] · [[companies/databricks|Databricks]] · [[companies/soracom|Soracom]] · [[people/kento-izumi|Kento Izumi]] · [[episodes/2026-04-26|2026-04-26]]

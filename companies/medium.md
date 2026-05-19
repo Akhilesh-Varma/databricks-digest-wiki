@@ -3,17 +3,19 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-18
-mention_count: 28
+last_seen: 2026-05-19
+mention_count: 29
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 28 stories._
+_Company mentioned across 29 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/07_running-100-billion-rows-on-databricks-serverless-photon-wit|Running 100 Billion Rows on Databricks Serverless Photon Without Managing Infrastructure]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/04_building-rag-pipeline-using-delta-lake-on-databricks|Building RAG Pipeline using Delta Lake on Databricks]]
 - [[episodes/2026-05-17|2026-05-17]]

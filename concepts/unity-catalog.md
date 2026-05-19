@@ -3,17 +3,19 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-16
-mention_count: 66
+last_seen: 2026-05-19
+mention_count: 67
 avg_confidence: 0.742
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 66 stories._
+_Concept mentioned across 67 stories._
 
 ## Appears in
+- [[episodes/2026-05-19|2026-05-19]]
+    - [[sources/2026-05-19/04_from-fragmented-schedulers-to-unified-orchestration-a-lakeho|From Fragmented Schedulers to Unified Orchestration A Lakehouse Evolution]]
 - [[episodes/2026-05-16|2026-05-16]]
     - [[sources/2026-05-16/03_learning-series-machine-learning-model-deployment|Learning Series Machine Learning Model Deployment]]
     - [[sources/2026-05-16/01_processing-unstructured-data-in-volumes-with-unity-catalog-o|Processing Unstructured Data in Volumes with Unity Catalog Open APIs]]
