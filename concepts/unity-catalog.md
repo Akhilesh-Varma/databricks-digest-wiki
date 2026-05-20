@@ -3,17 +3,20 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-19
-mention_count: 67
-avg_confidence: 0.742
+last_seen: 2026-05-20
+mention_count: 69
+avg_confidence: 0.745
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 67 stories._
+_Concept mentioned across 69 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/01_delta-lake-rust-python-python-v1-6-0-released|Delta Lake Rust Python python-v1.6.0 released]]
+    - [[sources/2026-05-20/05_migrating-a-legacy-databricks-platform-to-unity-catalog-a-co|Migrating a Legacy Databricks Platform to Unity Catalog A Complete Engineering Playbook]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/04_from-fragmented-schedulers-to-unified-orchestration-a-lakeho|From Fragmented Schedulers to Unified Orchestration A Lakehouse Evolution]]
 - [[episodes/2026-05-16|2026-05-16]]

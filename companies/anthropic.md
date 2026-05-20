@@ -3,17 +3,22 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-05-19
-mention_count: 15
+last_seen: 2026-05-20
+mention_count: 19
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 15 stories._
+_Company mentioned across 19 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/04_show-hn-forge-guardrails-take-an-8b-model-from-53-to-99-on-a|Show HN Forge Guardrails take an 8B model from 53 to 99 on agentic tasks]]
+    - [[sources/2026-05-20/07_show-hn-how-to-analyze-your-llm-output-a-behavioural-health|Show HN How to analyze your LLM output A behavioural health monitor for LLMs]]
+    - [[sources/2026-05-20/06_show-hn-superlog-yc-p26-observability-that-installs-itself-a|Show HN Superlog YC P26 Observability that installs itself and fixes bugs]]
+    - [[sources/2026-05-20/08_a-data-platform-tracking-news-and-social-media-across-167-ci|A data platform tracking news and social media across 167 cities in Rio Grande do Norte for under R 5 month.]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/05_show-hn-insforge-open-source-heroku-for-coding-agents|Show HN InsForge Open-source Heroku for coding agents]]
 - [[episodes/2026-05-18|2026-05-18]]

@@ -3,17 +3,20 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-19
-mention_count: 46
-avg_confidence: 0.743
+last_seen: 2026-05-20
+mention_count: 48
+avg_confidence: 0.748
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 46 stories._
+_Concept mentioned across 48 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/03_from-associate-to-professional-my-learning-plan-to-ace-all-d|From Associate to Professional My Learning Plan to ace all Databricks Data Engineer Certifications]]
+    - [[sources/2026-05-20/01_delta-lake-rust-python-python-v1-6-0-released|Delta Lake Rust Python python-v1.6.0 released]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/06_understanding-delta-lake-delta-tables-and-delta-live-tables|Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks]]
 - [[episodes/2026-05-18|2026-05-18]]

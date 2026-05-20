@@ -32,4 +32,4 @@ The delta-rs project released rust-v0.32.2 on 2026-05-15, a maintenance release 
 - **URL:** <https://github.com/delta-io/delta-rs/releases/tag/rust-v0.32.2>
 
 ## Related
-[[concepts/delta-lake|delta-lake]] · [[concepts/delta-rs|delta-rs]] · [[concepts/dynamodb-locking|dynamodb-locking]] · [[concepts/commitproperties|commitproperties]] · [[concepts/python|python]] · [[concepts/merge|merge]] · [[companies/delta-io|delta-io]] · [[people/ethan-tyler|Ethan Tyler]] · [[people/r-tyler|R Tyler]] · [[episodes/2026-05-17|2026-05-17]]
+[[concepts/delta-lake|delta-lake]] · [[concepts/delta-rs|delta-rs]] · [[concepts/dynamodb-locking|dynamodb-locking]] · [[concepts/commitproperties|commitproperties]] · [[concepts/dynamodb|dynamodb]] · [[concepts/python|python]] · [[concepts/merge|merge]] · [[companies/delta-io|delta-io]] · [[people/ethan-tyler|Ethan Tyler]] · [[people/r-tyler|R Tyler]] · [[episodes/2026-05-17|2026-05-17]]

@@ -3,17 +3,19 @@ type: concept
 name: PostgreSQL
 slug: postgresql
 first_seen: 2026-04-09
-last_seen: 2026-05-19
-mention_count: 20
-avg_confidence: 0.665
+last_seen: 2026-05-20
+mention_count: 21
+avg_confidence: 0.681
 tags: [concept]
 ---
 
 # PostgreSQL
 
-_Concept mentioned across 20 stories._
+_Concept mentioned across 21 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/09_why-real-time-analytics-eventually-changes-your-database-arc|Why Real-Time Analytics Eventually Changes Your Database Architecture]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]
 - [[episodes/2026-05-18|2026-05-18]]

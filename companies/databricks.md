@@ -3,17 +3,20 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-19
-mention_count: 206
+last_seen: 2026-05-20
+mention_count: 208
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 206 stories._
+_Company mentioned across 208 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/03_from-associate-to-professional-my-learning-plan-to-ace-all-d|From Associate to Professional My Learning Plan to ace all Databricks Data Engineer Certifications]]
+    - [[sources/2026-05-20/05_migrating-a-legacy-databricks-platform-to-unity-catalog-a-co|Migrating a Legacy Databricks Platform to Unity Catalog A Complete Engineering Playbook]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/04_from-fragmented-schedulers-to-unified-orchestration-a-lakeho|From Fragmented Schedulers to Unified Orchestration A Lakehouse Evolution]]
     - [[sources/2026-05-19/08_bigquery-snowflake-redshift-databricks-fabric-where-each-one|BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill]]

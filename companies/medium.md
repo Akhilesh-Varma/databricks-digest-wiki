@@ -3,17 +3,19 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-19
-mention_count: 29
+last_seen: 2026-05-20
+mention_count: 30
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 29 stories._
+_Company mentioned across 30 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/05_migrating-a-legacy-databricks-platform-to-unity-catalog-a-co|Migrating a Legacy Databricks Platform to Unity Catalog A Complete Engineering Playbook]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/07_running-100-billion-rows-on-databricks-serverless-photon-wit|Running 100 Billion Rows on Databricks Serverless Photon Without Managing Infrastructure]]
 - [[episodes/2026-05-18|2026-05-18]]

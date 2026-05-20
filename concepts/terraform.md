@@ -3,17 +3,19 @@ type: concept
 name: Terraform
 slug: terraform
 first_seen: 2026-04-08
-last_seen: 2026-04-30
-mention_count: 5
-avg_confidence: 0.58
+last_seen: 2026-05-20
+mention_count: 6
+avg_confidence: 0.55
 tags: [concept]
 ---
 
 # Terraform
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/08_a-data-platform-tracking-news-and-social-media-across-167-ci|A data platform tracking news and social media across 167 cities in Rio Grande do Norte for under R 5 month.]]
 - [[episodes/2026-04-30|2026-04-30]]
     - [[sources/2026-04-30/05_configuring-databricks-with-terraform-clusters-unity-catalog|Configuring Databricks with Terraform Clusters, Unity Catalog Permissions]]
 - [[episodes/2026-04-29|2026-04-29]]

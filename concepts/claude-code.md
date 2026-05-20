@@ -3,17 +3,20 @@ type: concept
 name: Claude Code
 slug: claude-code
 first_seen: 2026-04-05
-last_seen: 2026-05-18
-mention_count: 7
-avg_confidence: 0.557
+last_seen: 2026-05-20
+mention_count: 9
+avg_confidence: 0.522
 tags: [concept]
 ---
 
 # Claude Code
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/06_show-hn-superlog-yc-p26-observability-that-installs-itself-a|Show HN Superlog YC P26 Observability that installs itself and fixes bugs]]
+    - [[sources/2026-05-20/08_a-data-platform-tracking-news-and-social-media-across-167-ci|A data platform tracking news and social media across 167 cities in Rio Grande do Norte for under R 5 month.]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/03_show-hn-semble-code-search-for-agents-that-uses-98-fewer-tok|Show HN Semble Code search for agents that uses 98 fewer tokens than grep]]
 - [[episodes/2026-05-14|2026-05-14]]

@@ -3,17 +3,19 @@ type: company
 name: Amazon Web Services
 slug: amazon-web-services
 first_seen: 2026-04-08
-last_seen: 2026-05-19
-mention_count: 20
+last_seen: 2026-05-20
+mention_count: 21
 avg_confidence: ""
 tags: [company]
 ---
 
 # Amazon Web Services
 
-_Company mentioned across 20 stories._
+_Company mentioned across 21 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/06_show-hn-superlog-yc-p26-observability-that-installs-itself-a|Show HN Superlog YC P26 Observability that installs itself and fixes bugs]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/08_bigquery-snowflake-redshift-databricks-fabric-where-each-one|BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill]]
     - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]

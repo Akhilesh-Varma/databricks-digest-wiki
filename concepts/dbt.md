@@ -3,17 +3,19 @@ type: concept
 name: dbt
 slug: dbt
 first_seen: 2026-04-05
-last_seen: 2026-05-15
-mention_count: 9
-avg_confidence: 0.767
+last_seen: 2026-05-20
+mention_count: 10
+avg_confidence: 0.76
 tags: [concept]
 ---
 
 # dbt
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/08_a-data-platform-tracking-news-and-social-media-across-167-ci|A data platform tracking news and social media across 167 cities in Rio Grande do Norte for under R 5 month.]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/08_etl-vs-elt-which-approach-should-you-use-and-why|ETL vs. ELT Which Approach Should You Use and Why?]]
 - [[episodes/2026-05-12|2026-05-12]]

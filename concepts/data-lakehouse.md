@@ -3,17 +3,19 @@ type: concept
 name: Data Lakehouse
 slug: data-lakehouse
 first_seen: 2026-04-10
-last_seen: 2026-05-19
-mention_count: 10
-avg_confidence: 0.79
+last_seen: 2026-05-20
+mention_count: 11
+avg_confidence: 0.782
 tags: [concept]
 ---
 
 # Data Lakehouse
 
-_Concept mentioned across 10 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/03_from-associate-to-professional-my-learning-plan-to-ace-all-d|From Associate to Professional My Learning Plan to ace all Databricks Data Engineer Certifications]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/06_understanding-delta-lake-delta-tables-and-delta-live-tables|Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks]]
 - [[episodes/2026-05-12|2026-05-12]]

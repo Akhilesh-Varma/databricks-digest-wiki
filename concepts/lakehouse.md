@@ -3,17 +3,19 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-05
-last_seen: 2026-05-19
-mention_count: 33
-avg_confidence: 0.624
+last_seen: 2026-05-20
+mention_count: 34
+avg_confidence: 0.626
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 33 stories._
+_Concept mentioned across 34 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/10_before-you-put-a-fabric-ai-agent-in-production-steal-this-ch|Before You Put a Fabric AI Agent in Production, Steal This Checklist]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/07_running-100-billion-rows-on-databricks-serverless-photon-wit|Running 100 Billion Rows on Databricks Serverless Photon Without Managing Infrastructure]]
 - [[episodes/2026-05-18|2026-05-18]]

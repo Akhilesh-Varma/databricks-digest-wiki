@@ -3,17 +3,19 @@ type: concept
 name: Parquet
 slug: parquet
 first_seen: 2026-04-17
-last_seen: 2026-05-19
-mention_count: 8
-avg_confidence: 0.55
+last_seen: 2026-05-20
+mention_count: 9
+avg_confidence: 0.567
 tags: [concept]
 ---
 
 # Parquet
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/08_a-data-platform-tracking-news-and-social-media-across-167-ci|A data platform tracking news and social media across 167 cities in Rio Grande do Norte for under R 5 month.]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]
     - [[sources/2026-05-19/10_integrating-oic-with-databricks-using-aws-s3-external-tables|Integrating OIC with Databricks using AWS S3 External Tables Approach]]

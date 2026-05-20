@@ -3,17 +3,19 @@ type: concept
 name: DuckDB
 slug: duckdb
 first_seen: 2026-04-09
-last_seen: 2026-05-19
-mention_count: 11
-avg_confidence: 0.618
+last_seen: 2026-05-20
+mention_count: 12
+avg_confidence: 0.625
 tags: [concept]
 ---
 
 # DuckDB
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/08_a-data-platform-tracking-news-and-social-media-across-167-ci|A data platform tracking news and social media across 167 cities in Rio Grande do Norte for under R 5 month.]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/08_bigquery-snowflake-redshift-databricks-fabric-where-each-one|BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill]]
     - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]

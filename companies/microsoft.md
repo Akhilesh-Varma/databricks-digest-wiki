@@ -3,17 +3,19 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-05-19
-mention_count: 31
+last_seen: 2026-05-20
+mention_count: 32
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 31 stories._
+_Company mentioned across 32 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/10_before-you-put-a-fabric-ai-agent-in-production-steal-this-ch|Before You Put a Fabric AI Agent in Production, Steal This Checklist]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/08_bigquery-snowflake-redshift-databricks-fabric-where-each-one|BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill]]
 - [[episodes/2026-05-18|2026-05-18]]

@@ -3,17 +3,19 @@ type: concept
 name: OpenTelemetry
 slug: opentelemetry
 first_seen: 2026-04-15
-last_seen: 2026-05-07
-mention_count: 3
-avg_confidence: 0.9
+last_seen: 2026-05-20
+mention_count: 4
+avg_confidence: 0.925
 tags: [concept]
 ---
 
 # OpenTelemetry
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/06_show-hn-superlog-yc-p26-observability-that-installs-itself-a|Show HN Superlog YC P26 Observability that installs itself and fixes bugs]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/05_native-opentelemetry-observability-for-databricks-apps|Native OpenTelemetry Observability for Databricks Apps]]
 - [[episodes/2026-04-18|2026-04-18]]

@@ -3,17 +3,19 @@ type: concept
 name: Apache Airflow
 slug: apache-airflow
 first_seen: 2026-04-17
-last_seen: 2026-05-12
-mention_count: 5
+last_seen: 2026-05-20
+mention_count: 6
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Apache Airflow
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/08_a-data-platform-tracking-news-and-social-media-across-167-ci|A data platform tracking news and social media across 167 cities in Rio Grande do Norte for under R 5 month.]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/08_etl-pipeline-for-data-engineering-a-beginner-s-guide-to-extr|ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load]]
 - [[episodes/2026-05-08|2026-05-08]]

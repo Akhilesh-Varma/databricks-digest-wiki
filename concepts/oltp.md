@@ -3,17 +3,19 @@ type: concept
 name: OLTP
 slug: oltp
 first_seen: 2026-03-17
-last_seen: 2026-05-12
-mention_count: 5
-avg_confidence: 0.58
+last_seen: 2026-05-20
+mention_count: 6
+avg_confidence: 0.6
 tags: [concept]
 ---
 
 # OLTP
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-20|2026-05-20]]
+    - [[sources/2026-05-20/09_why-real-time-analytics-eventually-changes-your-database-arc|Why Real-Time Analytics Eventually Changes Your Database Architecture]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/10_amazon-redshift-for-data-engineering-columnar-storage-mpp-co|Amazon Redshift for Data Engineering Columnar Storage, MPP, COPY, Distribution Keys, Spectrum]]
 - [[episodes/2026-05-11|2026-05-11]]

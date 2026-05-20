@@ -32,4 +32,4 @@ Databricks CLI version 0.299.0 has been released, introducing several key change
 - **URL:** <https://github.com/databricks/cli/releases/tag/v0.299.0>
 
 ## Related
-[[concepts/token-cache|token-cache]] · [[concepts/unified-host|unified-host]] · [[concepts/interactive-pagination|interactive-pagination]] · [[concepts/secure-token-storage|secure-token-storage]] · [[concepts/unified-hosts|unified-hosts]] · [[concepts/oauth-token|oauth-token]] · [[concepts/databricks|databricks]] · [[concepts/schema|schema]] · [[concepts/json|json]] · [[concepts/sdk|sdk]] · [[concepts/cli|cli]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-30|2026-04-30]]
+[[concepts/token-cache|token-cache]] · [[concepts/unified-host|unified-host]] · [[concepts/interactive-pagination|interactive-pagination]] · [[concepts/secure-token-storage|secure-token-storage]] · [[concepts/unified-hosts|unified-hosts]] · [[concepts/oauth-token|oauth-token]] · [[concepts/databricks|databricks]] · [[concepts/warehouse|warehouse]] · [[concepts/schema|schema]] · [[concepts/json|json]] · [[concepts/sdk|sdk]] · [[concepts/cli|cli]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-30|2026-04-30]]
