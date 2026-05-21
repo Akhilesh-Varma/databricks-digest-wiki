@@ -3,17 +3,19 @@ type: concept
 name: Medallion Architecture
 slug: medallion-architecture
 first_seen: 2026-04-14
-last_seen: 2026-05-19
-mention_count: 15
-avg_confidence: 0.74
+last_seen: 2026-05-21
+mention_count: 16
+avg_confidence: 0.756
 tags: [concept]
 ---
 
 # Medallion Architecture
 
-_Concept mentioned across 15 stories._
+_Concept mentioned across 16 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/05_stop-building-messy-pipelines-the-medallion-architecture-exp|Stop Building Messy Pipelines The Medallion Architecture Explained]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/03_customer-story-nab-s-journey-to-100-declarative-pipelines|CUSTOMER STORY NAB s Journey to 100 Declarative Pipelines]]
 - [[episodes/2026-05-18|2026-05-18]]

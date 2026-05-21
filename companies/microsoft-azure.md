@@ -3,17 +3,19 @@ type: company
 name: Microsoft Azure
 slug: microsoft-azure
 first_seen: 2026-04-08
-last_seen: 2026-05-15
-mention_count: 14
+last_seen: 2026-05-21
+mention_count: 15
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft Azure
 
-_Company mentioned across 14 stories._
+_Company mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/07_azure-databricks-unity-catalog-setup-with-adls-gen2-step-by|Azure Databricks Unity Catalog Setup with ADLS Gen2 Step by Step Guide]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/06_azure-databricks-under-the-hood-how-compute-storage-and-orch|Azure Databricks Under the Hood How Compute, Storage, and Orchestration Work Together]]
 - [[episodes/2026-05-12|2026-05-12]]

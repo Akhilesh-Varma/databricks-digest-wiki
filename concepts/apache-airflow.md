@@ -3,17 +3,19 @@ type: concept
 name: Apache Airflow
 slug: apache-airflow
 first_seen: 2026-04-17
-last_seen: 2026-05-20
-mention_count: 6
+last_seen: 2026-05-21
+mention_count: 7
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Apache Airflow
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/09_why-stripe-didnt-cut-it-for-creators-in-pakistan-and-how-we|Why Stripe Didnt Cut It for Creators in Pakistan and How We Built a Parallel Pipeline for 0.05 Per Transaction]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/08_a-data-platform-tracking-news-and-social-media-across-167-ci|A data platform tracking news and social media across 167 cities in Rio Grande do Norte for under R 5 month.]]
 - [[episodes/2026-05-12|2026-05-12]]

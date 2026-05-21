@@ -3,17 +3,19 @@ type: company
 name: Towards Data Science
 slug: towards-data-science
 first_seen: 2026-04-11
-last_seen: 2026-05-10
-mention_count: 3
+last_seen: 2026-05-21
+mention_count: 4
 avg_confidence: ""
 tags: [company]
 ---
 
 # Towards Data Science
 
-_Company mentioned across 3 stories._
+_Company mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/06_optimizing-ai-agent-planning-with-operations-research-and-da|Optimizing AI Agent Planning with Operations Research and Data Science]]
 - [[episodes/2026-05-10|2026-05-10]]
     - [[sources/2026-05-10/04_rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-p|RAG Is Blind to Time I Built a Temporal Layer to Fix It in Production]]
 - [[episodes/2026-04-15|2026-04-15]]

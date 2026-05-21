@@ -73,7 +73,7 @@ _Concept mentioned across 48 stories._
     - [[sources/2026-04-22/05_building-agraphrag-system-for-aml-compliance-on-the-databric|Building aGraphRAG System for AML Compliance on the Databricks Ecosystem]]
     - [[sources/2026-04-22/03_delta-lake-under-the-hood-what-every-data-engineer-should-kn|Delta Lake Under the Hood What Every Data Engineer Should Know]]
 - [[episodes/2026-04-19|2026-04-19]]
-    - [[sources/2026-04-19/02_best-practices-for-safe-data-experimentation-with-databricks|Best practices for safe data experimentation with Databricks]]
+    - [[sources/2026-04-19/03_best-practices-for-safe-data-experimentation-with-databricks|Best practices for safe data experimentation with Databricks]]
 - [[episodes/2026-04-18|2026-04-18]]
     - [[sources/2026-04-18/02_learning-series-build-data-pipelines-with-lakeflow-spark-dec|Learning Series Build Data Pipelines with Lakeflow Spark Declarative Pipelines]]
 - [[episodes/2026-04-17|2026-04-17]]

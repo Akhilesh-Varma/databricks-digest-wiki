@@ -3,17 +3,20 @@ type: company
 name: Amazon Web Services
 slug: amazon-web-services
 first_seen: 2026-04-08
-last_seen: 2026-05-20
-mention_count: 21
+last_seen: 2026-05-21
+mention_count: 23
 avg_confidence: ""
 tags: [company]
 ---
 
 # Amazon Web Services
 
-_Company mentioned across 21 stories._
+_Company mentioned across 23 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/10_the-ghost-protocol-stack-how-we-rebuilt-payments-when-every|The Ghost Protocol Stack How We Rebuilt Payments When Every Vendor Cut Us Off]]
+    - [[sources/2026-05-21/09_why-stripe-didnt-cut-it-for-creators-in-pakistan-and-how-we|Why Stripe Didnt Cut It for Creators in Pakistan and How We Built a Parallel Pipeline for 0.05 Per Transaction]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/06_show-hn-superlog-yc-p26-observability-that-installs-itself-a|Show HN Superlog YC P26 Observability that installs itself and fixes bugs]]
 - [[episodes/2026-05-19|2026-05-19]]

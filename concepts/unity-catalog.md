@@ -3,17 +3,19 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-20
-mention_count: 69
-avg_confidence: 0.745
+last_seen: 2026-05-21
+mention_count: 70
+avg_confidence: 0.749
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 69 stories._
+_Concept mentioned across 70 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/07_azure-databricks-unity-catalog-setup-with-adls-gen2-step-by|Azure Databricks Unity Catalog Setup with ADLS Gen2 Step by Step Guide]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/01_delta-lake-rust-python-python-v1-6-0-released|Delta Lake Rust Python python-v1.6.0 released]]
     - [[sources/2026-05-20/05_migrating-a-legacy-databricks-platform-to-unity-catalog-a-co|Migrating a Legacy Databricks Platform to Unity Catalog A Complete Engineering Playbook]]

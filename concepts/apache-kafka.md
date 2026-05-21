@@ -3,17 +3,19 @@ type: concept
 name: Apache Kafka
 slug: apache-kafka
 first_seen: 2026-04-14
-last_seen: 2026-05-18
-mention_count: 8
-avg_confidence: 0.625
+last_seen: 2026-05-21
+mention_count: 9
+avg_confidence: 0.656
 tags: [concept]
 ---
 
 # Apache Kafka
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/09_why-stripe-didnt-cut-it-for-creators-in-pakistan-and-how-we|Why Stripe Didnt Cut It for Creators in Pakistan and How We Built a Parallel Pipeline for 0.05 Per Transaction]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/06_apache-fluss-architecting-the-streaming-first-persistent-dat|Apache Fluss Architecting the Streaming-First Persistent Data Stack]]
     - [[sources/2026-05-18/08_building-a-real-time-weather-streaming-pipeline-with-kafka-d|Building a Real-Time Weather Streaming Pipeline with Kafka, Docker Python]]

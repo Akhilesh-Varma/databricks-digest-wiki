@@ -3,17 +3,19 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-05-20
-mention_count: 19
+last_seen: 2026-05-21
+mention_count: 20
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 19 stories._
+_Company mentioned across 20 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/01_databricks-cli-v1-0-0-released|Databricks CLI v1.0.0 released]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/04_show-hn-forge-guardrails-take-an-8b-model-from-53-to-99-on-a|Show HN Forge Guardrails take an 8B model from 53 to 99 on agentic tasks]]
     - [[sources/2026-05-20/07_show-hn-how-to-analyze-your-llm-output-a-behavioural-health|Show HN How to analyze your LLM output A behavioural health monitor for LLMs]]

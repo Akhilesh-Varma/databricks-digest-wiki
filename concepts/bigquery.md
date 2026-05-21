@@ -3,17 +3,19 @@ type: concept
 name: BigQuery
 slug: bigquery
 first_seen: 2026-04-05
-last_seen: 2026-05-20
-mention_count: 11
-avg_confidence: 0.691
+last_seen: 2026-05-21
+mention_count: 12
+avg_confidence: 0.667
 tags: [concept]
 ---
 
 # BigQuery
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/10_the-ghost-protocol-stack-how-we-rebuilt-payments-when-every|The Ghost Protocol Stack How We Rebuilt Payments When Every Vendor Cut Us Off]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/08_a-data-platform-tracking-news-and-social-media-across-167-ci|A data platform tracking news and social media across 167 cities in Rio Grande do Norte for under R 5 month.]]
 - [[episodes/2026-05-19|2026-05-19]]

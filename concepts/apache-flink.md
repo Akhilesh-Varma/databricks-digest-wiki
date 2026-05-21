@@ -3,17 +3,20 @@ type: concept
 name: Apache Flink
 slug: apache-flink
 first_seen: 2026-04-14
-last_seen: 2026-05-09
-mention_count: 6
-avg_confidence: 0.65
+last_seen: 2026-05-21
+mention_count: 8
+avg_confidence: 0.688
 tags: [concept]
 ---
 
 # Apache Flink
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/10_the-ghost-protocol-stack-how-we-rebuilt-payments-when-every|The Ghost Protocol Stack How We Rebuilt Payments When Every Vendor Cut Us Off]]
+    - [[sources/2026-05-21/09_why-stripe-didnt-cut-it-for-creators-in-pakistan-and-how-we|Why Stripe Didnt Cut It for Creators in Pakistan and How We Built a Parallel Pipeline for 0.05 Per Transaction]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/01_performing-dml-operations-on-unity-catalog-managed-tables-fr|Performing DML Operations on Unity Catalog Managed Tables from External Engines]]
 - [[episodes/2026-05-02|2026-05-02]]

@@ -3,17 +3,20 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-20
-mention_count: 208
+last_seen: 2026-05-21
+mention_count: 210
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 208 stories._
+_Company mentioned across 210 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/01_databricks-cli-v1-0-0-released|Databricks CLI v1.0.0 released]]
+    - [[sources/2026-05-21/07_azure-databricks-unity-catalog-setup-with-adls-gen2-step-by|Azure Databricks Unity Catalog Setup with ADLS Gen2 Step by Step Guide]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/03_from-associate-to-professional-my-learning-plan-to-ace-all-d|From Associate to Professional My Learning Plan to ace all Databricks Data Engineer Certifications]]
     - [[sources/2026-05-20/05_migrating-a-legacy-databricks-platform-to-unity-catalog-a-co|Migrating a Legacy Databricks Platform to Unity Catalog A Complete Engineering Playbook]]
@@ -207,7 +210,7 @@ _Company mentioned across 208 stories._
 - [[episodes/2026-04-19|2026-04-19]]
     - [[sources/2026-04-19/06_how-to-integrate-databricks-with-aws-azure-step-by-step-guid|How to Integrate Databricks with AWS Azure Step by Step Guide for Data Engineers]]
     - [[sources/2026-04-19/03_databricks-community-fellows-march-2026-shout-outs|Databricks Community Fellows March 2026 Shout Outs!]]
-    - [[sources/2026-04-19/02_best-practices-for-safe-data-experimentation-with-databricks|Best practices for safe data experimentation with Databricks]]
+    - [[sources/2026-04-19/03_best-practices-for-safe-data-experimentation-with-databricks|Best practices for safe data experimentation with Databricks]]
     - [[sources/2026-04-19/01_agent-bricks-the-governed-enterprise-agent-platform|Agent Bricks The Governed Enterprise Agent Platform]]
 - [[episodes/2026-04-18|2026-04-18]]
     - [[sources/2026-04-18/05_how-to-schedule-and-monitor-jobs-in-databricks-the-ultimate|How to Schedule and Monitor Jobs in Databricks The Ultimate Guide 2026 Edition]]

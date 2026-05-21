@@ -3,17 +3,19 @@ type: concept
 name: ClickHouse
 slug: clickhouse
 first_seen: 2026-04-21
-last_seen: 2026-05-11
-mention_count: 5
-avg_confidence: 0.94
+last_seen: 2026-05-21
+mention_count: 6
+avg_confidence: 0.933
 tags: [concept]
 ---
 
 # ClickHouse
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/10_the-ghost-protocol-stack-how-we-rebuilt-payments-when-every|The Ghost Protocol Stack How We Rebuilt Payments When Every Vendor Cut Us Off]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/09_why-postgresql-and-clickhouse-work-so-well-together|Why PostgreSQL and ClickHouse Work So Well Together]]
 - [[episodes/2026-05-01|2026-05-01]]

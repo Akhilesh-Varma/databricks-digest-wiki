@@ -3,17 +3,19 @@ type: company
 name: OpenAI
 slug: openai
 first_seen: 2026-04-17
-last_seen: 2026-05-18
-mention_count: 9
+last_seen: 2026-05-21
+mention_count: 10
 avg_confidence: ""
 tags: [company]
 ---
 
 # OpenAI
 
-_Company mentioned across 9 stories._
+_Company mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/01_databricks-cli-v1-0-0-released|Databricks CLI v1.0.0 released]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/03_show-hn-semble-code-search-for-agents-that-uses-98-fewer-tok|Show HN Semble Code search for agents that uses 98 fewer tokens than grep]]
 - [[episodes/2026-05-16|2026-05-16]]

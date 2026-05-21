@@ -3,17 +3,19 @@ type: company
 name: Google
 slug: google
 first_seen: 2026-04-05
-last_seen: 2026-05-19
-mention_count: 20
+last_seen: 2026-05-21
+mention_count: 21
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google
 
-_Company mentioned across 20 stories._
+_Company mentioned across 21 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/10_the-ghost-protocol-stack-how-we-rebuilt-payments-when-every|The Ghost Protocol Stack How We Rebuilt Payments When Every Vendor Cut Us Off]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/08_bigquery-snowflake-redshift-databricks-fabric-where-each-one|BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill]]
 - [[episodes/2026-05-17|2026-05-17]]

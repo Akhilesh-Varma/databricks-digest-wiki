@@ -3,17 +3,19 @@ type: concept
 name: Data Lakehouse
 slug: data-lakehouse
 first_seen: 2026-04-10
-last_seen: 2026-05-20
-mention_count: 11
-avg_confidence: 0.782
+last_seen: 2026-05-21
+mention_count: 12
+avg_confidence: 0.775
 tags: [concept]
 ---
 
 # Data Lakehouse
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/05_stop-building-messy-pipelines-the-medallion-architecture-exp|Stop Building Messy Pipelines The Medallion Architecture Explained]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/03_from-associate-to-professional-my-learning-plan-to-ace-all-d|From Associate to Professional My Learning Plan to ace all Databricks Data Engineer Certifications]]
 - [[episodes/2026-05-19|2026-05-19]]

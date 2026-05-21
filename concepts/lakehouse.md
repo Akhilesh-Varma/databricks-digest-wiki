@@ -59,7 +59,7 @@ _Concept mentioned across 34 stories._
 - [[episodes/2026-04-20|2026-04-20]]
     - [[sources/2026-04-20/04_ask-hn-is-giving-ai-agents-db-access-the-new-bi-tool-problem|Ask HN Is giving AI agents DB access the new BI-tool problem?]]
 - [[episodes/2026-04-19|2026-04-19]]
-    - [[sources/2026-04-19/02_best-practices-for-safe-data-experimentation-with-databricks|Best practices for safe data experimentation with Databricks]]
+    - [[sources/2026-04-19/03_best-practices-for-safe-data-experimentation-with-databricks|Best practices for safe data experimentation with Databricks]]
 - [[episodes/2026-04-15|2026-04-15]]
     - [[sources/2026-04-15/03_learning-series-advanced-techniques-with-spark-declarative-p|Learning Series Advanced Techniques with Spark Declarative Pipelines]]
 - [[episodes/2026-04-14|2026-04-14]]

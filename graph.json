@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-05-20T10:28:38.339007+00:00",
-  "node_count": 2271,
-  "edge_count": 3732,
+  "generated_at": "2026-05-21T10:27:41.648041+00:00",
+  "node_count": 2337,
+  "edge_count": 3833,
   "nodes": [
+    {
+      "id": "episode/2026-05-21",
+      "type": "episode",
+      "label": "Daily Databricks Digest - May 21, 2026",
+      "episode_date": "2026-05-21",
+      "story_count": 8
+    },
     {
       "id": "episode/2026-05-20",
       "type": "episode",
@@ -1287,8 +1294,8 @@
       "id": "story/community_ca3e03c717c9",
       "type": "story",
       "label": "Best practices for safe data experimentation with Databricks",
-      "episode_date": "2026-04-19",
-      "rank": 2,
+      "episode_date": "2026-05-21",
+      "rank": 3,
       "quality_score": 0.7
     },
     {
@@ -2274,6 +2281,70 @@
       "episode_date": "2026-05-08",
       "rank": 10,
       "quality_score": 0.7163120096569114
+    },
+    {
+      "id": "story/github_release_databricks_cli_326685849",
+      "type": "story",
+      "label": "Databricks CLI v1.0.0 released",
+      "episode_date": "2026-05-21",
+      "rank": 1,
+      "quality_score": 0.8588674045831681
+    },
+    {
+      "id": "story/hn_48216786",
+      "type": "story",
+      "label": "Show HN CipherStash Stack Data Level Access Control in TS JS",
+      "episode_date": "2026-05-21",
+      "rank": 4,
+      "quality_score": 0.6178485838076709
+    },
+    {
+      "id": "story/rss_b55e8dfffdae",
+      "type": "story",
+      "label": "Stop Building Messy Pipelines The Medallion Architecture Explained",
+      "episode_date": "2026-05-21",
+      "rank": 5,
+      "quality_score": 0.8179985226704696
+    },
+    {
+      "id": "story/rss_84e961fa19c1",
+      "type": "story",
+      "label": "Optimizing AI Agent Planning with Operations Research and Data Science",
+      "episode_date": "2026-05-21",
+      "rank": 6,
+      "quality_score": 0.7500496137003969
+    },
+    {
+      "id": "story/rss_483a9882c466",
+      "type": "story",
+      "label": "Azure Databricks Unity Catalog Setup with ADLS Gen2 Step by Step Guide",
+      "episode_date": "2026-05-21",
+      "rank": 7,
+      "quality_score": 0.7369226297741402
+    },
+    {
+      "id": "story/devto_3715646",
+      "type": "story",
+      "label": "The Dark Side of Stripe Why Traditional Payments Platforms Fail in Every Country",
+      "episode_date": "2026-05-21",
+      "rank": 8,
+      "quality_score": 0.7792366184528771
+    },
+    {
+      "id": "story/devto_3715511",
+      "type": "story",
+      "label": "Why Stripe Didnt Cut It for Creators in Pakistan and How We Built a Parallel Pipeline for 0.05 Per Transaction",
+      "episode_date": "2026-05-21",
+      "rank": 9,
+      "quality_score": 0.7790762350788691
+    },
+    {
+      "id": "story/devto_3713487",
+      "type": "story",
+      "label": "The Ghost Protocol Stack How We Rebuilt Payments When Every Vendor Cut Us Off",
+      "episode_date": "2026-05-21",
+      "rank": 10,
+      "quality_score": 0.7766946212073413
     },
     {
       "id": "story/community_f3a0c04a8123",
@@ -3595,7 +3666,7 @@
       "id": "concept/data-lakehouse",
       "type": "concept",
       "label": "Data Lakehouse",
-      "mention_count": 11
+      "mention_count": 12
     },
     {
       "id": "concept/v4-metadata-json",
@@ -3739,7 +3810,7 @@
       "id": "concept/bigquery",
       "type": "concept",
       "label": "BigQuery",
-      "mention_count": 11
+      "mention_count": 12
     },
     {
       "id": "concept/redpanda-cloud",
@@ -3805,7 +3876,7 @@
       "id": "company/google",
       "type": "company",
       "label": "Google",
-      "mention_count": 20
+      "mention_count": 21
     },
     {
       "id": "company/redpanda",
@@ -3847,7 +3918,7 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 208
+      "mention_count": 210
     },
     {
       "id": "concept/fulfillment-center-operations",
@@ -3955,19 +4026,19 @@
       "id": "concept/unity-catalog",
       "type": "concept",
       "label": "Unity Catalog",
-      "mention_count": 69
+      "mention_count": 70
     },
     {
       "id": "concept/medallion-architecture",
       "type": "concept",
       "label": "Medallion Architecture",
-      "mention_count": 15
+      "mention_count": 16
     },
     {
       "id": "concept/databricks-asset-bundles",
       "type": "concept",
       "label": "Databricks Asset Bundles",
-      "mention_count": 7
+      "mention_count": 8
     },
     {
       "id": "concept/model-serving-endpoints",
@@ -4117,13 +4188,13 @@
       "id": "concept/apache-spark",
       "type": "concept",
       "label": "Apache Spark",
-      "mention_count": 41
+      "mention_count": 42
     },
     {
       "id": "concept/apache-flink",
       "type": "concept",
       "label": "Apache Flink",
-      "mention_count": 6
+      "mention_count": 8
     },
     {
       "id": "concept/delta-spark-v2-connector",
@@ -4327,7 +4398,7 @@
       "id": "company/microsoft-azure",
       "type": "company",
       "label": "Microsoft Azure",
-      "mention_count": 14
+      "mention_count": 15
     },
     {
       "id": "company/google-cloud",
@@ -4381,7 +4452,7 @@
       "id": "company/amazon-web-services",
       "type": "company",
       "label": "Amazon Web Services",
-      "mention_count": 21
+      "mention_count": 23
     },
     {
       "id": "concept/databricks-platform",
@@ -4417,7 +4488,7 @@
       "id": "company/medium",
       "type": "company",
       "label": "Medium",
-      "mention_count": 30
+      "mention_count": 32
     },
     {
       "id": "concept/occupational-safety-and-health-administration-osha",
@@ -4543,7 +4614,7 @@
       "id": "concept/apache-kafka",
       "type": "concept",
       "label": "Apache Kafka",
-      "mention_count": 8
+      "mention_count": 9
     },
     {
       "id": "concept/lakeflow-sdp",
@@ -5053,7 +5124,7 @@
       "id": "concept/databricks-cli",
       "type": "concept",
       "label": "Databricks CLI",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "concept/direct-deployment-engine",
@@ -5359,7 +5430,7 @@
       "id": "company/github",
       "type": "company",
       "label": "GitHub",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "company/gitlab",
@@ -5575,7 +5646,7 @@
       "id": "concept/apache-airflow",
       "type": "concept",
       "label": "Apache Airflow",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "id": "concept/dag",
@@ -5689,7 +5760,7 @@
       "id": "concept/snowflake",
       "type": "concept",
       "label": "Snowflake",
-      "mention_count": 13
+      "mention_count": 14
     },
     {
       "id": "concept/fivetran",
@@ -5977,7 +6048,7 @@
       "id": "concept/clickhouse",
       "type": "concept",
       "label": "ClickHouse",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "concept/mysql-binary-logs",
@@ -6499,7 +6570,7 @@
       "id": "company/openai",
       "type": "company",
       "label": "OpenAI",
-      "mention_count": 9
+      "mention_count": 10
     },
     {
       "id": "concept/mongodb",
@@ -6913,7 +6984,7 @@
       "id": "concept/azure-databricks",
       "type": "concept",
       "label": "Azure Databricks",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/agent-analytics",
@@ -6967,7 +7038,7 @@
       "id": "company/anthropic",
       "type": "company",
       "label": "Anthropic",
-      "mention_count": 19
+      "mention_count": 20
     },
     {
       "id": "person/tyler",
@@ -7789,7 +7860,7 @@
       "id": "concept/amazon-s3",
       "type": "concept",
       "label": "Amazon S3",
-      "mention_count": 3
+      "mention_count": 5
     },
     {
       "id": "concept/amazon-athena",
@@ -9127,7 +9198,7 @@
       "id": "concept/oauth",
       "type": "concept",
       "label": "OAuth",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/token-cache",
@@ -9925,7 +9996,7 @@
       "id": "company/towards-data-science",
       "type": "company",
       "label": "Towards Data Science",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/mobrowser",
@@ -10231,7 +10302,7 @@
       "id": "concept/claude-code",
       "type": "concept",
       "label": "Claude Code",
-      "mention_count": 9
+      "mention_count": 10
     },
     {
       "id": "person/sudhir-gajre",
@@ -11299,7 +11370,7 @@
       "id": "concept/cursor",
       "type": "concept",
       "label": "Cursor",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "company/sysdig",
@@ -11899,7 +11970,7 @@
       "id": "company/stripe",
       "type": "company",
       "label": "Stripe",
-      "mention_count": 1
+      "mention_count": 4
     },
     {
       "id": "concept/lora-low-rank-adaptation",
@@ -12829,7 +12900,7 @@
       "id": "company/supabase",
       "type": "company",
       "label": "Supabase",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/propensity-scoring",
@@ -14116,6 +14187,54 @@
       "mention_count": 1
     },
     {
+      "id": "concept/semantic-versioning",
+      "type": "concept",
+      "label": "Semantic Versioning",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/os-native-secure-store",
+      "type": "concept",
+      "label": "OS-native Secure Store",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/immutable-release-tags",
+      "type": "concept",
+      "label": "Immutable Release Tags",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/supply-chain-attack-mitigation",
+      "type": "concept",
+      "label": "Supply Chain Attack Mitigation",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/d-bus",
+      "type": "concept",
+      "label": "D-Bus",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/databricks-aitools",
+      "type": "concept",
+      "label": "Databricks aitools",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/github-copilot",
+      "type": "concept",
+      "label": "GitHub Copilot",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/codex-cli",
+      "type": "concept",
+      "label": "Codex CLI",
+      "mention_count": 1
+    },
+    {
       "id": "concept/alert-fatigue",
       "type": "concept",
       "label": "Alert Fatigue",
@@ -14206,6 +14325,78 @@
       "mention_count": 1
     },
     {
+      "id": "concept/rtp-ii-instant-payment-rail",
+      "type": "concept",
+      "label": "RTP-II Instant Payment Rail",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/ipfs",
+      "type": "concept",
+      "label": "IPFS",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/amazon-kinesis-data-streams",
+      "type": "concept",
+      "label": "Amazon Kinesis Data Streams",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/tendermint",
+      "type": "concept",
+      "label": "Tendermint",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/ussd",
+      "type": "concept",
+      "label": "USSD",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/ach",
+      "type": "concept",
+      "label": "ACH",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/cid-v1",
+      "type": "concept",
+      "label": "CID v1",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/ec2-spot-instances",
+      "type": "concept",
+      "label": "EC2 Spot Instances",
+      "mention_count": 1
+    },
+    {
+      "id": "company/paypal",
+      "type": "company",
+      "label": "PayPal",
+      "mention_count": 2
+    },
+    {
+      "id": "company/payhip",
+      "type": "company",
+      "label": "Payhip",
+      "mention_count": 1
+    },
+    {
+      "id": "company/gumroad",
+      "type": "company",
+      "label": "Gumroad",
+      "mention_count": 1
+    },
+    {
+      "id": "company/mcb-sakuk",
+      "type": "company",
+      "label": "MCB-Sakuk",
+      "mention_count": 1
+    },
+    {
       "id": "concept/cloud-run-jobs",
       "type": "concept",
       "label": "Cloud Run Jobs",
@@ -14242,6 +14433,42 @@
       "mention_count": 1
     },
     {
+      "id": "concept/ksqldb",
+      "type": "concept",
+      "label": "ksqlDB",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/kafka-exactly-once-semantics",
+      "type": "concept",
+      "label": "Kafka exactly-once semantics",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/rocksdb",
+      "type": "concept",
+      "label": "RocksDB",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/stripe-webhooks",
+      "type": "concept",
+      "label": "Stripe Webhooks",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/python-udf",
+      "type": "concept",
+      "label": "Python UDF",
+      "mention_count": 1
+    },
+    {
+      "id": "company/jazzcash",
+      "type": "company",
+      "label": "JazzCash",
+      "mention_count": 1
+    },
+    {
       "id": "concept/databricks-lakeflow",
       "type": "concept",
       "label": "Databricks Lakeflow",
@@ -14260,6 +14487,78 @@
       "mention_count": 1
     },
     {
+      "id": "concept/searchable-encryption",
+      "type": "concept",
+      "label": "Searchable Encryption",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/zerokms",
+      "type": "concept",
+      "label": "ZeroKMS",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/hardware-security-module",
+      "type": "concept",
+      "label": "Hardware Security Module",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/transparent-sql-proxy",
+      "type": "concept",
+      "label": "Transparent SQL Proxy",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/oidc-federation",
+      "type": "concept",
+      "label": "OIDC Federation",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/prisma",
+      "type": "concept",
+      "label": "Prisma",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/drizzle-orm",
+      "type": "concept",
+      "label": "Drizzle ORM",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/cipherstash-stack",
+      "type": "concept",
+      "label": "CipherStash Stack",
+      "mention_count": 1
+    },
+    {
+      "id": "company/cipherstash",
+      "type": "company",
+      "label": "CipherStash",
+      "mention_count": 1
+    },
+    {
+      "id": "company/auth0",
+      "type": "company",
+      "label": "Auth0",
+      "mention_count": 1
+    },
+    {
+      "id": "company/clerk",
+      "type": "company",
+      "label": "Clerk",
+      "mention_count": 1
+    },
+    {
+      "id": "person/dan-draper",
+      "type": "person",
+      "label": "Dan Draper",
+      "mention_count": 1
+    },
+    {
       "id": "concept/sling-cli",
       "type": "concept",
       "label": "Sling CLI",
@@ -14275,6 +14574,66 @@
       "id": "concept/lakekeeper",
       "type": "concept",
       "label": "Lakekeeper",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/unchained-commerce",
+      "type": "concept",
+      "label": "Unchained Commerce",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/stripe-connect",
+      "type": "concept",
+      "label": "Stripe Connect",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/alipay",
+      "type": "concept",
+      "label": "Alipay",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/wechat-pay",
+      "type": "concept",
+      "label": "WeChat Pay",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/kakao-pay",
+      "type": "concept",
+      "label": "Kakao Pay",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/local-payment-aggregators",
+      "type": "concept",
+      "label": "Local Payment Aggregators",
+      "mention_count": 1
+    },
+    {
+      "id": "company/unchained-commerce",
+      "type": "company",
+      "label": "Unchained Commerce",
+      "mention_count": 1
+    },
+    {
+      "id": "company/alipay",
+      "type": "company",
+      "label": "Alipay",
+      "mention_count": 1
+    },
+    {
+      "id": "company/wechat",
+      "type": "company",
+      "label": "WeChat",
+      "mention_count": 1
+    },
+    {
+      "id": "company/kakao",
+      "type": "company",
+      "label": "Kakao",
       "mention_count": 1
     },
     {
@@ -14416,6 +14775,48 @@
       "mention_count": 1
     },
     {
+      "id": "concept/ai-agent-planning",
+      "type": "concept",
+      "label": "AI Agent Planning",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/operations-research",
+      "type": "concept",
+      "label": "Operations Research",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/set-covering-problem",
+      "type": "concept",
+      "label": "Set Covering Problem",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/assignment-problem",
+      "type": "concept",
+      "label": "Assignment Problem",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/knapsack-problem",
+      "type": "concept",
+      "label": "Knapsack Problem",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/gurobi",
+      "type": "concept",
+      "label": "Gurobi",
+      "mention_count": 1
+    },
+    {
+      "id": "company/gurobi-optimization",
+      "type": "company",
+      "label": "Gurobi Optimization",
+      "mention_count": 1
+    },
+    {
       "id": "concept/ai-parsed-document",
       "type": "concept",
       "label": "ai_parsed_document",
@@ -14437,6 +14838,18 @@
       "id": "concept/hybrid-document-search",
       "type": "concept",
       "label": "Hybrid Document Search",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/bronze-silver-gold-layers",
+      "type": "concept",
+      "label": "Bronze-Silver-Gold Layers",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/adls-gen2",
+      "type": "concept",
+      "label": "ADLS Gen2",
       "mention_count": 1
     },
     {
@@ -32088,6 +32501,96 @@
       "kind": "mentions"
     },
     {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "episode/2026-05-21",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "concept/databricks-cli",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "concept/semantic-versioning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "concept/oauth",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "concept/os-native-secure-store",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "concept/immutable-release-tags",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "concept/supply-chain-attack-mitigation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "concept/databricks-asset-bundles",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "concept/d-bus",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "concept/databricks-aitools",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "concept/claude-code",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "concept/cursor",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "concept/github-copilot",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "concept/codex-cli",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "company/anthropic",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "company/github",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/github_release_databricks_cli_326685849",
+      "target": "company/openai",
+      "kind": "mentions"
+    },
+    {
       "source": "story/hn_48195021",
       "target": "episode/2026-05-20",
       "kind": "aired_in"
@@ -32308,6 +32811,106 @@
       "kind": "mentions"
     },
     {
+      "source": "story/devto_3713487",
+      "target": "episode/2026-05-21",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "concept/rtp-ii-instant-payment-rail",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "concept/apache-flink",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "concept/clickhouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "concept/ipfs",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "concept/amazon-kinesis-data-streams",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "concept/tendermint",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "concept/ussd",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "concept/ach",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "concept/cid-v1",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "concept/amazon-s3",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "concept/ec2-spot-instances",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "concept/bigquery",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "company/stripe",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "company/paypal",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "company/payhip",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "company/gumroad",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "company/mcb-sakuk",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "company/amazon-web-services",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3713487",
+      "target": "company/google",
+      "kind": "mentions"
+    },
+    {
       "source": "story/devto_3701496",
       "target": "episode/2026-05-20",
       "kind": "aired_in"
@@ -32408,6 +33011,81 @@
       "kind": "mentions"
     },
     {
+      "source": "story/devto_3715511",
+      "target": "episode/2026-05-21",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3715511",
+      "target": "concept/apache-kafka",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715511",
+      "target": "concept/ksqldb",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715511",
+      "target": "concept/apache-airflow",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715511",
+      "target": "concept/apache-flink",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715511",
+      "target": "concept/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715511",
+      "target": "concept/kafka-exactly-once-semantics",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715511",
+      "target": "concept/rocksdb",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715511",
+      "target": "concept/stripe-webhooks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715511",
+      "target": "concept/amazon-s3",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715511",
+      "target": "concept/python-udf",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715511",
+      "target": "company/stripe",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715511",
+      "target": "company/paypal",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715511",
+      "target": "company/jazzcash",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715511",
+      "target": "company/amazon-web-services",
+      "kind": "mentions"
+    },
+    {
       "source": "story/community_229420593163",
       "target": "episode/2026-05-19",
       "kind": "aired_in"
@@ -32450,6 +33128,76 @@
     {
       "source": "story/community_229420593163",
       "target": "person/dheeraj-puli",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48216786",
+      "target": "episode/2026-05-21",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/hn_48216786",
+      "target": "concept/searchable-encryption",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48216786",
+      "target": "concept/zerokms",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48216786",
+      "target": "concept/hardware-security-module",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48216786",
+      "target": "concept/transparent-sql-proxy",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48216786",
+      "target": "concept/oidc-federation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48216786",
+      "target": "concept/prisma",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48216786",
+      "target": "concept/drizzle-orm",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48216786",
+      "target": "concept/cipherstash-stack",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48216786",
+      "target": "company/cipherstash",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48216786",
+      "target": "company/auth0",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48216786",
+      "target": "company/clerk",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48216786",
+      "target": "company/supabase",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48216786",
+      "target": "person/dan-draper",
       "kind": "mentions"
     },
     {
@@ -32540,6 +33288,66 @@
     {
       "source": "story/devto_3693742",
       "target": "company/amazon-web-services",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715646",
+      "target": "episode/2026-05-21",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3715646",
+      "target": "concept/unchained-commerce",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715646",
+      "target": "concept/stripe-connect",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715646",
+      "target": "concept/alipay",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715646",
+      "target": "concept/wechat-pay",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715646",
+      "target": "concept/kakao-pay",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715646",
+      "target": "concept/local-payment-aggregators",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715646",
+      "target": "company/stripe",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715646",
+      "target": "company/unchained-commerce",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715646",
+      "target": "company/alipay",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715646",
+      "target": "company/wechat",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3715646",
+      "target": "company/kakao",
       "kind": "mentions"
     },
     {
@@ -32953,6 +33761,51 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_84e961fa19c1",
+      "target": "episode/2026-05-21",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_84e961fa19c1",
+      "target": "concept/ai-agent-planning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_84e961fa19c1",
+      "target": "concept/operations-research",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_84e961fa19c1",
+      "target": "concept/set-covering-problem",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_84e961fa19c1",
+      "target": "concept/assignment-problem",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_84e961fa19c1",
+      "target": "concept/knapsack-problem",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_84e961fa19c1",
+      "target": "concept/gurobi",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_84e961fa19c1",
+      "target": "company/towards-data-science",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_84e961fa19c1",
+      "target": "company/gurobi-optimization",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_6502084858da",
       "target": "episode/2026-05-18",
       "kind": "aired_in"
@@ -32990,6 +33843,71 @@
     {
       "source": "story/rss_6502084858da",
       "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b55e8dfffdae",
+      "target": "episode/2026-05-21",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_b55e8dfffdae",
+      "target": "concept/medallion-architecture",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b55e8dfffdae",
+      "target": "concept/data-lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b55e8dfffdae",
+      "target": "concept/bronze-silver-gold-layers",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b55e8dfffdae",
+      "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_483a9882c466",
+      "target": "episode/2026-05-21",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_483a9882c466",
+      "target": "concept/unity-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_483a9882c466",
+      "target": "concept/azure-databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_483a9882c466",
+      "target": "concept/adls-gen2",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_483a9882c466",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_483a9882c466",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_483a9882c466",
+      "target": "company/microsoft-azure",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_483a9882c466",
+      "target": "company/medium",
       "kind": "mentions"
     },
     {

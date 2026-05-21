@@ -3,17 +3,19 @@ type: concept
 name: Azure Databricks
 slug: azure-databricks
 first_seen: 2026-05-02
-last_seen: 2026-05-15
-mention_count: 4
-avg_confidence: 0.85
+last_seen: 2026-05-21
+mention_count: 5
+avg_confidence: 0.88
 tags: [concept]
 ---
 
 # Azure Databricks
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-21|2026-05-21]]
+    - [[sources/2026-05-21/07_azure-databricks-unity-catalog-setup-with-adls-gen2-step-by|Azure Databricks Unity Catalog Setup with ADLS Gen2 Step by Step Guide]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/06_azure-databricks-under-the-hood-how-compute-storage-and-orch|Azure Databricks Under the Hood How Compute, Storage, and Orchestration Work Together]]
 - [[episodes/2026-05-13|2026-05-13]]
