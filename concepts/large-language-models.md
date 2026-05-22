@@ -3,17 +3,19 @@ type: concept
 name: Large Language Models
 slug: large-language-models
 first_seen: 2026-04-06
-last_seen: 2026-05-17
-mention_count: 25
-avg_confidence: 0.732
+last_seen: 2026-05-22
+mention_count: 26
+avg_confidence: 0.731
 tags: [concept]
 ---
 
 # Large Language Models
 
-_Concept mentioned across 25 stories._
+_Concept mentioned across 26 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/10_gs-qa-a-benchmark-for-geospatial-question-answering|GS-QA A Benchmark for Geospatial Question Answering]]
 - [[episodes/2026-05-17|2026-05-17]]
     - [[sources/2026-05-17/06_lower-cost-and-latency-for-ai-using-snowflake-postgres-as-a|Lower cost and latency for AI using Snowflake Postgres as a Semantic Cache]]
 - [[episodes/2026-05-07|2026-05-07]]

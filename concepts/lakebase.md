@@ -3,17 +3,19 @@ type: concept
 name: Lakebase
 slug: lakebase
 first_seen: 2026-04-05
-last_seen: 2026-05-14
-mention_count: 14
-avg_confidence: 0.836
+last_seen: 2026-05-22
+mention_count: 15
+avg_confidence: 0.84
 tags: [concept]
 ---
 
 # Lakebase
 
-_Concept mentioned across 14 stories._
+_Concept mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/03_community-pulse-your-weekly-roundup-may-11-17-2026|Community Pulse Your Weekly Roundup! May 11 17, 2026]]
 - [[episodes/2026-05-14|2026-05-14]]
     - [[sources/2026-05-14/02_community-pulse-your-weekly-roundup-may-04-10-2026|Community Pulse Your Weekly Roundup! May 04 10, 2026]]
 - [[episodes/2026-05-13|2026-05-13]]

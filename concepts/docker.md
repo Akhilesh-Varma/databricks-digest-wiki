@@ -3,17 +3,19 @@ type: concept
 name: Docker
 slug: docker
 first_seen: 2026-04-27
-last_seen: 2026-05-15
-mention_count: 4
-avg_confidence: 0.55
+last_seen: 2026-05-22
+mention_count: 5
+avg_confidence: 0.58
 tags: [concept]
 ---
 
 # Docker
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/04_letting-coding-agents-move-fast-without-breaking-everything|Letting Coding Agents Move Fast Without Breaking Everything]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/04_show-hn-glycemicgpt-open-source-ai-powered-diabetes-manageme|Show HN GlycemicGPT Open-source AI-powered diabetes management]]
 - [[episodes/2026-04-30|2026-04-30]]

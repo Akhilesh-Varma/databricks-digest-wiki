@@ -3,17 +3,19 @@ type: company
 name: Amazon
 slug: amazon
 first_seen: 2026-04-13
-last_seen: 2026-05-06
-mention_count: 7
+last_seen: 2026-05-22
+mention_count: 8
 avg_confidence: ""
 tags: [company]
 ---
 
 # Amazon
 
-_Company mentioned across 7 stories._
+_Company mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/04_letting-coding-agents-move-fast-without-breaking-everything|Letting Coding Agents Move Fast Without Breaking Everything]]
 - [[episodes/2026-05-06|2026-05-06]]
     - [[sources/2026-05-06/06_what-is-dremio-the-unified-lakehouse-and-ai-platform|What is Dremio? The Unified Lakehouse and AI Platform]]
 - [[episodes/2026-05-02|2026-05-02]]

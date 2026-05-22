@@ -3,17 +3,19 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-20
-mention_count: 48
-avg_confidence: 0.748
+last_seen: 2026-05-22
+mention_count: 49
+avg_confidence: 0.753
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 48 stories._
+_Concept mentioned across 49 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/06_building-a-multi-tiered-real-time-delta-lakehouse-pipeline|Building a Multi-Tiered Real-Time Delta Lakehouse Pipeline]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/03_from-associate-to-professional-my-learning-plan-to-ace-all-d|From Associate to Professional My Learning Plan to ace all Databricks Data Engineer Certifications]]
     - [[sources/2026-05-20/01_delta-lake-rust-python-python-v1-6-0-released|Delta Lake Rust Python python-v1.6.0 released]]

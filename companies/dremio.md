@@ -3,17 +3,20 @@ type: company
 name: Dremio
 slug: dremio
 first_seen: 2026-04-14
-last_seen: 2026-05-18
-mention_count: 6
+last_seen: 2026-05-22
+mention_count: 8
 avg_confidence: ""
 tags: [company]
 ---
 
 # Dremio
 
-_Company mentioned across 6 stories._
+_Company mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/07_what-are-lakehouse-catalogs-the-role-of-catalogs-in-apache-i|What Are Lakehouse Catalogs? The Role of Catalogs in Apache Iceberg]]
+    - [[sources/2026-05-22/08_writing-to-an-apache-iceberg-table-how-commits-and-acid-actu|Writing to an Apache Iceberg Table How Commits and ACID Actually Work]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/06_apache-fluss-architecting-the-streaming-first-persistent-dat|Apache Fluss Architecting the Streaming-First Persistent Data Stack]]
 - [[episodes/2026-05-06|2026-05-06]]

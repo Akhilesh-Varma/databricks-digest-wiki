@@ -3,17 +3,19 @@ type: concept
 name: PostgreSQL
 slug: postgresql
 first_seen: 2026-04-09
-last_seen: 2026-05-20
-mention_count: 21
-avg_confidence: 0.681
+last_seen: 2026-05-22
+mention_count: 22
+avg_confidence: 0.682
 tags: [concept]
 ---
 
 # PostgreSQL
 
-_Concept mentioned across 21 stories._
+_Concept mentioned across 22 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/05_google-offers-free-full-stack-app-creation-and-publishing|Google offers free full-stack app creation and publishing]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/09_why-real-time-analytics-eventually-changes-your-database-arc|Why Real-Time Analytics Eventually Changes Your Database Architecture]]
 - [[episodes/2026-05-19|2026-05-19]]

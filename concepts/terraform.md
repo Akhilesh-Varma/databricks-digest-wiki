@@ -3,17 +3,19 @@ type: concept
 name: Terraform
 slug: terraform
 first_seen: 2026-04-08
-last_seen: 2026-05-20
-mention_count: 6
-avg_confidence: 0.55
+last_seen: 2026-05-22
+mention_count: 7
+avg_confidence: 0.529
 tags: [concept]
 ---
 
 # Terraform
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/03_community-pulse-your-weekly-roundup-may-11-17-2026|Community Pulse Your Weekly Roundup! May 11 17, 2026]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/08_a-data-platform-tracking-news-and-social-media-across-167-ci|A data platform tracking news and social media across 167 cities in Rio Grande do Norte for under R 5 month.]]
 - [[episodes/2026-04-30|2026-04-30]]

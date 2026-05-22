@@ -3,17 +3,19 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-05-20
-mention_count: 32
+last_seen: 2026-05-22
+mention_count: 33
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 32 stories._
+_Company mentioned across 33 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/08_writing-to-an-apache-iceberg-table-how-commits-and-acid-actu|Writing to an Apache Iceberg Table How Commits and ACID Actually Work]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/10_before-you-put-a-fabric-ai-agent-in-production-steal-this-ch|Before You Put a Fabric AI Agent in Production, Steal This Checklist]]
 - [[episodes/2026-05-19|2026-05-19]]

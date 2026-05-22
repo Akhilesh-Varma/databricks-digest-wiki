@@ -3,17 +3,19 @@ type: company
 name: Google Cloud
 slug: google-cloud
 first_seen: 2026-04-14
-last_seen: 2026-05-16
-mention_count: 5
+last_seen: 2026-05-22
+mention_count: 6
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google Cloud
 
-_Company mentioned across 5 stories._
+_Company mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/05_google-offers-free-full-stack-app-creation-and-publishing|Google offers free full-stack app creation and publishing]]
 - [[episodes/2026-05-16|2026-05-16]]
     - [[sources/2026-05-16/07_building-a-letterboxd-film-review-data-pipeline-from-raw-scr|Building a Letterboxd Film Review data pipeline from raw scrape to first insight]]
 - [[episodes/2026-05-11|2026-05-11]]

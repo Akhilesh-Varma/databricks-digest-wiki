@@ -3,17 +3,20 @@ type: concept
 name: ACID Transactions
 slug: acid-transactions
 first_seen: 2026-04-14
-last_seen: 2026-05-19
-mention_count: 7
-avg_confidence: 0.557
+last_seen: 2026-05-22
+mention_count: 9
+avg_confidence: 0.611
 tags: [concept]
 ---
 
 # ACID Transactions
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/07_what-are-lakehouse-catalogs-the-role-of-catalogs-in-apache-i|What Are Lakehouse Catalogs? The Role of Catalogs in Apache Iceberg]]
+    - [[sources/2026-05-22/08_writing-to-an-apache-iceberg-table-how-commits-and-acid-actu|Writing to an Apache Iceberg Table How Commits and ACID Actually Work]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/06_understanding-delta-lake-delta-tables-and-delta-live-tables|Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks]]
 - [[episodes/2026-05-10|2026-05-10]]

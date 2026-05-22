@@ -3,17 +3,20 @@ type: concept
 name: Apache Kafka
 slug: apache-kafka
 first_seen: 2026-04-14
-last_seen: 2026-05-21
-mention_count: 9
-avg_confidence: 0.656
+last_seen: 2026-05-22
+mention_count: 11
+avg_confidence: 0.682
 tags: [concept]
 ---
 
 # Apache Kafka
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/09_treasure-hunt-engine-was-a-disaster-waiting-to-happen-a-tale|Treasure Hunt Engine Was a Disaster Waiting to Happen A Tale of Unchecked Growth and Overlooked Trade-Offs]]
+    - [[sources/2026-05-22/06_building-a-multi-tiered-real-time-delta-lakehouse-pipeline|Building a Multi-Tiered Real-Time Delta Lakehouse Pipeline]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/09_why-stripe-didnt-cut-it-for-creators-in-pakistan-and-how-we|Why Stripe Didnt Cut It for Creators in Pakistan and How We Built a Parallel Pipeline for 0.05 Per Transaction]]
 - [[episodes/2026-05-18|2026-05-18]]

@@ -3,17 +3,19 @@ type: concept
 name: Data Warehouse
 slug: data-warehouse
 first_seen: 2026-04-17
-last_seen: 2026-05-17
-mention_count: 5
-avg_confidence: 0.64
+last_seen: 2026-05-22
+mention_count: 6
+avg_confidence: 0.65
 tags: [concept]
 ---
 
 # Data Warehouse
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/09_treasure-hunt-engine-was-a-disaster-waiting-to-happen-a-tale|Treasure Hunt Engine Was a Disaster Waiting to Happen A Tale of Unchecked Growth and Overlooked Trade-Offs]]
 - [[episodes/2026-05-17|2026-05-17]]
     - [[sources/2026-05-17/07_part-4-demystifying-data-jargons-datalake-warehouse-and-delt|Part 4 Demystifying Data Jargons Datalake, Warehouse, and Delta Lake Explained]]
 - [[episodes/2026-05-15|2026-05-15]]

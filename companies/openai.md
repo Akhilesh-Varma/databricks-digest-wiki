@@ -3,17 +3,20 @@ type: company
 name: OpenAI
 slug: openai
 first_seen: 2026-04-17
-last_seen: 2026-05-21
-mention_count: 10
+last_seen: 2026-05-22
+mention_count: 12
 avg_confidence: ""
 tags: [company]
 ---
 
 # OpenAI
 
-_Company mentioned across 10 stories._
+_Company mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/10_gs-qa-a-benchmark-for-geospatial-question-answering|GS-QA A Benchmark for Geospatial Question Answering]]
+    - [[sources/2026-05-22/04_letting-coding-agents-move-fast-without-breaking-everything|Letting Coding Agents Move Fast Without Breaking Everything]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/01_databricks-cli-v1-0-0-released|Databricks CLI v1.0.0 released]]
 - [[episodes/2026-05-18|2026-05-18]]

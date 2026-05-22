@@ -3,17 +3,20 @@ type: company
 name: Apache Software Foundation
 slug: apache-software-foundation
 first_seen: 2026-03-17
-last_seen: 2026-05-18
-mention_count: 16
+last_seen: 2026-05-22
+mention_count: 18
 avg_confidence: ""
 tags: [company]
 ---
 
 # Apache Software Foundation
 
-_Company mentioned across 16 stories._
+_Company mentioned across 18 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/07_what-are-lakehouse-catalogs-the-role-of-catalogs-in-apache-i|What Are Lakehouse Catalogs? The Role of Catalogs in Apache Iceberg]]
+    - [[sources/2026-05-22/06_building-a-multi-tiered-real-time-delta-lakehouse-pipeline|Building a Multi-Tiered Real-Time Delta Lakehouse Pipeline]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/06_apache-fluss-architecting-the-streaming-first-persistent-dat|Apache Fluss Architecting the Streaming-First Persistent Data Stack]]
 - [[episodes/2026-05-17|2026-05-17]]

@@ -3,17 +3,19 @@ type: concept
 name: Delta Live Tables
 slug: delta-live-tables
 first_seen: 2026-04-25
-last_seen: 2026-05-19
-mention_count: 8
-avg_confidence: 0.812
+last_seen: 2026-05-22
+mention_count: 9
+avg_confidence: 0.778
 tags: [concept]
 ---
 
 # Delta Live Tables
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/03_community-pulse-your-weekly-roundup-may-11-17-2026|Community Pulse Your Weekly Roundup! May 11 17, 2026]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/06_understanding-delta-lake-delta-tables-and-delta-live-tables|Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks]]
 - [[episodes/2026-05-16|2026-05-16]]

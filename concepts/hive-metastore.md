@@ -3,17 +3,19 @@ type: concept
 name: Hive Metastore
 slug: hive-metastore
 first_seen: 2026-04-23
-last_seen: 2026-05-01
-mention_count: 4
-avg_confidence: 0.575
+last_seen: 2026-05-22
+mention_count: 5
+avg_confidence: 0.54
 tags: [concept]
 ---
 
 # Hive Metastore
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/07_what-are-lakehouse-catalogs-the-role-of-catalogs-in-apache-i|What Are Lakehouse Catalogs? The Role of Catalogs in Apache Iceberg]]
 - [[episodes/2026-05-01|2026-05-01]]
     - [[sources/2026-05-01/07_the-metadata-structure-of-modern-table-formats|The Metadata Structure of Modern Table Formats]]
 - [[episodes/2026-04-29|2026-04-29]]

@@ -3,17 +3,19 @@ type: concept
 name: Retrieval-Augmented Generation
 slug: retrieval-augmented-generation
 first_seen: 2026-04-10
-last_seen: 2026-05-13
-mention_count: 14
-avg_confidence: 0.786
+last_seen: 2026-05-22
+mention_count: 15
+avg_confidence: 0.78
 tags: [concept]
 ---
 
 # Retrieval-Augmented Generation
 
-_Concept mentioned across 14 stories._
+_Concept mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/10_gs-qa-a-benchmark-for-geospatial-question-answering|GS-QA A Benchmark for Geospatial Question Answering]]
 - [[episodes/2026-05-13|2026-05-13]]
     - [[sources/2026-05-13/05_multimodal-rag-needs-real-pixels-so-i-wired-a-webcam-straigh|Multimodal RAG Needs Real Pixels So I Wired a Webcam Straight Into Delta with Clone-Xs]]
 - [[episodes/2026-05-10|2026-05-10]]

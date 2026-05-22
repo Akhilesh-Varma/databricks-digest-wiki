@@ -3,17 +3,19 @@ type: concept
 name: Streamlit
 slug: streamlit
 first_seen: 2026-04-13
-last_seen: 2026-05-09
-mention_count: 4
-avg_confidence: 0.55
+last_seen: 2026-05-22
+mention_count: 5
+avg_confidence: 0.52
 tags: [concept]
 ---
 
 # Streamlit
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-22|2026-05-22]]
+    - [[sources/2026-05-22/03_community-pulse-your-weekly-roundup-may-11-17-2026|Community Pulse Your Weekly Roundup! May 11 17, 2026]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/06_databricks-apps-tutorial-scalable-streamlit-modular-template|Databricks Apps Tutorial Scalable Streamlit modular Template for Production]]
 - [[episodes/2026-05-07|2026-05-07]]
