@@ -15,8 +15,8 @@ _Concept mentioned across 13 stories._
 
 ## Appears in
 - [[episodes/2026-05-19|2026-05-19]]
-    - [[sources/2026-05-19/03_customer-story-nab-s-journey-to-100-declarative-pipelines|CUSTOMER STORY NAB s Journey to 100 Declarative Pipelines]]
     - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]
+    - [[sources/2026-05-19/03_customer-story-nab-s-journey-to-100-declarative-pipelines|CUSTOMER STORY NAB s Journey to 100 Declarative Pipelines]]
 - [[episodes/2026-05-16|2026-05-16]]
     - [[sources/2026-05-16/05_what-happens-if-two-jobs-run-a-delta-merge-on-the-same-parti|What Happens If Two Jobs Run a Delta MERGE on the Same Partition? Concurrency Deep Dive]]
 - [[episodes/2026-05-13|2026-05-13]]

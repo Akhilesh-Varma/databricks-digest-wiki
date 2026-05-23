@@ -3,20 +3,22 @@ type: company
 name: Google
 slug: google
 first_seen: 2026-04-05
-last_seen: 2026-05-22
-mention_count: 24
+last_seen: 2026-05-23
+mention_count: 25
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google
 
-_Company mentioned across 24 stories._
+_Company mentioned across 25 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/05_understanding-databricks-honest-comparison-with-snowflake-an|Understanding Databricks Honest Comparison with Snowflake and BigQuery]]
 - [[episodes/2026-05-22|2026-05-22]]
-    - [[sources/2026-05-22/05_google-offers-free-full-stack-app-creation-and-publishing|Google offers free full-stack app creation and publishing]]
     - [[sources/2026-05-22/08_writing-to-an-apache-iceberg-table-how-commits-and-acid-actu|Writing to an Apache Iceberg Table How Commits and ACID Actually Work]]
+    - [[sources/2026-05-22/05_google-offers-free-full-stack-app-creation-and-publishing|Google offers free full-stack app creation and publishing]]
     - [[sources/2026-05-22/04_letting-coding-agents-move-fast-without-breaking-everything|Letting Coding Agents Move Fast Without Breaking Everything]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/10_the-ghost-protocol-stack-how-we-rebuilt-payments-when-every|The Ghost Protocol Stack How We Rebuilt Payments When Every Vendor Cut Us Off]]

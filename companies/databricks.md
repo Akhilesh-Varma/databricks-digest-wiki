@@ -3,33 +3,39 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-22
-mention_count: 212
+last_seen: 2026-05-23
+mention_count: 217
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 212 stories._
+_Company mentioned across 217 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/02_partner-blog-847-models-12-weeks-77-less-inside-r1-s-snowfla|PARTNER BLOG 847 Models, 12 Weeks, 77 Less Inside R1's Snowflake-to-Databricks Migration]]
+    - [[sources/2026-05-23/01_do-you-still-need-a-separate-cloud-data-warehouse-building-a|Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance]]
+    - [[sources/2026-05-23/06_accelerating-llm-inference-with-prompt-caching-for-open-sour|Accelerating LLM Inference with Prompt Caching for Open Source Models on Databricks]]
+    - [[sources/2026-05-23/04_designing-a-modern-enterprise-lakehouse-with-databricks-dabs|Designing a Modern Enterprise Lakehouse with Databricks, DABs, and Medallion Architecture]]
+    - [[sources/2026-05-23/05_understanding-databricks-honest-comparison-with-snowflake-an|Understanding Databricks Honest Comparison with Snowflake and BigQuery]]
 - [[episodes/2026-05-22|2026-05-22]]
-    - [[sources/2026-05-22/03_community-pulse-your-weekly-roundup-may-11-17-2026|Community Pulse Your Weekly Roundup! May 11 17, 2026]]
     - [[sources/2026-05-22/04_letting-coding-agents-move-fast-without-breaking-everything|Letting Coding Agents Move Fast Without Breaking Everything]]
+    - [[sources/2026-05-22/03_community-pulse-your-weekly-roundup-may-11-17-2026|Community Pulse Your Weekly Roundup! May 11 17, 2026]]
 - [[episodes/2026-05-21|2026-05-21]]
-    - [[sources/2026-05-21/01_databricks-cli-v1-0-0-released|Databricks CLI v1.0.0 released]]
     - [[sources/2026-05-21/07_azure-databricks-unity-catalog-setup-with-adls-gen2-step-by|Azure Databricks Unity Catalog Setup with ADLS Gen2 Step by Step Guide]]
+    - [[sources/2026-05-21/01_databricks-cli-v1-0-0-released|Databricks CLI v1.0.0 released]]
 - [[episodes/2026-05-20|2026-05-20]]
-    - [[sources/2026-05-20/03_from-associate-to-professional-my-learning-plan-to-ace-all-d|From Associate to Professional My Learning Plan to ace all Databricks Data Engineer Certifications]]
     - [[sources/2026-05-20/05_migrating-a-legacy-databricks-platform-to-unity-catalog-a-co|Migrating a Legacy Databricks Platform to Unity Catalog A Complete Engineering Playbook]]
+    - [[sources/2026-05-20/03_from-associate-to-professional-my-learning-plan-to-ace-all-d|From Associate to Professional My Learning Plan to ace all Databricks Data Engineer Certifications]]
 - [[episodes/2026-05-19|2026-05-19]]
-    - [[sources/2026-05-19/04_from-fragmented-schedulers-to-unified-orchestration-a-lakeho|From Fragmented Schedulers to Unified Orchestration A Lakehouse Evolution]]
-    - [[sources/2026-05-19/08_bigquery-snowflake-redshift-databricks-fabric-where-each-one|BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill]]
-    - [[sources/2026-05-19/03_customer-story-nab-s-journey-to-100-declarative-pipelines|CUSTOMER STORY NAB s Journey to 100 Declarative Pipelines]]
     - [[sources/2026-05-19/10_integrating-oic-with-databricks-using-aws-s3-external-tables|Integrating OIC with Databricks using AWS S3 External Tables Approach]]
+    - [[sources/2026-05-19/08_bigquery-snowflake-redshift-databricks-fabric-where-each-one|BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill]]
     - [[sources/2026-05-19/07_running-100-billion-rows-on-databricks-serverless-photon-wit|Running 100 Billion Rows on Databricks Serverless Photon Without Managing Infrastructure]]
     - [[sources/2026-05-19/06_understanding-delta-lake-delta-tables-and-delta-live-tables|Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks]]
+    - [[sources/2026-05-19/04_from-fragmented-schedulers-to-unified-orchestration-a-lakeho|From Fragmented Schedulers to Unified Orchestration A Lakehouse Evolution]]
+    - [[sources/2026-05-19/03_customer-story-nab-s-journey-to-100-declarative-pipelines|CUSTOMER STORY NAB s Journey to 100 Declarative Pipelines]]
     - [[sources/2026-05-19/01_databricks-sdk-java-v0-110-0-released|Databricks SDK Java v0.110.0 released]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/09_the-missing-organizing-principle-of-microsoft-fabric-medalli|The Missing Organizing Principle of Microsoft Fabric Medallion Architecture Explained gem]]

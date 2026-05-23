@@ -3,17 +3,19 @@ type: concept
 name: Data Pipeline
 slug: data-pipeline
 first_seen: 2026-04-08
-last_seen: 2026-05-06
-mention_count: 10
+last_seen: 2026-05-23
+mention_count: 11
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Data Pipeline
 
-_Concept mentioned across 10 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/09_why-i-spent-6-months-rebuilding-our-event-pipeline-to-fix-a|Why I Spent 6 Months Rebuilding Our Event Pipeline to Fix a 400ms Query Latency Problem]]
 - [[episodes/2026-05-06|2026-05-06]]
     - [[sources/2026-05-06/07_etl-vs-elt-the-difference-that-finally-clicked-for-me|ETL vs ELT The Difference That Finally Clicked for Me]]
 - [[episodes/2026-05-03|2026-05-03]]

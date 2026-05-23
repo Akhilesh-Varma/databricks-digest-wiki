@@ -1,6 +1,6 @@
 ---
 type: company
-name: delta-io
+name: Delta.io
 slug: delta-io
 first_seen: 2026-05-17
 last_seen: 2026-05-20
@@ -9,7 +9,7 @@ avg_confidence: ""
 tags: [company]
 ---
 
-# delta-io
+# Delta.io
 
 _Company mentioned across 2 stories._
 

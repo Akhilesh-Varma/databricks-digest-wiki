@@ -3,17 +3,19 @@ type: concept
 name: Databricks SQL
 slug: databricks-sql
 first_seen: 2026-04-13
-last_seen: 2026-05-07
-mention_count: 4
-avg_confidence: 0.7
+last_seen: 2026-05-23
+mention_count: 5
+avg_confidence: 0.74
 tags: [concept]
 ---
 
 # Databricks SQL
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/01_do-you-still-need-a-separate-cloud-data-warehouse-building-a|Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/09_how-databricks-genie-turns-plain-english-into-sql-code|How Databricks Genie Turns Plain English Into SQL Code]]
 - [[episodes/2026-04-29|2026-04-29]]

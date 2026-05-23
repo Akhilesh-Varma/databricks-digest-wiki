@@ -1,6 +1,6 @@
 ---
 type: concept
-name: Streaming-First Architecture
+name: Streaming-first Architecture
 slug: streaming-first-architecture
 first_seen: 2026-05-18
 last_seen: 2026-05-19
@@ -9,7 +9,7 @@ avg_confidence: 0.7
 tags: [concept]
 ---
 
-# Streaming-First Architecture
+# Streaming-first Architecture
 
 _Concept mentioned across 2 stories._
 

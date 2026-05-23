@@ -3,17 +3,19 @@ type: concept
 name: Medallion Architecture
 slug: medallion-architecture
 first_seen: 2026-04-14
-last_seen: 2026-05-21
-mention_count: 16
-avg_confidence: 0.756
+last_seen: 2026-05-23
+mention_count: 17
+avg_confidence: 0.771
 tags: [concept]
 ---
 
 # Medallion Architecture
 
-_Concept mentioned across 16 stories._
+_Concept mentioned across 17 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/04_designing-a-modern-enterprise-lakehouse-with-databricks-dabs|Designing a Modern Enterprise Lakehouse with Databricks, DABs, and Medallion Architecture]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/05_stop-building-messy-pipelines-the-medallion-architecture-exp|Stop Building Messy Pipelines The Medallion Architecture Explained]]
 - [[episodes/2026-05-19|2026-05-19]]

@@ -3,20 +3,23 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-21
-mention_count: 32
+last_seen: 2026-05-23
+mention_count: 34
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 32 stories._
+_Company mentioned across 34 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/04_designing-a-modern-enterprise-lakehouse-with-databricks-dabs|Designing a Modern Enterprise Lakehouse with Databricks, DABs, and Medallion Architecture]]
+    - [[sources/2026-05-23/05_understanding-databricks-honest-comparison-with-snowflake-an|Understanding Databricks Honest Comparison with Snowflake and BigQuery]]
 - [[episodes/2026-05-21|2026-05-21]]
-    - [[sources/2026-05-21/05_stop-building-messy-pipelines-the-medallion-architecture-exp|Stop Building Messy Pipelines The Medallion Architecture Explained]]
     - [[sources/2026-05-21/07_azure-databricks-unity-catalog-setup-with-adls-gen2-step-by|Azure Databricks Unity Catalog Setup with ADLS Gen2 Step by Step Guide]]
+    - [[sources/2026-05-21/05_stop-building-messy-pipelines-the-medallion-architecture-exp|Stop Building Messy Pipelines The Medallion Architecture Explained]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/05_migrating-a-legacy-databricks-platform-to-unity-catalog-a-co|Migrating a Legacy Databricks Platform to Unity Catalog A Complete Engineering Playbook]]
 - [[episodes/2026-05-19|2026-05-19]]

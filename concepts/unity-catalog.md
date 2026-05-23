@@ -3,24 +3,27 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-22
-mention_count: 71
-avg_confidence: 0.749
+last_seen: 2026-05-23
+mention_count: 73
+avg_confidence: 0.753
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 71 stories._
+_Concept mentioned across 73 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/02_partner-blog-847-models-12-weeks-77-less-inside-r1-s-snowfla|PARTNER BLOG 847 Models, 12 Weeks, 77 Less Inside R1's Snowflake-to-Databricks Migration]]
+    - [[sources/2026-05-23/01_do-you-still-need-a-separate-cloud-data-warehouse-building-a|Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance]]
 - [[episodes/2026-05-22|2026-05-22]]
     - [[sources/2026-05-22/03_community-pulse-your-weekly-roundup-may-11-17-2026|Community Pulse Your Weekly Roundup! May 11 17, 2026]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/07_azure-databricks-unity-catalog-setup-with-adls-gen2-step-by|Azure Databricks Unity Catalog Setup with ADLS Gen2 Step by Step Guide]]
 - [[episodes/2026-05-20|2026-05-20]]
-    - [[sources/2026-05-20/01_delta-lake-rust-python-python-v1-6-0-released|Delta Lake Rust Python python-v1.6.0 released]]
     - [[sources/2026-05-20/05_migrating-a-legacy-databricks-platform-to-unity-catalog-a-co|Migrating a Legacy Databricks Platform to Unity Catalog A Complete Engineering Playbook]]
+    - [[sources/2026-05-20/01_delta-lake-rust-python-python-v1-6-0-released|Delta Lake Rust Python python-v1.6.0 released]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/04_from-fragmented-schedulers-to-unified-orchestration-a-lakeho|From Fragmented Schedulers to Unified Orchestration A Lakehouse Evolution]]
 - [[episodes/2026-05-16|2026-05-16]]

@@ -3,24 +3,26 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-05
-last_seen: 2026-05-20
-mention_count: 34
-avg_confidence: 0.626
+last_seen: 2026-05-23
+mention_count: 35
+avg_confidence: 0.62
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 34 stories._
+_Concept mentioned across 35 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/07_hands-on-with-apache-iceberg-using-dremio-cloud|Hands-On with Apache Iceberg Using Dremio Cloud]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/10_before-you-put-a-fabric-ai-agent-in-production-steal-this-ch|Before You Put a Fabric AI Agent in Production, Steal This Checklist]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/07_running-100-billion-rows-on-databricks-serverless-photon-wit|Running 100 Billion Rows on Databricks Serverless Photon Without Managing Infrastructure]]
 - [[episodes/2026-05-18|2026-05-18]]
-    - [[sources/2026-05-18/06_apache-fluss-architecting-the-streaming-first-persistent-dat|Apache Fluss Architecting the Streaming-First Persistent Data Stack]]
     - [[sources/2026-05-18/09_the-missing-organizing-principle-of-microsoft-fabric-medalli|The Missing Organizing Principle of Microsoft Fabric Medallion Architecture Explained gem]]
+    - [[sources/2026-05-18/06_apache-fluss-architecting-the-streaming-first-persistent-dat|Apache Fluss Architecting the Streaming-First Persistent Data Stack]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/03_databricks-vs-bigquery-through-a-workload-lens|Databricks vs. BigQuery Through a Workload Lens]]
 - [[episodes/2026-05-11|2026-05-11]]

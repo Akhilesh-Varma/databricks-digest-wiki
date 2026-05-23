@@ -3,17 +3,19 @@ type: concept
 name: Retrieval-Augmented Generation
 slug: retrieval-augmented-generation
 first_seen: 2026-04-10
-last_seen: 2026-05-22
-mention_count: 15
-avg_confidence: 0.78
+last_seen: 2026-05-23
+mention_count: 16
+avg_confidence: 0.762
 tags: [concept]
 ---
 
 # Retrieval-Augmented Generation
 
-_Concept mentioned across 15 stories._
+_Concept mentioned across 16 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/06_accelerating-llm-inference-with-prompt-caching-for-open-sour|Accelerating LLM Inference with Prompt Caching for Open Source Models on Databricks]]
 - [[episodes/2026-05-22|2026-05-22]]
     - [[sources/2026-05-22/10_gs-qa-a-benchmark-for-geospatial-question-answering|GS-QA A Benchmark for Geospatial Question Answering]]
 - [[episodes/2026-05-13|2026-05-13]]

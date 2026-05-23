@@ -3,17 +3,19 @@ type: concept
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-11
-last_seen: 2026-05-21
-mention_count: 14
-avg_confidence: 0.636
+last_seen: 2026-05-23
+mention_count: 15
+avg_confidence: 0.64
 tags: [concept]
 ---
 
 # Snowflake
 
-_Concept mentioned across 14 stories._
+_Concept mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/05_understanding-databricks-honest-comparison-with-snowflake-an|Understanding Databricks Honest Comparison with Snowflake and BigQuery]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/09_why-stripe-didnt-cut-it-for-creators-in-pakistan-and-how-we|Why Stripe Didnt Cut It for Creators in Pakistan and How We Built a Parallel Pipeline for 0.05 Per Transaction]]
 - [[episodes/2026-05-19|2026-05-19]]

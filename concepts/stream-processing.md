@@ -1,6 +1,6 @@
 ---
 type: concept
-name: stream processing
+name: Stream Processing
 slug: stream-processing
 first_seen: 2026-04-27
 last_seen: 2026-05-22
@@ -9,7 +9,7 @@ avg_confidence: 0.7
 tags: [concept]
 ---
 
-# stream processing
+# Stream Processing
 
 _Concept mentioned across 2 stories._
 

@@ -3,17 +3,19 @@ type: concept
 name: BigQuery
 slug: bigquery
 first_seen: 2026-04-05
-last_seen: 2026-05-21
-mention_count: 12
-avg_confidence: 0.667
+last_seen: 2026-05-23
+mention_count: 13
+avg_confidence: 0.669
 tags: [concept]
 ---
 
 # BigQuery
 
-_Concept mentioned across 12 stories._
+_Concept mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/05_understanding-databricks-honest-comparison-with-snowflake-an|Understanding Databricks Honest Comparison with Snowflake and BigQuery]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/10_the-ghost-protocol-stack-how-we-rebuilt-payments-when-every|The Ghost Protocol Stack How We Rebuilt Payments When Every Vendor Cut Us Off]]
 - [[episodes/2026-05-20|2026-05-20]]

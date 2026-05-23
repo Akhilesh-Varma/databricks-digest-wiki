@@ -3,29 +3,31 @@ type: company
 name: Amazon Web Services
 slug: amazon-web-services
 first_seen: 2026-04-08
-last_seen: 2026-05-22
-mention_count: 25
+last_seen: 2026-05-23
+mention_count: 26
 avg_confidence: ""
 tags: [company]
 ---
 
 # Amazon Web Services
 
-_Company mentioned across 25 stories._
+_Company mentioned across 26 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/08_how-data-lake-table-storage-degrades-over-time|How Data Lake Table Storage Degrades Over Time]]
 - [[episodes/2026-05-22|2026-05-22]]
-    - [[sources/2026-05-22/07_what-are-lakehouse-catalogs-the-role-of-catalogs-in-apache-i|What Are Lakehouse Catalogs? The Role of Catalogs in Apache Iceberg]]
     - [[sources/2026-05-22/08_writing-to-an-apache-iceberg-table-how-commits-and-acid-actu|Writing to an Apache Iceberg Table How Commits and ACID Actually Work]]
+    - [[sources/2026-05-22/07_what-are-lakehouse-catalogs-the-role-of-catalogs-in-apache-i|What Are Lakehouse Catalogs? The Role of Catalogs in Apache Iceberg]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/10_the-ghost-protocol-stack-how-we-rebuilt-payments-when-every|The Ghost Protocol Stack How We Rebuilt Payments When Every Vendor Cut Us Off]]
     - [[sources/2026-05-21/09_why-stripe-didnt-cut-it-for-creators-in-pakistan-and-how-we|Why Stripe Didnt Cut It for Creators in Pakistan and How We Built a Parallel Pipeline for 0.05 Per Transaction]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/06_show-hn-superlog-yc-p26-observability-that-installs-itself-a|Show HN Superlog YC P26 Observability that installs itself and fixes bugs]]
 - [[episodes/2026-05-19|2026-05-19]]
-    - [[sources/2026-05-19/08_bigquery-snowflake-redshift-databricks-fabric-where-each-one|BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill]]
-    - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]
     - [[sources/2026-05-19/10_integrating-oic-with-databricks-using-aws-s3-external-tables|Integrating OIC with Databricks using AWS S3 External Tables Approach]]
+    - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]
+    - [[sources/2026-05-19/08_bigquery-snowflake-redshift-databricks-fabric-where-each-one|BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill]]
 - [[episodes/2026-05-16|2026-05-16]]
     - [[sources/2026-05-16/07_building-a-letterboxd-film-review-data-pipeline-from-raw-scr|Building a Letterboxd Film Review data pipeline from raw scrape to first insight]]
 - [[episodes/2026-05-13|2026-05-13]]

@@ -1,6 +1,6 @@
 ---
 type: concept
-name: vibe coding
+name: Vibe Coding
 slug: vibe-coding
 first_seen: 2026-04-27
 last_seen: 2026-05-22
@@ -9,7 +9,7 @@ avg_confidence: 0.65
 tags: [concept]
 ---
 
-# vibe coding
+# Vibe Coding
 
 _Concept mentioned across 2 stories._
 

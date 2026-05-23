@@ -3,17 +3,19 @@ type: concept
 name: LLM Inference
 slug: llm-inference
 first_seen: 2026-04-06
-last_seen: 2026-04-10
-mention_count: 2
-avg_confidence: 0.85
+last_seen: 2026-05-23
+mention_count: 3
+avg_confidence: 0.867
 tags: [concept]
 ---
 
 # LLM Inference
 
-_Concept mentioned across 2 stories._
+_Concept mentioned across 3 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/06_accelerating-llm-inference-with-prompt-caching-for-open-sour|Accelerating LLM Inference with Prompt Caching for Open Source Models on Databricks]]
 - [[episodes/2026-04-10|2026-04-10]]
     - [[sources/2026-04-10/06_blink-cpu-free-llm-inference-by-delegating-the-serving-stack|Blink CPU-Free LLM Inference by Delegating the Serving Stack to GPU and SmartNIC]]
 - [[episodes/2026-04-06|2026-04-06]]

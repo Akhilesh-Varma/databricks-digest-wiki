@@ -3,17 +3,19 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-05-22
-mention_count: 33
+last_seen: 2026-05-23
+mention_count: 34
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 33 stories._
+_Company mentioned across 34 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/07_hands-on-with-apache-iceberg-using-dremio-cloud|Hands-On with Apache Iceberg Using Dremio Cloud]]
 - [[episodes/2026-05-22|2026-05-22]]
     - [[sources/2026-05-22/08_writing-to-an-apache-iceberg-table-how-commits-and-acid-actu|Writing to an Apache Iceberg Table How Commits and ACID Actually Work]]
 - [[episodes/2026-05-20|2026-05-20]]

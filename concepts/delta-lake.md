@@ -3,17 +3,21 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-22
-mention_count: 49
-avg_confidence: 0.753
+last_seen: 2026-05-23
+mention_count: 52
+avg_confidence: 0.754
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 49 stories._
+_Concept mentioned across 52 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/02_partner-blog-847-models-12-weeks-77-less-inside-r1-s-snowfla|PARTNER BLOG 847 Models, 12 Weeks, 77 Less Inside R1's Snowflake-to-Databricks Migration]]
+    - [[sources/2026-05-23/01_do-you-still-need-a-separate-cloud-data-warehouse-building-a|Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance]]
+    - [[sources/2026-05-23/04_designing-a-modern-enterprise-lakehouse-with-databricks-dabs|Designing a Modern Enterprise Lakehouse with Databricks, DABs, and Medallion Architecture]]
 - [[episodes/2026-05-22|2026-05-22]]
     - [[sources/2026-05-22/06_building-a-multi-tiered-real-time-delta-lakehouse-pipeline|Building a Multi-Tiered Real-Time Delta Lakehouse Pipeline]]
 - [[episodes/2026-05-20|2026-05-20]]

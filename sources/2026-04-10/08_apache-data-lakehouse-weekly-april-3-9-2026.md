@@ -30,4 +30,4 @@ The open lakehouse community gathered in San Francisco for the biggest Iceberg S
 - **URL:** <https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-april-3-9-2026-k5l>
 
 ## Related
-[[concepts/apache-iceberg|apache-iceberg]] · [[concepts/data-lakehouse|data-lakehouse]] · [[concepts/iceberg-summit|iceberg-summit]] · [[concepts/open-table-formats|open-table-formats]] · [[concepts/lakehouse|lakehouse]] · [[concepts/iceberg|iceberg]] · [[companies/apache-software-foundation|Apache Software Foundation]] · [[people/alex-merced|Alex Merced]] · [[episodes/2026-04-10|2026-04-10]]
+[[concepts/apache-iceberg|apache-iceberg]] · [[concepts/data-lakehouse|data-lakehouse]] · [[concepts/iceberg-summit|iceberg-summit]] · [[concepts/open-table-formats|open-table-formats]] · [[concepts/open-lakehouse|open-lakehouse]] · [[concepts/lakehouse|lakehouse]] · [[concepts/iceberg|iceberg]] · [[companies/apache-software-foundation|Apache Software Foundation]] · [[people/alex-merced|Alex Merced]] · [[episodes/2026-04-10|2026-04-10]]

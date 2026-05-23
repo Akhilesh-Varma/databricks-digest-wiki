@@ -3,20 +3,23 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-08
-last_seen: 2026-05-19
-mention_count: 23
+last_seen: 2026-05-23
+mention_count: 25
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 23 stories._
+_Company mentioned across 25 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/02_partner-blog-847-models-12-weeks-77-less-inside-r1-s-snowfla|PARTNER BLOG 847 Models, 12 Weeks, 77 Less Inside R1's Snowflake-to-Databricks Migration]]
+    - [[sources/2026-05-23/05_understanding-databricks-honest-comparison-with-snowflake-an|Understanding Databricks Honest Comparison with Snowflake and BigQuery]]
 - [[episodes/2026-05-19|2026-05-19]]
-    - [[sources/2026-05-19/08_bigquery-snowflake-redshift-databricks-fabric-where-each-one|BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill]]
     - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]
+    - [[sources/2026-05-19/08_bigquery-snowflake-redshift-databricks-fabric-where-each-one|BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/07_stop-naming-your-healthcare-columns-wrong-iso-11179-explaine|Stop Naming Your Healthcare Columns Wrong ISO-11179 Explained]]
 - [[episodes/2026-05-17|2026-05-17]]

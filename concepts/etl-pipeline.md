@@ -3,17 +3,19 @@ type: concept
 name: ETL Pipeline
 slug: etl-pipeline
 first_seen: 2026-04-13
-last_seen: 2026-05-19
-mention_count: 8
-avg_confidence: 0.713
+last_seen: 2026-05-23
+mention_count: 9
+avg_confidence: 0.711
 tags: [concept]
 ---
 
 # ETL Pipeline
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/01_do-you-still-need-a-separate-cloud-data-warehouse-building-a|Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/06_understanding-delta-lake-delta-tables-and-delta-live-tables|Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks]]
 - [[episodes/2026-05-18|2026-05-18]]
