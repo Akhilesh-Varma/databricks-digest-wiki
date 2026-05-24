@@ -3,17 +3,19 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-05-23
-mention_count: 25
-avg_confidence: 0.876
+last_seen: 2026-05-24
+mention_count: 26
+avg_confidence: 0.881
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 25 stories._
+_Concept mentioned across 26 stories._
 
 ## Appears in
+- [[episodes/2026-05-24|2026-05-24]]
+    - [[sources/2026-05-24/03_8-must-know-updates-in-data-engineering-iceberg-1-11-postgre|8 Must-Know Updates in Data Engineering Iceberg 1.11, Postgres Storage, and AI Tooling]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/01_do-you-still-need-a-separate-cloud-data-warehouse-building-a|Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance]]
     - [[sources/2026-05-23/07_hands-on-with-apache-iceberg-using-dremio-cloud|Hands-On with Apache Iceberg Using Dremio Cloud]]

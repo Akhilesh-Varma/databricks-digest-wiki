@@ -3,17 +3,19 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-23
-mention_count: 73
-avg_confidence: 0.753
+last_seen: 2026-05-24
+mention_count: 74
+avg_confidence: 0.755
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 73 stories._
+_Concept mentioned across 74 stories._
 
 ## Appears in
+- [[episodes/2026-05-24|2026-05-24]]
+    - [[sources/2026-05-24/01_databricks-community-roundup-15-new-posts|Databricks Community Roundup — 15 new posts]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/02_partner-blog-847-models-12-weeks-77-less-inside-r1-s-snowfla|PARTNER BLOG 847 Models, 12 Weeks, 77 Less Inside R1's Snowflake-to-Databricks Migration]]
     - [[sources/2026-05-23/01_do-you-still-need-a-separate-cloud-data-warehouse-building-a|Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance]]

@@ -3,17 +3,19 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-05-23
-mention_count: 34
+last_seen: 2026-05-24
+mention_count: 35
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 34 stories._
+_Company mentioned across 35 stories._
 
 ## Appears in
+- [[episodes/2026-05-24|2026-05-24]]
+    - [[sources/2026-05-24/04_database-and-data-engineering-pipeline-monitoring-dashboard|Database and Data Engineering Pipeline Monitoring Dashboard Reduce Cost by 20 25 and Save 60 120]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/07_hands-on-with-apache-iceberg-using-dremio-cloud|Hands-On with Apache Iceberg Using Dremio Cloud]]
 - [[episodes/2026-05-22|2026-05-22]]

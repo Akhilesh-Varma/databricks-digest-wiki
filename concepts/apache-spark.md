@@ -3,17 +3,19 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-05-21
-mention_count: 42
+last_seen: 2026-05-24
+mention_count: 43
 avg_confidence: 0.681
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 42 stories._
+_Concept mentioned across 43 stories._
 
 ## Appears in
+- [[episodes/2026-05-24|2026-05-24]]
+    - [[sources/2026-05-24/05_databricks-runtime-18-and-databricks-runtime-18-for-machine|Databricks Runtime 18 and Databricks Runtime 18 for Machine Learning are in Beta]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/07_azure-databricks-unity-catalog-setup-with-adls-gen2-step-by|Azure Databricks Unity Catalog Setup with ADLS Gen2 Step by Step Guide]]
 - [[episodes/2026-05-20|2026-05-20]]

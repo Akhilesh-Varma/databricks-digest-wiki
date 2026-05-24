@@ -3,17 +3,19 @@ type: concept
 name: RAG (Retrieval-Augmented Generation)
 slug: rag-retrieval-augmented-generation
 first_seen: 2026-04-15
-last_seen: 2026-05-18
-mention_count: 4
-avg_confidence: 0.85
+last_seen: 2026-05-24
+mention_count: 5
+avg_confidence: 0.88
 tags: [concept]
 ---
 
 # RAG (Retrieval-Augmented Generation)
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-24|2026-05-24]]
+    - [[sources/2026-05-24/02_show-hn-i-built-a-rag-and-knowledge-graph-agent-that-runs-lo|Show HN I built a RAG and knowledge graph agent that runs locally]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/05_adding-ai-extract-to-the-mix-building-a-unified-rag-pipeline|Adding ai_extract to the mix building a unified RAG pipeline with three Databricks SQL AI]]
 - [[episodes/2026-05-15|2026-05-15]]

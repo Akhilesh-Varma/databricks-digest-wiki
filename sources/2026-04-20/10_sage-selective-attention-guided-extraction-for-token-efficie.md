@@ -31,4 +31,4 @@ The paper introduces SAGE, a training-free context reduction framework that uses
 - **URL:** <https://arxiv.org/abs/2604.15583>
 
 ## Related
-[[concepts/selective-attention-guided-extraction|selective-attention-guided-extraction]] · [[concepts/retrieval-augmented-generation|retrieval-augmented-generation]] · [[concepts/language-model|language-model]] · [[concepts/large-language-models|large-language-models]] · [[concepts/semantic-similarity|semantic-similarity]] · [[concepts/rag|rag]] · [[concepts/llm|llm]] · [[episodes/2026-04-20|2026-04-20]]
+[[concepts/selective-attention-guided-extraction|selective-attention-guided-extraction]] · [[concepts/retrieval-augmented-generation|retrieval-augmented-generation]] · [[concepts/language-model|language-model]] · [[concepts/large-language-models|large-language-models]] · [[concepts/semantic-similarity|semantic-similarity]] · [[concepts/local-llm|local-llm]] · [[concepts/rag|rag]] · [[concepts/llm|llm]] · [[episodes/2026-04-20|2026-04-20]]

@@ -3,17 +3,19 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-08
-last_seen: 2026-05-23
-mention_count: 25
+last_seen: 2026-05-24
+mention_count: 26
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 25 stories._
+_Company mentioned across 26 stories._
 
 ## Appears in
+- [[episodes/2026-05-24|2026-05-24]]
+    - [[sources/2026-05-24/04_database-and-data-engineering-pipeline-monitoring-dashboard|Database and Data Engineering Pipeline Monitoring Dashboard Reduce Cost by 20 25 and Save 60 120]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/02_partner-blog-847-models-12-weeks-77-less-inside-r1-s-snowfla|PARTNER BLOG 847 Models, 12 Weeks, 77 Less Inside R1's Snowflake-to-Databricks Migration]]
     - [[sources/2026-05-23/05_understanding-databricks-honest-comparison-with-snowflake-an|Understanding Databricks Honest Comparison with Snowflake and BigQuery]]

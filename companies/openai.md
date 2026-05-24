@@ -3,17 +3,19 @@ type: company
 name: OpenAI
 slug: openai
 first_seen: 2026-04-17
-last_seen: 2026-05-22
-mention_count: 12
+last_seen: 2026-05-24
+mention_count: 13
 avg_confidence: ""
 tags: [company]
 ---
 
 # OpenAI
 
-_Company mentioned across 12 stories._
+_Company mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-24|2026-05-24]]
+    - [[sources/2026-05-24/02_show-hn-i-built-a-rag-and-knowledge-graph-agent-that-runs-lo|Show HN I built a RAG and knowledge graph agent that runs locally]]
 - [[episodes/2026-05-22|2026-05-22]]
     - [[sources/2026-05-22/10_gs-qa-a-benchmark-for-geospatial-question-answering|GS-QA A Benchmark for Geospatial Question Answering]]
     - [[sources/2026-05-22/04_letting-coding-agents-move-fast-without-breaking-everything|Letting Coding Agents Move Fast Without Breaking Everything]]
