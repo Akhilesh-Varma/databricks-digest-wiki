@@ -3,17 +3,20 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-05
-last_seen: 2026-05-24
-mention_count: 36
-avg_confidence: 0.617
+last_seen: 2026-05-25
+mention_count: 38
+avg_confidence: 0.613
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 36 stories._
+_Concept mentioned across 38 stories._
 
 ## Appears in
+- [[episodes/2026-05-25|2026-05-25]]
+    - [[sources/2026-05-25/05_databricks-and-fsx-for-ontap-s3-access-points-a-layer-by-lay|Databricks and FSx for ONTAP S3 Access Points A Layer-by-Layer Validation of Observed Boundaries]]
+    - [[sources/2026-05-25/01_databricks-community-roundup-3-new-posts|Databricks Community Roundup — 3 new posts]]
 - [[episodes/2026-05-24|2026-05-24]]
     - [[sources/2026-05-24/01_databricks-community-roundup-15-new-posts|Databricks Community Roundup — 15 new posts]]
 - [[episodes/2026-05-23|2026-05-23]]

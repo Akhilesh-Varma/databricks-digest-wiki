@@ -3,17 +3,19 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-05-24
-mention_count: 43
-avg_confidence: 0.681
+last_seen: 2026-05-25
+mention_count: 44
+avg_confidence: 0.682
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 43 stories._
+_Concept mentioned across 44 stories._
 
 ## Appears in
+- [[episodes/2026-05-25|2026-05-25]]
+    - [[sources/2026-05-25/05_databricks-and-fsx-for-ontap-s3-access-points-a-layer-by-lay|Databricks and FSx for ONTAP S3 Access Points A Layer-by-Layer Validation of Observed Boundaries]]
 - [[episodes/2026-05-24|2026-05-24]]
     - [[sources/2026-05-24/05_databricks-runtime-18-and-databricks-runtime-18-for-machine|Databricks Runtime 18 and Databricks Runtime 18 for Machine Learning are in Beta]]
 - [[episodes/2026-05-21|2026-05-21]]

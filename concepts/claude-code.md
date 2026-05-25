@@ -3,17 +3,19 @@ type: concept
 name: Claude Code
 slug: claude-code
 first_seen: 2026-04-05
-last_seen: 2026-05-22
-mention_count: 11
-avg_confidence: 0.527
+last_seen: 2026-05-25
+mention_count: 12
+avg_confidence: 0.542
 tags: [concept]
 ---
 
 # Claude Code
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-05-25|2026-05-25]]
+    - [[sources/2026-05-25/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]
 - [[episodes/2026-05-22|2026-05-22]]
     - [[sources/2026-05-22/04_letting-coding-agents-move-fast-without-breaking-everything|Letting Coding Agents Move Fast Without Breaking Everything]]
 - [[episodes/2026-05-21|2026-05-21]]

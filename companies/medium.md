@@ -3,17 +3,19 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-24
-mention_count: 35
+last_seen: 2026-05-25
+mention_count: 36
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 35 stories._
+_Company mentioned across 36 stories._
 
 ## Appears in
+- [[episodes/2026-05-25|2026-05-25]]
+    - [[sources/2026-05-25/03_tinkering-with-databricks-wrapping-agent-over-fda-drug-label|Tinkering with Databricks Wrapping Agent over FDA Drug Label Data in MLflow]]
 - [[episodes/2026-05-24|2026-05-24]]
     - [[sources/2026-05-24/03_8-must-know-updates-in-data-engineering-iceberg-1-11-postgre|8 Must-Know Updates in Data Engineering Iceberg 1.11, Postgres Storage, and AI Tooling]]
 - [[episodes/2026-05-23|2026-05-23]]

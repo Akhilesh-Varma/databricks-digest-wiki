@@ -3,17 +3,19 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-05-24
-mention_count: 23
+last_seen: 2026-05-25
+mention_count: 24
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 23 stories._
+_Company mentioned across 24 stories._
 
 ## Appears in
+- [[episodes/2026-05-25|2026-05-25]]
+    - [[sources/2026-05-25/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]
 - [[episodes/2026-05-24|2026-05-24]]
     - [[sources/2026-05-24/02_show-hn-i-built-a-rag-and-knowledge-graph-agent-that-runs-lo|Show HN I built a RAG and knowledge graph agent that runs locally]]
 - [[episodes/2026-05-22|2026-05-22]]

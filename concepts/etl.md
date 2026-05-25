@@ -3,17 +3,19 @@ type: concept
 name: ETL
 slug: etl
 first_seen: 2026-04-05
-last_seen: 2026-05-19
-mention_count: 13
-avg_confidence: 0.669
+last_seen: 2026-05-25
+mention_count: 14
+avg_confidence: 0.671
 tags: [concept]
 ---
 
 # ETL
 
-_Concept mentioned across 13 stories._
+_Concept mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-05-25|2026-05-25]]
+    - [[sources/2026-05-25/01_databricks-community-roundup-3-new-posts|Databricks Community Roundup — 3 new posts]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]
     - [[sources/2026-05-19/03_customer-story-nab-s-journey-to-100-declarative-pipelines|CUSTOMER STORY NAB s Journey to 100 Declarative Pipelines]]

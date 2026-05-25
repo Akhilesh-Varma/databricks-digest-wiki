@@ -3,17 +3,19 @@ type: concept
 name: Retrieval-Augmented Generation
 slug: retrieval-augmented-generation
 first_seen: 2026-04-10
-last_seen: 2026-05-23
-mention_count: 16
-avg_confidence: 0.762
+last_seen: 2026-05-25
+mention_count: 17
+avg_confidence: 0.776
 tags: [concept]
 ---
 
 # Retrieval-Augmented Generation
 
-_Concept mentioned across 16 stories._
+_Concept mentioned across 17 stories._
 
 ## Appears in
+- [[episodes/2026-05-25|2026-05-25]]
+    - [[sources/2026-05-25/04_voice-driven-rag-with-india-s-sovereign-ai-platform-sarvam|Voice Driven RAG with India s Sovereign AI Platform, SARVAM]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/06_accelerating-llm-inference-with-prompt-caching-for-open-sour|Accelerating LLM Inference with Prompt Caching for Open Source Models on Databricks]]
 - [[episodes/2026-05-22|2026-05-22]]

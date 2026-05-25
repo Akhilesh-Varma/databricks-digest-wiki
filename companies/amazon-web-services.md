@@ -3,17 +3,19 @@ type: company
 name: Amazon Web Services
 slug: amazon-web-services
 first_seen: 2026-04-08
-last_seen: 2026-05-23
-mention_count: 26
+last_seen: 2026-05-25
+mention_count: 27
 avg_confidence: ""
 tags: [company]
 ---
 
 # Amazon Web Services
 
-_Company mentioned across 26 stories._
+_Company mentioned across 27 stories._
 
 ## Appears in
+- [[episodes/2026-05-25|2026-05-25]]
+    - [[sources/2026-05-25/05_databricks-and-fsx-for-ontap-s3-access-points-a-layer-by-lay|Databricks and FSx for ONTAP S3 Access Points A Layer-by-Layer Validation of Observed Boundaries]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/08_how-data-lake-table-storage-degrades-over-time|How Data Lake Table Storage Degrades Over Time]]
 - [[episodes/2026-05-22|2026-05-22]]

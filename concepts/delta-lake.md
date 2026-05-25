@@ -3,17 +3,19 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-23
-mention_count: 52
-avg_confidence: 0.754
+last_seen: 2026-05-25
+mention_count: 53
+avg_confidence: 0.747
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 52 stories._
+_Concept mentioned across 53 stories._
 
 ## Appears in
+- [[episodes/2026-05-25|2026-05-25]]
+    - [[sources/2026-05-25/05_databricks-and-fsx-for-ontap-s3-access-points-a-layer-by-lay|Databricks and FSx for ONTAP S3 Access Points A Layer-by-Layer Validation of Observed Boundaries]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/02_partner-blog-847-models-12-weeks-77-less-inside-r1-s-snowfla|PARTNER BLOG 847 Models, 12 Weeks, 77 Less Inside R1's Snowflake-to-Databricks Migration]]
     - [[sources/2026-05-23/01_do-you-still-need-a-separate-cloud-data-warehouse-building-a|Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance]]

@@ -3,17 +3,22 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-24
-mention_count: 220
+last_seen: 2026-05-25
+mention_count: 224
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 220 stories._
+_Company mentioned across 224 stories._
 
 ## Appears in
+- [[episodes/2026-05-25|2026-05-25]]
+    - [[sources/2026-05-25/05_databricks-and-fsx-for-ontap-s3-access-points-a-layer-by-lay|Databricks and FSx for ONTAP S3 Access Points A Layer-by-Layer Validation of Observed Boundaries]]
+    - [[sources/2026-05-25/01_databricks-community-roundup-3-new-posts|Databricks Community Roundup — 3 new posts]]
+    - [[sources/2026-05-25/03_tinkering-with-databricks-wrapping-agent-over-fda-drug-label|Tinkering with Databricks Wrapping Agent over FDA Drug Label Data in MLflow]]
+    - [[sources/2026-05-25/04_voice-driven-rag-with-india-s-sovereign-ai-platform-sarvam|Voice Driven RAG with India s Sovereign AI Platform, SARVAM]]
 - [[episodes/2026-05-24|2026-05-24]]
     - [[sources/2026-05-24/01_databricks-community-roundup-15-new-posts|Databricks Community Roundup — 15 new posts]]
     - [[sources/2026-05-24/04_database-and-data-engineering-pipeline-monitoring-dashboard|Database and Data Engineering Pipeline Monitoring Dashboard Reduce Cost by 20 25 and Save 60 120]]

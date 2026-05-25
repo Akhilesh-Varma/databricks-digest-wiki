@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-05-24T14:14:02.820292+00:00",
-  "node_count": 2451,
-  "edge_count": 4096,
+  "generated_at": "2026-05-25T10:24:01.041393+00:00",
+  "node_count": 2488,
+  "edge_count": 4154,
   "nodes": [
+    {
+      "id": "episode/2026-05-25",
+      "type": "episode",
+      "label": "Daily Databricks Digest - May 25, 2026",
+      "episode_date": "2026-05-25",
+      "story_count": 6
+    },
     {
       "id": "episode/2026-05-24",
       "type": "episode",
@@ -3464,6 +3471,54 @@
       "quality_score": 0.6576066526716271
     },
     {
+      "id": "story/community_roundup_3_community_0fd805d2f795",
+      "type": "story",
+      "label": "Databricks Community Roundup \u2014 3 new posts",
+      "episode_date": "2026-05-25",
+      "rank": 1,
+      "quality_score": 0.8
+    },
+    {
+      "id": "story/trending_repos_roundup_5_github_trending_doorman1",
+      "type": "story",
+      "label": "Weekly Trending Repos Roundup \u2014 5 new from the past 7 days",
+      "episode_date": "2026-05-25",
+      "rank": 2,
+      "quality_score": 0.6200000000000001
+    },
+    {
+      "id": "story/rss_c138f2ead9ed",
+      "type": "story",
+      "label": "Tinkering with Databricks Wrapping Agent over FDA Drug Label Data in MLflow",
+      "episode_date": "2026-05-25",
+      "rank": 3,
+      "quality_score": 0.7376982333688823
+    },
+    {
+      "id": "story/rss_806ae11f47f0",
+      "type": "story",
+      "label": "Voice Driven RAG with India s Sovereign AI Platform, SARVAM",
+      "episode_date": "2026-05-25",
+      "rank": 4,
+      "quality_score": 0.7369636103258929
+    },
+    {
+      "id": "story/devto_3739765",
+      "type": "story",
+      "label": "Databricks and FSx for ONTAP S3 Access Points A Layer-by-Layer Validation of Observed Boundaries",
+      "episode_date": "2026-05-25",
+      "rank": 5,
+      "quality_score": 0.8863885442546297
+    },
+    {
+      "id": "story/rss_388e4f889bbf",
+      "type": "story",
+      "label": "Conceptual Schema Inference for Tabular Datasets using Large Language Models",
+      "episode_date": "2026-05-25",
+      "rank": 6,
+      "quality_score": 0.7963326578308532
+    },
+    {
       "id": "story/pypi_mlflow_3.12.0",
       "type": "story",
       "label": "MLflow 3.12.0 released on PyPI",
@@ -4091,7 +4146,7 @@
       "id": "concept/retrieval-augmented-generation",
       "type": "concept",
       "label": "Retrieval-Augmented Generation",
-      "mention_count": 16
+      "mention_count": 17
     },
     {
       "id": "concept/mosaic-ai-vector-search",
@@ -4115,7 +4170,7 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 220
+      "mention_count": 224
     },
     {
       "id": "concept/fulfillment-center-operations",
@@ -4223,7 +4278,7 @@
       "id": "concept/unity-catalog",
       "type": "concept",
       "label": "Unity Catalog",
-      "mention_count": 74
+      "mention_count": 76
     },
     {
       "id": "concept/medallion-architecture",
@@ -4373,7 +4428,7 @@
       "id": "concept/delta-lake",
       "type": "concept",
       "label": "Delta Lake",
-      "mention_count": 52
+      "mention_count": 53
     },
     {
       "id": "concept/delta-kernel",
@@ -4385,7 +4440,7 @@
       "id": "concept/apache-spark",
       "type": "concept",
       "label": "Apache Spark",
-      "mention_count": 43
+      "mention_count": 44
     },
     {
       "id": "concept/apache-flink",
@@ -4451,7 +4506,7 @@
       "id": "concept/large-language-models",
       "type": "concept",
       "label": "Large Language Models",
-      "mention_count": 26
+      "mention_count": 29
     },
     {
       "id": "concept/cost-based-query-optimization",
@@ -4589,7 +4644,7 @@
       "id": "concept/lakehouse",
       "type": "concept",
       "label": "Lakehouse",
-      "mention_count": 36
+      "mention_count": 38
     },
     {
       "id": "company/microsoft-azure",
@@ -4649,7 +4704,7 @@
       "id": "company/amazon-web-services",
       "type": "company",
       "label": "Amazon Web Services",
-      "mention_count": 26
+      "mention_count": 27
     },
     {
       "id": "concept/databricks-platform",
@@ -4685,7 +4740,7 @@
       "id": "company/medium",
       "type": "company",
       "label": "Medium",
-      "mention_count": 35
+      "mention_count": 36
     },
     {
       "id": "concept/occupational-safety-and-health-administration-osha",
@@ -4727,7 +4782,7 @@
       "id": "concept/databricks-serverless-sql",
       "type": "concept",
       "label": "Databricks Serverless SQL",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/photon",
@@ -5267,7 +5322,7 @@
       "id": "concept/mlflow",
       "type": "concept",
       "label": "MLflow",
-      "mention_count": 18
+      "mention_count": 19
     },
     {
       "id": "concept/ai-gateway",
@@ -6419,7 +6474,7 @@
       "id": "concept/etl",
       "type": "concept",
       "label": "ETL",
-      "mention_count": 13
+      "mention_count": 14
     },
     {
       "id": "concept/llm-powered-transpilation",
@@ -7055,7 +7110,7 @@
       "id": "concept/claude-code",
       "type": "concept",
       "label": "Claude Code",
-      "mention_count": 11
+      "mention_count": 12
     },
     {
       "id": "company/google-cloud-platform",
@@ -7067,7 +7122,7 @@
       "id": "company/anthropic",
       "type": "company",
       "label": "Anthropic",
-      "mention_count": 23
+      "mention_count": 24
     },
     {
       "id": "company/meta",
@@ -15029,7 +15084,7 @@
       "id": "concept/data-lakes",
       "type": "concept",
       "label": "Data Lakes",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/data-warehouses",
@@ -15338,9 +15393,105 @@
       "mention_count": 1
     },
     {
+      "id": "concept/fsx-for-ontap-s3-access-points",
+      "type": "concept",
+      "label": "FSx for ONTAP S3 Access Points",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/unity-catalog-external-locations",
+      "type": "concept",
+      "label": "Unity Catalog External Locations",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/nfs-kernel-mount",
+      "type": "concept",
+      "label": "NFS kernel mount",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/seccomp",
+      "type": "concept",
+      "label": "seccomp",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/instance-profile",
+      "type": "concept",
+      "label": "Instance Profile",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/boto3",
+      "type": "concept",
+      "label": "boto3",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/strace",
+      "type": "concept",
+      "label": "strace",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/vpc",
+      "type": "concept",
+      "label": "VPC",
+      "mention_count": 1
+    },
+    {
+      "id": "company/netapp",
+      "type": "company",
+      "label": "NetApp",
+      "mention_count": 1
+    },
+    {
       "id": "concept/open-lakehouse",
       "type": "concept",
       "label": "Open Lakehouse",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/conceptual-schema-inference",
+      "type": "concept",
+      "label": "Conceptual Schema Inference",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/gesi",
+      "type": "concept",
+      "label": "GeSI",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/emsi",
+      "type": "concept",
+      "label": "EmSI",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/table-embeddings",
+      "type": "concept",
+      "label": "Table Embeddings",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/dataset-discovery",
+      "type": "concept",
+      "label": "Dataset Discovery",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/hierarchical-type-inference",
+      "type": "concept",
+      "label": "Hierarchical Type Inference",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/web-tables",
+      "type": "concept",
+      "label": "Web Tables",
       "mention_count": 1
     },
     {
@@ -15554,6 +15705,36 @@
       "mention_count": 1
     },
     {
+      "id": "concept/ai-coding-agent",
+      "type": "concept",
+      "label": "AI Coding Agent",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/vulnerability-discovery-agent",
+      "type": "concept",
+      "label": "Vulnerability Discovery Agent",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/multiplayer-self-hosted-agents",
+      "type": "concept",
+      "label": "Multiplayer Self-Hosted Agents",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/autonomous-agent",
+      "type": "concept",
+      "label": "Autonomous Agent",
+      "mention_count": 1
+    },
+    {
+      "id": "company/paradigm",
+      "type": "company",
+      "label": "Paradigm",
+      "mention_count": 1
+    },
+    {
       "id": "concept/prompt-caching",
       "type": "concept",
       "label": "Prompt Caching",
@@ -15563,6 +15744,24 @@
       "id": "concept/kv-cache",
       "type": "concept",
       "label": "KV Cache",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/metadata-driven-etl-framework",
+      "type": "concept",
+      "label": "Metadata-Driven ETL Framework",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/data-warehousing",
+      "type": "concept",
+      "label": "Data Warehousing",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/query-performance-tuning",
+      "type": "concept",
+      "label": "Query Performance Tuning",
       "mention_count": 1
     },
     {
@@ -15611,6 +15810,42 @@
       "id": "concept/databricks-runtime-18-for-machine-learning",
       "type": "concept",
       "label": "Databricks Runtime 18 for Machine Learning",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/databricks-agent-framework",
+      "type": "concept",
+      "label": "Databricks Agent Framework",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/fda-drug-label-retrieval",
+      "type": "concept",
+      "label": "FDA Drug Label Retrieval",
+      "mention_count": 1
+    },
+    {
+      "id": "company/fda",
+      "type": "company",
+      "label": "FDA",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/automatic-speech-recognition",
+      "type": "concept",
+      "label": "Automatic Speech Recognition",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/sovereign-ai",
+      "type": "concept",
+      "label": "Sovereign AI",
+      "mention_count": 1
+    },
+    {
+      "id": "company/sarvam-ai",
+      "type": "company",
+      "label": "Sarvam AI",
       "mention_count": 1
     },
     {
@@ -35332,6 +35567,86 @@
       "kind": "mentions"
     },
     {
+      "source": "story/devto_3739765",
+      "target": "episode/2026-05-25",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3739765",
+      "target": "concept/unity-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3739765",
+      "target": "concept/fsx-for-ontap-s3-access-points",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3739765",
+      "target": "concept/unity-catalog-external-locations",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3739765",
+      "target": "concept/delta-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3739765",
+      "target": "concept/nfs-kernel-mount",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3739765",
+      "target": "concept/seccomp",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3739765",
+      "target": "concept/instance-profile",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3739765",
+      "target": "concept/boto3",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3739765",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3739765",
+      "target": "concept/strace",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3739765",
+      "target": "concept/lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3739765",
+      "target": "concept/vpc",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3739765",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3739765",
+      "target": "company/amazon-web-services",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3739765",
+      "target": "company/netapp",
+      "kind": "mentions"
+    },
+    {
       "source": "story/community_1f488e412922",
       "target": "episode/2026-05-23",
       "kind": "aired_in"
@@ -35394,6 +35709,56 @@
     {
       "source": "story/community_1f488e412922",
       "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_388e4f889bbf",
+      "target": "episode/2026-05-25",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_388e4f889bbf",
+      "target": "concept/conceptual-schema-inference",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_388e4f889bbf",
+      "target": "concept/large-language-models",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_388e4f889bbf",
+      "target": "concept/gesi",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_388e4f889bbf",
+      "target": "concept/emsi",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_388e4f889bbf",
+      "target": "concept/table-embeddings",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_388e4f889bbf",
+      "target": "concept/data-lakes",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_388e4f889bbf",
+      "target": "concept/dataset-discovery",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_388e4f889bbf",
+      "target": "concept/hierarchical-type-inference",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_388e4f889bbf",
+      "target": "concept/web-tables",
       "kind": "mentions"
     },
     {
@@ -35872,6 +36237,51 @@
       "kind": "mentions"
     },
     {
+      "source": "story/trending_repos_roundup_5_github_trending_doorman1",
+      "target": "episode/2026-05-25",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_doorman1",
+      "target": "concept/ai-coding-agent",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_doorman1",
+      "target": "concept/large-language-models",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_doorman1",
+      "target": "concept/vulnerability-discovery-agent",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_doorman1",
+      "target": "concept/multiplayer-self-hosted-agents",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_doorman1",
+      "target": "concept/claude-code",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_doorman1",
+      "target": "concept/autonomous-agent",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_doorman1",
+      "target": "company/anthropic",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_doorman1",
+      "target": "company/paradigm",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_7b78d13e9c0d",
       "target": "episode/2026-05-23",
       "kind": "aired_in"
@@ -35903,6 +36313,46 @@
     },
     {
       "source": "story/rss_7b78d13e9c0d",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_3_community_0fd805d2f795",
+      "target": "episode/2026-05-25",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_roundup_3_community_0fd805d2f795",
+      "target": "concept/databricks-serverless-sql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_3_community_0fd805d2f795",
+      "target": "concept/lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_3_community_0fd805d2f795",
+      "target": "concept/metadata-driven-etl-framework",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_3_community_0fd805d2f795",
+      "target": "concept/data-warehousing",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_3_community_0fd805d2f795",
+      "target": "concept/etl",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_3_community_0fd805d2f795",
+      "target": "concept/query-performance-tuning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_3_community_0fd805d2f795",
       "target": "company/databricks",
       "kind": "mentions"
     },
@@ -36028,6 +36478,81 @@
     },
     {
       "source": "story/rss_75aac82da104",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c138f2ead9ed",
+      "target": "episode/2026-05-25",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_c138f2ead9ed",
+      "target": "concept/mlflow",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c138f2ead9ed",
+      "target": "concept/unity-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c138f2ead9ed",
+      "target": "concept/databricks-agent-framework",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c138f2ead9ed",
+      "target": "concept/fda-drug-label-retrieval",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c138f2ead9ed",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c138f2ead9ed",
+      "target": "company/fda",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c138f2ead9ed",
+      "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_806ae11f47f0",
+      "target": "episode/2026-05-25",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_806ae11f47f0",
+      "target": "concept/retrieval-augmented-generation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_806ae11f47f0",
+      "target": "concept/automatic-speech-recognition",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_806ae11f47f0",
+      "target": "concept/large-language-models",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_806ae11f47f0",
+      "target": "concept/sovereign-ai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_806ae11f47f0",
+      "target": "company/sarvam-ai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_806ae11f47f0",
       "target": "company/databricks",
       "kind": "mentions"
     },
