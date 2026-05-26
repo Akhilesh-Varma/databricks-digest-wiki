@@ -3,17 +3,19 @@ type: concept
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-23
-mention_count: 13
-avg_confidence: 0.785
+last_seen: 2026-05-26
+mention_count: 14
+avg_confidence: 0.779
 tags: [concept]
 ---
 
 # Databricks
 
-_Concept mentioned across 13 stories._
+_Concept mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/03_why-lakehouse-architecture-feels-like-the-future-of-data-eng|Why Lakehouse Architecture Feels Like the Future of Data Engineering]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/05_understanding-databricks-honest-comparison-with-snowflake-an|Understanding Databricks Honest Comparison with Snowflake and BigQuery]]
 - [[episodes/2026-05-15|2026-05-15]]

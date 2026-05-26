@@ -3,17 +3,19 @@ type: company
 name: Cloudflare
 slug: cloudflare
 first_seen: 2026-05-09
-last_seen: 2026-05-19
-mention_count: 3
+last_seen: 2026-05-26
+mention_count: 4
 avg_confidence: ""
 tags: [company]
 ---
 
 # Cloudflare
 
-_Company mentioned across 3 stories._
+_Company mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/02_sqlit-a-lazygit-style-tui-for-sql-databases|Sqlit A lazygit-style TUI for SQL databases]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/09_load-postgresql-into-apache-iceberg-with-sling|Load PostgreSQL into Apache Iceberg with Sling]]
 - [[episodes/2026-05-16|2026-05-16]]

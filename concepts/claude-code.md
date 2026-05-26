@@ -3,17 +3,19 @@ type: concept
 name: Claude Code
 slug: claude-code
 first_seen: 2026-04-05
-last_seen: 2026-05-25
-mention_count: 12
-avg_confidence: 0.542
+last_seen: 2026-05-26
+mention_count: 13
+avg_confidence: 0.531
 tags: [concept]
 ---
 
 # Claude Code
 
-_Concept mentioned across 12 stories._
+_Concept mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/08_the-time-is-here-for-just-in-time-systems-challenges-and-opp|The Time is Here for Just-in-Time Systems Challenges and Opportunities]]
 - [[episodes/2026-05-25|2026-05-25]]
     - [[sources/2026-05-25/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]
 - [[episodes/2026-05-22|2026-05-22]]

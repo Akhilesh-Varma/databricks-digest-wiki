@@ -3,17 +3,19 @@ type: concept
 name: Amazon S3
 slug: amazon-s3
 first_seen: 2026-05-02
-last_seen: 2026-05-21
-mention_count: 5
-avg_confidence: 0.46
+last_seen: 2026-05-26
+mention_count: 6
+avg_confidence: 0.517
 tags: [concept]
 ---
 
 # Amazon S3
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/05_aws-data-engineering-glue-emr-athena-kinesis-end-to-end-guid|AWS Data Engineering Glue, EMR, Athena, Kinesis End-to-End Guide]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/10_the-ghost-protocol-stack-how-we-rebuilt-payments-when-every|The Ghost Protocol Stack How We Rebuilt Payments When Every Vendor Cut Us Off]]
     - [[sources/2026-05-21/09_why-stripe-didnt-cut-it-for-creators-in-pakistan-and-how-we|Why Stripe Didnt Cut It for Creators in Pakistan and How We Built a Parallel Pipeline for 0.05 Per Transaction]]

@@ -3,17 +3,19 @@ type: company
 name: Supabase
 slug: supabase
 first_seen: 2026-05-03
-last_seen: 2026-05-21
-mention_count: 3
+last_seen: 2026-05-26
+mention_count: 4
 avg_confidence: ""
 tags: [company]
 ---
 
 # Supabase
 
-_Company mentioned across 3 stories._
+_Company mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/02_sqlit-a-lazygit-style-tui-for-sql-databases|Sqlit A lazygit-style TUI for SQL databases]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/04_show-hn-cipherstash-stack-data-level-access-control-in-ts-js|Show HN CipherStash Stack Data Level Access Control in TS JS]]
 - [[episodes/2026-05-19|2026-05-19]]

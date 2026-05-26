@@ -3,17 +3,19 @@ type: concept
 name: Pandas
 slug: pandas
 first_seen: 2026-04-17
-last_seen: 2026-05-12
-mention_count: 3
-avg_confidence: 0.4
+last_seen: 2026-05-26
+mention_count: 4
+avg_confidence: 0.475
 tags: [concept]
 ---
 
 # Pandas
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/07_fabric-ai-functions-turn-genai-into-a-data-pipeline-step|Fabric AI Functions Turn GenAI Into a Data Pipeline Step]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/08_etl-pipeline-for-data-engineering-a-beginner-s-guide-to-extr|ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load]]
 - [[episodes/2026-05-03|2026-05-03]]

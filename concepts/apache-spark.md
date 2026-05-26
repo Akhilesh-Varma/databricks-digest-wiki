@@ -3,17 +3,19 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-05-25
-mention_count: 44
+last_seen: 2026-05-26
+mention_count: 45
 avg_confidence: 0.682
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 44 stories._
+_Concept mentioned across 45 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/05_aws-data-engineering-glue-emr-athena-kinesis-end-to-end-guid|AWS Data Engineering Glue, EMR, Athena, Kinesis End-to-End Guide]]
 - [[episodes/2026-05-25|2026-05-25]]
     - [[sources/2026-05-25/05_databricks-and-fsx-for-ontap-s3-access-points-a-layer-by-lay|Databricks and FSx for ONTAP S3 Access Points A Layer-by-Layer Validation of Observed Boundaries]]
 - [[episodes/2026-05-24|2026-05-24]]

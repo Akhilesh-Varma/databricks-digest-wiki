@@ -3,17 +3,19 @@ type: concept
 name: Azure Databricks
 slug: azure-databricks
 first_seen: 2026-05-02
-last_seen: 2026-05-21
-mention_count: 5
-avg_confidence: 0.88
+last_seen: 2026-05-26
+mention_count: 6
+avg_confidence: 0.9
 tags: [concept]
 ---
 
 # Azure Databricks
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/06_azure-data-engineering-synapse-adf-databricks-full-guide|Azure Data Engineering Synapse, ADF, Databricks Full Guide]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/07_azure-databricks-unity-catalog-setup-with-adls-gen2-step-by|Azure Databricks Unity Catalog Setup with ADLS Gen2 Step by Step Guide]]
 - [[episodes/2026-05-15|2026-05-15]]

@@ -3,17 +3,21 @@ type: company
 name: Amazon Web Services
 slug: amazon-web-services
 first_seen: 2026-04-08
-last_seen: 2026-05-25
-mention_count: 27
+last_seen: 2026-05-26
+mention_count: 30
 avg_confidence: ""
 tags: [company]
 ---
 
 # Amazon Web Services
 
-_Company mentioned across 27 stories._
+_Company mentioned across 30 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/05_aws-data-engineering-glue-emr-athena-kinesis-end-to-end-guid|AWS Data Engineering Glue, EMR, Athena, Kinesis End-to-End Guide]]
+    - [[sources/2026-05-26/02_sqlit-a-lazygit-style-tui-for-sql-databases|Sqlit A lazygit-style TUI for SQL databases]]
+    - [[sources/2026-05-26/04_integrating-aws-s3-with-snowflake-a-practical-guide|Integrating AWS S3 with Snowflake A Practical Guide]]
 - [[episodes/2026-05-25|2026-05-25]]
     - [[sources/2026-05-25/05_databricks-and-fsx-for-ontap-s3-access-points-a-layer-by-lay|Databricks and FSx for ONTAP S3 Access Points A Layer-by-Layer Validation of Observed Boundaries]]
 - [[episodes/2026-05-23|2026-05-23]]

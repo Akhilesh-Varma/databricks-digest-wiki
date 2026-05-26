@@ -3,17 +3,19 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-25
-mention_count: 76
-avg_confidence: 0.758
+last_seen: 2026-05-26
+mention_count: 77
+avg_confidence: 0.76
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 76 stories._
+_Concept mentioned across 77 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/06_azure-data-engineering-synapse-adf-databricks-full-guide|Azure Data Engineering Synapse, ADF, Databricks Full Guide]]
 - [[episodes/2026-05-25|2026-05-25]]
     - [[sources/2026-05-25/05_databricks-and-fsx-for-ontap-s3-access-points-a-layer-by-lay|Databricks and FSx for ONTAP S3 Access Points A Layer-by-Layer Validation of Observed Boundaries]]
     - [[sources/2026-05-25/03_tinkering-with-databricks-wrapping-agent-over-fda-drug-label|Tinkering with Databricks Wrapping Agent over FDA Drug Label Data in MLflow]]

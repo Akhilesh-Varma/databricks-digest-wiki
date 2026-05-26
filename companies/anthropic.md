@@ -3,17 +3,19 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-05-25
-mention_count: 24
+last_seen: 2026-05-26
+mention_count: 25
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 24 stories._
+_Company mentioned across 25 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/08_the-time-is-here-for-just-in-time-systems-challenges-and-opp|The Time is Here for Just-in-Time Systems Challenges and Opportunities]]
 - [[episodes/2026-05-25|2026-05-25]]
     - [[sources/2026-05-25/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]
 - [[episodes/2026-05-24|2026-05-24]]

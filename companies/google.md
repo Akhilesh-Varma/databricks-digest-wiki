@@ -3,17 +3,19 @@ type: company
 name: Google
 slug: google
 first_seen: 2026-04-05
-last_seen: 2026-05-23
-mention_count: 25
+last_seen: 2026-05-26
+mention_count: 26
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google
 
-_Company mentioned across 25 stories._
+_Company mentioned across 26 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/02_sqlit-a-lazygit-style-tui-for-sql-databases|Sqlit A lazygit-style TUI for SQL databases]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/05_understanding-databricks-honest-comparison-with-snowflake-an|Understanding Databricks Honest Comparison with Snowflake and BigQuery]]
 - [[episodes/2026-05-22|2026-05-22]]

@@ -3,17 +3,19 @@ type: concept
 name: ETL
 slug: etl
 first_seen: 2026-04-05
-last_seen: 2026-05-25
-mention_count: 14
-avg_confidence: 0.671
+last_seen: 2026-05-26
+mention_count: 15
+avg_confidence: 0.667
 tags: [concept]
 ---
 
 # ETL
 
-_Concept mentioned across 14 stories._
+_Concept mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/05_aws-data-engineering-glue-emr-athena-kinesis-end-to-end-guid|AWS Data Engineering Glue, EMR, Athena, Kinesis End-to-End Guide]]
 - [[episodes/2026-05-25|2026-05-25]]
     - [[sources/2026-05-25/01_databricks-community-roundup-3-new-posts|Databricks Community Roundup — 3 new posts]]
 - [[episodes/2026-05-19|2026-05-19]]

@@ -3,17 +3,19 @@ type: concept
 name: Data Pipelines
 slug: data-pipelines
 first_seen: 2026-04-27
-last_seen: 2026-05-12
-mention_count: 4
-avg_confidence: 0.625
+last_seen: 2026-05-26
+mention_count: 5
+avg_confidence: 0.58
 tags: [concept]
 ---
 
 # Data Pipelines
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/07_building-scalable-data-pipelines-with-azure-data-factory-dat|Building Scalable Data Pipelines with Azure Data Factory, Databricks Azure DevOps]]
 - [[episodes/2026-05-10|2026-05-10]]

@@ -3,17 +3,20 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-25
-mention_count: 36
+last_seen: 2026-05-26
+mention_count: 38
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 36 stories._
+_Company mentioned across 38 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/03_why-lakehouse-architecture-feels-like-the-future-of-data-eng|Why Lakehouse Architecture Feels Like the Future of Data Engineering]]
+    - [[sources/2026-05-26/04_integrating-aws-s3-with-snowflake-a-practical-guide|Integrating AWS S3 with Snowflake A Practical Guide]]
 - [[episodes/2026-05-25|2026-05-25]]
     - [[sources/2026-05-25/03_tinkering-with-databricks-wrapping-agent-over-fda-drug-label|Tinkering with Databricks Wrapping Agent over FDA Drug Label Data in MLflow]]
 - [[episodes/2026-05-24|2026-05-24]]

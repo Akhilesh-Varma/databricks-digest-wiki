@@ -3,17 +3,20 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-08
-last_seen: 2026-05-24
-mention_count: 26
+last_seen: 2026-05-26
+mention_count: 28
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 26 stories._
+_Company mentioned across 28 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/02_sqlit-a-lazygit-style-tui-for-sql-databases|Sqlit A lazygit-style TUI for SQL databases]]
+    - [[sources/2026-05-26/04_integrating-aws-s3-with-snowflake-a-practical-guide|Integrating AWS S3 with Snowflake A Practical Guide]]
 - [[episodes/2026-05-24|2026-05-24]]
     - [[sources/2026-05-24/04_database-and-data-engineering-pipeline-monitoring-dashboard|Database and Data Engineering Pipeline Monitoring Dashboard Reduce Cost by 20 25 and Save 60 120]]
 - [[episodes/2026-05-23|2026-05-23]]

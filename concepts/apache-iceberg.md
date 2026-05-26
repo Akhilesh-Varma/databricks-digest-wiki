@@ -3,17 +3,19 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-05-24
-mention_count: 26
-avg_confidence: 0.881
+last_seen: 2026-05-26
+mention_count: 27
+avg_confidence: 0.874
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 26 stories._
+_Concept mentioned across 27 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/05_aws-data-engineering-glue-emr-athena-kinesis-end-to-end-guid|AWS Data Engineering Glue, EMR, Athena, Kinesis End-to-End Guide]]
 - [[episodes/2026-05-24|2026-05-24]]
     - [[sources/2026-05-24/03_8-must-know-updates-in-data-engineering-iceberg-1-11-postgre|8 Must-Know Updates in Data Engineering Iceberg 1.11, Postgres Storage, and AI Tooling]]
 - [[episodes/2026-05-23|2026-05-23]]

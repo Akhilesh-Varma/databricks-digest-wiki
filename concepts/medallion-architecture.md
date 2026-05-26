@@ -3,17 +3,19 @@ type: concept
 name: Medallion Architecture
 slug: medallion-architecture
 first_seen: 2026-04-14
-last_seen: 2026-05-23
-mention_count: 17
-avg_confidence: 0.771
+last_seen: 2026-05-26
+mention_count: 18
+avg_confidence: 0.767
 tags: [concept]
 ---
 
 # Medallion Architecture
 
-_Concept mentioned across 17 stories._
+_Concept mentioned across 18 stories._
 
 ## Appears in
+- [[episodes/2026-05-26|2026-05-26]]
+    - [[sources/2026-05-26/06_azure-data-engineering-synapse-adf-databricks-full-guide|Azure Data Engineering Synapse, ADF, Databricks Full Guide]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/04_designing-a-modern-enterprise-lakehouse-with-databricks-dabs|Designing a Modern Enterprise Lakehouse with Databricks, DABs, and Medallion Architecture]]
 - [[episodes/2026-05-21|2026-05-21]]
