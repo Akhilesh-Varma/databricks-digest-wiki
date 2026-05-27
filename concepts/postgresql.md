@@ -3,17 +3,19 @@ type: concept
 name: PostgreSQL
 slug: postgresql
 first_seen: 2026-04-09
-last_seen: 2026-05-22
-mention_count: 22
-avg_confidence: 0.682
+last_seen: 2026-05-27
+mention_count: 23
+avg_confidence: 0.696
 tags: [concept]
 ---
 
 # PostgreSQL
 
-_Concept mentioned across 22 stories._
+_Concept mentioned across 23 stories._
 
 ## Appears in
+- [[episodes/2026-05-27|2026-05-27]]
+    - [[sources/2026-05-27/05_how-polymarket-scaled-their-data-stack-with-postgres-clickho|How Polymarket Scaled Their Data Stack with Postgres ClickHouse]]
 - [[episodes/2026-05-22|2026-05-22]]
     - [[sources/2026-05-22/05_google-offers-free-full-stack-app-creation-and-publishing|Google offers free full-stack app creation and publishing]]
 - [[episodes/2026-05-20|2026-05-20]]

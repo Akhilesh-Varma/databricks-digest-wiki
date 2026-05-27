@@ -3,17 +3,19 @@ type: concept
 name: Databricks SQL
 slug: databricks-sql
 first_seen: 2026-04-13
-last_seen: 2026-05-23
-mention_count: 5
-avg_confidence: 0.74
+last_seen: 2026-05-27
+mention_count: 6
+avg_confidence: 0.783
 tags: [concept]
 ---
 
 # Databricks SQL
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-27|2026-05-27]]
+    - [[sources/2026-05-27/02_databricks-sql-version-2026-15-is-now-available-in-preview|Databricks SQL version 2026.15 is now available in Preview]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/01_do-you-still-need-a-separate-cloud-data-warehouse-building-a|Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance]]
 - [[episodes/2026-05-07|2026-05-07]]

@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-05-26T10:24:48.309429+00:00",
-  "node_count": 2544,
-  "edge_count": 4272,
+  "generated_at": "2026-05-27T10:25:15.178819+00:00",
+  "node_count": 2590,
+  "edge_count": 4357,
   "nodes": [
+    {
+      "id": "episode/2026-05-27",
+      "type": "episode",
+      "label": "Daily Databricks Digest - May 27, 2026",
+      "episode_date": "2026-05-27",
+      "story_count": 7
+    },
     {
       "id": "episode/2026-05-26",
       "type": "episode",
@@ -2310,6 +2317,62 @@
       "quality_score": 0.8363410185909391
     },
     {
+      "id": "story/community_roundup_8_community_0fd805d2f795",
+      "type": "story",
+      "label": "Databricks Community Roundup \u2014 8 new posts",
+      "episode_date": "2026-05-27",
+      "rank": 1,
+      "quality_score": 0.8
+    },
+    {
+      "id": "story/rss_1a57d6d9dc66",
+      "type": "story",
+      "label": "Databricks SQL version 2026.15 is now available in Preview",
+      "episode_date": "2026-05-27",
+      "rank": 2,
+      "quality_score": 0.9456581935806878
+    },
+    {
+      "id": "story/rss_d6408733a240",
+      "type": "story",
+      "label": "Automatic identity management with Microsoft Entra ID is now GA",
+      "episode_date": "2026-05-27",
+      "rank": 3,
+      "quality_score": 0.8256581935529101
+    },
+    {
+      "id": "story/rss_9e1187c61728",
+      "type": "story",
+      "label": "Lakeflow Spark Declarative Pipelines parameters are now in Beta",
+      "episode_date": "2026-05-27",
+      "rank": 4,
+      "quality_score": 0.8056581935391867
+    },
+    {
+      "id": "story/devto_3762603",
+      "type": "story",
+      "label": "How Polymarket Scaled Their Data Stack with Postgres ClickHouse",
+      "episode_date": "2026-05-27",
+      "rank": 5,
+      "quality_score": 0.9389432471861774
+    },
+    {
+      "id": "story/devto_3759693",
+      "type": "story",
+      "label": "Copy Job CDC with SQL estate is now GA in Microsoft Fabric",
+      "episode_date": "2026-05-27",
+      "rank": 6,
+      "quality_score": 0.933371322471561
+    },
+    {
+      "id": "story/devto_3756490",
+      "type": "story",
+      "label": "Adeloop Turning Semantic Data Models Into APIs for AI Agents",
+      "episode_date": "2026-05-27",
+      "rank": 7,
+      "quality_score": 0.9263418917518189
+    },
+    {
       "id": "story/community_1f488e412922",
       "type": "story",
       "label": "Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance",
@@ -4199,7 +4262,7 @@
       "id": "company/google",
       "type": "company",
       "label": "Google",
-      "mention_count": 26
+      "mention_count": 27
     },
     {
       "id": "company/redpanda",
@@ -4241,7 +4304,7 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 228
+      "mention_count": 232
     },
     {
       "id": "concept/fulfillment-center-operations",
@@ -4325,7 +4388,7 @@
       "id": "concept/databricks-sql",
       "type": "concept",
       "label": "Databricks SQL",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "concept/transparency-in-coverage",
@@ -4349,7 +4412,7 @@
       "id": "concept/unity-catalog",
       "type": "concept",
       "label": "Unity Catalog",
-      "mention_count": 77
+      "mention_count": 78
     },
     {
       "id": "concept/medallion-architecture",
@@ -4457,7 +4520,7 @@
       "id": "company/microsoft",
       "type": "company",
       "label": "Microsoft",
-      "mention_count": 37
+      "mention_count": 39
     },
     {
       "id": "concept/databricks-terraform-provider",
@@ -4499,7 +4562,7 @@
       "id": "concept/delta-lake",
       "type": "concept",
       "label": "Delta Lake",
-      "mention_count": 54
+      "mention_count": 55
     },
     {
       "id": "concept/delta-kernel",
@@ -4535,7 +4598,7 @@
       "id": "concept/dynamic-partition-overwrite",
       "type": "concept",
       "label": "Dynamic Partition Overwrite",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/variant-column",
@@ -4715,7 +4778,7 @@
       "id": "concept/lakehouse",
       "type": "concept",
       "label": "Lakehouse",
-      "mention_count": 41
+      "mention_count": 42
     },
     {
       "id": "company/microsoft-azure",
@@ -4745,7 +4808,7 @@
       "id": "concept/schema-evolution",
       "type": "concept",
       "label": "Schema Evolution",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "concept/time-travel",
@@ -4853,7 +4916,7 @@
       "id": "concept/databricks-serverless-sql",
       "type": "concept",
       "label": "Databricks Serverless SQL",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/photon",
@@ -4895,7 +4958,7 @@
       "id": "concept/lakeflow-spark-declarative-pipelines",
       "type": "concept",
       "label": "Lakeflow Spark Declarative Pipelines",
-      "mention_count": 8
+      "mention_count": 9
     },
     {
       "id": "concept/streaming-tables",
@@ -4907,7 +4970,7 @@
       "id": "concept/materialized-views",
       "type": "concept",
       "label": "Materialized Views",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/dp-temporary-view",
@@ -5027,7 +5090,7 @@
       "id": "concept/data-pipeline",
       "type": "concept",
       "label": "Data Pipeline",
-      "mention_count": 11
+      "mention_count": 12
     },
     {
       "id": "concept/take-home-assignments",
@@ -5387,7 +5450,7 @@
       "id": "company/snowflake",
       "type": "company",
       "label": "Snowflake",
-      "mention_count": 28
+      "mention_count": 30
     },
     {
       "id": "concept/mlflow",
@@ -5681,7 +5744,7 @@
       "id": "concept/void-type",
       "type": "concept",
       "label": "VOID type",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/dataframe-reads",
@@ -5777,7 +5840,7 @@
       "id": "concept/lakebase",
       "type": "concept",
       "label": "Lakebase",
-      "mention_count": 15
+      "mention_count": 16
     },
     {
       "id": "concept/point-in-polygon-query",
@@ -6029,7 +6092,7 @@
       "id": "concept/postgresql",
       "type": "concept",
       "label": "PostgreSQL",
-      "mention_count": 22
+      "mention_count": 23
     },
     {
       "id": "concept/duckdb",
@@ -6077,7 +6140,7 @@
       "id": "concept/dbt",
       "type": "concept",
       "label": "dbt",
-      "mention_count": 10
+      "mention_count": 11
     },
     {
       "id": "concept/snowflake",
@@ -6347,7 +6410,7 @@
       "id": "concept/change-data-capture",
       "type": "concept",
       "label": "Change Data Capture",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "concept/materializedmysql",
@@ -6371,7 +6434,7 @@
       "id": "concept/clickhouse",
       "type": "concept",
       "label": "ClickHouse",
-      "mention_count": 7
+      "mention_count": 8
     },
     {
       "id": "concept/mysql-binary-logs",
@@ -6389,7 +6452,7 @@
       "id": "concept/clickpipes",
       "type": "concept",
       "label": "ClickPipes",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "company/clickhouse",
@@ -6437,7 +6500,7 @@
       "id": "concept/columnar-database",
       "type": "concept",
       "label": "Columnar Database",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/zookeeper",
@@ -6839,7 +6902,7 @@
       "id": "concept/data-warehouse",
       "type": "concept",
       "label": "Data Warehouse",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "id": "concept/data-lake",
@@ -6893,7 +6956,7 @@
       "id": "company/openai",
       "type": "company",
       "label": "OpenAI",
-      "mention_count": 13
+      "mention_count": 14
     },
     {
       "id": "concept/mongodb",
@@ -7127,13 +7190,13 @@
       "id": "concept/oltp",
       "type": "concept",
       "label": "OLTP",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "id": "concept/olap",
       "type": "concept",
       "label": "OLAP",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "id": "concept/observability",
@@ -7193,7 +7256,7 @@
       "id": "company/anthropic",
       "type": "company",
       "label": "Anthropic",
-      "mention_count": 25
+      "mention_count": 26
     },
     {
       "id": "company/meta",
@@ -7667,7 +7730,7 @@
       "id": "concept/sql-server",
       "type": "concept",
       "label": "SQL Server",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "company/pipecode",
@@ -8903,7 +8966,7 @@
       "id": "company/oracle",
       "type": "company",
       "label": "Oracle",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/aws-glue-data-catalog",
@@ -10253,7 +10316,7 @@
       "id": "company/cursor",
       "type": "company",
       "label": "Cursor",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "company/hugging-face",
@@ -12383,7 +12446,7 @@
       "id": "concept/azure-sql-database",
       "type": "concept",
       "label": "Azure SQL Database",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/power-automate",
@@ -13637,7 +13700,7 @@
       "id": "concept/n8n",
       "type": "concept",
       "label": "n8n",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/autonomous-agents",
@@ -15608,6 +15671,66 @@
       "mention_count": 1
     },
     {
+      "id": "concept/goldsky-subgraphs",
+      "type": "concept",
+      "label": "Goldsky Subgraphs",
+      "mention_count": 1
+    },
+    {
+      "id": "company/polymarket",
+      "type": "company",
+      "label": "Polymarket",
+      "mention_count": 1
+    },
+    {
+      "id": "company/goldsky",
+      "type": "company",
+      "label": "Goldsky",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/copy-job",
+      "type": "concept",
+      "label": "Copy Job",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/microsoft-fabric-data-factory",
+      "type": "concept",
+      "label": "Microsoft Fabric Data Factory",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/fabric-lakehouse",
+      "type": "concept",
+      "label": "Fabric Lakehouse",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/fabric-data-warehouse",
+      "type": "concept",
+      "label": "Fabric Data Warehouse",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/azure-sql-managed-instance",
+      "type": "concept",
+      "label": "Azure SQL Managed Instance",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/sap-datasphere",
+      "type": "concept",
+      "label": "SAP Datasphere",
+      "mention_count": 1
+    },
+    {
+      "id": "company/sap",
+      "type": "company",
+      "label": "SAP",
+      "mention_count": 2
+    },
+    {
       "id": "concept/just-in-time-systems",
       "type": "concept",
       "label": "Just-in-Time Systems",
@@ -15872,6 +15995,66 @@
       "mention_count": 1
     },
     {
+      "id": "concept/semantic-data-model",
+      "type": "concept",
+      "label": "Semantic Data Model",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/agent-console-api",
+      "type": "concept",
+      "label": "Agent Console API",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/mcp-json-rpc",
+      "type": "concept",
+      "label": "MCP JSON-RPC",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/openapi-3-1",
+      "type": "concept",
+      "label": "OpenAPI 3.1",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/sql-pushdown",
+      "type": "concept",
+      "label": "SQL Pushdown",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/semantic-execution-layer",
+      "type": "concept",
+      "label": "Semantic Execution Layer",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/e2b-sandbox",
+      "type": "concept",
+      "label": "E2B Sandbox",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/chatgpt-actions",
+      "type": "concept",
+      "label": "ChatGPT Actions",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/zapier",
+      "type": "concept",
+      "label": "Zapier",
+      "mention_count": 1
+    },
+    {
+      "id": "company/adeloop",
+      "type": "company",
+      "label": "Adeloop",
+      "mention_count": 1
+    },
+    {
       "id": "concept/apache-beam",
       "type": "concept",
       "label": "Apache Beam",
@@ -15950,6 +16133,78 @@
       "mention_count": 1
     },
     {
+      "id": "concept/sql-udf",
+      "type": "concept",
+      "label": "SQL UDF",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/xpath",
+      "type": "concept",
+      "label": "XPath",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/natural-join",
+      "type": "concept",
+      "label": "NATURAL JOIN",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/left-outer-join-lateral",
+      "type": "concept",
+      "label": "LEFT OUTER JOIN LATERAL",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/optimized-writes",
+      "type": "concept",
+      "label": "Optimized Writes",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/create-or-replace-table-as-select",
+      "type": "concept",
+      "label": "CREATE OR REPLACE TABLE AS SELECT",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/coordinate-reference-system",
+      "type": "concept",
+      "label": "Coordinate Reference System",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/st-dwithin",
+      "type": "concept",
+      "label": "ST_DWithin",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/st-makepoint",
+      "type": "concept",
+      "label": "st_makepoint",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/st-makeenvelope",
+      "type": "concept",
+      "label": "st_makeenvelope",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/describe-history",
+      "type": "concept",
+      "label": "DESCRIBE HISTORY",
+      "mention_count": 1
+    },
+    {
+      "id": "company/esri",
+      "type": "company",
+      "label": "ESRI",
+      "mention_count": 1
+    },
+    {
       "id": "concept/aws-data-engineering",
       "type": "concept",
       "label": "AWS Data Engineering",
@@ -15966,6 +16221,24 @@
       "type": "concept",
       "label": "Stateless LLM Architecture",
       "mention_count": 1
+    },
+    {
+      "id": "concept/metadata-driven-etl-framework",
+      "type": "concept",
+      "label": "Metadata-Driven ETL Framework",
+      "mention_count": 3
+    },
+    {
+      "id": "concept/survival-analysis",
+      "type": "concept",
+      "label": "Survival Analysis",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/query-performance-tuning",
+      "type": "concept",
+      "label": "Query Performance Tuning",
+      "mention_count": 3
     },
     {
       "id": "concept/ai-coding-agent",
@@ -15996,18 +16269,6 @@
       "type": "company",
       "label": "Paradigm",
       "mention_count": 1
-    },
-    {
-      "id": "concept/metadata-driven-etl-framework",
-      "type": "concept",
-      "label": "Metadata-Driven ETL Framework",
-      "mention_count": 2
-    },
-    {
-      "id": "concept/query-performance-tuning",
-      "type": "concept",
-      "label": "Query Performance Tuning",
-      "mention_count": 2
     },
     {
       "id": "concept/sqlit",
@@ -16088,12 +16349,6 @@
       "mention_count": 1
     },
     {
-      "id": "company/sap",
-      "type": "company",
-      "label": "SAP",
-      "mention_count": 1
-    },
-    {
       "id": "concept/prompt-caching",
       "type": "concept",
       "label": "Prompt Caching",
@@ -16145,6 +16400,30 @@
       "id": "concept/query-planning",
       "type": "concept",
       "label": "Query Planning",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/microsoft-entra-id",
+      "type": "concept",
+      "label": "Microsoft Entra ID",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/automatic-identity-management",
+      "type": "concept",
+      "label": "Automatic Identity Management",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/scim-provisioning",
+      "type": "concept",
+      "label": "SCIM Provisioning",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/identity-federation",
+      "type": "concept",
+      "label": "Identity Federation",
       "mention_count": 1
     },
     {
@@ -16205,6 +16484,18 @@
       "id": "company/worlddataiq",
       "type": "company",
       "label": "WorldDataIQ",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/pipeline-parameters",
+      "type": "concept",
+      "label": "Pipeline Parameters",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/named-parameter-syntax",
+      "type": "concept",
+      "label": "Named Parameter Syntax",
       "mention_count": 1
     }
   ],
@@ -36205,6 +36496,146 @@
       "kind": "mentions"
     },
     {
+      "source": "story/devto_3762603",
+      "target": "episode/2026-05-27",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3762603",
+      "target": "concept/clickhouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3762603",
+      "target": "concept/postgresql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3762603",
+      "target": "concept/materialized-views",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3762603",
+      "target": "concept/oltp",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3762603",
+      "target": "concept/olap",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3762603",
+      "target": "concept/clickpipes",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3762603",
+      "target": "concept/goldsky-subgraphs",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3762603",
+      "target": "concept/columnar-database",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3762603",
+      "target": "concept/dbt",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3762603",
+      "target": "concept/data-warehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3762603",
+      "target": "company/polymarket",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3762603",
+      "target": "company/goldsky",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3759693",
+      "target": "episode/2026-05-27",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3759693",
+      "target": "concept/change-data-capture",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3759693",
+      "target": "concept/copy-job",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3759693",
+      "target": "concept/microsoft-fabric-data-factory",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3759693",
+      "target": "concept/fabric-lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3759693",
+      "target": "concept/fabric-data-warehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3759693",
+      "target": "concept/azure-sql-database",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3759693",
+      "target": "concept/azure-sql-managed-instance",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3759693",
+      "target": "concept/sap-datasphere",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3759693",
+      "target": "concept/sql-server",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3759693",
+      "target": "company/microsoft",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3759693",
+      "target": "company/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3759693",
+      "target": "company/google",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3759693",
+      "target": "company/sap",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3759693",
+      "target": "company/oracle",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_0cffb47adba0",
       "target": "episode/2026-05-26",
       "kind": "aired_in"
@@ -36655,6 +37086,86 @@
       "kind": "mentions"
     },
     {
+      "source": "story/devto_3756490",
+      "target": "episode/2026-05-27",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3756490",
+      "target": "concept/semantic-data-model",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3756490",
+      "target": "concept/agent-console-api",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3756490",
+      "target": "concept/mcp-json-rpc",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3756490",
+      "target": "concept/openapi-3-1",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3756490",
+      "target": "concept/sql-pushdown",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3756490",
+      "target": "concept/semantic-execution-layer",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3756490",
+      "target": "concept/e2b-sandbox",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3756490",
+      "target": "concept/chatgpt-actions",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3756490",
+      "target": "concept/n8n",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3756490",
+      "target": "concept/zapier",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3756490",
+      "target": "company/adeloop",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3756490",
+      "target": "company/openai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3756490",
+      "target": "company/anthropic",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3756490",
+      "target": "company/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3756490",
+      "target": "company/cursor",
+      "kind": "mentions"
+    },
+    {
       "source": "story/devto_3731591",
       "target": "episode/2026-05-23",
       "kind": "aired_in"
@@ -36845,6 +37356,106 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "episode/2026-05-27",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/databricks-sql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/delta-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/unity-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/schema-evolution",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/sql-udf",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/xpath",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/natural-join",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/left-outer-join-lateral",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/void-type",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/optimized-writes",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/create-or-replace-table-as-select",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/coordinate-reference-system",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/st-dwithin",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/st-makepoint",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/st-makeenvelope",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/describe-history",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "concept/dynamic-partition-overwrite",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1a57d6d9dc66",
+      "target": "company/esri",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_f706a4afcd82",
       "target": "episode/2026-04-11",
       "kind": "aired_in"
@@ -36937,6 +37548,51 @@
     {
       "source": "story/rss_88e7b918dc29",
       "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_8_community_0fd805d2f795",
+      "target": "episode/2026-05-27",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_roundup_8_community_0fd805d2f795",
+      "target": "concept/databricks-serverless-sql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_8_community_0fd805d2f795",
+      "target": "concept/lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_8_community_0fd805d2f795",
+      "target": "concept/lakebase",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_8_community_0fd805d2f795",
+      "target": "concept/metadata-driven-etl-framework",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_8_community_0fd805d2f795",
+      "target": "concept/survival-analysis",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_8_community_0fd805d2f795",
+      "target": "concept/query-performance-tuning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_8_community_0fd805d2f795",
+      "target": "concept/data-pipeline",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_8_community_0fd805d2f795",
+      "target": "company/databricks",
       "kind": "mentions"
     },
     {
@@ -37340,6 +37996,41 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_d6408733a240",
+      "target": "episode/2026-05-27",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_d6408733a240",
+      "target": "concept/microsoft-entra-id",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d6408733a240",
+      "target": "concept/automatic-identity-management",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d6408733a240",
+      "target": "concept/scim-provisioning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d6408733a240",
+      "target": "concept/identity-federation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d6408733a240",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d6408733a240",
+      "target": "company/microsoft",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_75aac82da104",
       "target": "episode/2026-05-24",
       "kind": "aired_in"
@@ -37567,6 +38258,31 @@
     {
       "source": "story/rss_4fe10c1c2c55",
       "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_9e1187c61728",
+      "target": "episode/2026-05-27",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_9e1187c61728",
+      "target": "concept/lakeflow-spark-declarative-pipelines",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_9e1187c61728",
+      "target": "concept/pipeline-parameters",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_9e1187c61728",
+      "target": "concept/named-parameter-syntax",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_9e1187c61728",
+      "target": "company/databricks",
       "kind": "mentions"
     }
   ]

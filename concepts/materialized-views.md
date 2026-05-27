@@ -3,17 +3,19 @@ type: concept
 name: Materialized Views
 slug: materialized-views
 first_seen: 2026-04-14
-last_seen: 2026-05-24
-mention_count: 4
-avg_confidence: 0.6
+last_seen: 2026-05-27
+mention_count: 5
+avg_confidence: 0.66
 tags: [concept]
 ---
 
 # Materialized Views
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-27|2026-05-27]]
+    - [[sources/2026-05-27/05_how-polymarket-scaled-their-data-stack-with-postgres-clickho|How Polymarket Scaled Their Data Stack with Postgres ClickHouse]]
 - [[episodes/2026-05-24|2026-05-24]]
     - [[sources/2026-05-24/01_databricks-community-roundup-15-new-posts|Databricks Community Roundup — 15 new posts]]
 - [[episodes/2026-05-22|2026-05-22]]

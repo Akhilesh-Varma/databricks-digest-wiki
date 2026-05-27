@@ -3,17 +3,19 @@ type: company
 name: OpenAI
 slug: openai
 first_seen: 2026-04-17
-last_seen: 2026-05-24
-mention_count: 13
+last_seen: 2026-05-27
+mention_count: 14
 avg_confidence: ""
 tags: [company]
 ---
 
 # OpenAI
 
-_Company mentioned across 13 stories._
+_Company mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-05-27|2026-05-27]]
+    - [[sources/2026-05-27/07_adeloop-turning-semantic-data-models-into-apis-for-ai-agents|Adeloop Turning Semantic Data Models Into APIs for AI Agents]]
 - [[episodes/2026-05-24|2026-05-24]]
     - [[sources/2026-05-24/02_show-hn-i-built-a-rag-and-knowledge-graph-agent-that-runs-lo|Show HN I built a RAG and knowledge graph agent that runs locally]]
 - [[episodes/2026-05-22|2026-05-22]]

@@ -3,17 +3,19 @@ type: concept
 name: dbt
 slug: dbt
 first_seen: 2026-04-05
-last_seen: 2026-05-20
-mention_count: 10
-avg_confidence: 0.76
+last_seen: 2026-05-27
+mention_count: 11
+avg_confidence: 0.727
 tags: [concept]
 ---
 
 # dbt
 
-_Concept mentioned across 10 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-05-27|2026-05-27]]
+    - [[sources/2026-05-27/05_how-polymarket-scaled-their-data-stack-with-postgres-clickho|How Polymarket Scaled Their Data Stack with Postgres ClickHouse]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/08_a-data-platform-tracking-news-and-social-media-across-167-ci|A data platform tracking news and social media across 167 cities in Rio Grande do Norte for under R 5 month.]]
 - [[episodes/2026-05-15|2026-05-15]]

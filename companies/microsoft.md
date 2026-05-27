@@ -3,17 +3,20 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-05-26
-mention_count: 37
+last_seen: 2026-05-27
+mention_count: 39
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 37 stories._
+_Company mentioned across 39 stories._
 
 ## Appears in
+- [[episodes/2026-05-27|2026-05-27]]
+    - [[sources/2026-05-27/06_copy-job-cdc-with-sql-estate-is-now-ga-in-microsoft-fabric|Copy Job CDC with SQL estate is now GA in Microsoft Fabric]]
+    - [[sources/2026-05-27/03_automatic-identity-management-with-microsoft-entra-id-is-now|Automatic identity management with Microsoft Entra ID is now GA]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/06_azure-data-engineering-synapse-adf-databricks-full-guide|Azure Data Engineering Synapse, ADF, Databricks Full Guide]]
     - [[sources/2026-05-26/07_fabric-ai-functions-turn-genai-into-a-data-pipeline-step|Fabric AI Functions Turn GenAI Into a Data Pipeline Step]]

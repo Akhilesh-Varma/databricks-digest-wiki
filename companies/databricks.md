@@ -3,17 +3,22 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-26
-mention_count: 228
+last_seen: 2026-05-27
+mention_count: 232
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 228 stories._
+_Company mentioned across 232 stories._
 
 ## Appears in
+- [[episodes/2026-05-27|2026-05-27]]
+    - [[sources/2026-05-27/02_databricks-sql-version-2026-15-is-now-available-in-preview|Databricks SQL version 2026.15 is now available in Preview]]
+    - [[sources/2026-05-27/01_databricks-community-roundup-8-new-posts|Databricks Community Roundup — 8 new posts]]
+    - [[sources/2026-05-27/03_automatic-identity-management-with-microsoft-entra-id-is-now|Automatic identity management with Microsoft Entra ID is now GA]]
+    - [[sources/2026-05-27/04_lakeflow-spark-declarative-pipelines-parameters-are-now-in-b|Lakeflow Spark Declarative Pipelines parameters are now in Beta]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/06_azure-data-engineering-synapse-adf-databricks-full-guide|Azure Data Engineering Synapse, ADF, Databricks Full Guide]]
     - [[sources/2026-05-26/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]

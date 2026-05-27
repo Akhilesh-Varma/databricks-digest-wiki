@@ -30,4 +30,4 @@ This article explains how to recover lost data in Microsoft Fabric's Lakehouse u
 - **URL:** <https://medium.com/@irem-duman/microsoft-fabricte-delta-time-travel-ile-veri-kurtarma-e5a3d56085fb?source=rss------delta_lake-5>
 
 ## Related
-[[concepts/microsoft-fabric|microsoft-fabric]] · [[concepts/lakehouse|lakehouse]] · [[concepts/delta-time-travel|delta-time-travel]] · [[concepts/pipeline|pipeline]] · [[companies/microsoft|Microsoft]] · [[episodes/2026-04-28|2026-04-28]]
+[[concepts/microsoft-fabric|microsoft-fabric]] · [[concepts/lakehouse|lakehouse]] · [[concepts/delta-time-travel|delta-time-travel]] · [[concepts/fabric-lakehouse|fabric-lakehouse]] · [[concepts/pipeline|pipeline]] · [[companies/microsoft|Microsoft]] · [[episodes/2026-04-28|2026-04-28]]

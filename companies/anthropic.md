@@ -3,17 +3,19 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-05-26
-mention_count: 25
+last_seen: 2026-05-27
+mention_count: 26
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 25 stories._
+_Company mentioned across 26 stories._
 
 ## Appears in
+- [[episodes/2026-05-27|2026-05-27]]
+    - [[sources/2026-05-27/07_adeloop-turning-semantic-data-models-into-apis-for-ai-agents|Adeloop Turning Semantic Data Models Into APIs for AI Agents]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/08_the-time-is-here-for-just-in-time-systems-challenges-and-opp|The Time is Here for Just-in-Time Systems Challenges and Opportunities]]
 - [[episodes/2026-05-25|2026-05-25]]

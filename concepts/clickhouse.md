@@ -3,17 +3,19 @@ type: concept
 name: ClickHouse
 slug: clickhouse
 first_seen: 2026-04-21
-last_seen: 2026-05-26
-mention_count: 7
-avg_confidence: 0.857
+last_seen: 2026-05-27
+mention_count: 8
+avg_confidence: 0.875
 tags: [concept]
 ---
 
 # ClickHouse
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-27|2026-05-27]]
+    - [[sources/2026-05-27/05_how-polymarket-scaled-their-data-stack-with-postgres-clickho|How Polymarket Scaled Their Data Stack with Postgres ClickHouse]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/02_sqlit-a-lazygit-style-tui-for-sql-databases|Sqlit A lazygit-style TUI for SQL databases]]
 - [[episodes/2026-05-21|2026-05-21]]

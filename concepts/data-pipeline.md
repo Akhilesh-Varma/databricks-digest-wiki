@@ -3,17 +3,19 @@ type: concept
 name: Data Pipeline
 slug: data-pipeline
 first_seen: 2026-04-08
-last_seen: 2026-05-23
-mention_count: 11
-avg_confidence: 0.7
+last_seen: 2026-05-27
+mention_count: 12
+avg_confidence: 0.675
 tags: [concept]
 ---
 
 # Data Pipeline
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-05-27|2026-05-27]]
+    - [[sources/2026-05-27/01_databricks-community-roundup-8-new-posts|Databricks Community Roundup — 8 new posts]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/09_why-i-spent-6-months-rebuilding-our-event-pipeline-to-fix-a|Why I Spent 6 Months Rebuilding Our Event Pipeline to Fix a 400ms Query Latency Problem]]
 - [[episodes/2026-05-06|2026-05-06]]

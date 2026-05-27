@@ -3,17 +3,19 @@ type: company
 name: Google
 slug: google
 first_seen: 2026-04-05
-last_seen: 2026-05-26
-mention_count: 26
+last_seen: 2026-05-27
+mention_count: 27
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google
 
-_Company mentioned across 26 stories._
+_Company mentioned across 27 stories._
 
 ## Appears in
+- [[episodes/2026-05-27|2026-05-27]]
+    - [[sources/2026-05-27/06_copy-job-cdc-with-sql-estate-is-now-ga-in-microsoft-fabric|Copy Job CDC with SQL estate is now GA in Microsoft Fabric]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/02_sqlit-a-lazygit-style-tui-for-sql-databases|Sqlit A lazygit-style TUI for SQL databases]]
 - [[episodes/2026-05-23|2026-05-23]]

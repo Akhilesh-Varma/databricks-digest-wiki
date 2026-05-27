@@ -3,17 +3,19 @@ type: concept
 name: OLAP
 slug: olap
 first_seen: 2026-03-17
-last_seen: 2026-05-23
-mention_count: 6
-avg_confidence: 0.6
+last_seen: 2026-05-27
+mention_count: 7
+avg_confidence: 0.614
 tags: [concept]
 ---
 
 # OLAP
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-27|2026-05-27]]
+    - [[sources/2026-05-27/05_how-polymarket-scaled-their-data-stack-with-postgres-clickho|How Polymarket Scaled Their Data Stack with Postgres ClickHouse]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/01_do-you-still-need-a-separate-cloud-data-warehouse-building-a|Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance]]
 - [[episodes/2026-05-20|2026-05-20]]

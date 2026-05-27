@@ -3,17 +3,20 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-08
-last_seen: 2026-05-26
-mention_count: 28
+last_seen: 2026-05-27
+mention_count: 30
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 28 stories._
+_Company mentioned across 30 stories._
 
 ## Appears in
+- [[episodes/2026-05-27|2026-05-27]]
+    - [[sources/2026-05-27/06_copy-job-cdc-with-sql-estate-is-now-ga-in-microsoft-fabric|Copy Job CDC with SQL estate is now GA in Microsoft Fabric]]
+    - [[sources/2026-05-27/07_adeloop-turning-semantic-data-models-into-apis-for-ai-agents|Adeloop Turning Semantic Data Models Into APIs for AI Agents]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/02_sqlit-a-lazygit-style-tui-for-sql-databases|Sqlit A lazygit-style TUI for SQL databases]]
     - [[sources/2026-05-26/04_integrating-aws-s3-with-snowflake-a-practical-guide|Integrating AWS S3 with Snowflake A Practical Guide]]
