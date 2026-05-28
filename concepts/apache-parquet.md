@@ -3,17 +3,19 @@ type: concept
 name: Apache Parquet
 slug: apache-parquet
 first_seen: 2026-04-14
-last_seen: 2026-05-09
-mention_count: 7
-avg_confidence: 0.714
+last_seen: 2026-05-28
+mention_count: 8
+avg_confidence: 0.713
 tags: [concept]
 ---
 
 # Apache Parquet
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/06_asf-project-spotlight-apache-iceberg|ASF Project Spotlight Apache Iceberg]]
 - [[episodes/2026-05-09|2026-05-09]]
     - [[sources/2026-05-09/03_delta-lake-under-the-hood-what-every-data-engineer-should-kn|Delta Lake Under the Hood What Every Data Engineer Should Know]]
 - [[episodes/2026-05-06|2026-05-06]]

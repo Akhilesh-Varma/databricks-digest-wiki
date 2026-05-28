@@ -31,4 +31,4 @@ The article discusses leading a greenfield PostgreSQL database analytics focused
 - **URL:** <https://medium.com/@yuvchauhan15/leading-a-greenfield-postgresql-database-analytics-focused-buildout-communication-d0a58cc40416?source=rss------databricks-5>
 
 ## Related
-[[concepts/medallion-architecture|medallion-architecture]] · [[concepts/postgresql|postgresql]] · [[concepts/data-engineering|data-engineering]] · [[episodes/2026-04-20|2026-04-20]]
+[[concepts/medallion-architecture|medallion-architecture]] · [[concepts/postgresql|postgresql]] · [[concepts/data-engineering|data-engineering]] · [[concepts/bronze-layer|bronze-layer]] · [[episodes/2026-04-20|2026-04-20]]

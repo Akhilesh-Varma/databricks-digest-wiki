@@ -3,17 +3,19 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-27
-mention_count: 55
-avg_confidence: 0.749
+last_seen: 2026-05-28
+mention_count: 56
+avg_confidence: 0.748
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 55 stories._
+_Concept mentioned across 56 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/05_cloud-cost-optimization-strategies-for-lakehouses|Cloud Cost Optimization Strategies for Lakehouses]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/02_databricks-sql-version-2026-15-is-now-available-in-preview|Databricks SQL version 2026.15 is now available in Preview]]
 - [[episodes/2026-05-26|2026-05-26]]

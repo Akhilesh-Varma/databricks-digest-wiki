@@ -3,17 +3,19 @@ type: concept
 name: Data Pipeline
 slug: data-pipeline
 first_seen: 2026-04-08
-last_seen: 2026-05-27
-mention_count: 12
-avg_confidence: 0.675
+last_seen: 2026-05-28
+mention_count: 13
+avg_confidence: 0.654
 tags: [concept]
 ---
 
 # Data Pipeline
 
-_Concept mentioned across 12 stories._
+_Concept mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/01_databricks-community-roundup-8-new-posts|Databricks Community Roundup — 8 new posts]]
 - [[episodes/2026-05-23|2026-05-23]]

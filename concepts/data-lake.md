@@ -3,17 +3,19 @@ type: concept
 name: Data Lake
 slug: data-lake
 first_seen: 2026-04-17
-last_seen: 2026-05-17
-mention_count: 8
-avg_confidence: 0.662
+last_seen: 2026-05-28
+mention_count: 9
+avg_confidence: 0.667
 tags: [concept]
 ---
 
 # Data Lake
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/06_asf-project-spotlight-apache-iceberg|ASF Project Spotlight Apache Iceberg]]
 - [[episodes/2026-05-17|2026-05-17]]
     - [[sources/2026-05-17/08_apache-iceberg-on-hadoop-why-it-matters-for-real-time-analyt|Apache Iceberg on Hadoop Why It Matters for Real-Time Analytics and Edge AI]]
     - [[sources/2026-05-17/07_part-4-demystifying-data-jargons-datalake-warehouse-and-delt|Part 4 Demystifying Data Jargons Datalake, Warehouse, and Delta Lake Explained]]

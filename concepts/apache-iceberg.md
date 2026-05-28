@@ -3,17 +3,21 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-05-26
-mention_count: 27
-avg_confidence: 0.874
+last_seen: 2026-05-28
+mention_count: 30
+avg_confidence: 0.867
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 27 stories._
+_Concept mentioned across 30 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/06_asf-project-spotlight-apache-iceberg|ASF Project Spotlight Apache Iceberg]]
+    - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
+    - [[sources/2026-05-28/05_cloud-cost-optimization-strategies-for-lakehouses|Cloud Cost Optimization Strategies for Lakehouses]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/05_aws-data-engineering-glue-emr-athena-kinesis-end-to-end-guid|AWS Data Engineering Glue, EMR, Athena, Kinesis End-to-End Guide]]
 - [[episodes/2026-05-24|2026-05-24]]

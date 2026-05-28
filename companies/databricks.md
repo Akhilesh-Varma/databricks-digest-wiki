@@ -3,17 +3,22 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-27
-mention_count: 232
+last_seen: 2026-05-28
+mention_count: 236
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 232 stories._
+_Company mentioned across 236 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
+    - [[sources/2026-05-28/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
+    - [[sources/2026-05-28/03_databricks-sql-alerts-will-soon-be-available-by-default-for|Databricks SQL alerts will soon be available by default for workspaces with the compliance security profile enabled]]
+    - [[sources/2026-05-28/02_i-built-a-multi-agent-insurance-support-streamlit-chatbot-on|I Built a Multi-Agent Insurance Support Streamlit Chatbot on Databricks-Full Code Walkthrough]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/02_databricks-sql-version-2026-15-is-now-available-in-preview|Databricks SQL version 2026.15 is now available in Preview]]
     - [[sources/2026-05-27/01_databricks-community-roundup-8-new-posts|Databricks Community Roundup — 8 new posts]]

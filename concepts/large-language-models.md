@@ -3,17 +3,19 @@ type: concept
 name: Large Language Models
 slug: large-language-models
 first_seen: 2026-04-06
-last_seen: 2026-05-25
-mention_count: 29
-avg_confidence: 0.734
+last_seen: 2026-05-28
+mention_count: 30
+avg_confidence: 0.733
 tags: [concept]
 ---
 
 # Large Language Models
 
-_Concept mentioned across 29 stories._
+_Concept mentioned across 30 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/07_are-diffusion-language-models-good-database-analysts|Are Diffusion Language Models Good Database Analysts?]]
 - [[episodes/2026-05-25|2026-05-25]]
     - [[sources/2026-05-25/06_conceptual-schema-inference-for-tabular-datasets-using-large|Conceptual Schema Inference for Tabular Datasets using Large Language Models]]
     - [[sources/2026-05-25/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]

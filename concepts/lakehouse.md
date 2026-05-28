@@ -3,17 +3,20 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-05
-last_seen: 2026-05-27
-mention_count: 42
-avg_confidence: 0.621
+last_seen: 2026-05-28
+mention_count: 44
+avg_confidence: 0.625
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 42 stories._
+_Concept mentioned across 44 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
+    - [[sources/2026-05-28/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/01_databricks-community-roundup-8-new-posts|Databricks Community Roundup — 8 new posts]]
 - [[episodes/2026-05-26|2026-05-26]]

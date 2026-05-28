@@ -3,17 +3,20 @@ type: concept
 name: Lakehouse Architecture
 slug: lakehouse-architecture
 first_seen: 2026-04-24
-last_seen: 2026-05-26
-mention_count: 9
-avg_confidence: 0.867
+last_seen: 2026-05-28
+mention_count: 11
+avg_confidence: 0.864
 tags: [concept]
 ---
 
 # Lakehouse Architecture
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/06_asf-project-spotlight-apache-iceberg|ASF Project Spotlight Apache Iceberg]]
+    - [[sources/2026-05-28/05_cloud-cost-optimization-strategies-for-lakehouses|Cloud Cost Optimization Strategies for Lakehouses]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/03_why-lakehouse-architecture-feels-like-the-future-of-data-eng|Why Lakehouse Architecture Feels Like the Future of Data Engineering]]
 - [[episodes/2026-05-23|2026-05-23]]

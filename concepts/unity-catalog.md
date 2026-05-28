@@ -3,17 +3,19 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-27
-mention_count: 78
-avg_confidence: 0.759
+last_seen: 2026-05-28
+mention_count: 79
+avg_confidence: 0.761
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 78 stories._
+_Concept mentioned across 79 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/02_databricks-sql-version-2026-15-is-now-available-in-preview|Databricks SQL version 2026.15 is now available in Preview]]
 - [[episodes/2026-05-26|2026-05-26]]

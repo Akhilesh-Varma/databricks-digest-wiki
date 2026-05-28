@@ -3,17 +3,19 @@ type: concept
 name: Retrieval-Augmented Generation
 slug: retrieval-augmented-generation
 first_seen: 2026-04-10
-last_seen: 2026-05-25
-mention_count: 17
-avg_confidence: 0.776
+last_seen: 2026-05-28
+mention_count: 18
+avg_confidence: 0.772
 tags: [concept]
 ---
 
 # Retrieval-Augmented Generation
 
-_Concept mentioned across 17 stories._
+_Concept mentioned across 18 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/02_i-built-a-multi-agent-insurance-support-streamlit-chatbot-on|I Built a Multi-Agent Insurance Support Streamlit Chatbot on Databricks-Full Code Walkthrough]]
 - [[episodes/2026-05-25|2026-05-25]]
     - [[sources/2026-05-25/04_voice-driven-rag-with-india-s-sovereign-ai-platform-sarvam|Voice Driven RAG with India s Sovereign AI Platform, SARVAM]]
 - [[episodes/2026-05-23|2026-05-23]]

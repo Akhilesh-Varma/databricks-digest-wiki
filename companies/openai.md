@@ -3,17 +3,19 @@ type: company
 name: OpenAI
 slug: openai
 first_seen: 2026-04-17
-last_seen: 2026-05-27
-mention_count: 14
+last_seen: 2026-05-28
+mention_count: 15
 avg_confidence: ""
 tags: [company]
 ---
 
 # OpenAI
 
-_Company mentioned across 14 stories._
+_Company mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/07_adeloop-turning-semantic-data-models-into-apis-for-ai-agents|Adeloop Turning Semantic Data Models Into APIs for AI Agents]]
 - [[episodes/2026-05-24|2026-05-24]]

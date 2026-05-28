@@ -3,17 +3,19 @@ type: concept
 name: Schema Evolution
 slug: schema-evolution
 first_seen: 2026-04-14
-last_seen: 2026-05-27
-mention_count: 6
-avg_confidence: 0.5
+last_seen: 2026-05-28
+mention_count: 7
+avg_confidence: 0.529
 tags: [concept]
 ---
 
 # Schema Evolution
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/06_asf-project-spotlight-apache-iceberg|ASF Project Spotlight Apache Iceberg]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/02_databricks-sql-version-2026-15-is-now-available-in-preview|Databricks SQL version 2026.15 is now available in Preview]]
 - [[episodes/2026-05-22|2026-05-22]]

@@ -3,17 +3,19 @@ type: concept
 name: DAG
 slug: dag
 first_seen: 2026-04-20
-last_seen: 2026-05-08
-mention_count: 2
-avg_confidence: 0.85
+last_seen: 2026-05-28
+mention_count: 3
+avg_confidence: 0.7
 tags: [concept]
 ---
 
 # DAG
 
-_Concept mentioned across 2 stories._
+_Concept mentioned across 3 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
 - [[episodes/2026-05-08|2026-05-08]]
     - [[sources/2026-05-08/08_add-data-quality-checks-to-your-airflow-dag-in-5-minutes|Add Data Quality Checks to Your Airflow DAG in 5 Minutes]]
 - [[episodes/2026-04-20|2026-04-20]]

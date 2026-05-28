@@ -1,0 +1,18 @@
+---
+type: concept
+name: Modern Data Stack
+slug: modern-data-stack
+first_seen: 2026-05-28
+last_seen: 2026-05-28
+mention_count: 1
+avg_confidence: 1.0
+tags: [concept]
+---
+
+# Modern Data Stack
+
+_Concept mentioned across 1 story._
+
+## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]

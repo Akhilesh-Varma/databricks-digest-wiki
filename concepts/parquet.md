@@ -3,17 +3,19 @@ type: concept
 name: Parquet
 slug: parquet
 first_seen: 2026-04-17
-last_seen: 2026-05-22
-mention_count: 10
-avg_confidence: 0.56
+last_seen: 2026-05-28
+mention_count: 11
+avg_confidence: 0.573
 tags: [concept]
 ---
 
 # Parquet
 
-_Concept mentioned across 10 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/05_cloud-cost-optimization-strategies-for-lakehouses|Cloud Cost Optimization Strategies for Lakehouses]]
 - [[episodes/2026-05-22|2026-05-22]]
     - [[sources/2026-05-22/08_writing-to-an-apache-iceberg-table-how-commits-and-acid-actu|Writing to an Apache Iceberg Table How Commits and ACID Actually Work]]
 - [[episodes/2026-05-20|2026-05-20]]

@@ -3,17 +3,19 @@ type: company
 name: Dremio
 slug: dremio
 first_seen: 2026-04-14
-last_seen: 2026-05-23
-mention_count: 10
+last_seen: 2026-05-28
+mention_count: 11
 avg_confidence: ""
 tags: [company]
 ---
 
 # Dremio
 
-_Company mentioned across 10 stories._
+_Company mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/06_asf-project-spotlight-apache-iceberg|ASF Project Spotlight Apache Iceberg]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/07_hands-on-with-apache-iceberg-using-dremio-cloud|Hands-On with Apache Iceberg Using Dremio Cloud]]
     - [[sources/2026-05-23/08_how-data-lake-table-storage-degrades-over-time|How Data Lake Table Storage Degrades Over Time]]

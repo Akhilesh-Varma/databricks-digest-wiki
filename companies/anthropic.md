@@ -3,17 +3,20 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-05-27
-mention_count: 26
+last_seen: 2026-05-28
+mention_count: 28
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 26 stories._
+_Company mentioned across 28 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
+    - [[sources/2026-05-28/02_i-built-a-multi-agent-insurance-support-streamlit-chatbot-on|I Built a Multi-Agent Insurance Support Streamlit Chatbot on Databricks-Full Code Walkthrough]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/07_adeloop-turning-semantic-data-models-into-apis-for-ai-agents|Adeloop Turning Semantic Data Models Into APIs for AI Agents]]
 - [[episodes/2026-05-26|2026-05-26]]

@@ -3,17 +3,19 @@ type: concept
 name: Apache Airflow
 slug: apache-airflow
 first_seen: 2026-04-17
-last_seen: 2026-05-21
-mention_count: 7
+last_seen: 2026-05-28
+mention_count: 8
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Apache Airflow
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/09_why-stripe-didnt-cut-it-for-creators-in-pakistan-and-how-we|Why Stripe Didnt Cut It for Creators in Pakistan and How We Built a Parallel Pipeline for 0.05 Per Transaction]]
 - [[episodes/2026-05-20|2026-05-20]]

@@ -3,17 +3,19 @@ type: concept
 name: Claude Code
 slug: claude-code
 first_seen: 2026-04-05
-last_seen: 2026-05-26
-mention_count: 13
-avg_confidence: 0.531
+last_seen: 2026-05-28
+mention_count: 14
+avg_confidence: 0.543
 tags: [concept]
 ---
 
 # Claude Code
 
-_Concept mentioned across 13 stories._
+_Concept mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-05-28|2026-05-28]]
+    - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/08_the-time-is-here-for-just-in-time-systems-challenges-and-opp|The Time is Here for Just-in-Time Systems Challenges and Opportunities]]
 - [[episodes/2026-05-25|2026-05-25]]
