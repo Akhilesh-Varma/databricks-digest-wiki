@@ -3,16 +3,18 @@ type: concept
 name: Semantic Layer
 slug: semantic-layer
 first_seen: 2026-05-23
-last_seen: 2026-05-23
-mention_count: 1
+last_seen: 2026-05-29
+mention_count: 2
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Semantic Layer
 
-_Concept mentioned across 1 story._
+_Concept mentioned across 2 stories._
 
 ## Appears in
+- [[episodes/2026-05-29|2026-05-29]]
+    - [[sources/2026-05-29/02_show-hn-ktx-open-source-executable-context-layer-for-data-ag|Show HN Ktx Open-source executable context layer for data agents]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/07_hands-on-with-apache-iceberg-using-dremio-cloud|Hands-On with Apache Iceberg Using Dremio Cloud]]

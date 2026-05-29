@@ -3,17 +3,19 @@ type: concept
 name: Lakeflow Spark Declarative Pipelines
 slug: lakeflow-spark-declarative-pipelines
 first_seen: 2026-04-14
-last_seen: 2026-05-27
-mention_count: 9
-avg_confidence: 0.833
+last_seen: 2026-05-29
+mention_count: 10
+avg_confidence: 0.85
 tags: [concept]
 ---
 
 # Lakeflow Spark Declarative Pipelines
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-05-29|2026-05-29]]
+    - [[sources/2026-05-29/04_real-time-mode-in-lakeflow-spark-declarative-pipelines-and-t|Real-time mode in Lakeflow Spark Declarative Pipelines, and the update_flow API are now available Public Preview]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/04_lakeflow-spark-declarative-pipelines-parameters-are-now-in-b|Lakeflow Spark Declarative Pipelines parameters are now in Beta]]
 - [[episodes/2026-05-09|2026-05-09]]

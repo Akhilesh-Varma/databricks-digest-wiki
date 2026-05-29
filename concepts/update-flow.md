@@ -1,0 +1,18 @@
+---
+type: concept
+name: update_flow
+slug: update-flow
+first_seen: 2026-05-29
+last_seen: 2026-05-29
+mention_count: 1
+avg_confidence: 0.9
+tags: [concept]
+---
+
+# update_flow
+
+_Concept mentioned across 1 story._
+
+## Appears in
+- [[episodes/2026-05-29|2026-05-29]]
+    - [[sources/2026-05-29/04_real-time-mode-in-lakeflow-spark-declarative-pipelines-and-t|Real-time mode in Lakeflow Spark Declarative Pipelines, and the update_flow API are now available Public Preview]]

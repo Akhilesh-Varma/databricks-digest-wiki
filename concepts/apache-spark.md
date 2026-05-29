@@ -3,17 +3,19 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-05-26
-mention_count: 45
-avg_confidence: 0.682
+last_seen: 2026-05-29
+mention_count: 46
+avg_confidence: 0.676
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 45 stories._
+_Concept mentioned across 46 stories._
 
 ## Appears in
+- [[episodes/2026-05-29|2026-05-29]]
+    - [[sources/2026-05-29/07_how-ai-is-reshaping-the-data-engineer-role-in-2026|How AI Is Reshaping the Data Engineer Role in 2026]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/05_aws-data-engineering-glue-emr-athena-kinesis-end-to-end-guid|AWS Data Engineering Glue, EMR, Athena, Kinesis End-to-End Guide]]
 - [[episodes/2026-05-25|2026-05-25]]

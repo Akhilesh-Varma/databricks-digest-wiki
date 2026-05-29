@@ -3,47 +3,54 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-28
-mention_count: 236
+last_seen: 2026-05-29
+mention_count: 242
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 236 stories._
+_Company mentioned across 242 stories._
 
 ## Appears in
+- [[episodes/2026-05-29|2026-05-29]]
+    - [[sources/2026-05-29/07_how-ai-is-reshaping-the-data-engineer-role-in-2026|How AI Is Reshaping the Data Engineer Role in 2026]]
+    - [[sources/2026-05-29/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
+    - [[sources/2026-05-29/06_dbt-for-data-engineering-models-tests-macros-production-patt|dbt for Data Engineering Models, Tests, Macros Production Patterns]]
+    - [[sources/2026-05-29/05_advancing-apache-iceberg-on-databricks-iceberg-v3-ga-open-sh|Advancing Apache Iceberg on Databricks Iceberg v3 GA, Open Sharing, and Unified Governance]]
+    - [[sources/2026-05-29/04_real-time-mode-in-lakeflow-spark-declarative-pipelines-and-t|Real-time mode in Lakeflow Spark Declarative Pipelines, and the update_flow API are now available Public Preview]]
+    - [[sources/2026-05-29/03_anthropic-claude-opus-4-8-now-available-as-a-databricks-host|Anthropic Claude Opus 4.8 now available as a Databricks-hosted model]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
-    - [[sources/2026-05-28/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
     - [[sources/2026-05-28/03_databricks-sql-alerts-will-soon-be-available-by-default-for|Databricks SQL alerts will soon be available by default for workspaces with the compliance security profile enabled]]
     - [[sources/2026-05-28/02_i-built-a-multi-agent-insurance-support-streamlit-chatbot-on|I Built a Multi-Agent Insurance Support Streamlit Chatbot on Databricks-Full Code Walkthrough]]
+    - [[sources/2026-05-28/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-05-27|2026-05-27]]
+    - [[sources/2026-05-27/04_lakeflow-spark-declarative-pipelines-parameters-are-now-in-b|Lakeflow Spark Declarative Pipelines parameters are now in Beta]]
+    - [[sources/2026-05-27/03_automatic-identity-management-with-microsoft-entra-id-is-now|Automatic identity management with Microsoft Entra ID is now GA]]
     - [[sources/2026-05-27/02_databricks-sql-version-2026-15-is-now-available-in-preview|Databricks SQL version 2026.15 is now available in Preview]]
     - [[sources/2026-05-27/01_databricks-community-roundup-8-new-posts|Databricks Community Roundup — 8 new posts]]
-    - [[sources/2026-05-27/03_automatic-identity-management-with-microsoft-entra-id-is-now|Automatic identity management with Microsoft Entra ID is now GA]]
-    - [[sources/2026-05-27/04_lakeflow-spark-declarative-pipelines-parameters-are-now-in-b|Lakeflow Spark Declarative Pipelines parameters are now in Beta]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/06_azure-data-engineering-synapse-adf-databricks-full-guide|Azure Data Engineering Synapse, ADF, Databricks Full Guide]]
-    - [[sources/2026-05-26/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
-    - [[sources/2026-05-26/02_sqlit-a-lazygit-style-tui-for-sql-databases|Sqlit A lazygit-style TUI for SQL databases]]
     - [[sources/2026-05-26/03_why-lakehouse-architecture-feels-like-the-future-of-data-eng|Why Lakehouse Architecture Feels Like the Future of Data Engineering]]
+    - [[sources/2026-05-26/02_sqlit-a-lazygit-style-tui-for-sql-databases|Sqlit A lazygit-style TUI for SQL databases]]
+    - [[sources/2026-05-26/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-05-25|2026-05-25]]
     - [[sources/2026-05-25/05_databricks-and-fsx-for-ontap-s3-access-points-a-layer-by-lay|Databricks and FSx for ONTAP S3 Access Points A Layer-by-Layer Validation of Observed Boundaries]]
-    - [[sources/2026-05-25/01_databricks-community-roundup-3-new-posts|Databricks Community Roundup — 3 new posts]]
-    - [[sources/2026-05-25/03_tinkering-with-databricks-wrapping-agent-over-fda-drug-label|Tinkering with Databricks Wrapping Agent over FDA Drug Label Data in MLflow]]
     - [[sources/2026-05-25/04_voice-driven-rag-with-india-s-sovereign-ai-platform-sarvam|Voice Driven RAG with India s Sovereign AI Platform, SARVAM]]
+    - [[sources/2026-05-25/03_tinkering-with-databricks-wrapping-agent-over-fda-drug-label|Tinkering with Databricks Wrapping Agent over FDA Drug Label Data in MLflow]]
+    - [[sources/2026-05-25/01_databricks-community-roundup-3-new-posts|Databricks Community Roundup — 3 new posts]]
 - [[episodes/2026-05-24|2026-05-24]]
-    - [[sources/2026-05-24/01_databricks-community-roundup-15-new-posts|Databricks Community Roundup — 15 new posts]]
-    - [[sources/2026-05-24/04_database-and-data-engineering-pipeline-monitoring-dashboard|Database and Data Engineering Pipeline Monitoring Dashboard Reduce Cost by 20 25 and Save 60 120]]
     - [[sources/2026-05-24/05_databricks-runtime-18-and-databricks-runtime-18-for-machine|Databricks Runtime 18 and Databricks Runtime 18 for Machine Learning are in Beta]]
+    - [[sources/2026-05-24/04_database-and-data-engineering-pipeline-monitoring-dashboard|Database and Data Engineering Pipeline Monitoring Dashboard Reduce Cost by 20 25 and Save 60 120]]
+    - [[sources/2026-05-24/01_databricks-community-roundup-15-new-posts|Databricks Community Roundup — 15 new posts]]
 - [[episodes/2026-05-23|2026-05-23]]
+    - [[sources/2026-05-23/06_accelerating-llm-inference-with-prompt-caching-for-open-sour|Accelerating LLM Inference with Prompt Caching for Open Source Models on Databricks]]
+    - [[sources/2026-05-23/05_understanding-databricks-honest-comparison-with-snowflake-an|Understanding Databricks Honest Comparison with Snowflake and BigQuery]]
+    - [[sources/2026-05-23/04_designing-a-modern-enterprise-lakehouse-with-databricks-dabs|Designing a Modern Enterprise Lakehouse with Databricks, DABs, and Medallion Architecture]]
     - [[sources/2026-05-23/02_partner-blog-847-models-12-weeks-77-less-inside-r1-s-snowfla|PARTNER BLOG 847 Models, 12 Weeks, 77 Less Inside R1's Snowflake-to-Databricks Migration]]
     - [[sources/2026-05-23/01_do-you-still-need-a-separate-cloud-data-warehouse-building-a|Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance]]
-    - [[sources/2026-05-23/06_accelerating-llm-inference-with-prompt-caching-for-open-sour|Accelerating LLM Inference with Prompt Caching for Open Source Models on Databricks]]
-    - [[sources/2026-05-23/04_designing-a-modern-enterprise-lakehouse-with-databricks-dabs|Designing a Modern Enterprise Lakehouse with Databricks, DABs, and Medallion Architecture]]
-    - [[sources/2026-05-23/05_understanding-databricks-honest-comparison-with-snowflake-an|Understanding Databricks Honest Comparison with Snowflake and BigQuery]]
 - [[episodes/2026-05-22|2026-05-22]]
     - [[sources/2026-05-22/04_letting-coding-agents-move-fast-without-breaking-everything|Letting Coding Agents Move Fast Without Breaking Everything]]
     - [[sources/2026-05-22/03_community-pulse-your-weekly-roundup-may-11-17-2026|Community Pulse Your Weekly Roundup! May 11 17, 2026]]

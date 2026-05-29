@@ -15,5 +15,5 @@ _Concept mentioned across 2 stories._
 
 ## Appears in
 - [[episodes/2026-05-23|2026-05-23]]
-    - [[sources/2026-05-23/07_hands-on-with-apache-iceberg-using-dremio-cloud|Hands-On with Apache Iceberg Using Dremio Cloud]]
     - [[sources/2026-05-23/08_how-data-lake-table-storage-degrades-over-time|How Data Lake Table Storage Degrades Over Time]]
+    - [[sources/2026-05-23/07_hands-on-with-apache-iceberg-using-dremio-cloud|Hands-On with Apache Iceberg Using Dremio Cloud]]

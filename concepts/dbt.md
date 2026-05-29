@@ -3,17 +3,21 @@ type: concept
 name: dbt
 slug: dbt
 first_seen: 2026-04-05
-last_seen: 2026-05-27
-mention_count: 11
-avg_confidence: 0.727
+last_seen: 2026-05-29
+mention_count: 14
+avg_confidence: 0.729
 tags: [concept]
 ---
 
 # dbt
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-05-29|2026-05-29]]
+    - [[sources/2026-05-29/07_how-ai-is-reshaping-the-data-engineer-role-in-2026|How AI Is Reshaping the Data Engineer Role in 2026]]
+    - [[sources/2026-05-29/02_show-hn-ktx-open-source-executable-context-layer-for-data-ag|Show HN Ktx Open-source executable context layer for data agents]]
+    - [[sources/2026-05-29/06_dbt-for-data-engineering-models-tests-macros-production-patt|dbt for Data Engineering Models, Tests, Macros Production Patterns]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/05_how-polymarket-scaled-their-data-stack-with-postgres-clickho|How Polymarket Scaled Their Data Stack with Postgres ClickHouse]]
 - [[episodes/2026-05-20|2026-05-20]]

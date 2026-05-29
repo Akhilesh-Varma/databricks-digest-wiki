@@ -3,17 +3,19 @@ type: company
 name: Google BigQuery
 slug: google-bigquery
 first_seen: 2026-04-29
-last_seen: 2026-05-22
-mention_count: 3
+last_seen: 2026-05-29
+mention_count: 4
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google BigQuery
 
-_Company mentioned across 3 stories._
+_Company mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-05-29|2026-05-29]]
+    - [[sources/2026-05-29/06_dbt-for-data-engineering-models-tests-macros-production-patt|dbt for Data Engineering Models, Tests, Macros Production Patterns]]
 - [[episodes/2026-05-22|2026-05-22]]
     - [[sources/2026-05-22/03_community-pulse-your-weekly-roundup-may-11-17-2026|Community Pulse Your Weekly Roundup! May 11 17, 2026]]
 - [[episodes/2026-05-18|2026-05-18]]

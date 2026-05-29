@@ -3,17 +3,19 @@ type: company
 name: Google
 slug: google
 first_seen: 2026-04-05
-last_seen: 2026-05-27
-mention_count: 27
+last_seen: 2026-05-29
+mention_count: 28
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google
 
-_Company mentioned across 27 stories._
+_Company mentioned across 28 stories._
 
 ## Appears in
+- [[episodes/2026-05-29|2026-05-29]]
+    - [[sources/2026-05-29/02_show-hn-ktx-open-source-executable-context-layer-for-data-ag|Show HN Ktx Open-source executable context layer for data agents]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/06_copy-job-cdc-with-sql-estate-is-now-ga-in-microsoft-fabric|Copy Job CDC with SQL estate is now GA in Microsoft Fabric]]
 - [[episodes/2026-05-26|2026-05-26]]

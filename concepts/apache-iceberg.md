@@ -3,29 +3,31 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-05-28
-mention_count: 30
-avg_confidence: 0.867
+last_seen: 2026-05-29
+mention_count: 31
+avg_confidence: 0.871
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 30 stories._
+_Concept mentioned across 31 stories._
 
 ## Appears in
+- [[episodes/2026-05-29|2026-05-29]]
+    - [[sources/2026-05-29/05_advancing-apache-iceberg-on-databricks-iceberg-v3-ga-open-sh|Advancing Apache Iceberg on Databricks Iceberg v3 GA, Open Sharing, and Unified Governance]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/06_asf-project-spotlight-apache-iceberg|ASF Project Spotlight Apache Iceberg]]
-    - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
     - [[sources/2026-05-28/05_cloud-cost-optimization-strategies-for-lakehouses|Cloud Cost Optimization Strategies for Lakehouses]]
+    - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/05_aws-data-engineering-glue-emr-athena-kinesis-end-to-end-guid|AWS Data Engineering Glue, EMR, Athena, Kinesis End-to-End Guide]]
 - [[episodes/2026-05-24|2026-05-24]]
     - [[sources/2026-05-24/03_8-must-know-updates-in-data-engineering-iceberg-1-11-postgre|8 Must-Know Updates in Data Engineering Iceberg 1.11, Postgres Storage, and AI Tooling]]
 - [[episodes/2026-05-23|2026-05-23]]
-    - [[sources/2026-05-23/01_do-you-still-need-a-separate-cloud-data-warehouse-building-a|Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance]]
-    - [[sources/2026-05-23/07_hands-on-with-apache-iceberg-using-dremio-cloud|Hands-On with Apache Iceberg Using Dremio Cloud]]
     - [[sources/2026-05-23/08_how-data-lake-table-storage-degrades-over-time|How Data Lake Table Storage Degrades Over Time]]
+    - [[sources/2026-05-23/07_hands-on-with-apache-iceberg-using-dremio-cloud|Hands-On with Apache Iceberg Using Dremio Cloud]]
+    - [[sources/2026-05-23/01_do-you-still-need-a-separate-cloud-data-warehouse-building-a|Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance]]
 - [[episodes/2026-05-22|2026-05-22]]
     - [[sources/2026-05-22/08_writing-to-an-apache-iceberg-table-how-commits-and-acid-actu|Writing to an Apache Iceberg Table How Commits and ACID Actually Work]]
     - [[sources/2026-05-22/07_what-are-lakehouse-catalogs-the-role-of-catalogs-in-apache-i|What Are Lakehouse Catalogs? The Role of Catalogs in Apache Iceberg]]

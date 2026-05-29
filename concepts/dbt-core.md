@@ -1,6 +1,6 @@
 ---
 type: concept
-name: dbt-core
+name: dbt Core
 slug: dbt-core
 first_seen: 2026-04-30
 last_seen: 2026-05-23
@@ -9,7 +9,7 @@ avg_confidence: 0.65
 tags: [concept]
 ---
 
-# dbt-core
+# dbt Core
 
 _Concept mentioned across 2 stories._
 

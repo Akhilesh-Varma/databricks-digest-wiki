@@ -3,17 +3,19 @@ type: concept
 name: Large Language Models (LLMs)
 slug: large-language-models-llms
 first_seen: 2026-04-06
-last_seen: 2026-05-14
-mention_count: 7
-avg_confidence: 0.743
+last_seen: 2026-05-29
+mention_count: 8
+avg_confidence: 0.762
 tags: [concept]
 ---
 
 # Large Language Models (LLMs)
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-29|2026-05-29]]
+    - [[sources/2026-05-29/07_how-ai-is-reshaping-the-data-engineer-role-in-2026|How AI Is Reshaping the Data Engineer Role in 2026]]
 - [[episodes/2026-05-14|2026-05-14]]
     - [[sources/2026-05-14/09_oxyecombench-benchmarking-multimodal-foundation-models-acros|OxyEcomBench Benchmarking Multimodal Foundation Models across E-Commerce Ecosystems]]
 - [[episodes/2026-04-09|2026-04-09]]

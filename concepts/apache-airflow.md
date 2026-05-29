@@ -3,17 +3,19 @@ type: concept
 name: Apache Airflow
 slug: apache-airflow
 first_seen: 2026-04-17
-last_seen: 2026-05-28
-mention_count: 8
-avg_confidence: 0.7
+last_seen: 2026-05-29
+mention_count: 9
+avg_confidence: 0.678
 tags: [concept]
 ---
 
 # Apache Airflow
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-29|2026-05-29]]
+    - [[sources/2026-05-29/07_how-ai-is-reshaping-the-data-engineer-role-in-2026|How AI Is Reshaping the Data Engineer Role in 2026]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
 - [[episodes/2026-05-21|2026-05-21]]
