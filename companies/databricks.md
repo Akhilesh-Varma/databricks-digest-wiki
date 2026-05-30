@@ -3,17 +3,22 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-29
-mention_count: 242
+last_seen: 2026-05-30
+mention_count: 246
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 242 stories._
+_Company mentioned across 246 stories._
 
 ## Appears in
+- [[episodes/2026-05-30|2026-05-30]]
+    - [[sources/2026-05-30/04_lakeflow-designer-updates-for-may-29-2026|Lakeflow Designer updates for May 29, 2026]]
+    - [[sources/2026-05-30/03_databricks-runtime-18-may-29-2026|Databricks Runtime 18 May 29, 2026]]
+    - [[sources/2026-05-30/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
+    - [[sources/2026-05-30/02_building-a-hybrid-htap-architecture-on-databricks-with-lakeb|Building a Hybrid HTAP Architecture on Databricks with Lakebase]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/07_how-ai-is-reshaping-the-data-engineer-role-in-2026|How AI Is Reshaping the Data Engineer Role in 2026]]
     - [[sources/2026-05-29/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]

@@ -3,17 +3,20 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-05
-last_seen: 2026-05-29
-mention_count: 45
-avg_confidence: 0.62
+last_seen: 2026-05-30
+mention_count: 47
+avg_confidence: 0.617
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 45 stories._
+_Concept mentioned across 47 stories._
 
 ## Appears in
+- [[episodes/2026-05-30|2026-05-30]]
+    - [[sources/2026-05-30/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
+    - [[sources/2026-05-30/02_building-a-hybrid-htap-architecture-on-databricks-with-lakeb|Building a Hybrid HTAP Architecture on Databricks with Lakebase]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-05-28|2026-05-28]]

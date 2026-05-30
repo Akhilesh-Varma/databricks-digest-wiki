@@ -3,17 +3,19 @@ type: concept
 name: Databricks Serverless SQL
 slug: databricks-serverless-sql
 first_seen: 2026-04-14
-last_seen: 2026-05-29
-mention_count: 7
-avg_confidence: 0.914
+last_seen: 2026-05-30
+mention_count: 8
+avg_confidence: 0.887
 tags: [concept]
 ---
 
 # Databricks Serverless SQL
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-05-30|2026-05-30]]
+    - [[sources/2026-05-30/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-05-28|2026-05-28]]

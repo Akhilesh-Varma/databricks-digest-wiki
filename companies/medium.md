@@ -3,17 +3,19 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-26
-mention_count: 38
+last_seen: 2026-05-30
+mention_count: 39
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 38 stories._
+_Company mentioned across 39 stories._
 
 ## Appears in
+- [[episodes/2026-05-30|2026-05-30]]
+    - [[sources/2026-05-30/02_building-a-hybrid-htap-architecture-on-databricks-with-lakeb|Building a Hybrid HTAP Architecture on Databricks with Lakebase]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/04_integrating-aws-s3-with-snowflake-a-practical-guide|Integrating AWS S3 with Snowflake A Practical Guide]]
     - [[sources/2026-05-26/03_why-lakehouse-architecture-feels-like-the-future-of-data-eng|Why Lakehouse Architecture Feels Like the Future of Data Engineering]]

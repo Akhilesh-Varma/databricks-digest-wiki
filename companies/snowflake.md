@@ -3,17 +3,19 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-08
-last_seen: 2026-05-29
-mention_count: 34
+last_seen: 2026-05-30
+mention_count: 35
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 34 stories._
+_Company mentioned across 35 stories._
 
 ## Appears in
+- [[episodes/2026-05-30|2026-05-30]]
+    - [[sources/2026-05-30/03_databricks-runtime-18-may-29-2026|Databricks Runtime 18 May 29, 2026]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/07_how-ai-is-reshaping-the-data-engineer-role-in-2026|How AI Is Reshaping the Data Engineer Role in 2026]]
     - [[sources/2026-05-29/02_show-hn-ktx-open-source-executable-context-layer-for-data-ag|Show HN Ktx Open-source executable context layer for data agents]]

@@ -3,17 +3,20 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-29
-mention_count: 81
-avg_confidence: 0.759
+last_seen: 2026-05-30
+mention_count: 83
+avg_confidence: 0.761
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 81 stories._
+_Concept mentioned across 83 stories._
 
 ## Appears in
+- [[episodes/2026-05-30|2026-05-30]]
+    - [[sources/2026-05-30/03_databricks-runtime-18-may-29-2026|Databricks Runtime 18 May 29, 2026]]
+    - [[sources/2026-05-30/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
     - [[sources/2026-05-29/05_advancing-apache-iceberg-on-databricks-iceberg-v3-ga-open-sh|Advancing Apache Iceberg on Databricks Iceberg v3 GA, Open Sharing, and Unified Governance]]

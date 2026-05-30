@@ -3,17 +3,19 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-05-29
-mention_count: 31
-avg_confidence: 0.871
+last_seen: 2026-05-30
+mention_count: 32
+avg_confidence: 0.872
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 31 stories._
+_Concept mentioned across 32 stories._
 
 ## Appears in
+- [[episodes/2026-05-30|2026-05-30]]
+    - [[sources/2026-05-30/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/05_advancing-apache-iceberg-on-databricks-iceberg-v3-ga-open-sh|Advancing Apache Iceberg on Databricks Iceberg v3 GA, Open Sharing, and Unified Governance]]
 - [[episodes/2026-05-28|2026-05-28]]

@@ -3,17 +3,19 @@ type: concept
 name: Medallion Architecture
 slug: medallion-architecture
 first_seen: 2026-04-14
-last_seen: 2026-05-26
-mention_count: 18
-avg_confidence: 0.767
+last_seen: 2026-05-30
+mention_count: 19
+avg_confidence: 0.763
 tags: [concept]
 ---
 
 # Medallion Architecture
 
-_Concept mentioned across 18 stories._
+_Concept mentioned across 19 stories._
 
 ## Appears in
+- [[episodes/2026-05-30|2026-05-30]]
+    - [[sources/2026-05-30/02_building-a-hybrid-htap-architecture-on-databricks-with-lakeb|Building a Hybrid HTAP Architecture on Databricks with Lakebase]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/06_azure-data-engineering-synapse-adf-databricks-full-guide|Azure Data Engineering Synapse, ADF, Databricks Full Guide]]
 - [[episodes/2026-05-23|2026-05-23]]

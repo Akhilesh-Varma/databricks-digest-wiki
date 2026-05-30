@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-05-29T10:25:06.050683+00:00",
-  "node_count": 2681,
-  "edge_count": 4554,
+  "generated_at": "2026-05-30T10:24:00.178492+00:00",
+  "node_count": 2695,
+  "edge_count": 4588,
   "nodes": [
+    {
+      "id": "episode/2026-05-30",
+      "type": "episode",
+      "label": "Daily Databricks Digest - May 30, 2026",
+      "episode_date": "2026-05-30",
+      "story_count": 4
+    },
     {
       "id": "episode/2026-05-29",
       "type": "episode",
@@ -3787,6 +3794,38 @@
       "quality_score": 0.7963326578308532
     },
     {
+      "id": "story/community_roundup_5_community_f856c2dab008",
+      "type": "story",
+      "label": "Databricks Community Roundup \u2014 5 new posts",
+      "episode_date": "2026-05-30",
+      "rank": 1,
+      "quality_score": 0.8
+    },
+    {
+      "id": "story/rss_12503ff72dca",
+      "type": "story",
+      "label": "Building a Hybrid HTAP Architecture on Databricks with Lakebase",
+      "episode_date": "2026-05-30",
+      "rank": 2,
+      "quality_score": 0.8119626522640543
+    },
+    {
+      "id": "story/rss_60af579b3839",
+      "type": "story",
+      "label": "Databricks Runtime 18 May 29, 2026",
+      "episode_date": "2026-05-30",
+      "rank": 3,
+      "quality_score": 0.8056516402139551
+    },
+    {
+      "id": "story/rss_8b132532e90e",
+      "type": "story",
+      "label": "Lakeflow Designer updates for May 29, 2026",
+      "episode_date": "2026-05-30",
+      "rank": 4,
+      "quality_score": 0.8056516401268188
+    },
+    {
       "id": "story/pypi_mlflow_3.12.0",
       "type": "story",
       "label": "MLflow 3.12.0 released on PyPI",
@@ -4162,7 +4201,7 @@
       "id": "concept/apache-iceberg",
       "type": "concept",
       "label": "Apache Iceberg",
-      "mention_count": 31
+      "mention_count": 32
     },
     {
       "id": "concept/apache-polaris",
@@ -4438,7 +4477,7 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 242
+      "mention_count": 246
     },
     {
       "id": "concept/fulfillment-center-operations",
@@ -4546,13 +4585,13 @@
       "id": "concept/unity-catalog",
       "type": "concept",
       "label": "Unity Catalog",
-      "mention_count": 81
+      "mention_count": 83
     },
     {
       "id": "concept/medallion-architecture",
       "type": "concept",
       "label": "Medallion Architecture",
-      "mention_count": 18
+      "mention_count": 19
     },
     {
       "id": "concept/databricks-asset-bundles",
@@ -4912,7 +4951,7 @@
       "id": "concept/lakehouse",
       "type": "concept",
       "label": "Lakehouse",
-      "mention_count": 45
+      "mention_count": 47
     },
     {
       "id": "company/microsoft-azure",
@@ -5008,7 +5047,7 @@
       "id": "company/medium",
       "type": "company",
       "label": "Medium",
-      "mention_count": 38
+      "mention_count": 39
     },
     {
       "id": "concept/occupational-safety-and-health-administration-osha",
@@ -5050,7 +5089,7 @@
       "id": "concept/databricks-serverless-sql",
       "type": "concept",
       "label": "Databricks Serverless SQL",
-      "mention_count": 7
+      "mention_count": 8
     },
     {
       "id": "concept/photon",
@@ -5584,7 +5623,7 @@
       "id": "company/snowflake",
       "type": "company",
       "label": "Snowflake",
-      "mention_count": 34
+      "mention_count": 35
     },
     {
       "id": "concept/mlflow",
@@ -5974,7 +6013,7 @@
       "id": "concept/lakebase",
       "type": "concept",
       "label": "Lakebase",
-      "mention_count": 16
+      "mention_count": 17
     },
     {
       "id": "concept/point-in-polygon-query",
@@ -6376,7 +6415,7 @@
       "id": "concept/lakeflow-designer",
       "type": "concept",
       "label": "Lakeflow Designer",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "concept/lakeflow",
@@ -10576,7 +10615,7 @@
       "id": "concept/finops",
       "type": "concept",
       "label": "FinOps",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/predicate-pushdown",
@@ -12034,7 +12073,7 @@
       "id": "concept/genie-code",
       "type": "concept",
       "label": "Genie Code",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/mcp",
@@ -13624,13 +13663,13 @@
       "id": "concept/structured-streaming",
       "type": "concept",
       "label": "Structured Streaming",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/databricks-runtime",
       "type": "concept",
       "label": "Databricks Runtime",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/databricks-auto-scaling",
@@ -16918,7 +16957,7 @@
       "id": "concept/metadata-driven-etl",
       "type": "concept",
       "label": "Metadata-Driven ETL",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/machine-learning-operations",
@@ -16975,6 +17014,24 @@
       "mention_count": 1
     },
     {
+      "id": "concept/n-way-combine-operator",
+      "type": "concept",
+      "label": "N-way Combine operator",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/python-operator",
+      "type": "concept",
+      "label": "Python operator",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/sql-operator",
+      "type": "concept",
+      "label": "SQL operator",
+      "mention_count": 1
+    },
+    {
       "id": "concept/aws-data-engineering",
       "type": "concept",
       "label": "AWS Data Engineering",
@@ -16993,15 +17050,33 @@
       "mention_count": 1
     },
     {
-      "id": "concept/open-sharing",
+      "id": "concept/foreign-catalog-tables",
       "type": "concept",
-      "label": "Open Sharing",
+      "label": "Foreign Catalog Tables",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/managed-iceberg",
+      "type": "concept",
+      "label": "Managed Iceberg",
       "mention_count": 1
     },
     {
       "id": "concept/iceberg-v3",
       "type": "concept",
       "label": "Iceberg v3",
+      "mention_count": 2
+    },
+    {
+      "id": "concept/foreign-iceberg",
+      "type": "concept",
+      "label": "Foreign Iceberg",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/open-sharing",
+      "type": "concept",
+      "label": "Open Sharing",
       "mention_count": 1
     },
     {
@@ -17032,6 +17107,24 @@
       "id": "concept/watermark",
       "type": "concept",
       "label": "Watermark",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/htap-hybrid-transactional-analytical-processing",
+      "type": "concept",
+      "label": "HTAP (Hybrid Transactional/Analytical Processing)",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/synced-tables",
+      "type": "concept",
+      "label": "Synced Tables",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/managed-postgres",
+      "type": "concept",
+      "label": "Managed Postgres",
       "mention_count": 1
     },
     {
@@ -39594,6 +39687,41 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_8b132532e90e",
+      "target": "episode/2026-05-30",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_8b132532e90e",
+      "target": "concept/lakeflow-designer",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_8b132532e90e",
+      "target": "concept/genie-code",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_8b132532e90e",
+      "target": "concept/n-way-combine-operator",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_8b132532e90e",
+      "target": "concept/python-operator",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_8b132532e90e",
+      "target": "concept/sql-operator",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_8b132532e90e",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_f706a4afcd82",
       "target": "episode/2026-04-11",
       "kind": "aired_in"
@@ -39689,6 +39817,96 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_60af579b3839",
+      "target": "episode/2026-05-30",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_60af579b3839",
+      "target": "concept/databricks-runtime",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_60af579b3839",
+      "target": "concept/structured-streaming",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_60af579b3839",
+      "target": "concept/unity-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_60af579b3839",
+      "target": "concept/foreign-catalog-tables",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_60af579b3839",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_60af579b3839",
+      "target": "company/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_f856c2dab008",
+      "target": "episode/2026-05-30",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_roundup_5_community_f856c2dab008",
+      "target": "concept/unity-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_f856c2dab008",
+      "target": "concept/apache-iceberg",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_f856c2dab008",
+      "target": "concept/databricks-serverless-sql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_f856c2dab008",
+      "target": "concept/finops",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_f856c2dab008",
+      "target": "concept/lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_f856c2dab008",
+      "target": "concept/metadata-driven-etl",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_f856c2dab008",
+      "target": "concept/managed-iceberg",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_f856c2dab008",
+      "target": "concept/iceberg-v3",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_f856c2dab008",
+      "target": "concept/foreign-iceberg",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_f856c2dab008",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_83548044833f",
       "target": "episode/2026-05-29",
       "kind": "aired_in"
@@ -39771,6 +39989,51 @@
     {
       "source": "story/rss_9c5994f64196",
       "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_12503ff72dca",
+      "target": "episode/2026-05-30",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_12503ff72dca",
+      "target": "concept/htap-hybrid-transactional-analytical-processing",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_12503ff72dca",
+      "target": "concept/lakebase",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_12503ff72dca",
+      "target": "concept/medallion-architecture",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_12503ff72dca",
+      "target": "concept/synced-tables",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_12503ff72dca",
+      "target": "concept/managed-postgres",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_12503ff72dca",
+      "target": "concept/lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_12503ff72dca",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_12503ff72dca",
+      "target": "company/medium",
       "kind": "mentions"
     },
     {
