@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-05-30T10:24:00.178492+00:00",
-  "node_count": 2695,
-  "edge_count": 4588,
+  "generated_at": "2026-05-31T10:23:29.193678+00:00",
+  "node_count": 2709,
+  "edge_count": 4621,
   "nodes": [
+    {
+      "id": "episode/2026-05-31",
+      "type": "episode",
+      "label": "Daily Databricks Digest - May 31, 2026",
+      "episode_date": "2026-05-31",
+      "story_count": 5
+    },
     {
       "id": "episode/2026-05-30",
       "type": "episode",
@@ -1005,8 +1012,8 @@
       "id": "story/community_0fd805d2f795",
       "type": "story",
       "label": "Top 10 query performance tuning tips for Databricks Serverless SQL",
-      "episode_date": "2026-05-17",
-      "rank": 2,
+      "episode_date": "2026-05-23",
+      "rank": 3,
       "quality_score": 0.78
     },
     {
@@ -2194,268 +2201,516 @@
       "quality_score": 0.7963210060066137
     },
     {
-      "id": "story/github_release_delta-io_delta-rs_325002394",
+      "id": "story/github_release_databricks_databricks-sdk-java_315827389",
       "type": "story",
-      "label": "Delta Lake Rust Python python-v1.6.0 released",
-      "episode_date": "2026-05-20",
+      "label": "Databricks SDK Java v0.106.0 released",
+      "episode_date": "2026-05-01",
       "rank": 1,
-      "quality_score": 0.7673629246154101
+      "quality_score": 0.8080947473703703
     },
     {
-      "id": "story/community_75c6fa5c47c2",
+      "id": "story/github_release_databricks_terraform-provider-databricks_315983586",
       "type": "story",
-      "label": "From Associate to Professional My Learning Plan to ace all Databricks Data Engineer Certifications",
-      "episode_date": "2026-05-20",
+      "label": "Databricks Terraform Provider v1.114.2 released",
+      "episode_date": "2026-05-01",
+      "rank": 2,
+      "quality_score": 0.7106838678063823
+    },
+    {
+      "id": "story/community_ada20871ca83",
+      "type": "story",
+      "label": "Learning Series Data Preparation for Machine Learning",
+      "episode_date": "2026-05-01",
       "rank": 3,
-      "quality_score": 0.78
+      "quality_score": 0.74
     },
     {
-      "id": "story/hn_48192383",
+      "id": "story/community_f42c62b24524",
       "type": "story",
-      "label": "Show HN Forge Guardrails take an 8B model from 53 to 99 on agentic tasks",
-      "episode_date": "2026-05-20",
+      "label": "Community Alert Free BrickTalk on Supply Chain Management with Databricks!",
+      "episode_date": "2026-05-01",
       "rank": 4,
-      "quality_score": 0.8918666132249977
+      "quality_score": 0.66
     },
     {
-      "id": "story/rss_53524f4ff8f9",
+      "id": "story/rss_0c21cb620a36",
       "type": "story",
-      "label": "Migrating a Legacy Databricks Platform to Unity Catalog A Complete Engineering Playbook",
-      "episode_date": "2026-05-20",
+      "label": "Your Data Products Need a Product Manager. Here Is What That Actually Means",
+      "episode_date": "2026-05-01",
       "rank": 5,
-      "quality_score": 0.7390276075877976
+      "quality_score": 0.7369022874614749
     },
     {
-      "id": "story/hn_48195021",
+      "id": "story/rss_f0439d556303",
       "type": "story",
-      "label": "Show HN Superlog YC P26 Observability that installs itself and fixes bugs",
-      "episode_date": "2026-05-20",
+      "label": "From Informatica to Databricks Why Enterprises Are Finally Breaking Up with Legacy ETL",
+      "episode_date": "2026-05-01",
       "rank": 6,
-      "quality_score": 0.7305956821810583
+      "quality_score": 0.7350977238139881
     },
     {
-      "id": "story/hn_48192607",
+      "id": "story/devto_3592586",
       "type": "story",
-      "label": "Show HN How to analyze your LLM output A behavioural health monitor for LLMs",
-      "episode_date": "2026-05-20",
+      "label": "The Metadata Structure of Modern Table Formats",
+      "episode_date": "2026-05-01",
       "rank": 7,
-      "quality_score": 0.7209383750127882
+      "quality_score": 0.8290537429543651
     },
     {
-      "id": "story/devto_3701496",
+      "id": "story/devto_3594645",
       "type": "story",
-      "label": "A data platform tracking news and social media across 167 cities in Rio Grande do Norte for under R 5 month.",
-      "episode_date": "2026-05-20",
+      "label": "Install and Optimize ClickHouse on Ubuntu 26.04 Bare Metal",
+      "episode_date": "2026-05-01",
       "rank": 8,
-      "quality_score": 0.927963619527778
+      "quality_score": 0.8179616466407077
     },
     {
-      "id": "story/devto_3700795",
+      "id": "story/devto_3594245",
       "type": "story",
-      "label": "Why Real-Time Analytics Eventually Changes Your Database Architecture",
-      "episode_date": "2026-05-20",
+      "label": "How to Migrate MySQL to ClickHouse with Zero Downtime",
+      "episode_date": "2026-05-01",
       "rank": 9,
-      "quality_score": 0.8095300881661707
+      "quality_score": 0.8166717986332673
     },
     {
-      "id": "story/devto_3700603",
+      "id": "story/rss_6270ed9508d7",
       "type": "story",
-      "label": "Before You Put a Fabric AI Agent in Production, Steal This Checklist",
-      "episode_date": "2026-05-20",
+      "label": "SynSQL Synthesizing Relational Databases for Robust Evaluation of Text-to-SQL Systems",
+      "episode_date": "2026-05-01",
       "rank": 10,
-      "quality_score": 0.8068837586370702
+      "quality_score": 0.7963290399885913
     },
     {
-      "id": "story/pypi_mlflow_3.13.0rc0",
+      "id": "story/pypi_pyspark_4.2.0.dev5",
       "type": "story",
-      "label": "MLflow 3.13.0rc0 released on PyPI",
-      "episode_date": "2026-05-22",
+      "label": "Apache Spark PySpark 4.2.0.dev5 released on PyPI",
+      "episode_date": "2026-05-02",
       "rank": 1,
-      "quality_score": 0.615858655256283
+      "quality_score": 0.5145458389765212
     },
     {
-      "id": "story/community_6f8bd4e82763",
+      "id": "story/community_542395736e47",
       "type": "story",
-      "label": "Community Pulse Your Weekly Roundup! May 11 17, 2026",
-      "episode_date": "2026-05-22",
-      "rank": 3,
+      "label": "Azure Databricks Reverse SSH Tunnel for On-Premises Connectivity",
+      "episode_date": "2026-05-02",
+      "rank": 2,
       "quality_score": 0.78
     },
     {
-      "id": "story/community_99392e119e6b",
+      "id": "story/community_47e5b2ca07a5",
       "type": "story",
-      "label": "Letting Coding Agents Move Fast Without Breaking Everything",
-      "episode_date": "2026-05-22",
+      "label": "The next generation of Databricks Genie",
+      "episode_date": "2026-05-02",
+      "rank": 3,
+      "quality_score": 0.6000000000000001
+    },
+    {
+      "id": "story/hn_47977498",
+      "type": "story",
+      "label": "AWS stops billing Middle East cloud customers as repairs to war damage drag on",
+      "episode_date": "2026-05-02",
+      "rank": 4,
+      "quality_score": 0.7060940165830801
+    },
+    {
+      "id": "story/rss_76c25575992e",
+      "type": "story",
+      "label": "What is a DLT Pipeline? A Beginner Guide with My Mistakes Learnings",
+      "episode_date": "2026-05-02",
+      "rank": 5,
+      "quality_score": 0.698546931374008
+    },
+    {
+      "id": "story/rss_cb0c554dd300",
+      "type": "story",
+      "label": "Your Data Governance Program Is Two Years Away From Being Defunded.",
+      "episode_date": "2026-05-02",
+      "rank": 6,
+      "quality_score": 0.6960365146550926
+    },
+    {
+      "id": "story/rss_2b5d24e63108",
+      "type": "story",
+      "label": "Introduction to External Locations for Catalog and Schema in Databricks",
+      "episode_date": "2026-05-02",
+      "rank": 7,
+      "quality_score": 0.6920881019454366
+    },
+    {
+      "id": "story/devto_3598668",
+      "type": "story",
+      "label": "What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS",
+      "episode_date": "2026-05-02",
+      "rank": 8,
+      "quality_score": 0.9377926288649141
+    },
+    {
+      "id": "story/devto_3599073",
+      "type": "story",
+      "label": "Meet SDI The No-Code ETL Tool Every Data Engineer Needs in Their Toolbox",
+      "episode_date": "2026-05-02",
+      "rank": 9,
+      "quality_score": 0.8587661737194114
+    },
+    {
+      "id": "story/devto_3598629",
+      "type": "story",
+      "label": "HackerRank Data Engineering Interview Questions 7 SQL PySpark Patterns to Master",
+      "episode_date": "2026-05-02",
+      "rank": 10,
+      "quality_score": 0.8174961668293651
+    },
+    {
+      "id": "story/community_608ffec25bab",
+      "type": "story",
+      "label": "Solution Accelerator Series Digital Twins",
+      "episode_date": "2026-05-03",
+      "rank": 1,
+      "quality_score": 0.52
+    },
+    {
+      "id": "story/community_50b87930ea79",
+      "type": "story",
+      "label": "Introducing Genie Agent Mode",
+      "episode_date": "2026-05-03",
+      "rank": 2,
+      "quality_score": 0.52
+    },
+    {
+      "id": "story/community_c893d8024864",
+      "type": "story",
+      "label": "Solution Accelerator Series Propensity Scoring",
+      "episode_date": "2026-05-03",
+      "rank": 3,
+      "quality_score": 0.52
+    },
+    {
+      "id": "story/hn_47985077",
+      "type": "story",
+      "label": "Show HN Mljar Studio local AI data analyst that saves analysis as notebooks",
+      "episode_date": "2026-05-03",
+      "rank": 4,
+      "quality_score": 0.830201687893821
+    },
+    {
+      "id": "story/hn_47985210",
+      "type": "story",
+      "label": "Show HN Piruetas A self-hosted diary app I built for my girlfriend",
+      "episode_date": "2026-05-03",
+      "rank": 5,
+      "quality_score": 0.6911496615717402
+    },
+    {
+      "id": "story/rss_65eb9feda7d1",
+      "type": "story",
+      "label": "How We Shipped 3 Full-Stack Data Platforms in One Session Using Microsoft Fabric Azure AI Foundry",
+      "episode_date": "2026-05-03",
+      "rank": 6,
+      "quality_score": 0.6598836037554564
+    },
+    {
+      "id": "story/rss_af40d7126f6e",
+      "type": "story",
+      "label": "Why Data Governance Quietly Dies and No One Says the Real Reason",
+      "episode_date": "2026-05-03",
+      "rank": 7,
+      "quality_score": 0.6589808259626323
+    },
+    {
+      "id": "story/rss_020ec41eae08",
+      "type": "story",
+      "label": "Top 20 Advanced Data Engineering Interview Questions",
+      "episode_date": "2026-05-03",
+      "rank": 8,
+      "quality_score": 0.6576066526716271
+    },
+    {
+      "id": "story/community_536463b40ec3",
+      "type": "story",
+      "label": "Finally! Databricks lets you disable tasks without hacks",
+      "episode_date": "2026-05-04",
+      "rank": 1,
+      "quality_score": 0.66
+    },
+    {
+      "id": "story/hn_47997629",
+      "type": "story",
+      "label": "Show HN Semble Code search for agents that uses 98 fewer tokens than grep",
+      "episode_date": "2026-05-04",
+      "rank": 2,
+      "quality_score": 0.6538560627359832
+    },
+    {
+      "id": "story/rss_d65f25a9fb57",
+      "type": "story",
+      "label": "Connecting to a Storage Account using Databricks Unity Catalog in Azure",
+      "episode_date": "2026-05-04",
+      "rank": 3,
+      "quality_score": 0.7378157813908731
+    },
+    {
+      "id": "story/rss_5ec6c429ea61",
+      "type": "story",
+      "label": "When OT Meets IT What Happens When a Smart Grid Meets a Lakehouse",
+      "episode_date": "2026-05-04",
+      "rank": 4,
+      "quality_score": 0.6954573156542659
+    },
+    {
+      "id": "story/devto_3607796",
+      "type": "story",
+      "label": "Databricks Data Engineer Associate Exam What Changed in 2025",
+      "episode_date": "2026-05-04",
+      "rank": 6,
+      "quality_score": 0.9395466022367726
+    },
+    {
+      "id": "story/devto_3607644",
+      "type": "story",
+      "label": "5 Reasons Your Databricks Implementation Is Underperforming And How a Consultant Fixes It",
+      "episode_date": "2026-05-04",
+      "rank": 7,
+      "quality_score": 0.9392785795998678
+    },
+    {
+      "id": "story/devto_3606407",
+      "type": "story",
+      "label": "Single guide for DP-750 Azure Databricks certification",
+      "episode_date": "2026-05-04",
+      "rank": 8,
+      "quality_score": 0.9365153517668652
+    },
+    {
+      "id": "story/rss_2d876e6525ee",
+      "type": "story",
+      "label": "SiriusHelper An LLM Agent-Based Operations Assistant for Big Data Platforms",
+      "episode_date": "2026-05-04",
+      "rank": 9,
+      "quality_score": 0.756317600098545
+    },
+    {
+      "id": "story/pypi_databricks-connect_18.0.6",
+      "type": "story",
+      "label": "Databricks Connect 18.0.6 released on PyPI",
+      "episode_date": "2026-05-05",
+      "rank": 1,
+      "quality_score": 0.5468355427488427
+    },
+    {
+      "id": "story/pypi_databricks-connect_17.3.8",
+      "type": "story",
+      "label": "Databricks Connect 17.3.8 released on PyPI",
+      "episode_date": "2026-05-05",
+      "rank": 2,
+      "quality_score": 0.5466664171876654
+    },
+    {
+      "id": "story/pypi_databricks-connect_16.4.16",
+      "type": "story",
+      "label": "Databricks Connect 16.4.16 released on PyPI",
+      "episode_date": "2026-05-05",
+      "rank": 3,
+      "quality_score": 0.5466432093399471
+    },
+    {
+      "id": "story/community_146a3285923e",
+      "type": "story",
+      "label": "Satya Nadella Ali Ghodsi A Must-See Data AI Summit Keynote",
+      "episode_date": "2026-05-05",
       "rank": 4,
       "quality_score": 0.74
     },
     {
-      "id": "story/hn_48226634",
+      "id": "story/community_fe477462b042",
       "type": "story",
-      "label": "Google offers free full-stack app creation and publishing",
-      "episode_date": "2026-05-22",
+      "label": "CUSTOMER STORY Elliptic Protect crypto assets with governed AI",
+      "episode_date": "2026-05-05",
       "rank": 5,
-      "quality_score": 0.6525772496747987
+      "quality_score": 0.7
     },
     {
-      "id": "story/rss_ff0538145fb1",
+      "id": "story/hn_48010033",
       "type": "story",
-      "label": "Building a Multi-Tiered Real-Time Delta Lakehouse Pipeline",
-      "episode_date": "2026-05-22",
+      "label": "Hallucination Is Inevitable An Innate Limitation of Large Language Models",
+      "episode_date": "2026-05-05",
       "rank": 6,
-      "quality_score": 0.7286690607776125
+      "quality_score": 0.6946259090935435
     },
     {
-      "id": "story/devto_3718371",
+      "id": "story/rss_3d352300aa8d",
       "type": "story",
-      "label": "What Are Lakehouse Catalogs? The Role of Catalogs in Apache Iceberg",
-      "episode_date": "2026-05-22",
+      "label": "Deploying Databricks Genie to Production When DAB Won t Do It For You",
+      "episode_date": "2026-05-05",
       "rank": 7,
-      "quality_score": 0.8882563628614418
+      "quality_score": 0.7304412634991734
     },
     {
-      "id": "story/devto_3718194",
+      "id": "story/rss_7c9f6b9972a7",
       "type": "story",
-      "label": "Writing to an Apache Iceberg Table How Commits and ACID Actually Work",
-      "episode_date": "2026-05-22",
+      "label": "Databricks Apps construindo aplica\u00e7\u00f5es de dados sem sair do Lakehouse",
+      "episode_date": "2026-05-05",
       "rank": 8,
-      "quality_score": 0.887962215921627
+      "quality_score": 0.7272960915019842
     },
     {
-      "id": "story/devto_3723989",
+      "id": "story/rss_d95777787011",
       "type": "story",
-      "label": "Treasure Hunt Engine Was a Disaster Waiting to Happen A Tale of Unchecked Growth and Overlooked Trade-Offs",
-      "episode_date": "2026-05-22",
+      "label": "Selective Rebuild In Databricks Free Edition Using Lineage BFS",
+      "episode_date": "2026-05-05",
       "rank": 9,
-      "quality_score": 0.8193977321327712
+      "quality_score": 0.6908934791410385
     },
     {
-      "id": "story/rss_25576b9bedc7",
+      "id": "story/hn_48013746",
       "type": "story",
-      "label": "GS-QA A Benchmark for Geospatial Question Answering",
-      "episode_date": "2026-05-22",
+      "label": "Show HN Agent-evals Claude skill to build your own evals",
+      "episode_date": "2026-05-05",
       "rank": 10,
-      "quality_score": 0.8363410185909391
+      "quality_score": 0.6238903959247826
     },
     {
-      "id": "story/community_roundup_8_community_0fd805d2f795",
+      "id": "story/pypi_mlflow_3.12.0",
       "type": "story",
-      "label": "Databricks Community Roundup \u2014 8 new posts",
-      "episode_date": "2026-05-27",
+      "label": "MLflow 3.12.0 released on PyPI",
+      "episode_date": "2026-05-06",
       "rank": 1,
-      "quality_score": 0.8
+      "quality_score": 0.6058912374277448
     },
     {
-      "id": "story/rss_1a57d6d9dc66",
+      "id": "story/community_bb015fd3a271",
       "type": "story",
-      "label": "Databricks SQL version 2026.15 is now available in Preview",
-      "episode_date": "2026-05-27",
+      "label": "Introducing Bricktalks TV Your One-Stop Hub for All Bricktalk Sessions",
+      "episode_date": "2026-05-06",
       "rank": 2,
-      "quality_score": 0.9456581935806878
+      "quality_score": 0.6200000000000001
     },
     {
-      "id": "story/rss_d6408733a240",
+      "id": "story/rss_3ba6ab107f5e",
       "type": "story",
-      "label": "Automatic identity management with Microsoft Entra ID is now GA",
-      "episode_date": "2026-05-27",
+      "label": "Editing Pipelines Feels More Natural in Databricks Now.",
+      "episode_date": "2026-05-06",
       "rank": 3,
-      "quality_score": 0.8256581935529101
+      "quality_score": 0.6964135960226522
     },
     {
-      "id": "story/rss_9e1187c61728",
+      "id": "story/rss_f5085870c81f",
       "type": "story",
-      "label": "Lakeflow Spark Declarative Pipelines parameters are now in Beta",
-      "episode_date": "2026-05-27",
+      "label": "Genie Space as Code Shipping a Curated Salesforce Genie Space with a Databricks Asset Bundle",
+      "episode_date": "2026-05-06",
       "rank": 4,
-      "quality_score": 0.8056581935391867
+      "quality_score": 0.6915769556554233
     },
     {
-      "id": "story/devto_3762603",
+      "id": "story/devto_3292121",
       "type": "story",
-      "label": "How Polymarket Scaled Their Data Stack with Postgres ClickHouse",
-      "episode_date": "2026-05-27",
+      "label": "Stop Using Spark for Your Small Data - Why Azure Functions is the Right Tool for the Job",
+      "episode_date": "2026-05-06",
       "rank": 5,
-      "quality_score": 0.9389432471861774
+      "quality_score": 0.8995223928568122
     },
     {
-      "id": "story/devto_3759693",
+      "id": "story/devto_3616811",
       "type": "story",
-      "label": "Copy Job CDC with SQL estate is now GA in Microsoft Fabric",
-      "episode_date": "2026-05-27",
+      "label": "What is Dremio? The Unified Lakehouse and AI Platform",
+      "episode_date": "2026-05-06",
       "rank": 6,
-      "quality_score": 0.933371322471561
+      "quality_score": 0.8906662417263559
     },
     {
-      "id": "story/devto_3756490",
+      "id": "story/devto_3616749",
       "type": "story",
-      "label": "Adeloop Turning Semantic Data Models Into APIs for AI Agents",
-      "episode_date": "2026-05-27",
+      "label": "ETL vs ELT The Difference That Finally Clicked for Me",
+      "episode_date": "2026-05-06",
       "rank": 7,
-      "quality_score": 0.9263418917518189
+      "quality_score": 0.8904855207048612
     },
     {
-      "id": "story/community_1f488e412922",
+      "id": "story/rss_367e7d86bb31",
       "type": "story",
-      "label": "Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance",
-      "episode_date": "2026-05-23",
+      "label": "FINER-SQL Boosting Small Language Models for Text-to-SQL",
+      "episode_date": "2026-05-06",
+      "rank": 8,
+      "quality_score": 0.7563185232046957
+    },
+    {
+      "id": "story/pypi_databricks-connect_18.2.0",
+      "type": "story",
+      "label": "Databricks Connect 18.2.0 released on PyPI",
+      "episode_date": "2026-05-07",
       "rank": 1,
-      "quality_score": 0.78
+      "quality_score": 0.548246202942791
     },
     {
-      "id": "story/community_147c6901dc38",
+      "id": "story/community_4accf73d21cc",
       "type": "story",
-      "label": "PARTNER BLOG 847 Models, 12 Weeks, 77 Less Inside R1's Snowflake-to-Databricks Migration",
-      "episode_date": "2026-05-23",
+      "label": "Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps",
+      "episode_date": "2026-05-07",
       "rank": 2,
       "quality_score": 0.78
     },
     {
-      "id": "story/rss_0498cef7fb83",
+      "id": "story/community_a7a35e37bc71",
       "type": "story",
-      "label": "Designing a Modern Enterprise Lakehouse with Databricks, DABs, and Medallion Architecture",
-      "episode_date": "2026-05-23",
+      "label": "Deploying Django apps on Databricks Apps with Lakebase",
+      "episode_date": "2026-05-07",
+      "rank": 3,
+      "quality_score": 0.78
+    },
+    {
+      "id": "story/community_b6d185ab8fb7",
+      "type": "story",
+      "label": "Beyond RAG Databricks' Unified Approach to Document Insights",
+      "episode_date": "2026-05-07",
       "rank": 4,
-      "quality_score": 0.8117410937316468
+      "quality_score": 0.74
     },
     {
-      "id": "story/rss_b3a938c4e684",
+      "id": "story/rss_677d8d980523",
       "type": "story",
-      "label": "Understanding Databricks Honest Comparison with Snowflake and BigQuery",
-      "episode_date": "2026-05-23",
+      "label": "Native OpenTelemetry Observability for Databricks Apps",
+      "episode_date": "2026-05-07",
       "rank": 5,
-      "quality_score": 0.7376399033468916
+      "quality_score": 0.7297753703220901
     },
     {
-      "id": "story/rss_7b78d13e9c0d",
+      "id": "story/rss_dfe30fd4286d",
       "type": "story",
-      "label": "Accelerating LLM Inference with Prompt Caching for Open Source Models on Databricks",
-      "episode_date": "2026-05-23",
+      "label": "While working on a Databricks implementation with Unity Catalog enabled, we ran into an interesting",
+      "episode_date": "2026-05-07",
       "rank": 6,
-      "quality_score": 0.7115729389465939
+      "quality_score": 0.6908883002777778
     },
     {
-      "id": "story/devto_3727315",
+      "id": "story/devto_3625066",
       "type": "story",
-      "label": "Hands-On with Apache Iceberg Using Dremio Cloud",
-      "episode_date": "2026-05-23",
+      "label": "Data Series Understanding ETL Medallion Architecture Part 1",
+      "episode_date": "2026-05-07",
       "rank": 7,
-      "quality_score": 0.8299808431395502
+      "quality_score": 0.938312904432209
     },
     {
-      "id": "story/devto_3726607",
+      "id": "story/devto_3625613",
       "type": "story",
-      "label": "How Data Lake Table Storage Degrades Over Time",
-      "episode_date": "2026-05-23",
+      "label": "Ursa a new Diskless Lakestream engine for Kafka",
+      "episode_date": "2026-05-07",
       "rank": 8,
-      "quality_score": 0.7887148042362765
+      "quality_score": 0.8391001067000662
     },
     {
-      "id": "story/devto_3731591",
+      "id": "story/devto_3626061",
       "type": "story",
-      "label": "Why I Spent 6 Months Rebuilding Our Event Pipeline to Fix a 400ms Query Latency Problem",
-      "episode_date": "2026-05-23",
+      "label": "How Databricks Genie Turns Plain English Into SQL Code",
+      "episode_date": "2026-05-07",
       "rank": 9,
-      "quality_score": 0.7795689710152117
+      "quality_score": 0.8198215017693453
+    },
+    {
+      "id": "story/rss_8586906d2fd9",
+      "type": "story",
+      "label": "LUCAS-MEGA A Large-Scale Multimodal Dataset for Representation Learning in Soil-Environment Systems",
+      "episode_date": "2026-05-07",
+      "rank": 10,
+      "quality_score": 0.7163324140740741
     },
     {
       "id": "story/github_release_databricks_cli_318865157",
@@ -2538,132 +2793,404 @@
       "quality_score": 0.7163120096569114
     },
     {
-      "id": "story/github_release_databricks_cli_326685849",
+      "id": "story/community_4b4eb2264d82",
       "type": "story",
-      "label": "Databricks CLI v1.0.0 released",
-      "episode_date": "2026-05-21",
-      "rank": 1,
-      "quality_score": 0.8588674045831681
-    },
-    {
-      "id": "story/hn_48216786",
-      "type": "story",
-      "label": "Show HN CipherStash Stack Data Level Access Control in TS JS",
-      "episode_date": "2026-05-21",
-      "rank": 4,
-      "quality_score": 0.6178485838076709
-    },
-    {
-      "id": "story/rss_b55e8dfffdae",
-      "type": "story",
-      "label": "Stop Building Messy Pipelines The Medallion Architecture Explained",
-      "episode_date": "2026-05-21",
-      "rank": 5,
-      "quality_score": 0.8179985226704696
-    },
-    {
-      "id": "story/rss_84e961fa19c1",
-      "type": "story",
-      "label": "Optimizing AI Agent Planning with Operations Research and Data Science",
-      "episode_date": "2026-05-21",
-      "rank": 6,
-      "quality_score": 0.7500496137003969
-    },
-    {
-      "id": "story/rss_483a9882c466",
-      "type": "story",
-      "label": "Azure Databricks Unity Catalog Setup with ADLS Gen2 Step by Step Guide",
-      "episode_date": "2026-05-21",
-      "rank": 7,
-      "quality_score": 0.7369226297741402
-    },
-    {
-      "id": "story/devto_3715646",
-      "type": "story",
-      "label": "The Dark Side of Stripe Why Traditional Payments Platforms Fail in Every Country",
-      "episode_date": "2026-05-21",
-      "rank": 8,
-      "quality_score": 0.7792366184528771
-    },
-    {
-      "id": "story/devto_3715511",
-      "type": "story",
-      "label": "Why Stripe Didnt Cut It for Creators in Pakistan and How We Built a Parallel Pipeline for 0.05 Per Transaction",
-      "episode_date": "2026-05-21",
-      "rank": 9,
-      "quality_score": 0.7790762350788691
-    },
-    {
-      "id": "story/devto_3713487",
-      "type": "story",
-      "label": "The Ghost Protocol Stack How We Rebuilt Payments When Every Vendor Cut Us Off",
-      "episode_date": "2026-05-21",
-      "rank": 10,
-      "quality_score": 0.7766946212073413
-    },
-    {
-      "id": "story/community_f3a0c04a8123",
-      "type": "story",
-      "label": "Processing Unstructured Data in Volumes with Unity Catalog Open APIs",
-      "episode_date": "2026-05-16",
+      "label": "Performing DML Operations on Unity Catalog Managed Tables from External Engines",
+      "episode_date": "2026-05-09",
       "rank": 1,
       "quality_score": 0.78
     },
     {
-      "id": "story/community_f57a60b542be",
+      "id": "story/community_0dc7de4f31e0",
       "type": "story",
-      "label": "Learning Series Machine Learning Model Deployment",
-      "episode_date": "2026-05-16",
+      "label": "Scaling Enterprise AI with Databricks Without Losing Control",
+      "episode_date": "2026-05-09",
+      "rank": 2,
+      "quality_score": 0.78
+    },
+    {
+      "id": "story/community_f88c83466748",
+      "type": "story",
+      "label": "Delta Lake Under the Hood What Every Data Engineer Should Know",
+      "episode_date": "2026-05-09",
       "rank": 3,
-      "quality_score": 0.6799999999999999
+      "quality_score": 0.74
     },
     {
-      "id": "story/rss_bc43fdd4bc70",
+      "id": "story/hn_48062155",
       "type": "story",
-      "label": "Snowflake and Databricks Swallow Niche SaaS Tools Forcing Data Stack Overhaul",
-      "episode_date": "2026-05-16",
+      "label": "IBM Cloud evaporates as datacenter loses power",
+      "episode_date": "2026-05-09",
       "rank": 4,
-      "quality_score": 0.7390425105565477
+      "quality_score": 0.5707955562232563
     },
     {
-      "id": "story/rss_5fc4d7f0cb82",
+      "id": "story/rss_8ffcddd23fe1",
       "type": "story",
-      "label": "What Happens If Two Jobs Run a Delta MERGE on the Same Partition? Concurrency Deep Dive",
-      "episode_date": "2026-05-16",
+      "label": "ADF vs Databricks Workflows Which One Should Orchestrate Your Data Pipelines?",
+      "episode_date": "2026-05-09",
       "rank": 5,
-      "quality_score": 0.6980473055039683
+      "quality_score": 0.8089471857108135
     },
     {
-      "id": "story/devto_3678452",
+      "id": "story/rss_ea50d78d8930",
       "type": "story",
-      "label": "The Context Layer Why Enterprise AI Agents Fail Without It and What It Actually Takes to Fix That",
-      "episode_date": "2026-05-16",
+      "label": "Databricks Apps Tutorial Scalable Streamlit modular Template for Production",
+      "episode_date": "2026-05-09",
       "rank": 6,
-      "quality_score": 0.8886354342781085
+      "quality_score": 0.7355169609289022
     },
     {
-      "id": "story/devto_3678073",
+      "id": "story/rss_fdb3b96e39de",
       "type": "story",
-      "label": "Building a Letterboxd Film Review data pipeline from raw scrape to first insight",
-      "episode_date": "2026-05-16",
+      "label": "dbt Apache Iceberg DuckDB for Teams Under 50",
+      "episode_date": "2026-05-09",
       "rank": 7,
-      "quality_score": 0.8477817632385913
+      "quality_score": 0.7186252612306548
     },
     {
-      "id": "story/devto_3682496",
+      "id": "story/community_cecf34038f07",
       "type": "story",
-      "label": "Tiger Analytics Data Engineering Interview Questions Full Prep Guide",
-      "episode_date": "2026-05-16",
+      "label": "Community Pulse Your Weekly Roundup! April 27 May 03, 2026",
+      "episode_date": "2026-05-10",
+      "rank": 1,
+      "quality_score": 0.74
+    },
+    {
+      "id": "story/community_77db6432c0b3",
+      "type": "story",
+      "label": "Solution Accelerator Series Supply Chain Distribution Optimization",
+      "episode_date": "2026-05-10",
+      "rank": 2,
+      "quality_score": 0.74
+    },
+    {
+      "id": "story/community_92278b08e3ea",
+      "type": "story",
+      "label": "PARTNER BLOG Revolutionizing Enterprise Data with Databricks Agent Bricks Tale of Two Industries",
+      "episode_date": "2026-05-10",
+      "rank": 3,
+      "quality_score": 0.7
+    },
+    {
+      "id": "story/rss_f9e14c46fb83",
+      "type": "story",
+      "label": "RAG Is Blind to Time I Built a Temporal Layer to Fix It in Production",
+      "episode_date": "2026-05-10",
+      "rank": 4,
+      "quality_score": 0.747392006494709
+    },
+    {
+      "id": "story/rss_b556578e6166",
+      "type": "story",
+      "label": "Chatbot lardan Otonom Ajanlara RAG ve n8n ile Kurumsal Veri Boru Hatlar\u0131n\u0131 \u0130n\u015fa Etmek",
+      "episode_date": "2026-05-10",
+      "rank": 5,
+      "quality_score": 0.6995436270570438
+    },
+    {
+      "id": "story/rss_152e1ddbc146",
+      "type": "story",
+      "label": "Delta Lake Transaction Logs Explained The Ultimate Troubleshooting Superpower for Data Engineers",
+      "episode_date": "2026-05-10",
+      "rank": 6,
+      "quality_score": 0.6875899232215609
+    },
+    {
+      "id": "story/community_63f5465f4783",
+      "type": "story",
+      "label": "Learning Series Machine Learning Model Development",
+      "episode_date": "2026-05-11",
+      "rank": 1,
+      "quality_score": 0.6400000000000001
+    },
+    {
+      "id": "story/community_5c2c0914fe5d",
+      "type": "story",
+      "label": "Mastering Delta Lake MERGE Performance Why It Slows Down and How to Fix It",
+      "episode_date": "2026-05-11",
+      "rank": 2,
+      "quality_score": 0.6200000000000001
+    },
+    {
+      "id": "story/community_aac40782ee02",
+      "type": "story",
+      "label": "Share Your Expertise Submit Your Blogs and Videos to the Databricks Community!",
+      "episode_date": "2026-05-11",
+      "rank": 3,
+      "quality_score": 0.6200000000000001
+    },
+    {
+      "id": "story/rss_e9719b137573",
+      "type": "story",
+      "label": "Delta Live Tables DLT Is Powerful. These Are Its Real Constraints.",
+      "episode_date": "2026-05-11",
+      "rank": 4,
+      "quality_score": 0.7756956774300596
+    },
+    {
+      "id": "story/rss_2ed31ead0a0c",
+      "type": "story",
+      "label": "The Sequence Radar 857 Last Week in AI Inside the Machine, Outside the Text Box",
+      "episode_date": "2026-05-11",
+      "rank": 5,
+      "quality_score": 0.7162125423878969
+    },
+    {
+      "id": "story/rss_efa9fd2fb82f",
+      "type": "story",
+      "label": "Databricks Apps Feel More Enterprise-Ready with User Authorization",
+      "episode_date": "2026-05-11",
+      "rank": 6,
+      "quality_score": 0.6921225954021165
+    },
+    {
+      "id": "story/devto_3646620",
+      "type": "story",
+      "label": "Data Lake Architecture for Data Engineering Interviews",
+      "episode_date": "2026-05-11",
+      "rank": 7,
+      "quality_score": 0.9359276554285715
+    },
+    {
+      "id": "story/devto_3528430",
+      "type": "story",
+      "label": "Building Your First Data Warehouse in Databricks End to End",
+      "episode_date": "2026-05-11",
       "rank": 8,
-      "quality_score": 0.7799196603859128
+      "quality_score": 0.9357221328283731
     },
     {
-      "id": "story/rss_d95125dac3d5",
+      "id": "story/devto_3645303",
       "type": "story",
-      "label": "Fast Gossip-based Rumor Spreading using Small Messages",
-      "episode_date": "2026-05-16",
+      "label": "Why PostgreSQL and ClickHouse Work So Well Together",
+      "episode_date": "2026-05-11",
       "rank": 9,
-      "quality_score": 0.7163330196709656
+      "quality_score": 0.8995531517719908
+    },
+    {
+      "id": "story/pypi_mlflow_2.22.5",
+      "type": "story",
+      "label": "MLflow 2.22.5 released on PyPI",
+      "episode_date": "2026-05-12",
+      "rank": 1,
+      "quality_score": 0.6191952416493056
+    },
+    {
+      "id": "story/community_1928ebc1a925",
+      "type": "story",
+      "label": "Agentic Data Engineering with Genie Code and Lakeflow",
+      "episode_date": "2026-05-12",
+      "rank": 2,
+      "quality_score": 0.78
+    },
+    {
+      "id": "story/community_fbb7823a247b",
+      "type": "story",
+      "label": "Introducing 5XL SQL Warehouses A Practical Guide to Meeting SLAs for Your Most Demanding Workloads",
+      "episode_date": "2026-05-12",
+      "rank": 3,
+      "quality_score": 0.66
+    },
+    {
+      "id": "story/hn_48100227",
+      "type": "story",
+      "label": "Show HN E2a Open-source email gateway for AI agents",
+      "episode_date": "2026-05-12",
+      "rank": 4,
+      "quality_score": 0.6498452815532613
+    },
+    {
+      "id": "story/rss_0c366ee27309",
+      "type": "story",
+      "label": "Databricks SDP Explained Unified DDL DML in Modern Pipelines",
+      "episode_date": "2026-05-12",
+      "rank": 5,
+      "quality_score": 0.8159152551795635
+    },
+    {
+      "id": "story/rss_051628febc08",
+      "type": "story",
+      "label": "Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP, Apache Iceberg",
+      "episode_date": "2026-05-12",
+      "rank": 6,
+      "quality_score": 0.8098826823293651
+    },
+    {
+      "id": "story/rss_da423ad924d3",
+      "type": "story",
+      "label": "Building Scalable Data Pipelines with Azure Data Factory, Databricks Azure DevOps",
+      "episode_date": "2026-05-12",
+      "rank": 7,
+      "quality_score": 0.7699018622468585
+    },
+    {
+      "id": "story/devto_3653680",
+      "type": "story",
+      "label": "ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load",
+      "episode_date": "2026-05-12",
+      "rank": 8,
+      "quality_score": 0.9366869156739419
+    },
+    {
+      "id": "story/devto_3653659",
+      "type": "story",
+      "label": "Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse",
+      "episode_date": "2026-05-12",
+      "rank": 9,
+      "quality_score": 0.9366530199871033
+    },
+    {
+      "id": "story/devto_3653638",
+      "type": "story",
+      "label": "Amazon Redshift for Data Engineering Columnar Storage, MPP, COPY, Distribution Keys, Spectrum",
+      "episode_date": "2026-05-12",
+      "rank": 10,
+      "quality_score": 0.9366268955717594
+    },
+    {
+      "id": "story/github_release_databricks_databricks-sdk-java_321748990",
+      "type": "story",
+      "label": "Databricks SDK Java v0.108.0 released",
+      "episode_date": "2026-05-13",
+      "rank": 1,
+      "quality_score": 0.7794274034389881
+    },
+    {
+      "id": "story/community_beaf997b496f",
+      "type": "story",
+      "label": "Step-by-Step Building a Vacation Rental Operations App with AppKit",
+      "episode_date": "2026-05-13",
+      "rank": 2,
+      "quality_score": 0.78
+    },
+    {
+      "id": "story/hn_48109962",
+      "type": "story",
+      "label": "Launch HN Voker YC S24 Analytics for AI Agents",
+      "episode_date": "2026-05-13",
+      "rank": 3,
+      "quality_score": 0.7373838204867049
+    },
+    {
+      "id": "story/rss_894bfeda7cfb",
+      "type": "story",
+      "label": "Databricks Lakebase Autoscaling Cost Model Decoded What You Actually Pay and When It s Worth It",
+      "episode_date": "2026-05-13",
+      "rank": 4,
+      "quality_score": 0.6991567357572752
+    },
+    {
+      "id": "story/rss_42ceebdced7b",
+      "type": "story",
+      "label": "Multimodal RAG Needs Real Pixels So I Wired a Webcam Straight Into Delta with Clone-Xs",
+      "episode_date": "2026-05-13",
+      "rank": 5,
+      "quality_score": 0.6929105384879299
+    },
+    {
+      "id": "story/hn_48110593",
+      "type": "story",
+      "label": "Show HN Gigacatalyst Extend your SaaS with an embedded AI builder",
+      "episode_date": "2026-05-13",
+      "rank": 6,
+      "quality_score": 0.6765482265995312
+    },
+    {
+      "id": "story/devto_3660188",
+      "type": "story",
+      "label": "CTE in SQL for Data Engineering Interviews WITH Clauses, Recursive CTEs, and Window SQL Patterns",
+      "episode_date": "2026-05-13",
+      "rank": 7,
+      "quality_score": 0.9370052812400794
+    },
+    {
+      "id": "story/devto_3660432",
+      "type": "story",
+      "label": "Senior SQL Advanced Joins, Window Analytics, Plans, Indexing Production Mindset",
+      "episode_date": "2026-05-13",
+      "rank": 8,
+      "quality_score": 0.8975312403113427
+    },
+    {
+      "id": "story/devto_3658589",
+      "type": "story",
+      "label": "DuckDB, Postgres, and Parquet when one SQL query becomes a workflow",
+      "episode_date": "2026-05-13",
+      "rank": 9,
+      "quality_score": 0.8517294878753308
+    },
+    {
+      "id": "story/rss_25fdf80a5863",
+      "type": "story",
+      "label": "PROTECT-DB Protecting Data using Replicated State Machines Efficient Corruption Detection Recovery",
+      "episode_date": "2026-05-13",
+      "rank": 10,
+      "quality_score": 0.7563339843576389
+    },
+    {
+      "id": "story/community_bfe543167d55",
+      "type": "story",
+      "label": "Community Pulse Your Weekly Roundup! May 04 10, 2026",
+      "episode_date": "2026-05-14",
+      "rank": 2,
+      "quality_score": 0.78
+    },
+    {
+      "id": "story/community_8c0892d83dd1",
+      "type": "story",
+      "label": "Databricks Community Fellows April 2026 Shout Outs!",
+      "episode_date": "2026-05-14",
+      "rank": 3,
+      "quality_score": 0.66
+    },
+    {
+      "id": "story/community_9209ab229d3a",
+      "type": "story",
+      "label": "Data Detective Series Ready to crack a case with data?",
+      "episode_date": "2026-05-14",
+      "rank": 4,
+      "quality_score": 0.6200000000000001
+    },
+    {
+      "id": "story/hn_48124436",
+      "type": "story",
+      "label": "Launch HN Ardent YC P26 Postgres sandboxes in seconds with zero migration",
+      "episode_date": "2026-05-14",
+      "rank": 5,
+      "quality_score": 0.7299569161271414
+    },
+    {
+      "id": "story/rss_148739e37d06",
+      "type": "story",
+      "label": "Monitoring Databricks Pipelines From Blind Spots to Full Visibility",
+      "episode_date": "2026-05-14",
+      "rank": 6,
+      "quality_score": 0.7261477471177249
+    },
+    {
+      "id": "story/rss_b632db648571",
+      "type": "story",
+      "label": "Zero-Latency BI Embedding Qwen-3 and Phi-4 On-Device LLMs into Power BI and Qlik Cloud",
+      "episode_date": "2026-05-14",
+      "rank": 7,
+      "quality_score": 0.6993382236450066
+    },
+    {
+      "id": "story/hn_48121671",
+      "type": "story",
+      "label": "Show HN Headless Cloud Security Headless SaaS has come to security",
+      "episode_date": "2026-05-14",
+      "rank": 8,
+      "quality_score": 0.6160348171289557
+    },
+    {
+      "id": "story/rss_8d36f7f39659",
+      "type": "story",
+      "label": "OxyEcomBench Benchmarking Multimodal Foundation Models across E-Commerce Ecosystems",
+      "episode_date": "2026-05-14",
+      "rank": 9,
+      "quality_score": 0.7163322711274802
     },
     {
       "id": "story/github_release_mlflow_mlflow_323002932",
@@ -2736,6 +3263,758 @@
       "episode_date": "2026-05-15",
       "rank": 10,
       "quality_score": 0.7563227901493056
+    },
+    {
+      "id": "story/community_f3a0c04a8123",
+      "type": "story",
+      "label": "Processing Unstructured Data in Volumes with Unity Catalog Open APIs",
+      "episode_date": "2026-05-16",
+      "rank": 1,
+      "quality_score": 0.78
+    },
+    {
+      "id": "story/community_f57a60b542be",
+      "type": "story",
+      "label": "Learning Series Machine Learning Model Deployment",
+      "episode_date": "2026-05-16",
+      "rank": 3,
+      "quality_score": 0.6799999999999999
+    },
+    {
+      "id": "story/rss_bc43fdd4bc70",
+      "type": "story",
+      "label": "Snowflake and Databricks Swallow Niche SaaS Tools Forcing Data Stack Overhaul",
+      "episode_date": "2026-05-16",
+      "rank": 4,
+      "quality_score": 0.7390425105565477
+    },
+    {
+      "id": "story/rss_5fc4d7f0cb82",
+      "type": "story",
+      "label": "What Happens If Two Jobs Run a Delta MERGE on the Same Partition? Concurrency Deep Dive",
+      "episode_date": "2026-05-16",
+      "rank": 5,
+      "quality_score": 0.6980473055039683
+    },
+    {
+      "id": "story/devto_3678452",
+      "type": "story",
+      "label": "The Context Layer Why Enterprise AI Agents Fail Without It and What It Actually Takes to Fix That",
+      "episode_date": "2026-05-16",
+      "rank": 6,
+      "quality_score": 0.8886354342781085
+    },
+    {
+      "id": "story/devto_3678073",
+      "type": "story",
+      "label": "Building a Letterboxd Film Review data pipeline from raw scrape to first insight",
+      "episode_date": "2026-05-16",
+      "rank": 7,
+      "quality_score": 0.8477817632385913
+    },
+    {
+      "id": "story/devto_3682496",
+      "type": "story",
+      "label": "Tiger Analytics Data Engineering Interview Questions Full Prep Guide",
+      "episode_date": "2026-05-16",
+      "rank": 8,
+      "quality_score": 0.7799196603859128
+    },
+    {
+      "id": "story/rss_d95125dac3d5",
+      "type": "story",
+      "label": "Fast Gossip-based Rumor Spreading using Small Messages",
+      "episode_date": "2026-05-16",
+      "rank": 9,
+      "quality_score": 0.7163330196709656
+    },
+    {
+      "id": "story/github_release_delta-io_delta-rs_323759919",
+      "type": "story",
+      "label": "Delta Lake Rust Python rust-v0.32.2 released",
+      "episode_date": "2026-05-17",
+      "rank": 1,
+      "quality_score": 0.771389143611442
+    },
+    {
+      "id": "story/community_9440698eec23",
+      "type": "story",
+      "label": "Databricks Learning Festival Instructor-Led APAC EMEA",
+      "episode_date": "2026-05-17",
+      "rank": 3,
+      "quality_score": 0.6200000000000001
+    },
+    {
+      "id": "story/community_b5cc02e492bb",
+      "type": "story",
+      "label": "Finally! A simple way to validate whether your Materialized View can actually refresh incrementally",
+      "episode_date": "2026-05-17",
+      "rank": 4,
+      "quality_score": 0.6200000000000001
+    },
+    {
+      "id": "story/hn_48166275",
+      "type": "story",
+      "label": "Show HN Codiff, a local diff review tool",
+      "episode_date": "2026-05-17",
+      "rank": 5,
+      "quality_score": 0.5661856870523162
+    },
+    {
+      "id": "story/rss_f2ff9ec9680a",
+      "type": "story",
+      "label": "Lower cost and latency for AI using Snowflake Postgres as a Semantic Cache",
+      "episode_date": "2026-05-17",
+      "rank": 6,
+      "quality_score": 0.8197914253420966
+    },
+    {
+      "id": "story/rss_43975fa72420",
+      "type": "story",
+      "label": "Part 4 Demystifying Data Jargons Datalake, Warehouse, and Delta Lake Explained",
+      "episode_date": "2026-05-17",
+      "rank": 7,
+      "quality_score": 0.6975043882700066
+    },
+    {
+      "id": "story/rss_c43391016bb3",
+      "type": "story",
+      "label": "Apache Iceberg on Hadoop Why It Matters for Real-Time Analytics and Edge AI",
+      "episode_date": "2026-05-17",
+      "rank": 8,
+      "quality_score": 0.6968507837465279
+    },
+    {
+      "id": "story/devto_3684030",
+      "type": "story",
+      "label": "Cosa sono i modelli di apprendimento automatico? Tipi - Databricks",
+      "episode_date": "2026-05-17",
+      "rank": 9,
+      "quality_score": 0.7689665243040675
+    },
+    {
+      "id": "story/pypi_databricks-sdk_0.109.0",
+      "type": "story",
+      "label": "Databricks SDK 0.109.0 released on PyPI",
+      "episode_date": "2026-05-18",
+      "rank": 1,
+      "quality_score": 0.5194887140292659
+    },
+    {
+      "id": "story/hn_48169874",
+      "type": "story",
+      "label": "Show HN Semble Code search for agents that uses 98 fewer tokens than grep",
+      "episode_date": "2026-05-18",
+      "rank": 3,
+      "quality_score": 0.761431647960507
+    },
+    {
+      "id": "story/rss_da0f203faaff",
+      "type": "story",
+      "label": "Building RAG Pipeline using Delta Lake on Databricks",
+      "episode_date": "2026-05-18",
+      "rank": 4,
+      "quality_score": 0.819009172047619
+    },
+    {
+      "id": "story/rss_6502084858da",
+      "type": "story",
+      "label": "Adding ai_extract to the mix building a unified RAG pipeline with three Databricks SQL AI",
+      "episode_date": "2026-05-18",
+      "rank": 5,
+      "quality_score": 0.735563570041336
+    },
+    {
+      "id": "story/devto_3691992",
+      "type": "story",
+      "label": "Apache Fluss Architecting the Streaming-First Persistent Data Stack",
+      "episode_date": "2026-05-18",
+      "rank": 6,
+      "quality_score": 0.9390438948159724
+    },
+    {
+      "id": "story/devto_3690500",
+      "type": "story",
+      "label": "Stop Naming Your Healthcare Columns Wrong ISO-11179 Explained",
+      "episode_date": "2026-05-18",
+      "rank": 7,
+      "quality_score": 0.9358843378305226
+    },
+    {
+      "id": "story/devto_3689046",
+      "type": "story",
+      "label": "Building a Real-Time Weather Streaming Pipeline with Kafka, Docker Python",
+      "episode_date": "2026-05-18",
+      "rank": 8,
+      "quality_score": 0.9303815267655424
+    },
+    {
+      "id": "story/devto_3688401",
+      "type": "story",
+      "label": "The Missing Organizing Principle of Microsoft Fabric Medallion Architecture Explained gem",
+      "episode_date": "2026-05-18",
+      "rank": 9,
+      "quality_score": 0.9284260041889882
+    },
+    {
+      "id": "story/rss_f629aba6cef3",
+      "type": "story",
+      "label": "To GPU or Not to GPU Vector Search in Relational Engines",
+      "episode_date": "2026-05-18",
+      "rank": 10,
+      "quality_score": 0.7963269629113756
+    },
+    {
+      "id": "story/github_release_databricks_databricks-sdk-java_324876054",
+      "type": "story",
+      "label": "Databricks SDK Java v0.110.0 released",
+      "episode_date": "2026-05-19",
+      "rank": 1,
+      "quality_score": 0.6395199487460317
+    },
+    {
+      "id": "story/community_229420593163",
+      "type": "story",
+      "label": "CUSTOMER STORY NAB s Journey to 100 Declarative Pipelines",
+      "episode_date": "2026-05-19",
+      "rank": 3,
+      "quality_score": 0.74
+    },
+    {
+      "id": "story/community_c4c370991024",
+      "type": "story",
+      "label": "From Fragmented Schedulers to Unified Orchestration A Lakehouse Evolution",
+      "episode_date": "2026-05-19",
+      "rank": 4,
+      "quality_score": 0.74
+    },
+    {
+      "id": "story/hn_48181342",
+      "type": "story",
+      "label": "Show HN InsForge Open-source Heroku for coding agents",
+      "episode_date": "2026-05-19",
+      "rank": 5,
+      "quality_score": 0.7397388804591813
+    },
+    {
+      "id": "story/rss_afac860a0799",
+      "type": "story",
+      "label": "Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks",
+      "episode_date": "2026-05-19",
+      "rank": 6,
+      "quality_score": 0.7772218341104499
+    },
+    {
+      "id": "story/rss_7cae7ccc00b0",
+      "type": "story",
+      "label": "Running 100 Billion Rows on Databricks Serverless Photon Without Managing Infrastructure",
+      "episode_date": "2026-05-19",
+      "rank": 7,
+      "quality_score": 0.7667676340714287
+    },
+    {
+      "id": "story/devto_3692577",
+      "type": "story",
+      "label": "BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill",
+      "episode_date": "2026-05-19",
+      "rank": 8,
+      "quality_score": 0.8856879389267527
+    },
+    {
+      "id": "story/devto_3693742",
+      "type": "story",
+      "label": "Load PostgreSQL into Apache Iceberg with Sling",
+      "episode_date": "2026-05-19",
+      "rank": 9,
+      "quality_score": 0.8277104254584987
+    },
+    {
+      "id": "story/devto_3694056",
+      "type": "story",
+      "label": "Integrating OIC with Databricks using AWS S3 External Tables Approach",
+      "episode_date": "2026-05-19",
+      "rank": 10,
+      "quality_score": 0.8080497112936509
+    },
+    {
+      "id": "story/github_release_delta-io_delta-rs_325002394",
+      "type": "story",
+      "label": "Delta Lake Rust Python python-v1.6.0 released",
+      "episode_date": "2026-05-20",
+      "rank": 1,
+      "quality_score": 0.7673629246154101
+    },
+    {
+      "id": "story/community_75c6fa5c47c2",
+      "type": "story",
+      "label": "From Associate to Professional My Learning Plan to ace all Databricks Data Engineer Certifications",
+      "episode_date": "2026-05-20",
+      "rank": 3,
+      "quality_score": 0.78
+    },
+    {
+      "id": "story/hn_48192383",
+      "type": "story",
+      "label": "Show HN Forge Guardrails take an 8B model from 53 to 99 on agentic tasks",
+      "episode_date": "2026-05-20",
+      "rank": 4,
+      "quality_score": 0.8918666132249977
+    },
+    {
+      "id": "story/rss_53524f4ff8f9",
+      "type": "story",
+      "label": "Migrating a Legacy Databricks Platform to Unity Catalog A Complete Engineering Playbook",
+      "episode_date": "2026-05-20",
+      "rank": 5,
+      "quality_score": 0.7390276075877976
+    },
+    {
+      "id": "story/hn_48195021",
+      "type": "story",
+      "label": "Show HN Superlog YC P26 Observability that installs itself and fixes bugs",
+      "episode_date": "2026-05-20",
+      "rank": 6,
+      "quality_score": 0.7305956821810583
+    },
+    {
+      "id": "story/hn_48192607",
+      "type": "story",
+      "label": "Show HN How to analyze your LLM output A behavioural health monitor for LLMs",
+      "episode_date": "2026-05-20",
+      "rank": 7,
+      "quality_score": 0.7209383750127882
+    },
+    {
+      "id": "story/devto_3701496",
+      "type": "story",
+      "label": "A data platform tracking news and social media across 167 cities in Rio Grande do Norte for under R 5 month.",
+      "episode_date": "2026-05-20",
+      "rank": 8,
+      "quality_score": 0.927963619527778
+    },
+    {
+      "id": "story/devto_3700795",
+      "type": "story",
+      "label": "Why Real-Time Analytics Eventually Changes Your Database Architecture",
+      "episode_date": "2026-05-20",
+      "rank": 9,
+      "quality_score": 0.8095300881661707
+    },
+    {
+      "id": "story/devto_3700603",
+      "type": "story",
+      "label": "Before You Put a Fabric AI Agent in Production, Steal This Checklist",
+      "episode_date": "2026-05-20",
+      "rank": 10,
+      "quality_score": 0.8068837586370702
+    },
+    {
+      "id": "story/github_release_databricks_cli_326685849",
+      "type": "story",
+      "label": "Databricks CLI v1.0.0 released",
+      "episode_date": "2026-05-21",
+      "rank": 1,
+      "quality_score": 0.8588674045831681
+    },
+    {
+      "id": "story/hn_48216786",
+      "type": "story",
+      "label": "Show HN CipherStash Stack Data Level Access Control in TS JS",
+      "episode_date": "2026-05-21",
+      "rank": 4,
+      "quality_score": 0.6178485838076709
+    },
+    {
+      "id": "story/rss_b55e8dfffdae",
+      "type": "story",
+      "label": "Stop Building Messy Pipelines The Medallion Architecture Explained",
+      "episode_date": "2026-05-21",
+      "rank": 5,
+      "quality_score": 0.8179985226704696
+    },
+    {
+      "id": "story/rss_84e961fa19c1",
+      "type": "story",
+      "label": "Optimizing AI Agent Planning with Operations Research and Data Science",
+      "episode_date": "2026-05-21",
+      "rank": 6,
+      "quality_score": 0.7500496137003969
+    },
+    {
+      "id": "story/rss_483a9882c466",
+      "type": "story",
+      "label": "Azure Databricks Unity Catalog Setup with ADLS Gen2 Step by Step Guide",
+      "episode_date": "2026-05-21",
+      "rank": 7,
+      "quality_score": 0.7369226297741402
+    },
+    {
+      "id": "story/devto_3715646",
+      "type": "story",
+      "label": "The Dark Side of Stripe Why Traditional Payments Platforms Fail in Every Country",
+      "episode_date": "2026-05-21",
+      "rank": 8,
+      "quality_score": 0.7792366184528771
+    },
+    {
+      "id": "story/devto_3715511",
+      "type": "story",
+      "label": "Why Stripe Didnt Cut It for Creators in Pakistan and How We Built a Parallel Pipeline for 0.05 Per Transaction",
+      "episode_date": "2026-05-21",
+      "rank": 9,
+      "quality_score": 0.7790762350788691
+    },
+    {
+      "id": "story/devto_3713487",
+      "type": "story",
+      "label": "The Ghost Protocol Stack How We Rebuilt Payments When Every Vendor Cut Us Off",
+      "episode_date": "2026-05-21",
+      "rank": 10,
+      "quality_score": 0.7766946212073413
+    },
+    {
+      "id": "story/pypi_mlflow_3.13.0rc0",
+      "type": "story",
+      "label": "MLflow 3.13.0rc0 released on PyPI",
+      "episode_date": "2026-05-22",
+      "rank": 1,
+      "quality_score": 0.615858655256283
+    },
+    {
+      "id": "story/community_6f8bd4e82763",
+      "type": "story",
+      "label": "Community Pulse Your Weekly Roundup! May 11 17, 2026",
+      "episode_date": "2026-05-22",
+      "rank": 3,
+      "quality_score": 0.78
+    },
+    {
+      "id": "story/community_99392e119e6b",
+      "type": "story",
+      "label": "Letting Coding Agents Move Fast Without Breaking Everything",
+      "episode_date": "2026-05-22",
+      "rank": 4,
+      "quality_score": 0.74
+    },
+    {
+      "id": "story/hn_48226634",
+      "type": "story",
+      "label": "Google offers free full-stack app creation and publishing",
+      "episode_date": "2026-05-22",
+      "rank": 5,
+      "quality_score": 0.6525772496747987
+    },
+    {
+      "id": "story/rss_ff0538145fb1",
+      "type": "story",
+      "label": "Building a Multi-Tiered Real-Time Delta Lakehouse Pipeline",
+      "episode_date": "2026-05-22",
+      "rank": 6,
+      "quality_score": 0.7286690607776125
+    },
+    {
+      "id": "story/devto_3718371",
+      "type": "story",
+      "label": "What Are Lakehouse Catalogs? The Role of Catalogs in Apache Iceberg",
+      "episode_date": "2026-05-22",
+      "rank": 7,
+      "quality_score": 0.8882563628614418
+    },
+    {
+      "id": "story/devto_3718194",
+      "type": "story",
+      "label": "Writing to an Apache Iceberg Table How Commits and ACID Actually Work",
+      "episode_date": "2026-05-22",
+      "rank": 8,
+      "quality_score": 0.887962215921627
+    },
+    {
+      "id": "story/devto_3723989",
+      "type": "story",
+      "label": "Treasure Hunt Engine Was a Disaster Waiting to Happen A Tale of Unchecked Growth and Overlooked Trade-Offs",
+      "episode_date": "2026-05-22",
+      "rank": 9,
+      "quality_score": 0.8193977321327712
+    },
+    {
+      "id": "story/rss_25576b9bedc7",
+      "type": "story",
+      "label": "GS-QA A Benchmark for Geospatial Question Answering",
+      "episode_date": "2026-05-22",
+      "rank": 10,
+      "quality_score": 0.8363410185909391
+    },
+    {
+      "id": "story/community_1f488e412922",
+      "type": "story",
+      "label": "Do You Still Need a Separate Cloud Data Warehouse? Building an Open Lakehouse for High Performance",
+      "episode_date": "2026-05-23",
+      "rank": 1,
+      "quality_score": 0.78
+    },
+    {
+      "id": "story/community_147c6901dc38",
+      "type": "story",
+      "label": "PARTNER BLOG 847 Models, 12 Weeks, 77 Less Inside R1's Snowflake-to-Databricks Migration",
+      "episode_date": "2026-05-23",
+      "rank": 2,
+      "quality_score": 0.78
+    },
+    {
+      "id": "story/rss_0498cef7fb83",
+      "type": "story",
+      "label": "Designing a Modern Enterprise Lakehouse with Databricks, DABs, and Medallion Architecture",
+      "episode_date": "2026-05-23",
+      "rank": 4,
+      "quality_score": 0.8117410937316468
+    },
+    {
+      "id": "story/rss_b3a938c4e684",
+      "type": "story",
+      "label": "Understanding Databricks Honest Comparison with Snowflake and BigQuery",
+      "episode_date": "2026-05-23",
+      "rank": 5,
+      "quality_score": 0.7376399033468916
+    },
+    {
+      "id": "story/rss_7b78d13e9c0d",
+      "type": "story",
+      "label": "Accelerating LLM Inference with Prompt Caching for Open Source Models on Databricks",
+      "episode_date": "2026-05-23",
+      "rank": 6,
+      "quality_score": 0.7115729389465939
+    },
+    {
+      "id": "story/devto_3727315",
+      "type": "story",
+      "label": "Hands-On with Apache Iceberg Using Dremio Cloud",
+      "episode_date": "2026-05-23",
+      "rank": 7,
+      "quality_score": 0.8299808431395502
+    },
+    {
+      "id": "story/devto_3726607",
+      "type": "story",
+      "label": "How Data Lake Table Storage Degrades Over Time",
+      "episode_date": "2026-05-23",
+      "rank": 8,
+      "quality_score": 0.7887148042362765
+    },
+    {
+      "id": "story/devto_3731591",
+      "type": "story",
+      "label": "Why I Spent 6 Months Rebuilding Our Event Pipeline to Fix a 400ms Query Latency Problem",
+      "episode_date": "2026-05-23",
+      "rank": 9,
+      "quality_score": 0.7795689710152117
+    },
+    {
+      "id": "story/community_roundup_15_community_0fd805d2f795",
+      "type": "story",
+      "label": "Databricks Community Roundup \u2014 15 new posts",
+      "episode_date": "2026-05-24",
+      "rank": 1,
+      "quality_score": 0.8
+    },
+    {
+      "id": "story/hn_48248801",
+      "type": "story",
+      "label": "Show HN I built a RAG and knowledge graph agent that runs locally",
+      "episode_date": "2026-05-24",
+      "rank": 2,
+      "quality_score": 0.7626802492411968
+    },
+    {
+      "id": "story/rss_9557abc36671",
+      "type": "story",
+      "label": "8 Must-Know Updates in Data Engineering Iceberg 1.11, Postgres Storage, and AI Tooling",
+      "episode_date": "2026-05-24",
+      "rank": 3,
+      "quality_score": 0.8178142313440807
+    },
+    {
+      "id": "story/rss_f863854b0603",
+      "type": "story",
+      "label": "Database and Data Engineering Pipeline Monitoring Dashboard Reduce Cost by 20 25 and Save 60 120",
+      "episode_date": "2026-05-24",
+      "rank": 4,
+      "quality_score": 0.7789909840833334
+    },
+    {
+      "id": "story/rss_75aac82da104",
+      "type": "story",
+      "label": "Databricks Runtime 18 and Databricks Runtime 18 for Machine Learning are in Beta",
+      "episode_date": "2026-05-24",
+      "rank": 5,
+      "quality_score": 0.7656593039520503
+    },
+    {
+      "id": "story/community_roundup_3_community_0fd805d2f795",
+      "type": "story",
+      "label": "Databricks Community Roundup \u2014 3 new posts",
+      "episode_date": "2026-05-25",
+      "rank": 1,
+      "quality_score": 0.8
+    },
+    {
+      "id": "story/trending_repos_roundup_5_github_trending_doorman1",
+      "type": "story",
+      "label": "Weekly Trending Repos Roundup \u2014 5 new from the past 7 days",
+      "episode_date": "2026-05-25",
+      "rank": 2,
+      "quality_score": 0.6200000000000001
+    },
+    {
+      "id": "story/rss_c138f2ead9ed",
+      "type": "story",
+      "label": "Tinkering with Databricks Wrapping Agent over FDA Drug Label Data in MLflow",
+      "episode_date": "2026-05-25",
+      "rank": 3,
+      "quality_score": 0.7376982333688823
+    },
+    {
+      "id": "story/rss_806ae11f47f0",
+      "type": "story",
+      "label": "Voice Driven RAG with India s Sovereign AI Platform, SARVAM",
+      "episode_date": "2026-05-25",
+      "rank": 4,
+      "quality_score": 0.7369636103258929
+    },
+    {
+      "id": "story/devto_3739765",
+      "type": "story",
+      "label": "Databricks and FSx for ONTAP S3 Access Points A Layer-by-Layer Validation of Observed Boundaries",
+      "episode_date": "2026-05-25",
+      "rank": 5,
+      "quality_score": 0.8863885442546297
+    },
+    {
+      "id": "story/rss_388e4f889bbf",
+      "type": "story",
+      "label": "Conceptual Schema Inference for Tabular Datasets using Large Language Models",
+      "episode_date": "2026-05-25",
+      "rank": 6,
+      "quality_score": 0.7963326578308532
+    },
+    {
+      "id": "story/community_roundup_7_community_0fd805d2f795",
+      "type": "story",
+      "label": "Databricks Community Roundup \u2014 7 new posts",
+      "episode_date": "2026-05-26",
+      "rank": 1,
+      "quality_score": 0.8
+    },
+    {
+      "id": "story/hn_48271934",
+      "type": "story",
+      "label": "Sqlit A lazygit-style TUI for SQL databases",
+      "episode_date": "2026-05-26",
+      "rank": 2,
+      "quality_score": 0.6813818126275827
+    },
+    {
+      "id": "story/rss_875c6a51fa6e",
+      "type": "story",
+      "label": "Why Lakehouse Architecture Feels Like the Future of Data Engineering",
+      "episode_date": "2026-05-26",
+      "rank": 3,
+      "quality_score": 0.7351481769699074
+    },
+    {
+      "id": "story/rss_c92678477d13",
+      "type": "story",
+      "label": "Integrating AWS S3 with Snowflake A Practical Guide",
+      "episode_date": "2026-05-26",
+      "rank": 4,
+      "quality_score": 0.6979681176347553
+    },
+    {
+      "id": "story/devto_3755576",
+      "type": "story",
+      "label": "AWS Data Engineering Glue, EMR, Athena, Kinesis End-to-End Guide",
+      "episode_date": "2026-05-26",
+      "rank": 5,
+      "quality_score": 0.9394307499909061
+    },
+    {
+      "id": "story/devto_3755528",
+      "type": "story",
+      "label": "Azure Data Engineering Synapse, ADF, Databricks Full Guide",
+      "episode_date": "2026-05-26",
+      "rank": 6,
+      "quality_score": 0.9393386535016536
+    },
+    {
+      "id": "story/devto_3752844",
+      "type": "story",
+      "label": "Fabric AI Functions Turn GenAI Into a Data Pipeline Step",
+      "episode_date": "2026-05-26",
+      "rank": 7,
+      "quality_score": 0.9342867357189154
+    },
+    {
+      "id": "story/rss_0cffb47adba0",
+      "type": "story",
+      "label": "The Time is Here for Just-in-Time Systems Challenges and Opportunities",
+      "episode_date": "2026-05-26",
+      "rank": 8,
+      "quality_score": 0.7563383225540675
+    },
+    {
+      "id": "story/community_roundup_8_community_0fd805d2f795",
+      "type": "story",
+      "label": "Databricks Community Roundup \u2014 8 new posts",
+      "episode_date": "2026-05-27",
+      "rank": 1,
+      "quality_score": 0.8
+    },
+    {
+      "id": "story/rss_1a57d6d9dc66",
+      "type": "story",
+      "label": "Databricks SQL version 2026.15 is now available in Preview",
+      "episode_date": "2026-05-27",
+      "rank": 2,
+      "quality_score": 0.9456581935806878
+    },
+    {
+      "id": "story/rss_d6408733a240",
+      "type": "story",
+      "label": "Automatic identity management with Microsoft Entra ID is now GA",
+      "episode_date": "2026-05-27",
+      "rank": 3,
+      "quality_score": 0.8256581935529101
+    },
+    {
+      "id": "story/rss_9e1187c61728",
+      "type": "story",
+      "label": "Lakeflow Spark Declarative Pipelines parameters are now in Beta",
+      "episode_date": "2026-05-27",
+      "rank": 4,
+      "quality_score": 0.8056581935391867
+    },
+    {
+      "id": "story/devto_3762603",
+      "type": "story",
+      "label": "How Polymarket Scaled Their Data Stack with Postgres ClickHouse",
+      "episode_date": "2026-05-27",
+      "rank": 5,
+      "quality_score": 0.9389432471861774
+    },
+    {
+      "id": "story/devto_3759693",
+      "type": "story",
+      "label": "Copy Job CDC with SQL estate is now GA in Microsoft Fabric",
+      "episode_date": "2026-05-27",
+      "rank": 6,
+      "quality_score": 0.933371322471561
+    },
+    {
+      "id": "story/devto_3756490",
+      "type": "story",
+      "label": "Adeloop Turning Semantic Data Models Into APIs for AI Agents",
+      "episode_date": "2026-05-27",
+      "rank": 7,
+      "quality_score": 0.9263418917518189
     },
     {
       "id": "story/community_roundup_6_community_0fd805d2f795",
@@ -2858,942 +4137,6 @@
       "quality_score": 0.8191065234074074
     },
     {
-      "id": "story/github_release_databricks_databricks-sdk-java_321748990",
-      "type": "story",
-      "label": "Databricks SDK Java v0.108.0 released",
-      "episode_date": "2026-05-13",
-      "rank": 1,
-      "quality_score": 0.7794274034389881
-    },
-    {
-      "id": "story/community_beaf997b496f",
-      "type": "story",
-      "label": "Step-by-Step Building a Vacation Rental Operations App with AppKit",
-      "episode_date": "2026-05-13",
-      "rank": 2,
-      "quality_score": 0.78
-    },
-    {
-      "id": "story/hn_48109962",
-      "type": "story",
-      "label": "Launch HN Voker YC S24 Analytics for AI Agents",
-      "episode_date": "2026-05-13",
-      "rank": 3,
-      "quality_score": 0.7373838204867049
-    },
-    {
-      "id": "story/rss_894bfeda7cfb",
-      "type": "story",
-      "label": "Databricks Lakebase Autoscaling Cost Model Decoded What You Actually Pay and When It s Worth It",
-      "episode_date": "2026-05-13",
-      "rank": 4,
-      "quality_score": 0.6991567357572752
-    },
-    {
-      "id": "story/rss_42ceebdced7b",
-      "type": "story",
-      "label": "Multimodal RAG Needs Real Pixels So I Wired a Webcam Straight Into Delta with Clone-Xs",
-      "episode_date": "2026-05-13",
-      "rank": 5,
-      "quality_score": 0.6929105384879299
-    },
-    {
-      "id": "story/hn_48110593",
-      "type": "story",
-      "label": "Show HN Gigacatalyst Extend your SaaS with an embedded AI builder",
-      "episode_date": "2026-05-13",
-      "rank": 6,
-      "quality_score": 0.6765482265995312
-    },
-    {
-      "id": "story/devto_3660188",
-      "type": "story",
-      "label": "CTE in SQL for Data Engineering Interviews WITH Clauses, Recursive CTEs, and Window SQL Patterns",
-      "episode_date": "2026-05-13",
-      "rank": 7,
-      "quality_score": 0.9370052812400794
-    },
-    {
-      "id": "story/devto_3660432",
-      "type": "story",
-      "label": "Senior SQL Advanced Joins, Window Analytics, Plans, Indexing Production Mindset",
-      "episode_date": "2026-05-13",
-      "rank": 8,
-      "quality_score": 0.8975312403113427
-    },
-    {
-      "id": "story/devto_3658589",
-      "type": "story",
-      "label": "DuckDB, Postgres, and Parquet when one SQL query becomes a workflow",
-      "episode_date": "2026-05-13",
-      "rank": 9,
-      "quality_score": 0.8517294878753308
-    },
-    {
-      "id": "story/rss_25fdf80a5863",
-      "type": "story",
-      "label": "PROTECT-DB Protecting Data using Replicated State Machines Efficient Corruption Detection Recovery",
-      "episode_date": "2026-05-13",
-      "rank": 10,
-      "quality_score": 0.7563339843576389
-    },
-    {
-      "id": "story/community_roundup_7_community_0fd805d2f795",
-      "type": "story",
-      "label": "Databricks Community Roundup \u2014 7 new posts",
-      "episode_date": "2026-05-26",
-      "rank": 1,
-      "quality_score": 0.8
-    },
-    {
-      "id": "story/hn_48271934",
-      "type": "story",
-      "label": "Sqlit A lazygit-style TUI for SQL databases",
-      "episode_date": "2026-05-26",
-      "rank": 2,
-      "quality_score": 0.6813818126275827
-    },
-    {
-      "id": "story/rss_875c6a51fa6e",
-      "type": "story",
-      "label": "Why Lakehouse Architecture Feels Like the Future of Data Engineering",
-      "episode_date": "2026-05-26",
-      "rank": 3,
-      "quality_score": 0.7351481769699074
-    },
-    {
-      "id": "story/rss_c92678477d13",
-      "type": "story",
-      "label": "Integrating AWS S3 with Snowflake A Practical Guide",
-      "episode_date": "2026-05-26",
-      "rank": 4,
-      "quality_score": 0.6979681176347553
-    },
-    {
-      "id": "story/devto_3755576",
-      "type": "story",
-      "label": "AWS Data Engineering Glue, EMR, Athena, Kinesis End-to-End Guide",
-      "episode_date": "2026-05-26",
-      "rank": 5,
-      "quality_score": 0.9394307499909061
-    },
-    {
-      "id": "story/devto_3755528",
-      "type": "story",
-      "label": "Azure Data Engineering Synapse, ADF, Databricks Full Guide",
-      "episode_date": "2026-05-26",
-      "rank": 6,
-      "quality_score": 0.9393386535016536
-    },
-    {
-      "id": "story/devto_3752844",
-      "type": "story",
-      "label": "Fabric AI Functions Turn GenAI Into a Data Pipeline Step",
-      "episode_date": "2026-05-26",
-      "rank": 7,
-      "quality_score": 0.9342867357189154
-    },
-    {
-      "id": "story/rss_0cffb47adba0",
-      "type": "story",
-      "label": "The Time is Here for Just-in-Time Systems Challenges and Opportunities",
-      "episode_date": "2026-05-26",
-      "rank": 8,
-      "quality_score": 0.7563383225540675
-    },
-    {
-      "id": "story/github_release_databricks_databricks-sdk-java_315827389",
-      "type": "story",
-      "label": "Databricks SDK Java v0.106.0 released",
-      "episode_date": "2026-05-01",
-      "rank": 1,
-      "quality_score": 0.8080947473703703
-    },
-    {
-      "id": "story/github_release_databricks_terraform-provider-databricks_315983586",
-      "type": "story",
-      "label": "Databricks Terraform Provider v1.114.2 released",
-      "episode_date": "2026-05-01",
-      "rank": 2,
-      "quality_score": 0.7106838678063823
-    },
-    {
-      "id": "story/community_ada20871ca83",
-      "type": "story",
-      "label": "Learning Series Data Preparation for Machine Learning",
-      "episode_date": "2026-05-01",
-      "rank": 3,
-      "quality_score": 0.74
-    },
-    {
-      "id": "story/community_f42c62b24524",
-      "type": "story",
-      "label": "Community Alert Free BrickTalk on Supply Chain Management with Databricks!",
-      "episode_date": "2026-05-01",
-      "rank": 4,
-      "quality_score": 0.66
-    },
-    {
-      "id": "story/rss_0c21cb620a36",
-      "type": "story",
-      "label": "Your Data Products Need a Product Manager. Here Is What That Actually Means",
-      "episode_date": "2026-05-01",
-      "rank": 5,
-      "quality_score": 0.7369022874614749
-    },
-    {
-      "id": "story/rss_f0439d556303",
-      "type": "story",
-      "label": "From Informatica to Databricks Why Enterprises Are Finally Breaking Up with Legacy ETL",
-      "episode_date": "2026-05-01",
-      "rank": 6,
-      "quality_score": 0.7350977238139881
-    },
-    {
-      "id": "story/devto_3592586",
-      "type": "story",
-      "label": "The Metadata Structure of Modern Table Formats",
-      "episode_date": "2026-05-01",
-      "rank": 7,
-      "quality_score": 0.8290537429543651
-    },
-    {
-      "id": "story/devto_3594645",
-      "type": "story",
-      "label": "Install and Optimize ClickHouse on Ubuntu 26.04 Bare Metal",
-      "episode_date": "2026-05-01",
-      "rank": 8,
-      "quality_score": 0.8179616466407077
-    },
-    {
-      "id": "story/devto_3594245",
-      "type": "story",
-      "label": "How to Migrate MySQL to ClickHouse with Zero Downtime",
-      "episode_date": "2026-05-01",
-      "rank": 9,
-      "quality_score": 0.8166717986332673
-    },
-    {
-      "id": "story/rss_6270ed9508d7",
-      "type": "story",
-      "label": "SynSQL Synthesizing Relational Databases for Robust Evaluation of Text-to-SQL Systems",
-      "episode_date": "2026-05-01",
-      "rank": 10,
-      "quality_score": 0.7963290399885913
-    },
-    {
-      "id": "story/pypi_mlflow_2.22.5",
-      "type": "story",
-      "label": "MLflow 2.22.5 released on PyPI",
-      "episode_date": "2026-05-12",
-      "rank": 1,
-      "quality_score": 0.6191952416493056
-    },
-    {
-      "id": "story/community_1928ebc1a925",
-      "type": "story",
-      "label": "Agentic Data Engineering with Genie Code and Lakeflow",
-      "episode_date": "2026-05-12",
-      "rank": 2,
-      "quality_score": 0.78
-    },
-    {
-      "id": "story/community_fbb7823a247b",
-      "type": "story",
-      "label": "Introducing 5XL SQL Warehouses A Practical Guide to Meeting SLAs for Your Most Demanding Workloads",
-      "episode_date": "2026-05-12",
-      "rank": 3,
-      "quality_score": 0.66
-    },
-    {
-      "id": "story/hn_48100227",
-      "type": "story",
-      "label": "Show HN E2a Open-source email gateway for AI agents",
-      "episode_date": "2026-05-12",
-      "rank": 4,
-      "quality_score": 0.6498452815532613
-    },
-    {
-      "id": "story/rss_0c366ee27309",
-      "type": "story",
-      "label": "Databricks SDP Explained Unified DDL DML in Modern Pipelines",
-      "episode_date": "2026-05-12",
-      "rank": 5,
-      "quality_score": 0.8159152551795635
-    },
-    {
-      "id": "story/rss_051628febc08",
-      "type": "story",
-      "label": "Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP, Apache Iceberg",
-      "episode_date": "2026-05-12",
-      "rank": 6,
-      "quality_score": 0.8098826823293651
-    },
-    {
-      "id": "story/rss_da423ad924d3",
-      "type": "story",
-      "label": "Building Scalable Data Pipelines with Azure Data Factory, Databricks Azure DevOps",
-      "episode_date": "2026-05-12",
-      "rank": 7,
-      "quality_score": 0.7699018622468585
-    },
-    {
-      "id": "story/devto_3653680",
-      "type": "story",
-      "label": "ETL Pipeline for Data Engineering A Beginner's Guide to Extract, Transform, and Load",
-      "episode_date": "2026-05-12",
-      "rank": 8,
-      "quality_score": 0.9366869156739419
-    },
-    {
-      "id": "story/devto_3653659",
-      "type": "story",
-      "label": "Snowflake for Data Engineering Interviews A Beginner's Guide to the Cloud Data Warehouse",
-      "episode_date": "2026-05-12",
-      "rank": 9,
-      "quality_score": 0.9366530199871033
-    },
-    {
-      "id": "story/devto_3653638",
-      "type": "story",
-      "label": "Amazon Redshift for Data Engineering Columnar Storage, MPP, COPY, Distribution Keys, Spectrum",
-      "episode_date": "2026-05-12",
-      "rank": 10,
-      "quality_score": 0.9366268955717594
-    },
-    {
-      "id": "story/github_release_databricks_databricks-sdk-java_324876054",
-      "type": "story",
-      "label": "Databricks SDK Java v0.110.0 released",
-      "episode_date": "2026-05-19",
-      "rank": 1,
-      "quality_score": 0.6395199487460317
-    },
-    {
-      "id": "story/community_229420593163",
-      "type": "story",
-      "label": "CUSTOMER STORY NAB s Journey to 100 Declarative Pipelines",
-      "episode_date": "2026-05-19",
-      "rank": 3,
-      "quality_score": 0.74
-    },
-    {
-      "id": "story/community_c4c370991024",
-      "type": "story",
-      "label": "From Fragmented Schedulers to Unified Orchestration A Lakehouse Evolution",
-      "episode_date": "2026-05-19",
-      "rank": 4,
-      "quality_score": 0.74
-    },
-    {
-      "id": "story/hn_48181342",
-      "type": "story",
-      "label": "Show HN InsForge Open-source Heroku for coding agents",
-      "episode_date": "2026-05-19",
-      "rank": 5,
-      "quality_score": 0.7397388804591813
-    },
-    {
-      "id": "story/rss_afac860a0799",
-      "type": "story",
-      "label": "Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks",
-      "episode_date": "2026-05-19",
-      "rank": 6,
-      "quality_score": 0.7772218341104499
-    },
-    {
-      "id": "story/rss_7cae7ccc00b0",
-      "type": "story",
-      "label": "Running 100 Billion Rows on Databricks Serverless Photon Without Managing Infrastructure",
-      "episode_date": "2026-05-19",
-      "rank": 7,
-      "quality_score": 0.7667676340714287
-    },
-    {
-      "id": "story/devto_3692577",
-      "type": "story",
-      "label": "BigQuery, Snowflake, Redshift, Databricks, Fabric where each one silently inflates your bill",
-      "episode_date": "2026-05-19",
-      "rank": 8,
-      "quality_score": 0.8856879389267527
-    },
-    {
-      "id": "story/devto_3693742",
-      "type": "story",
-      "label": "Load PostgreSQL into Apache Iceberg with Sling",
-      "episode_date": "2026-05-19",
-      "rank": 9,
-      "quality_score": 0.8277104254584987
-    },
-    {
-      "id": "story/devto_3694056",
-      "type": "story",
-      "label": "Integrating OIC with Databricks using AWS S3 External Tables Approach",
-      "episode_date": "2026-05-19",
-      "rank": 10,
-      "quality_score": 0.8080497112936509
-    },
-    {
-      "id": "story/community_roundup_15_community_0fd805d2f795",
-      "type": "story",
-      "label": "Databricks Community Roundup \u2014 15 new posts",
-      "episode_date": "2026-05-24",
-      "rank": 1,
-      "quality_score": 0.8
-    },
-    {
-      "id": "story/hn_48248801",
-      "type": "story",
-      "label": "Show HN I built a RAG and knowledge graph agent that runs locally",
-      "episode_date": "2026-05-24",
-      "rank": 2,
-      "quality_score": 0.7626802492411968
-    },
-    {
-      "id": "story/rss_9557abc36671",
-      "type": "story",
-      "label": "8 Must-Know Updates in Data Engineering Iceberg 1.11, Postgres Storage, and AI Tooling",
-      "episode_date": "2026-05-24",
-      "rank": 3,
-      "quality_score": 0.8178142313440807
-    },
-    {
-      "id": "story/rss_f863854b0603",
-      "type": "story",
-      "label": "Database and Data Engineering Pipeline Monitoring Dashboard Reduce Cost by 20 25 and Save 60 120",
-      "episode_date": "2026-05-24",
-      "rank": 4,
-      "quality_score": 0.7789909840833334
-    },
-    {
-      "id": "story/rss_75aac82da104",
-      "type": "story",
-      "label": "Databricks Runtime 18 and Databricks Runtime 18 for Machine Learning are in Beta",
-      "episode_date": "2026-05-24",
-      "rank": 5,
-      "quality_score": 0.7656593039520503
-    },
-    {
-      "id": "story/pypi_databricks-sdk_0.109.0",
-      "type": "story",
-      "label": "Databricks SDK 0.109.0 released on PyPI",
-      "episode_date": "2026-05-18",
-      "rank": 1,
-      "quality_score": 0.5194887140292659
-    },
-    {
-      "id": "story/hn_48169874",
-      "type": "story",
-      "label": "Show HN Semble Code search for agents that uses 98 fewer tokens than grep",
-      "episode_date": "2026-05-18",
-      "rank": 3,
-      "quality_score": 0.761431647960507
-    },
-    {
-      "id": "story/rss_da0f203faaff",
-      "type": "story",
-      "label": "Building RAG Pipeline using Delta Lake on Databricks",
-      "episode_date": "2026-05-18",
-      "rank": 4,
-      "quality_score": 0.819009172047619
-    },
-    {
-      "id": "story/rss_6502084858da",
-      "type": "story",
-      "label": "Adding ai_extract to the mix building a unified RAG pipeline with three Databricks SQL AI",
-      "episode_date": "2026-05-18",
-      "rank": 5,
-      "quality_score": 0.735563570041336
-    },
-    {
-      "id": "story/devto_3691992",
-      "type": "story",
-      "label": "Apache Fluss Architecting the Streaming-First Persistent Data Stack",
-      "episode_date": "2026-05-18",
-      "rank": 6,
-      "quality_score": 0.9390438948159724
-    },
-    {
-      "id": "story/devto_3690500",
-      "type": "story",
-      "label": "Stop Naming Your Healthcare Columns Wrong ISO-11179 Explained",
-      "episode_date": "2026-05-18",
-      "rank": 7,
-      "quality_score": 0.9358843378305226
-    },
-    {
-      "id": "story/devto_3689046",
-      "type": "story",
-      "label": "Building a Real-Time Weather Streaming Pipeline with Kafka, Docker Python",
-      "episode_date": "2026-05-18",
-      "rank": 8,
-      "quality_score": 0.9303815267655424
-    },
-    {
-      "id": "story/devto_3688401",
-      "type": "story",
-      "label": "The Missing Organizing Principle of Microsoft Fabric Medallion Architecture Explained gem",
-      "episode_date": "2026-05-18",
-      "rank": 9,
-      "quality_score": 0.9284260041889882
-    },
-    {
-      "id": "story/rss_f629aba6cef3",
-      "type": "story",
-      "label": "To GPU or Not to GPU Vector Search in Relational Engines",
-      "episode_date": "2026-05-18",
-      "rank": 10,
-      "quality_score": 0.7963269629113756
-    },
-    {
-      "id": "story/community_63f5465f4783",
-      "type": "story",
-      "label": "Learning Series Machine Learning Model Development",
-      "episode_date": "2026-05-11",
-      "rank": 1,
-      "quality_score": 0.6400000000000001
-    },
-    {
-      "id": "story/community_5c2c0914fe5d",
-      "type": "story",
-      "label": "Mastering Delta Lake MERGE Performance Why It Slows Down and How to Fix It",
-      "episode_date": "2026-05-11",
-      "rank": 2,
-      "quality_score": 0.6200000000000001
-    },
-    {
-      "id": "story/community_aac40782ee02",
-      "type": "story",
-      "label": "Share Your Expertise Submit Your Blogs and Videos to the Databricks Community!",
-      "episode_date": "2026-05-11",
-      "rank": 3,
-      "quality_score": 0.6200000000000001
-    },
-    {
-      "id": "story/rss_e9719b137573",
-      "type": "story",
-      "label": "Delta Live Tables DLT Is Powerful. These Are Its Real Constraints.",
-      "episode_date": "2026-05-11",
-      "rank": 4,
-      "quality_score": 0.7756956774300596
-    },
-    {
-      "id": "story/rss_2ed31ead0a0c",
-      "type": "story",
-      "label": "The Sequence Radar 857 Last Week in AI Inside the Machine, Outside the Text Box",
-      "episode_date": "2026-05-11",
-      "rank": 5,
-      "quality_score": 0.7162125423878969
-    },
-    {
-      "id": "story/rss_efa9fd2fb82f",
-      "type": "story",
-      "label": "Databricks Apps Feel More Enterprise-Ready with User Authorization",
-      "episode_date": "2026-05-11",
-      "rank": 6,
-      "quality_score": 0.6921225954021165
-    },
-    {
-      "id": "story/devto_3646620",
-      "type": "story",
-      "label": "Data Lake Architecture for Data Engineering Interviews",
-      "episode_date": "2026-05-11",
-      "rank": 7,
-      "quality_score": 0.9359276554285715
-    },
-    {
-      "id": "story/devto_3528430",
-      "type": "story",
-      "label": "Building Your First Data Warehouse in Databricks End to End",
-      "episode_date": "2026-05-11",
-      "rank": 8,
-      "quality_score": 0.9357221328283731
-    },
-    {
-      "id": "story/devto_3645303",
-      "type": "story",
-      "label": "Why PostgreSQL and ClickHouse Work So Well Together",
-      "episode_date": "2026-05-11",
-      "rank": 9,
-      "quality_score": 0.8995531517719908
-    },
-    {
-      "id": "story/community_536463b40ec3",
-      "type": "story",
-      "label": "Finally! Databricks lets you disable tasks without hacks",
-      "episode_date": "2026-05-04",
-      "rank": 1,
-      "quality_score": 0.66
-    },
-    {
-      "id": "story/hn_47997629",
-      "type": "story",
-      "label": "Show HN Semble Code search for agents that uses 98 fewer tokens than grep",
-      "episode_date": "2026-05-04",
-      "rank": 2,
-      "quality_score": 0.6538560627359832
-    },
-    {
-      "id": "story/rss_d65f25a9fb57",
-      "type": "story",
-      "label": "Connecting to a Storage Account using Databricks Unity Catalog in Azure",
-      "episode_date": "2026-05-04",
-      "rank": 3,
-      "quality_score": 0.7378157813908731
-    },
-    {
-      "id": "story/rss_5ec6c429ea61",
-      "type": "story",
-      "label": "When OT Meets IT What Happens When a Smart Grid Meets a Lakehouse",
-      "episode_date": "2026-05-04",
-      "rank": 4,
-      "quality_score": 0.6954573156542659
-    },
-    {
-      "id": "story/devto_3607796",
-      "type": "story",
-      "label": "Databricks Data Engineer Associate Exam What Changed in 2025",
-      "episode_date": "2026-05-04",
-      "rank": 6,
-      "quality_score": 0.9395466022367726
-    },
-    {
-      "id": "story/devto_3607644",
-      "type": "story",
-      "label": "5 Reasons Your Databricks Implementation Is Underperforming And How a Consultant Fixes It",
-      "episode_date": "2026-05-04",
-      "rank": 7,
-      "quality_score": 0.9392785795998678
-    },
-    {
-      "id": "story/devto_3606407",
-      "type": "story",
-      "label": "Single guide for DP-750 Azure Databricks certification",
-      "episode_date": "2026-05-04",
-      "rank": 8,
-      "quality_score": 0.9365153517668652
-    },
-    {
-      "id": "story/rss_2d876e6525ee",
-      "type": "story",
-      "label": "SiriusHelper An LLM Agent-Based Operations Assistant for Big Data Platforms",
-      "episode_date": "2026-05-04",
-      "rank": 9,
-      "quality_score": 0.756317600098545
-    },
-    {
-      "id": "story/community_4b4eb2264d82",
-      "type": "story",
-      "label": "Performing DML Operations on Unity Catalog Managed Tables from External Engines",
-      "episode_date": "2026-05-09",
-      "rank": 1,
-      "quality_score": 0.78
-    },
-    {
-      "id": "story/community_0dc7de4f31e0",
-      "type": "story",
-      "label": "Scaling Enterprise AI with Databricks Without Losing Control",
-      "episode_date": "2026-05-09",
-      "rank": 2,
-      "quality_score": 0.78
-    },
-    {
-      "id": "story/community_f88c83466748",
-      "type": "story",
-      "label": "Delta Lake Under the Hood What Every Data Engineer Should Know",
-      "episode_date": "2026-05-09",
-      "rank": 3,
-      "quality_score": 0.74
-    },
-    {
-      "id": "story/hn_48062155",
-      "type": "story",
-      "label": "IBM Cloud evaporates as datacenter loses power",
-      "episode_date": "2026-05-09",
-      "rank": 4,
-      "quality_score": 0.5707955562232563
-    },
-    {
-      "id": "story/rss_8ffcddd23fe1",
-      "type": "story",
-      "label": "ADF vs Databricks Workflows Which One Should Orchestrate Your Data Pipelines?",
-      "episode_date": "2026-05-09",
-      "rank": 5,
-      "quality_score": 0.8089471857108135
-    },
-    {
-      "id": "story/rss_ea50d78d8930",
-      "type": "story",
-      "label": "Databricks Apps Tutorial Scalable Streamlit modular Template for Production",
-      "episode_date": "2026-05-09",
-      "rank": 6,
-      "quality_score": 0.7355169609289022
-    },
-    {
-      "id": "story/rss_fdb3b96e39de",
-      "type": "story",
-      "label": "dbt Apache Iceberg DuckDB for Teams Under 50",
-      "episode_date": "2026-05-09",
-      "rank": 7,
-      "quality_score": 0.7186252612306548
-    },
-    {
-      "id": "story/pypi_databricks-connect_18.2.0",
-      "type": "story",
-      "label": "Databricks Connect 18.2.0 released on PyPI",
-      "episode_date": "2026-05-07",
-      "rank": 1,
-      "quality_score": 0.548246202942791
-    },
-    {
-      "id": "story/community_4accf73d21cc",
-      "type": "story",
-      "label": "Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps",
-      "episode_date": "2026-05-07",
-      "rank": 2,
-      "quality_score": 0.78
-    },
-    {
-      "id": "story/community_a7a35e37bc71",
-      "type": "story",
-      "label": "Deploying Django apps on Databricks Apps with Lakebase",
-      "episode_date": "2026-05-07",
-      "rank": 3,
-      "quality_score": 0.78
-    },
-    {
-      "id": "story/community_b6d185ab8fb7",
-      "type": "story",
-      "label": "Beyond RAG Databricks' Unified Approach to Document Insights",
-      "episode_date": "2026-05-07",
-      "rank": 4,
-      "quality_score": 0.74
-    },
-    {
-      "id": "story/rss_677d8d980523",
-      "type": "story",
-      "label": "Native OpenTelemetry Observability for Databricks Apps",
-      "episode_date": "2026-05-07",
-      "rank": 5,
-      "quality_score": 0.7297753703220901
-    },
-    {
-      "id": "story/rss_dfe30fd4286d",
-      "type": "story",
-      "label": "While working on a Databricks implementation with Unity Catalog enabled, we ran into an interesting",
-      "episode_date": "2026-05-07",
-      "rank": 6,
-      "quality_score": 0.6908883002777778
-    },
-    {
-      "id": "story/devto_3625066",
-      "type": "story",
-      "label": "Data Series Understanding ETL Medallion Architecture Part 1",
-      "episode_date": "2026-05-07",
-      "rank": 7,
-      "quality_score": 0.938312904432209
-    },
-    {
-      "id": "story/devto_3625613",
-      "type": "story",
-      "label": "Ursa a new Diskless Lakestream engine for Kafka",
-      "episode_date": "2026-05-07",
-      "rank": 8,
-      "quality_score": 0.8391001067000662
-    },
-    {
-      "id": "story/devto_3626061",
-      "type": "story",
-      "label": "How Databricks Genie Turns Plain English Into SQL Code",
-      "episode_date": "2026-05-07",
-      "rank": 9,
-      "quality_score": 0.8198215017693453
-    },
-    {
-      "id": "story/rss_8586906d2fd9",
-      "type": "story",
-      "label": "LUCAS-MEGA A Large-Scale Multimodal Dataset for Representation Learning in Soil-Environment Systems",
-      "episode_date": "2026-05-07",
-      "rank": 10,
-      "quality_score": 0.7163324140740741
-    },
-    {
-      "id": "story/community_bfe543167d55",
-      "type": "story",
-      "label": "Community Pulse Your Weekly Roundup! May 04 10, 2026",
-      "episode_date": "2026-05-14",
-      "rank": 2,
-      "quality_score": 0.78
-    },
-    {
-      "id": "story/community_8c0892d83dd1",
-      "type": "story",
-      "label": "Databricks Community Fellows April 2026 Shout Outs!",
-      "episode_date": "2026-05-14",
-      "rank": 3,
-      "quality_score": 0.66
-    },
-    {
-      "id": "story/community_9209ab229d3a",
-      "type": "story",
-      "label": "Data Detective Series Ready to crack a case with data?",
-      "episode_date": "2026-05-14",
-      "rank": 4,
-      "quality_score": 0.6200000000000001
-    },
-    {
-      "id": "story/hn_48124436",
-      "type": "story",
-      "label": "Launch HN Ardent YC P26 Postgres sandboxes in seconds with zero migration",
-      "episode_date": "2026-05-14",
-      "rank": 5,
-      "quality_score": 0.7299569161271414
-    },
-    {
-      "id": "story/rss_148739e37d06",
-      "type": "story",
-      "label": "Monitoring Databricks Pipelines From Blind Spots to Full Visibility",
-      "episode_date": "2026-05-14",
-      "rank": 6,
-      "quality_score": 0.7261477471177249
-    },
-    {
-      "id": "story/rss_b632db648571",
-      "type": "story",
-      "label": "Zero-Latency BI Embedding Qwen-3 and Phi-4 On-Device LLMs into Power BI and Qlik Cloud",
-      "episode_date": "2026-05-14",
-      "rank": 7,
-      "quality_score": 0.6993382236450066
-    },
-    {
-      "id": "story/hn_48121671",
-      "type": "story",
-      "label": "Show HN Headless Cloud Security Headless SaaS has come to security",
-      "episode_date": "2026-05-14",
-      "rank": 8,
-      "quality_score": 0.6160348171289557
-    },
-    {
-      "id": "story/rss_8d36f7f39659",
-      "type": "story",
-      "label": "OxyEcomBench Benchmarking Multimodal Foundation Models across E-Commerce Ecosystems",
-      "episode_date": "2026-05-14",
-      "rank": 9,
-      "quality_score": 0.7163322711274802
-    },
-    {
-      "id": "story/community_608ffec25bab",
-      "type": "story",
-      "label": "Solution Accelerator Series Digital Twins",
-      "episode_date": "2026-05-03",
-      "rank": 1,
-      "quality_score": 0.52
-    },
-    {
-      "id": "story/community_50b87930ea79",
-      "type": "story",
-      "label": "Introducing Genie Agent Mode",
-      "episode_date": "2026-05-03",
-      "rank": 2,
-      "quality_score": 0.52
-    },
-    {
-      "id": "story/community_c893d8024864",
-      "type": "story",
-      "label": "Solution Accelerator Series Propensity Scoring",
-      "episode_date": "2026-05-03",
-      "rank": 3,
-      "quality_score": 0.52
-    },
-    {
-      "id": "story/hn_47985077",
-      "type": "story",
-      "label": "Show HN Mljar Studio local AI data analyst that saves analysis as notebooks",
-      "episode_date": "2026-05-03",
-      "rank": 4,
-      "quality_score": 0.830201687893821
-    },
-    {
-      "id": "story/hn_47985210",
-      "type": "story",
-      "label": "Show HN Piruetas A self-hosted diary app I built for my girlfriend",
-      "episode_date": "2026-05-03",
-      "rank": 5,
-      "quality_score": 0.6911496615717402
-    },
-    {
-      "id": "story/rss_65eb9feda7d1",
-      "type": "story",
-      "label": "How We Shipped 3 Full-Stack Data Platforms in One Session Using Microsoft Fabric Azure AI Foundry",
-      "episode_date": "2026-05-03",
-      "rank": 6,
-      "quality_score": 0.6598836037554564
-    },
-    {
-      "id": "story/rss_af40d7126f6e",
-      "type": "story",
-      "label": "Why Data Governance Quietly Dies and No One Says the Real Reason",
-      "episode_date": "2026-05-03",
-      "rank": 7,
-      "quality_score": 0.6589808259626323
-    },
-    {
-      "id": "story/rss_020ec41eae08",
-      "type": "story",
-      "label": "Top 20 Advanced Data Engineering Interview Questions",
-      "episode_date": "2026-05-03",
-      "rank": 8,
-      "quality_score": 0.6576066526716271
-    },
-    {
-      "id": "story/community_roundup_3_community_0fd805d2f795",
-      "type": "story",
-      "label": "Databricks Community Roundup \u2014 3 new posts",
-      "episode_date": "2026-05-25",
-      "rank": 1,
-      "quality_score": 0.8
-    },
-    {
-      "id": "story/trending_repos_roundup_5_github_trending_doorman1",
-      "type": "story",
-      "label": "Weekly Trending Repos Roundup \u2014 5 new from the past 7 days",
-      "episode_date": "2026-05-25",
-      "rank": 2,
-      "quality_score": 0.6200000000000001
-    },
-    {
-      "id": "story/rss_c138f2ead9ed",
-      "type": "story",
-      "label": "Tinkering with Databricks Wrapping Agent over FDA Drug Label Data in MLflow",
-      "episode_date": "2026-05-25",
-      "rank": 3,
-      "quality_score": 0.7376982333688823
-    },
-    {
-      "id": "story/rss_806ae11f47f0",
-      "type": "story",
-      "label": "Voice Driven RAG with India s Sovereign AI Platform, SARVAM",
-      "episode_date": "2026-05-25",
-      "rank": 4,
-      "quality_score": 0.7369636103258929
-    },
-    {
-      "id": "story/devto_3739765",
-      "type": "story",
-      "label": "Databricks and FSx for ONTAP S3 Access Points A Layer-by-Layer Validation of Observed Boundaries",
-      "episode_date": "2026-05-25",
-      "rank": 5,
-      "quality_score": 0.8863885442546297
-    },
-    {
-      "id": "story/rss_388e4f889bbf",
-      "type": "story",
-      "label": "Conceptual Schema Inference for Tabular Datasets using Large Language Models",
-      "episode_date": "2026-05-25",
-      "rank": 6,
-      "quality_score": 0.7963326578308532
-    },
-    {
       "id": "story/community_roundup_5_community_f856c2dab008",
       "type": "story",
       "label": "Databricks Community Roundup \u2014 5 new posts",
@@ -3826,340 +4169,44 @@
       "quality_score": 0.8056516401268188
     },
     {
-      "id": "story/pypi_mlflow_3.12.0",
+      "id": "story/community_roundup_4_community_0fd805d2f795",
       "type": "story",
-      "label": "MLflow 3.12.0 released on PyPI",
-      "episode_date": "2026-05-06",
+      "label": "Databricks Community Roundup \u2014 4 new posts",
+      "episode_date": "2026-05-31",
       "rank": 1,
-      "quality_score": 0.6058912374277448
+      "quality_score": 0.8
     },
     {
-      "id": "story/community_bb015fd3a271",
+      "id": "story/hn_48343061",
       "type": "story",
-      "label": "Introducing Bricktalks TV Your One-Stop Hub for All Bricktalk Sessions",
-      "episode_date": "2026-05-06",
+      "label": "Building a LangGraph pipeline for production data engineering",
+      "episode_date": "2026-05-31",
       "rank": 2,
-      "quality_score": 0.6200000000000001
+      "quality_score": 0.6569795311511907
     },
     {
-      "id": "story/rss_3ba6ab107f5e",
+      "id": "story/rss_d9de3b7eee3f",
       "type": "story",
-      "label": "Editing Pipelines Feels More Natural in Databricks Now.",
-      "episode_date": "2026-05-06",
+      "label": "The Triad Hudi, Iceberg, Delta of Open Table Formats 2 n Architecture Deep Dive",
+      "episode_date": "2026-05-31",
       "rank": 3,
-      "quality_score": 0.6964135960226522
+      "quality_score": 0.7700625861339286
     },
     {
-      "id": "story/rss_f5085870c81f",
+      "id": "story/rss_079d8d7a8eba",
       "type": "story",
-      "label": "Genie Space as Code Shipping a Curated Salesforce Genie Space with a Databricks Asset Bundle",
-      "episode_date": "2026-05-06",
+      "label": "Databricks Apps horizontal scaling Beta",
+      "episode_date": "2026-05-31",
       "rank": 4,
-      "quality_score": 0.6915769556554233
+      "quality_score": 0.7656573280753969
     },
     {
-      "id": "story/devto_3292121",
+      "id": "story/rss_1f88032d9ce6",
       "type": "story",
-      "label": "Stop Using Spark for Your Small Data - Why Azure Functions is the Right Tool for the Job",
-      "episode_date": "2026-05-06",
+      "label": "Embeddings Aren t Magic The Predictable Failure Modes of RAG Retrieval",
+      "episode_date": "2026-05-31",
       "rank": 5,
-      "quality_score": 0.8995223928568122
-    },
-    {
-      "id": "story/devto_3616811",
-      "type": "story",
-      "label": "What is Dremio? The Unified Lakehouse and AI Platform",
-      "episode_date": "2026-05-06",
-      "rank": 6,
-      "quality_score": 0.8906662417263559
-    },
-    {
-      "id": "story/devto_3616749",
-      "type": "story",
-      "label": "ETL vs ELT The Difference That Finally Clicked for Me",
-      "episode_date": "2026-05-06",
-      "rank": 7,
-      "quality_score": 0.8904855207048612
-    },
-    {
-      "id": "story/rss_367e7d86bb31",
-      "type": "story",
-      "label": "FINER-SQL Boosting Small Language Models for Text-to-SQL",
-      "episode_date": "2026-05-06",
-      "rank": 8,
-      "quality_score": 0.7563185232046957
-    },
-    {
-      "id": "story/github_release_delta-io_delta-rs_323759919",
-      "type": "story",
-      "label": "Delta Lake Rust Python rust-v0.32.2 released",
-      "episode_date": "2026-05-17",
-      "rank": 1,
-      "quality_score": 0.771389143611442
-    },
-    {
-      "id": "story/community_9440698eec23",
-      "type": "story",
-      "label": "Databricks Learning Festival Instructor-Led APAC EMEA",
-      "episode_date": "2026-05-17",
-      "rank": 3,
-      "quality_score": 0.6200000000000001
-    },
-    {
-      "id": "story/community_b5cc02e492bb",
-      "type": "story",
-      "label": "Finally! A simple way to validate whether your Materialized View can actually refresh incrementally",
-      "episode_date": "2026-05-17",
-      "rank": 4,
-      "quality_score": 0.6200000000000001
-    },
-    {
-      "id": "story/hn_48166275",
-      "type": "story",
-      "label": "Show HN Codiff, a local diff review tool",
-      "episode_date": "2026-05-17",
-      "rank": 5,
-      "quality_score": 0.5661856870523162
-    },
-    {
-      "id": "story/rss_f2ff9ec9680a",
-      "type": "story",
-      "label": "Lower cost and latency for AI using Snowflake Postgres as a Semantic Cache",
-      "episode_date": "2026-05-17",
-      "rank": 6,
-      "quality_score": 0.8197914253420966
-    },
-    {
-      "id": "story/rss_43975fa72420",
-      "type": "story",
-      "label": "Part 4 Demystifying Data Jargons Datalake, Warehouse, and Delta Lake Explained",
-      "episode_date": "2026-05-17",
-      "rank": 7,
-      "quality_score": 0.6975043882700066
-    },
-    {
-      "id": "story/rss_c43391016bb3",
-      "type": "story",
-      "label": "Apache Iceberg on Hadoop Why It Matters for Real-Time Analytics and Edge AI",
-      "episode_date": "2026-05-17",
-      "rank": 8,
-      "quality_score": 0.6968507837465279
-    },
-    {
-      "id": "story/devto_3684030",
-      "type": "story",
-      "label": "Cosa sono i modelli di apprendimento automatico? Tipi - Databricks",
-      "episode_date": "2026-05-17",
-      "rank": 9,
-      "quality_score": 0.7689665243040675
-    },
-    {
-      "id": "story/pypi_pyspark_4.2.0.dev5",
-      "type": "story",
-      "label": "Apache Spark PySpark 4.2.0.dev5 released on PyPI",
-      "episode_date": "2026-05-02",
-      "rank": 1,
-      "quality_score": 0.5145458389765212
-    },
-    {
-      "id": "story/community_542395736e47",
-      "type": "story",
-      "label": "Azure Databricks Reverse SSH Tunnel for On-Premises Connectivity",
-      "episode_date": "2026-05-02",
-      "rank": 2,
-      "quality_score": 0.78
-    },
-    {
-      "id": "story/community_47e5b2ca07a5",
-      "type": "story",
-      "label": "The next generation of Databricks Genie",
-      "episode_date": "2026-05-02",
-      "rank": 3,
-      "quality_score": 0.6000000000000001
-    },
-    {
-      "id": "story/hn_47977498",
-      "type": "story",
-      "label": "AWS stops billing Middle East cloud customers as repairs to war damage drag on",
-      "episode_date": "2026-05-02",
-      "rank": 4,
-      "quality_score": 0.7060940165830801
-    },
-    {
-      "id": "story/rss_76c25575992e",
-      "type": "story",
-      "label": "What is a DLT Pipeline? A Beginner Guide with My Mistakes Learnings",
-      "episode_date": "2026-05-02",
-      "rank": 5,
-      "quality_score": 0.698546931374008
-    },
-    {
-      "id": "story/rss_cb0c554dd300",
-      "type": "story",
-      "label": "Your Data Governance Program Is Two Years Away From Being Defunded.",
-      "episode_date": "2026-05-02",
-      "rank": 6,
-      "quality_score": 0.6960365146550926
-    },
-    {
-      "id": "story/rss_2b5d24e63108",
-      "type": "story",
-      "label": "Introduction to External Locations for Catalog and Schema in Databricks",
-      "episode_date": "2026-05-02",
-      "rank": 7,
-      "quality_score": 0.6920881019454366
-    },
-    {
-      "id": "story/devto_3598668",
-      "type": "story",
-      "label": "What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS",
-      "episode_date": "2026-05-02",
-      "rank": 8,
-      "quality_score": 0.9377926288649141
-    },
-    {
-      "id": "story/devto_3599073",
-      "type": "story",
-      "label": "Meet SDI The No-Code ETL Tool Every Data Engineer Needs in Their Toolbox",
-      "episode_date": "2026-05-02",
-      "rank": 9,
-      "quality_score": 0.8587661737194114
-    },
-    {
-      "id": "story/devto_3598629",
-      "type": "story",
-      "label": "HackerRank Data Engineering Interview Questions 7 SQL PySpark Patterns to Master",
-      "episode_date": "2026-05-02",
-      "rank": 10,
-      "quality_score": 0.8174961668293651
-    },
-    {
-      "id": "story/pypi_databricks-connect_18.0.6",
-      "type": "story",
-      "label": "Databricks Connect 18.0.6 released on PyPI",
-      "episode_date": "2026-05-05",
-      "rank": 1,
-      "quality_score": 0.5468355427488427
-    },
-    {
-      "id": "story/pypi_databricks-connect_17.3.8",
-      "type": "story",
-      "label": "Databricks Connect 17.3.8 released on PyPI",
-      "episode_date": "2026-05-05",
-      "rank": 2,
-      "quality_score": 0.5466664171876654
-    },
-    {
-      "id": "story/pypi_databricks-connect_16.4.16",
-      "type": "story",
-      "label": "Databricks Connect 16.4.16 released on PyPI",
-      "episode_date": "2026-05-05",
-      "rank": 3,
-      "quality_score": 0.5466432093399471
-    },
-    {
-      "id": "story/community_146a3285923e",
-      "type": "story",
-      "label": "Satya Nadella Ali Ghodsi A Must-See Data AI Summit Keynote",
-      "episode_date": "2026-05-05",
-      "rank": 4,
-      "quality_score": 0.74
-    },
-    {
-      "id": "story/community_fe477462b042",
-      "type": "story",
-      "label": "CUSTOMER STORY Elliptic Protect crypto assets with governed AI",
-      "episode_date": "2026-05-05",
-      "rank": 5,
-      "quality_score": 0.7
-    },
-    {
-      "id": "story/hn_48010033",
-      "type": "story",
-      "label": "Hallucination Is Inevitable An Innate Limitation of Large Language Models",
-      "episode_date": "2026-05-05",
-      "rank": 6,
-      "quality_score": 0.6946259090935435
-    },
-    {
-      "id": "story/rss_3d352300aa8d",
-      "type": "story",
-      "label": "Deploying Databricks Genie to Production When DAB Won t Do It For You",
-      "episode_date": "2026-05-05",
-      "rank": 7,
-      "quality_score": 0.7304412634991734
-    },
-    {
-      "id": "story/rss_7c9f6b9972a7",
-      "type": "story",
-      "label": "Databricks Apps construindo aplica\u00e7\u00f5es de dados sem sair do Lakehouse",
-      "episode_date": "2026-05-05",
-      "rank": 8,
-      "quality_score": 0.7272960915019842
-    },
-    {
-      "id": "story/rss_d95777787011",
-      "type": "story",
-      "label": "Selective Rebuild In Databricks Free Edition Using Lineage BFS",
-      "episode_date": "2026-05-05",
-      "rank": 9,
-      "quality_score": 0.6908934791410385
-    },
-    {
-      "id": "story/hn_48013746",
-      "type": "story",
-      "label": "Show HN Agent-evals Claude skill to build your own evals",
-      "episode_date": "2026-05-05",
-      "rank": 10,
-      "quality_score": 0.6238903959247826
-    },
-    {
-      "id": "story/community_cecf34038f07",
-      "type": "story",
-      "label": "Community Pulse Your Weekly Roundup! April 27 May 03, 2026",
-      "episode_date": "2026-05-10",
-      "rank": 1,
-      "quality_score": 0.74
-    },
-    {
-      "id": "story/community_77db6432c0b3",
-      "type": "story",
-      "label": "Solution Accelerator Series Supply Chain Distribution Optimization",
-      "episode_date": "2026-05-10",
-      "rank": 2,
-      "quality_score": 0.74
-    },
-    {
-      "id": "story/community_92278b08e3ea",
-      "type": "story",
-      "label": "PARTNER BLOG Revolutionizing Enterprise Data with Databricks Agent Bricks Tale of Two Industries",
-      "episode_date": "2026-05-10",
-      "rank": 3,
-      "quality_score": 0.7
-    },
-    {
-      "id": "story/rss_f9e14c46fb83",
-      "type": "story",
-      "label": "RAG Is Blind to Time I Built a Temporal Layer to Fix It in Production",
-      "episode_date": "2026-05-10",
-      "rank": 4,
-      "quality_score": 0.747392006494709
-    },
-    {
-      "id": "story/rss_b556578e6166",
-      "type": "story",
-      "label": "Chatbot lardan Otonom Ajanlara RAG ve n8n ile Kurumsal Veri Boru Hatlar\u0131n\u0131 \u0130n\u015fa Etmek",
-      "episode_date": "2026-05-10",
-      "rank": 5,
-      "quality_score": 0.6995436270570438
-    },
-    {
-      "id": "story/rss_152e1ddbc146",
-      "type": "story",
-      "label": "Delta Lake Transaction Logs Explained The Ultimate Troubleshooting Superpower for Data Engineers",
-      "episode_date": "2026-05-10",
-      "rank": 6,
-      "quality_score": 0.6875899232215609
+      "quality_score": 0.7285953241722884
     },
     {
       "id": "concept/s3-object-storage",
@@ -4201,7 +4248,7 @@
       "id": "concept/apache-iceberg",
       "type": "concept",
       "label": "Apache Iceberg",
-      "mention_count": 32
+      "mention_count": 33
     },
     {
       "id": "concept/apache-polaris",
@@ -4453,7 +4500,7 @@
       "id": "concept/retrieval-augmented-generation",
       "type": "concept",
       "label": "Retrieval-Augmented Generation",
-      "mention_count": 18
+      "mention_count": 19
     },
     {
       "id": "concept/mosaic-ai-vector-search",
@@ -4477,7 +4524,7 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 246
+      "mention_count": 248
     },
     {
       "id": "concept/fulfillment-center-operations",
@@ -4621,7 +4668,7 @@
       "id": "concept/databricks-apps",
       "type": "concept",
       "label": "Databricks Apps",
-      "mention_count": 17
+      "mention_count": 18
     },
     {
       "id": "concept/ai-playground",
@@ -4735,7 +4782,7 @@
       "id": "concept/delta-lake",
       "type": "concept",
       "label": "Delta Lake",
-      "mention_count": 56
+      "mention_count": 57
     },
     {
       "id": "concept/delta-kernel",
@@ -4951,7 +4998,7 @@
       "id": "concept/lakehouse",
       "type": "concept",
       "label": "Lakehouse",
-      "mention_count": 47
+      "mention_count": 48
     },
     {
       "id": "company/microsoft-azure",
@@ -5089,7 +5136,7 @@
       "id": "concept/databricks-serverless-sql",
       "type": "concept",
       "label": "Databricks Serverless SQL",
-      "mention_count": 8
+      "mention_count": 9
     },
     {
       "id": "concept/photon",
@@ -6373,7 +6420,7 @@
       "id": "concept/lakehouse-architecture",
       "type": "concept",
       "label": "Lakehouse Architecture",
-      "mention_count": 11
+      "mention_count": 12
     },
     {
       "id": "concept/bidirectional-sync",
@@ -6667,7 +6714,7 @@
       "id": "concept/vector-search",
       "type": "concept",
       "label": "Vector Search",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "concept/columnar-database",
@@ -8809,7 +8856,7 @@
       "id": "concept/human-in-the-loop",
       "type": "concept",
       "label": "Human-in-the-Loop",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/multi-agent-pipeline",
@@ -8905,7 +8952,7 @@
       "id": "concept/open-table-format",
       "type": "concept",
       "label": "Open Table Format",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "company/warpstream",
@@ -10243,7 +10290,7 @@
       "id": "concept/embeddings",
       "type": "concept",
       "label": "Embeddings",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/sql",
@@ -10567,7 +10614,7 @@
       "id": "concept/apache-hudi",
       "type": "concept",
       "label": "Apache Hudi",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/apache-xtable",
@@ -10711,7 +10758,7 @@
       "id": "concept/langgraph",
       "type": "concept",
       "label": "LangGraph",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/multi-agent-system",
@@ -10753,7 +10800,7 @@
       "id": "concept/query-performance-tuning",
       "type": "concept",
       "label": "Query Performance Tuning",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/apache-beam",
@@ -11341,7 +11388,7 @@
       "id": "company/towards-data-science",
       "type": "company",
       "label": "Towards Data Science",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "company/gurobi-optimization",
@@ -11953,7 +12000,7 @@
       "id": "concept/data-pipelines",
       "type": "concept",
       "label": "Data Pipelines",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "concept/lakeflow-declarative-pipelines",
@@ -13855,7 +13902,7 @@
       "id": "concept/etl-framework",
       "type": "concept",
       "label": "ETL framework",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/lakebase-postgres",
@@ -16894,6 +16941,30 @@
       "mention_count": 1
     },
     {
+      "id": "concept/agentic-ai-workflows",
+      "type": "concept",
+      "label": "Agentic AI Workflows",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/graph-based-orchestration",
+      "type": "concept",
+      "label": "Graph-based Orchestration",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/state-management",
+      "type": "concept",
+      "label": "State Management",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/checkpointing",
+      "type": "concept",
+      "label": "Checkpointing",
+      "mention_count": 1
+    },
+    {
       "id": "concept/ktx",
       "type": "concept",
       "label": "Ktx",
@@ -16957,7 +17028,7 @@
       "id": "concept/metadata-driven-etl",
       "type": "concept",
       "label": "Metadata-Driven ETL",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/machine-learning-operations",
@@ -17074,9 +17145,33 @@
       "mention_count": 1
     },
     {
+      "id": "concept/enterprise-document-intelligence",
+      "type": "concept",
+      "label": "Enterprise Document Intelligence",
+      "mention_count": 1
+    },
+    {
       "id": "concept/open-sharing",
       "type": "concept",
       "label": "Open Sharing",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/horizontal-scaling",
+      "type": "concept",
+      "label": "Horizontal Scaling",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/session-affinity",
+      "type": "concept",
+      "label": "Session Affinity",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/zero-downtime-deployment",
+      "type": "concept",
+      "label": "Zero-Downtime Deployment",
       "mention_count": 1
     },
     {
@@ -39452,6 +39547,41 @@
       "kind": "mentions"
     },
     {
+      "source": "story/hn_48343061",
+      "target": "episode/2026-05-31",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/hn_48343061",
+      "target": "concept/langgraph",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48343061",
+      "target": "concept/agentic-ai-workflows",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48343061",
+      "target": "concept/graph-based-orchestration",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48343061",
+      "target": "concept/state-management",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48343061",
+      "target": "concept/checkpointing",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48343061",
+      "target": "concept/human-in-the-loop",
+      "kind": "mentions"
+    },
+    {
       "source": "story/hn_48309986",
       "target": "episode/2026-05-29",
       "kind": "aired_in"
@@ -39907,6 +40037,76 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_1f88032d9ce6",
+      "target": "episode/2026-05-31",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_1f88032d9ce6",
+      "target": "concept/retrieval-augmented-generation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1f88032d9ce6",
+      "target": "concept/vector-search",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1f88032d9ce6",
+      "target": "concept/embeddings",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1f88032d9ce6",
+      "target": "concept/enterprise-document-intelligence",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1f88032d9ce6",
+      "target": "company/towards-data-science",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "episode/2026-05-31",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "concept/databricks-serverless-sql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "concept/lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "concept/etl-framework",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "concept/metadata-driven-etl",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "concept/query-performance-tuning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "concept/data-pipelines",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_83548044833f",
       "target": "episode/2026-05-29",
       "kind": "aired_in"
@@ -39949,6 +40149,36 @@
     {
       "source": "story/rss_83548044833f",
       "target": "company/apache-software-foundation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_079d8d7a8eba",
+      "target": "episode/2026-05-31",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_079d8d7a8eba",
+      "target": "concept/databricks-apps",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_079d8d7a8eba",
+      "target": "concept/horizontal-scaling",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_079d8d7a8eba",
+      "target": "concept/session-affinity",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_079d8d7a8eba",
+      "target": "concept/zero-downtime-deployment",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_079d8d7a8eba",
+      "target": "company/databricks",
       "kind": "mentions"
     },
     {
@@ -40034,6 +40264,36 @@
     {
       "source": "story/rss_12503ff72dca",
       "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d9de3b7eee3f",
+      "target": "episode/2026-05-31",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_d9de3b7eee3f",
+      "target": "concept/apache-hudi",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d9de3b7eee3f",
+      "target": "concept/apache-iceberg",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d9de3b7eee3f",
+      "target": "concept/delta-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d9de3b7eee3f",
+      "target": "concept/open-table-format",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d9de3b7eee3f",
+      "target": "concept/lakehouse-architecture",
       "kind": "mentions"
     },
     {

@@ -3,17 +3,19 @@ type: concept
 name: Lakehouse Architecture
 slug: lakehouse-architecture
 first_seen: 2026-04-24
-last_seen: 2026-05-28
-mention_count: 11
-avg_confidence: 0.864
+last_seen: 2026-05-31
+mention_count: 12
+avg_confidence: 0.85
 tags: [concept]
 ---
 
 # Lakehouse Architecture
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-05-31|2026-05-31]]
+    - [[sources/2026-05-31/03_the-triad-hudi-iceberg-delta-of-open-table-formats-2-n-archi|The Triad Hudi, Iceberg, Delta of Open Table Formats 2 n Architecture Deep Dive]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/06_asf-project-spotlight-apache-iceberg|ASF Project Spotlight Apache Iceberg]]
     - [[sources/2026-05-28/05_cloud-cost-optimization-strategies-for-lakehouses|Cloud Cost Optimization Strategies for Lakehouses]]

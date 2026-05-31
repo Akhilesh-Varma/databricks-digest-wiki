@@ -3,17 +3,19 @@ type: concept
 name: Databricks Serverless SQL
 slug: databricks-serverless-sql
 first_seen: 2026-04-14
-last_seen: 2026-05-30
-mention_count: 8
-avg_confidence: 0.887
+last_seen: 2026-05-31
+mention_count: 9
+avg_confidence: 0.867
 tags: [concept]
 ---
 
 # Databricks Serverless SQL
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-05-31|2026-05-31]]
+    - [[sources/2026-05-31/01_databricks-community-roundup-4-new-posts|Databricks Community Roundup — 4 new posts]]
 - [[episodes/2026-05-30|2026-05-30]]
     - [[sources/2026-05-30/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-05-29|2026-05-29]]
@@ -29,4 +31,4 @@ _Concept mentioned across 8 stories._
 - [[episodes/2026-05-24|2026-05-24]]
     - [[sources/2026-05-24/01_databricks-community-roundup-15-new-posts|Databricks Community Roundup — 15 new posts]]
 - [[episodes/2026-04-14|2026-04-14]]
-    - [[sources/2026-04-14/02_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
+    - [[sources/2026-04-14/03_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]

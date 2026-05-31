@@ -3,17 +3,19 @@ type: concept
 name: Open Table Format
 slug: open-table-format
 first_seen: 2026-04-12
-last_seen: 2026-05-29
-mention_count: 4
-avg_confidence: 0.75
+last_seen: 2026-05-31
+mention_count: 5
+avg_confidence: 0.78
 tags: [concept]
 ---
 
 # Open Table Format
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-05-31|2026-05-31]]
+    - [[sources/2026-05-31/03_the-triad-hudi-iceberg-delta-of-open-table-formats-2-n-archi|The Triad Hudi, Iceberg, Delta of Open Table Formats 2 n Architecture Deep Dive]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/05_advancing-apache-iceberg-on-databricks-iceberg-v3-ga-open-sh|Advancing Apache Iceberg on Databricks Iceberg v3 GA, Open Sharing, and Unified Governance]]
 - [[episodes/2026-05-28|2026-05-28]]

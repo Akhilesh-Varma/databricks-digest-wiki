@@ -3,17 +3,19 @@ type: concept
 name: Vector Search
 slug: vector-search
 first_seen: 2026-04-22
-last_seen: 2026-05-18
-mention_count: 5
-avg_confidence: 0.72
+last_seen: 2026-05-31
+mention_count: 6
+avg_confidence: 0.75
 tags: [concept]
 ---
 
 # Vector Search
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-05-31|2026-05-31]]
+    - [[sources/2026-05-31/05_embeddings-aren-t-magic-the-predictable-failure-modes-of-rag|Embeddings Aren t Magic The Predictable Failure Modes of RAG Retrieval]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/10_to-gpu-or-not-to-gpu-vector-search-in-relational-engines|To GPU or Not to GPU Vector Search in Relational Engines]]
 - [[episodes/2026-05-15|2026-05-15]]

@@ -3,17 +3,19 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-05-30
-mention_count: 32
-avg_confidence: 0.872
+last_seen: 2026-05-31
+mention_count: 33
+avg_confidence: 0.876
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 32 stories._
+_Concept mentioned across 33 stories._
 
 ## Appears in
+- [[episodes/2026-05-31|2026-05-31]]
+    - [[sources/2026-05-31/03_the-triad-hudi-iceberg-delta-of-open-table-formats-2-n-archi|The Triad Hudi, Iceberg, Delta of Open Table Formats 2 n Architecture Deep Dive]]
 - [[episodes/2026-05-30|2026-05-30]]
     - [[sources/2026-05-30/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-05-29|2026-05-29]]

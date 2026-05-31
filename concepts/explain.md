@@ -15,4 +15,4 @@ _Concept mentioned across 1 story._
 
 ## Appears in
 - [[episodes/2026-04-14|2026-04-14]]
-    - [[sources/2026-04-14/02_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
+    - [[sources/2026-04-14/03_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]

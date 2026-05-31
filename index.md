@@ -1,8 +1,8 @@
 ---
 type: index
-generated_at: 2026-05-30T10:24:00.053827+00:00
-episode_count: 58
-story_count: 469
+generated_at: 2026-05-31T10:23:29.079650+00:00
+episode_count: 59
+story_count: 474
 ---
 
 # Daily Databricks Digest — Knowledge Wiki
@@ -11,6 +11,7 @@ An auto-generated Obsidian vault covering every story aired on the [Daily Databr
 
 ## Recent episodes
 
+- [[episodes/2026-05-31|Daily Databricks Digest - May 31, 2026]] — 5 stories
 - [[episodes/2026-05-30|Daily Databricks Digest - May 30, 2026]] — 4 stories
 - [[episodes/2026-05-29|Daily Databricks Digest - May 29, 2026]] — 8 stories
 - [[episodes/2026-05-28|Daily Databricks Digest - May 28, 2026]] — 7 stories
@@ -30,22 +31,21 @@ An auto-generated Obsidian vault covering every story aired on the [Daily Databr
 - [[episodes/2026-05-14|Daily Databricks Digest - May 14, 2026]] — 8 stories
 - [[episodes/2026-05-13|Daily Databricks Digest - May 13, 2026]] — 10 stories
 - [[episodes/2026-05-12|Daily Databricks Digest - May 12, 2026]] — 10 stories
-- [[episodes/2026-05-11|Daily Databricks Digest - May 11, 2026]] — 9 stories
-- _…and 38 earlier episodes._
+- _…and 39 earlier episodes._
 
 ## Most-referenced concepts
 
 - [[concepts/unity-catalog|Unity Catalog]] — 83 stories
-- [[concepts/delta-lake|Delta Lake]] — 56 stories
-- [[concepts/lakehouse|Lakehouse]] — 47 stories
+- [[concepts/delta-lake|Delta Lake]] — 57 stories
+- [[concepts/lakehouse|Lakehouse]] — 48 stories
 - [[concepts/apache-spark|Apache Spark]] — 46 stories
-- [[concepts/apache-iceberg|Apache Iceberg]] — 32 stories
+- [[concepts/apache-iceberg|Apache Iceberg]] — 33 stories
 - [[concepts/large-language-models|Large Language Models]] — 30 stories
 - [[concepts/postgresql|PostgreSQL]] — 23 stories
+- [[concepts/retrieval-augmented-generation|Retrieval-Augmented Generation]] — 19 stories
 - [[concepts/medallion-architecture|Medallion Architecture]] — 19 stories
 - [[concepts/mlflow|MLflow]] — 19 stories
-- [[concepts/retrieval-augmented-generation|Retrieval-Augmented Generation]] — 18 stories
-- [[concepts/databricks-apps|Databricks Apps]] — 17 stories
+- [[concepts/databricks-apps|Databricks Apps]] — 18 stories
 - [[concepts/lakebase|Lakebase]] — 17 stories
 - [[concepts/snowflake|Snowflake]] — 16 stories
 - [[concepts/etl|ETL]] — 15 stories
@@ -60,8 +60,8 @@ An auto-generated Obsidian vault covering every story aired on the [Daily Databr
 - [[concepts/data-engineering|Data Engineering]] — 13 stories
 - [[concepts/data-lakehouse|Data Lakehouse]] — 12 stories
 - [[concepts/apache-kafka|Apache Kafka]] — 12 stories
+- [[concepts/lakehouse-architecture|Lakehouse Architecture]] — 12 stories
 - [[concepts/pypi|PyPI]] — 12 stories
-- [[concepts/lakehouse-architecture|Lakehouse Architecture]] — 11 stories
 - [[concepts/lakeflow|Lakeflow]] — 11 stories
 - [[concepts/parquet|Parquet]] — 11 stories
 - [[concepts/lakeflow-spark-declarative-pipelines|Lakeflow Spark Declarative Pipelines]] — 10 stories

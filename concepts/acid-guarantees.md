@@ -17,4 +17,4 @@ _Concept mentioned across 2 stories._
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/09_why-postgresql-and-clickhouse-work-so-well-together|Why PostgreSQL and ClickHouse Work So Well Together]]
 - [[episodes/2026-04-14|2026-04-14]]
-    - [[sources/2026-04-14/02_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
+    - [[sources/2026-04-14/03_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]

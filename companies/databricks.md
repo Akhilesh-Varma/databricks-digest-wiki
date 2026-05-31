@@ -3,17 +3,20 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-05-30
-mention_count: 246
+last_seen: 2026-05-31
+mention_count: 248
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 246 stories._
+_Company mentioned across 248 stories._
 
 ## Appears in
+- [[episodes/2026-05-31|2026-05-31]]
+    - [[sources/2026-05-31/01_databricks-community-roundup-4-new-posts|Databricks Community Roundup — 4 new posts]]
+    - [[sources/2026-05-31/04_databricks-apps-horizontal-scaling-beta|Databricks Apps horizontal scaling Beta]]
 - [[episodes/2026-05-30|2026-05-30]]
     - [[sources/2026-05-30/04_lakeflow-designer-updates-for-may-29-2026|Lakeflow Designer updates for May 29, 2026]]
     - [[sources/2026-05-30/03_databricks-runtime-18-may-29-2026|Databricks Runtime 18 May 29, 2026]]
@@ -283,7 +286,7 @@ _Company mentioned across 246 stories._
 - [[episodes/2026-04-14|2026-04-14]]
     - [[sources/2026-04-14/06_lovable-databricks-build-data-driven-apps-at-the-speed-of-th|Lovable Databricks Build Data-Driven Apps at the Speed of Thought]]
     - [[sources/2026-04-14/05_cross-region-data-magic-unity-catalog-delta-sharing-in-datab|Cross-Region Data Magic Unity Catalog Delta Sharing in Databricks]]
-    - [[sources/2026-04-14/02_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
+    - [[sources/2026-04-14/03_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
     - [[sources/2026-04-14/02_sdp-how-to-series-part-2-how-to-master-streaming-tables-and|SDP How-To Series. Part 2 How to Master Streaming Tables and Materialized Views]]
     - [[sources/2026-04-14/01_the-where-problem-real-time-spatial-engineering-with-lakeflo|The Where Problem Real-Time Spatial Engineering with Lakeflow SDP]]
 - [[episodes/2026-04-13|2026-04-13]]

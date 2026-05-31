@@ -3,17 +3,19 @@ type: concept
 name: Retrieval-Augmented Generation
 slug: retrieval-augmented-generation
 first_seen: 2026-04-10
-last_seen: 2026-05-28
-mention_count: 18
-avg_confidence: 0.772
+last_seen: 2026-05-31
+mention_count: 19
+avg_confidence: 0.784
 tags: [concept]
 ---
 
 # Retrieval-Augmented Generation
 
-_Concept mentioned across 18 stories._
+_Concept mentioned across 19 stories._
 
 ## Appears in
+- [[episodes/2026-05-31|2026-05-31]]
+    - [[sources/2026-05-31/05_embeddings-aren-t-magic-the-predictable-failure-modes-of-rag|Embeddings Aren t Magic The Predictable Failure Modes of RAG Retrieval]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/02_i-built-a-multi-agent-insurance-support-streamlit-chatbot-on|I Built a Multi-Agent Insurance Support Streamlit Chatbot on Databricks-Full Code Walkthrough]]
 - [[episodes/2026-05-25|2026-05-25]]

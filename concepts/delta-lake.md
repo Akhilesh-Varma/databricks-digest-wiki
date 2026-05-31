@@ -3,17 +3,19 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-28
-mention_count: 56
-avg_confidence: 0.748
+last_seen: 2026-05-31
+mention_count: 57
+avg_confidence: 0.753
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 56 stories._
+_Concept mentioned across 57 stories._
 
 ## Appears in
+- [[episodes/2026-05-31|2026-05-31]]
+    - [[sources/2026-05-31/03_the-triad-hudi-iceberg-delta-of-open-table-formats-2-n-archi|The Triad Hudi, Iceberg, Delta of Open Table Formats 2 n Architecture Deep Dive]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/05_cloud-cost-optimization-strategies-for-lakehouses|Cloud Cost Optimization Strategies for Lakehouses]]
 - [[episodes/2026-05-27|2026-05-27]]
@@ -97,7 +99,7 @@ _Concept mentioned across 56 stories._
 - [[episodes/2026-04-15|2026-04-15]]
     - [[sources/2026-04-15/03_learning-series-advanced-techniques-with-spark-declarative-p|Learning Series Advanced Techniques with Spark Declarative Pipelines]]
 - [[episodes/2026-04-14|2026-04-14]]
-    - [[sources/2026-04-14/02_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
+    - [[sources/2026-04-14/03_top-10-query-performance-tuning-tips-for-databricks-serverle|Top 10 query performance tuning tips for Databricks Serverless SQL]]
 - [[episodes/2026-04-13|2026-04-13]]
     - [[sources/2026-04-13/04_upcoming-behavioral-change-void-columns-included-in-delta-ta|Upcoming behavioral change VOID columns included in Delta table reads]]
     - [[sources/2026-04-13/02_from-19-hours-to-80-milliseconds-a-geospatial-cheesecake|From 19 Hours to 80 Milliseconds A Geospatial Cheesecake]]
