@@ -3,17 +3,19 @@ type: concept
 name: Agentic AI
 slug: agentic-ai
 first_seen: 2026-05-03
-last_seen: 2026-05-28
-mention_count: 4
-avg_confidence: 0.7
+last_seen: 2026-06-01
+mention_count: 5
+avg_confidence: 0.76
 tags: [concept]
 ---
 
 # Agentic AI
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-06-01|2026-06-01]]
+    - [[sources/2026-06-01/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
 - [[episodes/2026-05-09|2026-05-09]]

@@ -3,17 +3,19 @@ type: concept
 name: AWS Glue
 slug: aws-glue
 first_seen: 2026-04-25
-last_seen: 2026-05-26
-mention_count: 4
-avg_confidence: 0.775
+last_seen: 2026-06-01
+mention_count: 5
+avg_confidence: 0.7
 tags: [concept]
 ---
 
 # AWS Glue
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-06-01|2026-06-01]]
+    - [[sources/2026-06-01/06_exploring-snowpark-while-comparing-it-with-apache-spark|Exploring Snowpark While Comparing It with Apache Spark]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/05_aws-data-engineering-glue-emr-athena-kinesis-end-to-end-guid|AWS Data Engineering Glue, EMR, Athena, Kinesis End-to-End Guide]]
 - [[episodes/2026-05-19|2026-05-19]]

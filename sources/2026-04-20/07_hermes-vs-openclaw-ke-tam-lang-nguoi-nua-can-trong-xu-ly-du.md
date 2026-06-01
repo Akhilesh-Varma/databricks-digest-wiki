@@ -31,4 +31,4 @@ The article compares Hermes and OpenCLAW, two different approaches to data proce
 - **URL:** <https://dev.to/itprepvn/hermes-vs-openclaw-ke-tam-lang-nguoi-nua-can-trong-xu-ly-du-lieu-2026-287>
 
 ## Related
-[[concepts/hermes|hermes]] · [[concepts/openclaw|openclaw]] · [[concepts/dag|dag]] · [[concepts/heterogeneous-computing|heterogeneous-computing]] · [[concepts/data-lakehouse|data-lakehouse]] · [[concepts/orchestration|orchestration]] · [[concepts/lakehouse|lakehouse]] · [[concepts/pipeline|pipeline]] · [[concepts/python|python]] · [[concepts/sql|sql]] · [[concepts/llm|llm]] · [[concepts/ai|ai]] · [[companies/itprep|itprep]] · [[episodes/2026-04-20|2026-04-20]]
+[[concepts/hermes|hermes]] · [[concepts/openclaw|openclaw]] · [[concepts/dag|dag]] · [[concepts/heterogeneous-computing|heterogeneous-computing]] · [[concepts/data-lakehouse|data-lakehouse]] · [[concepts/orchestration|orchestration]] · [[concepts/lakehouse|lakehouse]] · [[concepts/big-data|big-data]] · [[concepts/pipeline|pipeline]] · [[concepts/python|python]] · [[concepts/sql|sql]] · [[concepts/llm|llm]] · [[concepts/ai|ai]] · [[companies/itprep|itprep]] · [[episodes/2026-04-20|2026-04-20]]

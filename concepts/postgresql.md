@@ -3,17 +3,19 @@ type: concept
 name: PostgreSQL
 slug: postgresql
 first_seen: 2026-04-09
-last_seen: 2026-05-27
-mention_count: 23
-avg_confidence: 0.696
+last_seen: 2026-06-01
+mention_count: 24
+avg_confidence: 0.683
 tags: [concept]
 ---
 
 # PostgreSQL
 
-_Concept mentioned across 23 stories._
+_Concept mentioned across 24 stories._
 
 ## Appears in
+- [[episodes/2026-06-01|2026-06-01]]
+    - [[sources/2026-06-01/09_specdb-llm-generated-customized-databases-via-feature-orient|SpecDB LLM-Generated Customized Databases via Feature-Oriented Decomposition]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/05_how-polymarket-scaled-their-data-stack-with-postgres-clickho|How Polymarket Scaled Their Data Stack with Postgres ClickHouse]]
 - [[episodes/2026-05-22|2026-05-22]]

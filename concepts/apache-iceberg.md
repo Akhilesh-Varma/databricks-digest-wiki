@@ -3,17 +3,19 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-05-31
-mention_count: 33
+last_seen: 2026-06-01
+mention_count: 34
 avg_confidence: 0.876
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 33 stories._
+_Concept mentioned across 34 stories._
 
 ## Appears in
+- [[episodes/2026-06-01|2026-06-01]]
+    - [[sources/2026-06-01/04_five-things-that-make-unity-catalog-the-most-interoperable-i|Five things that make UNITY CATALOG the MOST interoperable Iceberg catalog]]
 - [[episodes/2026-05-31|2026-05-31]]
     - [[sources/2026-05-31/03_the-triad-hudi-iceberg-delta-of-open-table-formats-2-n-archi|The Triad Hudi, Iceberg, Delta of Open Table Formats 2 n Architecture Deep Dive]]
 - [[episodes/2026-05-30|2026-05-30]]

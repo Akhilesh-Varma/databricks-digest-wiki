@@ -3,17 +3,21 @@ type: concept
 name: Large Language Models
 slug: large-language-models
 first_seen: 2026-04-06
-last_seen: 2026-05-28
-mention_count: 30
-avg_confidence: 0.733
+last_seen: 2026-06-01
+mention_count: 33
+avg_confidence: 0.745
 tags: [concept]
 ---
 
 # Large Language Models
 
-_Concept mentioned across 30 stories._
+_Concept mentioned across 33 stories._
 
 ## Appears in
+- [[episodes/2026-06-01|2026-06-01]]
+    - [[sources/2026-06-01/03_why-are-large-language-models-so-terrible-at-video-games|Why are large language models so terrible at video games?]]
+    - [[sources/2026-06-01/09_specdb-llm-generated-customized-databases-via-feature-orient|SpecDB LLM-Generated Customized Databases via Feature-Oriented Decomposition]]
+    - [[sources/2026-06-01/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/07_are-diffusion-language-models-good-database-analysts|Are Diffusion Language Models Good Database Analysts?]]
 - [[episodes/2026-05-25|2026-05-25]]

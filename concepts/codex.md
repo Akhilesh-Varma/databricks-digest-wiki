@@ -3,17 +3,19 @@ type: concept
 name: Codex
 slug: codex
 first_seen: 2026-04-23
-last_seen: 2026-05-29
-mention_count: 4
+last_seen: 2026-06-01
+mention_count: 5
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Codex
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-06-01|2026-06-01]]
+    - [[sources/2026-06-01/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/02_show-hn-ktx-open-source-executable-context-layer-for-data-ag|Show HN Ktx Open-source executable context layer for data agents]]
 - [[episodes/2026-05-28|2026-05-28]]

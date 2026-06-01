@@ -3,17 +3,19 @@ type: concept
 name: Apache Airflow
 slug: apache-airflow
 first_seen: 2026-04-17
-last_seen: 2026-05-29
-mention_count: 9
-avg_confidence: 0.678
+last_seen: 2026-06-01
+mention_count: 10
+avg_confidence: 0.65
 tags: [concept]
 ---
 
 # Apache Airflow
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-06-01|2026-06-01]]
+    - [[sources/2026-06-01/07_building-an-incident-debugging-agent-what-we-ve-learned-so-f|Building an Incident Debugging Agent What We've Learned So Far]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/07_how-ai-is-reshaping-the-data-engineer-role-in-2026|How AI Is Reshaping the Data Engineer Role in 2026]]
 - [[episodes/2026-05-28|2026-05-28]]

@@ -31,4 +31,4 @@ The article examines the predictable failure modes of Retrieval-Augmented Genera
 - **URL:** <https://towardsdatascience.com/embeddings-arent-magic-the-predictable-failure-modes-of-rag-retrieval-enterprise-document-intelligence-vol-1-2/>
 
 ## Related
-[[concepts/retrieval-augmented-generation|retrieval-augmented-generation]] · [[concepts/vector-search|vector-search]] · [[concepts/embeddings|embeddings]] · [[concepts/enterprise-document-intelligence|enterprise-document-intelligence]] · [[concepts/document-intelligence|document-intelligence]] · [[concepts/rag|rag]] · [[companies/towards-data-science|Towards Data Science]] · [[episodes/2026-05-31|2026-05-31]]
+[[concepts/retrieval-augmented-generation|retrieval-augmented-generation]] · [[concepts/vector-search|vector-search]] · [[concepts/embeddings|embeddings]] · [[concepts/enterprise-document-intelligence|enterprise-document-intelligence]] · [[concepts/document-intelligence|document-intelligence]] · [[concepts/data-science|data-science]] · [[concepts/rag|rag]] · [[companies/towards-data-science|Towards Data Science]] · [[episodes/2026-05-31|2026-05-31]]

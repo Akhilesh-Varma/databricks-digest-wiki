@@ -31,4 +31,4 @@ The article explores embedding on-device large language models, specifically Qwe
 - **URL:** <https://medium.com/data-science-collective/zero-latency-bi-embedding-qwen-3-and-phi-4-on-device-llms-into-power-bi-and-qlik-cloud-caf39b6127d7?source=rss------data_engineering-5>
 
 ## Related
-[[concepts/qwen-3|qwen-3]] · [[concepts/phi-4|phi-4]] · [[concepts/on-device-llm|on-device-llm]] · [[concepts/power-bi|power-bi]] · [[concepts/qlik-cloud|qlik-cloud]] · [[concepts/ai-assisted-bi|ai-assisted-bi]] · [[concepts/api|api]] · [[concepts/ai|ai]] · [[companies/microsoft|Microsoft]] · [[companies/qlik|Qlik]] · [[companies/alibaba|Alibaba]] · [[episodes/2026-05-14|2026-05-14]]
+[[concepts/qwen-3|qwen-3]] · [[concepts/phi-4|phi-4]] · [[concepts/on-device-llm|on-device-llm]] · [[concepts/power-bi|power-bi]] · [[concepts/qlik-cloud|qlik-cloud]] · [[concepts/ai-assisted-bi|ai-assisted-bi]] · [[concepts/data-science|data-science]] · [[concepts/api|api]] · [[concepts/ai|ai]] · [[companies/microsoft|Microsoft]] · [[companies/qlik|Qlik]] · [[companies/alibaba|Alibaba]] · [[episodes/2026-05-14|2026-05-14]]

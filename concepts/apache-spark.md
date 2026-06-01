@@ -3,17 +3,19 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-05-29
-mention_count: 46
-avg_confidence: 0.676
+last_seen: 2026-06-01
+mention_count: 47
+avg_confidence: 0.681
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 46 stories._
+_Concept mentioned across 47 stories._
 
 ## Appears in
+- [[episodes/2026-06-01|2026-06-01]]
+    - [[sources/2026-06-01/06_exploring-snowpark-while-comparing-it-with-apache-spark|Exploring Snowpark While Comparing It with Apache Spark]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/07_how-ai-is-reshaping-the-data-engineer-role-in-2026|How AI Is Reshaping the Data Engineer Role in 2026]]
 - [[episodes/2026-05-26|2026-05-26]]

@@ -3,17 +3,19 @@ type: company
 name: Google
 slug: google
 first_seen: 2026-04-05
-last_seen: 2026-05-29
-mention_count: 28
+last_seen: 2026-06-01
+mention_count: 29
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google
 
-_Company mentioned across 28 stories._
+_Company mentioned across 29 stories._
 
 ## Appears in
+- [[episodes/2026-06-01|2026-06-01]]
+    - [[sources/2026-06-01/03_why-are-large-language-models-so-terrible-at-video-games|Why are large language models so terrible at video games?]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/02_show-hn-ktx-open-source-executable-context-layer-for-data-ag|Show HN Ktx Open-source executable context layer for data agents]]
 - [[episodes/2026-05-27|2026-05-27]]

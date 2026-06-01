@@ -3,17 +3,19 @@ type: concept
 name: data lineage
 slug: data-lineage
 first_seen: 2026-04-24
-last_seen: 2026-05-11
-mention_count: 4
-avg_confidence: 0.75
+last_seen: 2026-06-01
+mention_count: 5
+avg_confidence: 0.74
 tags: [concept]
 ---
 
 # data lineage
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-06-01|2026-06-01]]
+    - [[sources/2026-06-01/07_building-an-incident-debugging-agent-what-we-ve-learned-so-f|Building an Incident Debugging Agent What We've Learned So Far]]
 - [[episodes/2026-05-11|2026-05-11]]
     - [[sources/2026-05-11/07_data-lake-architecture-for-data-engineering-interviews|Data Lake Architecture for Data Engineering Interviews]]
 - [[episodes/2026-05-05|2026-05-05]]

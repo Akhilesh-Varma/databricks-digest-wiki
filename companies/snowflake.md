@@ -3,17 +3,19 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-08
-last_seen: 2026-05-30
-mention_count: 35
+last_seen: 2026-06-01
+mention_count: 36
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 35 stories._
+_Company mentioned across 36 stories._
 
 ## Appears in
+- [[episodes/2026-06-01|2026-06-01]]
+    - [[sources/2026-06-01/06_exploring-snowpark-while-comparing-it-with-apache-spark|Exploring Snowpark While Comparing It with Apache Spark]]
 - [[episodes/2026-05-30|2026-05-30]]
     - [[sources/2026-05-30/03_databricks-runtime-18-may-29-2026|Databricks Runtime 18 May 29, 2026]]
 - [[episodes/2026-05-29|2026-05-29]]

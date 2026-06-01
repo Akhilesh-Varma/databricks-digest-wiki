@@ -3,17 +3,19 @@ type: concept
 name: MySQL
 slug: mysql
 first_seen: 2026-04-17
-last_seen: 2026-05-15
-mention_count: 3
-avg_confidence: 0.5
+last_seen: 2026-06-01
+mention_count: 4
+avg_confidence: 0.475
 tags: [concept]
 ---
 
 # MySQL
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-06-01|2026-06-01]]
+    - [[sources/2026-06-01/09_specdb-llm-generated-customized-databases-via-feature-orient|SpecDB LLM-Generated Customized Databases via Feature-Oriented Decomposition]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/07_python-and-how-python-is-used-in-the-data-analytics-space-a|Python and How Python Is Used In The Data Analytics Space. A Beginner's Guide.]]
 - [[episodes/2026-05-08|2026-05-08]]

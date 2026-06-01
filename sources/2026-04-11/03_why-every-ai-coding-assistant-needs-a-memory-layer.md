@@ -30,4 +30,4 @@ The article argues that AI coding assistants suffer from the statelessness inher
 - **URL:** <https://towardsdatascience.com/why-every-ai-coding-assistant-needs-a-memory-layer/>
 
 ## Related
-[[concepts/memory-layer|memory-layer]] · [[concepts/large-language-models|large-language-models]] · [[concepts/ai-coding-assistants|ai-coding-assistants]] · [[concepts/stateless-llm-architecture|stateless-llm-architecture]] · [[concepts/llms|llms]] · [[concepts/ai|ai]] · [[companies/towards-data-science|Towards Data Science]] · [[episodes/2026-04-11|2026-04-11]]
+[[concepts/memory-layer|memory-layer]] · [[concepts/large-language-models|large-language-models]] · [[concepts/ai-coding-assistants|ai-coding-assistants]] · [[concepts/stateless-llm-architecture|stateless-llm-architecture]] · [[concepts/data-science|data-science]] · [[concepts/llms|llms]] · [[concepts/ai|ai]] · [[companies/towards-data-science|Towards Data Science]] · [[episodes/2026-04-11|2026-04-11]]

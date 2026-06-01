@@ -3,17 +3,19 @@ type: concept
 name: Pandas
 slug: pandas
 first_seen: 2026-04-17
-last_seen: 2026-05-26
-mention_count: 4
-avg_confidence: 0.475
+last_seen: 2026-06-01
+mention_count: 5
+avg_confidence: 0.46
 tags: [concept]
 ---
 
 # Pandas
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-06-01|2026-06-01]]
+    - [[sources/2026-06-01/06_exploring-snowpark-while-comparing-it-with-apache-spark|Exploring Snowpark While Comparing It with Apache Spark]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/07_fabric-ai-functions-turn-genai-into-a-data-pipeline-step|Fabric AI Functions Turn GenAI Into a Data Pipeline Step]]
 - [[episodes/2026-05-12|2026-05-12]]

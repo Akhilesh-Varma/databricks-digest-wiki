@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-05-31T10:23:29.193678+00:00",
-  "node_count": 2709,
-  "edge_count": 4621,
+  "generated_at": "2026-06-01T10:27:59.113769+00:00",
+  "node_count": 2757,
+  "edge_count": 4707,
   "nodes": [
+    {
+      "id": "episode/2026-06-01",
+      "type": "episode",
+      "label": "Daily Databricks Digest - June 01, 2026",
+      "episode_date": "2026-06-01",
+      "story_count": 9
+    },
     {
       "id": "episode/2026-05-31",
       "type": "episode",
@@ -4209,6 +4216,78 @@
       "quality_score": 0.7285953241722884
     },
     {
+      "id": "story/community_roundup_5_community_0fd805d2f795",
+      "type": "story",
+      "label": "Databricks Community Roundup \u2014 5 new posts",
+      "episode_date": "2026-06-01",
+      "rank": 1,
+      "quality_score": 0.8
+    },
+    {
+      "id": "story/trending_repos_roundup_5_github_trending_op7418_g",
+      "type": "story",
+      "label": "Weekly Trending Repos Roundup \u2014 5 new from the past 7 days",
+      "episode_date": "2026-06-01",
+      "rank": 2,
+      "quality_score": 0.5800000000000001
+    },
+    {
+      "id": "story/hn_48354405",
+      "type": "story",
+      "label": "Why are large language models so terrible at video games?",
+      "episode_date": "2026-06-01",
+      "rank": 3,
+      "quality_score": 0.6887876147991682
+    },
+    {
+      "id": "story/rss_e2d17ec80be0",
+      "type": "story",
+      "label": "Five things that make UNITY CATALOG the MOST interoperable Iceberg catalog",
+      "episode_date": "2026-06-01",
+      "rank": 4,
+      "quality_score": 0.6990305837382607
+    },
+    {
+      "id": "story/rss_416d06ad9a96",
+      "type": "story",
+      "label": "Azure Data Factory vs Databricks for Orchestration The Honest Comparison No One Writes",
+      "episode_date": "2026-06-01",
+      "rank": 5,
+      "quality_score": 0.6981081299948745
+    },
+    {
+      "id": "story/devto_3787319",
+      "type": "story",
+      "label": "Exploring Snowpark While Comparing It with Apache Spark",
+      "episode_date": "2026-06-01",
+      "rank": 6,
+      "quality_score": 0.8563311795648149
+    },
+    {
+      "id": "story/devto_3791926",
+      "type": "story",
+      "label": "Building an Incident Debugging Agent What We've Learned So Far",
+      "episode_date": "2026-06-01",
+      "rank": 7,
+      "quality_score": 0.815152773124008
+    },
+    {
+      "id": "story/devto_3792940",
+      "type": "story",
+      "label": "From Frontend to Data Engineering Why I Made the Switch?",
+      "episode_date": "2026-06-01",
+      "rank": 8,
+      "quality_score": 0.7774738708483797
+    },
+    {
+      "id": "story/rss_509d090384d1",
+      "type": "story",
+      "label": "SpecDB LLM-Generated Customized Databases via Feature-Oriented Decomposition",
+      "episode_date": "2026-06-01",
+      "rank": 9,
+      "quality_score": 0.8363311787645503
+    },
+    {
       "id": "concept/s3-object-storage",
       "type": "concept",
       "label": "S3 Object Storage",
@@ -4248,7 +4327,7 @@
       "id": "concept/apache-iceberg",
       "type": "concept",
       "label": "Apache Iceberg",
-      "mention_count": 33
+      "mention_count": 34
     },
     {
       "id": "concept/apache-polaris",
@@ -4482,7 +4561,7 @@
       "id": "company/google",
       "type": "company",
       "label": "Google",
-      "mention_count": 28
+      "mention_count": 29
     },
     {
       "id": "company/redpanda",
@@ -4524,7 +4603,7 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 248
+      "mention_count": 251
     },
     {
       "id": "concept/fulfillment-center-operations",
@@ -4632,7 +4711,7 @@
       "id": "concept/unity-catalog",
       "type": "concept",
       "label": "Unity Catalog",
-      "mention_count": 83
+      "mention_count": 84
     },
     {
       "id": "concept/medallion-architecture",
@@ -4740,7 +4819,7 @@
       "id": "company/microsoft",
       "type": "company",
       "label": "Microsoft",
-      "mention_count": 39
+      "mention_count": 40
     },
     {
       "id": "concept/databricks-terraform-provider",
@@ -4794,7 +4873,7 @@
       "id": "concept/apache-spark",
       "type": "concept",
       "label": "Apache Spark",
-      "mention_count": 46
+      "mention_count": 47
     },
     {
       "id": "concept/apache-flink",
@@ -4860,7 +4939,7 @@
       "id": "concept/large-language-models",
       "type": "concept",
       "label": "Large Language Models",
-      "mention_count": 30
+      "mention_count": 33
     },
     {
       "id": "concept/cost-based-query-optimization",
@@ -4992,13 +5071,13 @@
       "id": "concept/credential-vending",
       "type": "concept",
       "label": "Credential Vending",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/lakehouse",
       "type": "concept",
       "label": "Lakehouse",
-      "mention_count": 48
+      "mention_count": 49
     },
     {
       "id": "company/microsoft-azure",
@@ -5058,7 +5137,7 @@
       "id": "company/amazon-web-services",
       "type": "company",
       "label": "Amazon Web Services",
-      "mention_count": 31
+      "mention_count": 32
     },
     {
       "id": "concept/databricks-platform",
@@ -5136,7 +5215,7 @@
       "id": "concept/databricks-serverless-sql",
       "type": "concept",
       "label": "Databricks Serverless SQL",
-      "mention_count": 9
+      "mention_count": 10
     },
     {
       "id": "concept/photon",
@@ -5310,7 +5389,7 @@
       "id": "concept/data-pipeline",
       "type": "concept",
       "label": "Data Pipeline",
-      "mention_count": 13
+      "mention_count": 14
     },
     {
       "id": "concept/take-home-assignments",
@@ -5670,7 +5749,7 @@
       "id": "company/snowflake",
       "type": "company",
       "label": "Snowflake",
-      "mention_count": 35
+      "mention_count": 36
     },
     {
       "id": "concept/mlflow",
@@ -6252,7 +6331,7 @@
       "id": "concept/apache-airflow",
       "type": "concept",
       "label": "Apache Airflow",
-      "mention_count": 9
+      "mention_count": 10
     },
     {
       "id": "concept/dag",
@@ -6312,7 +6391,7 @@
       "id": "concept/postgresql",
       "type": "concept",
       "label": "PostgreSQL",
-      "mention_count": 23
+      "mention_count": 24
     },
     {
       "id": "concept/duckdb",
@@ -6330,7 +6409,7 @@
       "id": "concept/mysql",
       "type": "concept",
       "label": "MySQL",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/retrieval-augmented-generation-rag",
@@ -6360,7 +6439,7 @@
       "id": "concept/dbt",
       "type": "concept",
       "label": "dbt",
-      "mention_count": 14
+      "mention_count": 15
     },
     {
       "id": "concept/snowflake",
@@ -7092,13 +7171,13 @@
       "id": "concept/databricks",
       "type": "concept",
       "label": "Databricks",
-      "mention_count": 14
+      "mention_count": 15
     },
     {
       "id": "concept/pandas",
       "type": "concept",
       "label": "Pandas",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "company/tiktok",
@@ -7464,7 +7543,7 @@
       "id": "concept/claude-code",
       "type": "concept",
       "label": "Claude Code",
-      "mention_count": 15
+      "mention_count": 16
     },
     {
       "id": "company/google-cloud-platform",
@@ -8520,7 +8599,7 @@
       "id": "concept/data-lineage",
       "type": "concept",
       "label": "data lineage",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/data-permissions",
@@ -8862,7 +8941,7 @@
       "id": "concept/multi-agent-pipeline",
       "type": "concept",
       "label": "Multi-Agent Pipeline",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/representation-learning",
@@ -10026,7 +10105,7 @@
       "id": "concept/aws-glue",
       "type": "concept",
       "label": "AWS Glue",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/nessie",
@@ -10734,13 +10813,13 @@
       "id": "concept/agentic-ai",
       "type": "concept",
       "label": "Agentic AI",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/codex",
       "type": "concept",
       "label": "Codex",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/databricks-sql-alerts",
@@ -10794,13 +10873,13 @@
       "id": "concept/metadata-driven-etl-framework",
       "type": "concept",
       "label": "Metadata-Driven ETL Framework",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/query-performance-tuning",
       "type": "concept",
       "label": "Query Performance Tuning",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "id": "concept/apache-beam",
@@ -11994,13 +12073,13 @@
       "id": "concept/azure-data-factory",
       "type": "concept",
       "label": "Azure Data Factory",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/data-pipelines",
       "type": "concept",
       "label": "Data Pipelines",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "id": "concept/lakeflow-declarative-pipelines",
@@ -12462,7 +12541,7 @@
       "id": "concept/data-engineering",
       "type": "concept",
       "label": "Data Engineering",
-      "mention_count": 13
+      "mention_count": 14
     },
     {
       "id": "concept/databricks-delta-lake",
@@ -13506,7 +13585,7 @@
       "id": "concept/reinforcement-learning",
       "type": "concept",
       "label": "Reinforcement Learning",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/group-relative-policy-optimization",
@@ -14106,7 +14185,7 @@
       "id": "concept/ai-agents",
       "type": "concept",
       "label": "AI agents",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/app-development",
@@ -14778,7 +14857,7 @@
       "id": "company/arxiv",
       "type": "company",
       "label": "arXiv",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/managed-mlflow",
@@ -15474,7 +15553,7 @@
       "id": "concept/pipeline-orchestration",
       "type": "concept",
       "label": "Pipeline Orchestration",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/ibm-cloud",
@@ -16590,7 +16669,7 @@
       "id": "concept/user-defined-functions",
       "type": "concept",
       "label": "user-defined functions",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/in-context-learning",
@@ -16929,6 +17008,60 @@
       "mention_count": 1
     },
     {
+      "id": "concept/general-game-ai",
+      "type": "concept",
+      "label": "General Game AI",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/alphazero",
+      "type": "concept",
+      "label": "AlphaZero",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/llm-benchmarks",
+      "type": "concept",
+      "label": "LLM Benchmarks",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/gemini-2-5-pro",
+      "type": "concept",
+      "label": "Gemini 2.5 Pro",
+      "mention_count": 1
+    },
+    {
+      "id": "company/modl-ai",
+      "type": "company",
+      "label": "Modl.ai",
+      "mention_count": 1
+    },
+    {
+      "id": "company/new-york-university",
+      "type": "company",
+      "label": "New York University",
+      "mention_count": 1
+    },
+    {
+      "id": "company/ieee",
+      "type": "company",
+      "label": "IEEE",
+      "mention_count": 1
+    },
+    {
+      "id": "person/julian-togelius",
+      "type": "person",
+      "label": "Julian Togelius",
+      "mention_count": 1
+    },
+    {
+      "id": "person/raph-koster",
+      "type": "person",
+      "label": "Raph Koster",
+      "mention_count": 1
+    },
+    {
       "id": "concept/llm-integrated-pipelines",
       "type": "concept",
       "label": "LLM-Integrated Pipelines",
@@ -16962,6 +17095,90 @@
       "id": "concept/checkpointing",
       "type": "concept",
       "label": "Checkpointing",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/specdb",
+      "type": "concept",
+      "label": "SpecDB",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/foda-feature-model",
+      "type": "concept",
+      "label": "FODA Feature Model",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/dbgraph",
+      "type": "concept",
+      "label": "DBGraph",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/feature-oriented-decomposition",
+      "type": "concept",
+      "label": "Feature-Oriented Decomposition",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/tpc-c",
+      "type": "concept",
+      "label": "TPC-C",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/benchmarksql",
+      "type": "concept",
+      "label": "BenchmarkSQL",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/relational-database",
+      "type": "concept",
+      "label": "Relational Database",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/rust",
+      "type": "concept",
+      "label": "Rust",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/incident-debugging-agent",
+      "type": "concept",
+      "label": "Incident Debugging Agent",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/data-context-and-catalog-agent",
+      "type": "concept",
+      "label": "Data Context and Catalog Agent",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/root-cause-analysis",
+      "type": "concept",
+      "label": "Root Cause Analysis",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/data-pipeline-observability",
+      "type": "concept",
+      "label": "Data Pipeline Observability",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/schema-change-detection",
+      "type": "concept",
+      "label": "Schema Change Detection",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/blast-radius-mapping",
+      "type": "concept",
+      "label": "Blast Radius Mapping",
       "mention_count": 1
     },
     {
@@ -17010,6 +17227,42 @@
       "id": "company/notion",
       "type": "company",
       "label": "Notion",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/snowpark",
+      "type": "concept",
+      "label": "Snowpark",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/dataframe-api",
+      "type": "concept",
+      "label": "DataFrame API",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/snowflake-notebooks",
+      "type": "concept",
+      "label": "Snowflake Notebooks",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/snowsight",
+      "type": "concept",
+      "label": "Snowsight",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/user-defined-table-functions",
+      "type": "concept",
+      "label": "User-Defined Table Functions",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/pushdown-execution",
+      "type": "concept",
+      "label": "Pushdown Execution",
       "mention_count": 1
     },
     {
@@ -17127,6 +17380,12 @@
       "mention_count": 1
     },
     {
+      "id": "concept/bronze-table",
+      "type": "concept",
+      "label": "Bronze Table",
+      "mention_count": 1
+    },
+    {
       "id": "concept/managed-iceberg",
       "type": "concept",
       "label": "Managed Iceberg",
@@ -17151,9 +17410,57 @@
       "mention_count": 1
     },
     {
+      "id": "concept/frontend-development",
+      "type": "concept",
+      "label": "Frontend Development",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/big-data",
+      "type": "concept",
+      "label": "Big Data",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/data-science",
+      "type": "concept",
+      "label": "Data Science",
+      "mention_count": 1
+    },
+    {
       "id": "concept/open-sharing",
       "type": "concept",
       "label": "Open Sharing",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/cli-sdk",
+      "type": "concept",
+      "label": "CLI SDK",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/ide-plugins",
+      "type": "concept",
+      "label": "IDE Plugins",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/open-apis",
+      "type": "concept",
+      "label": "Open APIs",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/iceberg-catalog",
+      "type": "concept",
+      "label": "Iceberg Catalog",
+      "mention_count": 1
+    },
+    {
+      "id": "person/youssef-mrini",
+      "type": "person",
+      "label": "Youssef Mrini",
       "mention_count": 1
     },
     {
@@ -39437,6 +39744,71 @@
       "kind": "mentions"
     },
     {
+      "source": "story/hn_48354405",
+      "target": "episode/2026-06-01",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/hn_48354405",
+      "target": "concept/large-language-models",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48354405",
+      "target": "concept/general-game-ai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48354405",
+      "target": "concept/alphazero",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48354405",
+      "target": "concept/llm-benchmarks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48354405",
+      "target": "concept/reinforcement-learning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48354405",
+      "target": "concept/gemini-2-5-pro",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48354405",
+      "target": "company/google",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48354405",
+      "target": "company/modl-ai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48354405",
+      "target": "company/new-york-university",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48354405",
+      "target": "company/ieee",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48354405",
+      "target": "person/julian-togelius",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48354405",
+      "target": "person/raph-koster",
+      "kind": "mentions"
+    },
+    {
       "source": "story/devto_3774591",
       "target": "episode/2026-05-29",
       "kind": "aired_in"
@@ -39582,6 +39954,126 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_509d090384d1",
+      "target": "episode/2026-06-01",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_509d090384d1",
+      "target": "concept/specdb",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_509d090384d1",
+      "target": "concept/large-language-models",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_509d090384d1",
+      "target": "concept/foda-feature-model",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_509d090384d1",
+      "target": "concept/dbgraph",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_509d090384d1",
+      "target": "concept/feature-oriented-decomposition",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_509d090384d1",
+      "target": "concept/tpc-c",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_509d090384d1",
+      "target": "concept/benchmarksql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_509d090384d1",
+      "target": "concept/relational-database",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_509d090384d1",
+      "target": "concept/multi-agent-pipeline",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_509d090384d1",
+      "target": "concept/postgresql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_509d090384d1",
+      "target": "concept/mysql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_509d090384d1",
+      "target": "concept/rust",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_509d090384d1",
+      "target": "company/arxiv",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3791926",
+      "target": "episode/2026-06-01",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3791926",
+      "target": "concept/incident-debugging-agent",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3791926",
+      "target": "concept/data-lineage",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3791926",
+      "target": "concept/data-context-and-catalog-agent",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3791926",
+      "target": "concept/dbt",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3791926",
+      "target": "concept/apache-airflow",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3791926",
+      "target": "concept/root-cause-analysis",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3791926",
+      "target": "concept/data-pipeline-observability",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3791926",
+      "target": "concept/schema-change-detection",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3791926",
+      "target": "concept/blast-radius-mapping",
+      "kind": "mentions"
+    },
+    {
       "source": "story/hn_48309986",
       "target": "episode/2026-05-29",
       "kind": "aired_in"
@@ -39674,6 +40166,71 @@
     {
       "source": "story/hn_48309986",
       "target": "company/notion",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3787319",
+      "target": "episode/2026-06-01",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3787319",
+      "target": "concept/snowpark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3787319",
+      "target": "concept/apache-spark",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3787319",
+      "target": "concept/dataframe-api",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3787319",
+      "target": "concept/snowflake-notebooks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3787319",
+      "target": "concept/snowsight",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3787319",
+      "target": "concept/aws-glue",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3787319",
+      "target": "concept/user-defined-functions",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3787319",
+      "target": "concept/user-defined-table-functions",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3787319",
+      "target": "concept/pushdown-execution",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3787319",
+      "target": "concept/pandas",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3787319",
+      "target": "company/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3787319",
+      "target": "company/amazon-web-services",
       "kind": "mentions"
     },
     {
@@ -39982,6 +40539,46 @@
       "kind": "mentions"
     },
     {
+      "source": "story/community_roundup_5_community_0fd805d2f795",
+      "target": "episode/2026-06-01",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_roundup_5_community_0fd805d2f795",
+      "target": "concept/databricks-serverless-sql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_0fd805d2f795",
+      "target": "concept/lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_0fd805d2f795",
+      "target": "concept/metadata-driven-etl-framework",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_0fd805d2f795",
+      "target": "concept/bronze-table",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_0fd805d2f795",
+      "target": "concept/data-pipeline",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_0fd805d2f795",
+      "target": "concept/query-performance-tuning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_0fd805d2f795",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
       "source": "story/community_roundup_5_community_f856c2dab008",
       "target": "episode/2026-05-30",
       "kind": "aired_in"
@@ -40064,6 +40661,36 @@
     {
       "source": "story/rss_1f88032d9ce6",
       "target": "company/towards-data-science",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3792940",
+      "target": "episode/2026-06-01",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/devto_3792940",
+      "target": "concept/data-pipelines",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3792940",
+      "target": "concept/data-engineering",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3792940",
+      "target": "concept/frontend-development",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3792940",
+      "target": "concept/big-data",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/devto_3792940",
+      "target": "concept/data-science",
       "kind": "mentions"
     },
     {
@@ -40152,6 +40779,86 @@
       "kind": "mentions"
     },
     {
+      "source": "story/trending_repos_roundup_5_github_trending_op7418_g",
+      "target": "episode/2026-06-01",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_op7418_g",
+      "target": "concept/agentic-ai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_op7418_g",
+      "target": "concept/claude-code",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_op7418_g",
+      "target": "concept/codex",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_op7418_g",
+      "target": "concept/large-language-models",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_op7418_g",
+      "target": "concept/ai-agents",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_op7418_g",
+      "target": "concept/cli-sdk",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_op7418_g",
+      "target": "concept/ide-plugins",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_e2d17ec80be0",
+      "target": "episode/2026-06-01",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_e2d17ec80be0",
+      "target": "concept/unity-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_e2d17ec80be0",
+      "target": "concept/apache-iceberg",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_e2d17ec80be0",
+      "target": "concept/credential-vending",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_e2d17ec80be0",
+      "target": "concept/open-apis",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_e2d17ec80be0",
+      "target": "concept/iceberg-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_e2d17ec80be0",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_e2d17ec80be0",
+      "target": "person/youssef-mrini",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_079d8d7a8eba",
       "target": "episode/2026-05-31",
       "kind": "aired_in"
@@ -40218,6 +40925,36 @@
     },
     {
       "source": "story/rss_9c5994f64196",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_416d06ad9a96",
+      "target": "episode/2026-06-01",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_416d06ad9a96",
+      "target": "concept/azure-data-factory",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_416d06ad9a96",
+      "target": "concept/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_416d06ad9a96",
+      "target": "concept/pipeline-orchestration",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_416d06ad9a96",
+      "target": "company/microsoft",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_416d06ad9a96",
       "target": "company/databricks",
       "kind": "mentions"
     },

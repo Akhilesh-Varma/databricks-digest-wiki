@@ -3,17 +3,19 @@ type: concept
 name: Data Engineering
 slug: data-engineering
 first_seen: 2026-03-17
-last_seen: 2026-05-17
-mention_count: 13
-avg_confidence: 0.746
+last_seen: 2026-06-01
+mention_count: 14
+avg_confidence: 0.764
 tags: [concept]
 ---
 
 # Data Engineering
 
-_Concept mentioned across 13 stories._
+_Concept mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-06-01|2026-06-01]]
+    - [[sources/2026-06-01/08_from-frontend-to-data-engineering-why-i-made-the-switch|From Frontend to Data Engineering Why I Made the Switch?]]
 - [[episodes/2026-05-17|2026-05-17]]
     - [[sources/2026-05-17/07_part-4-demystifying-data-jargons-datalake-warehouse-and-delt|Part 4 Demystifying Data Jargons Datalake, Warehouse, and Delta Lake Explained]]
     - [[sources/2026-05-17/03_databricks-learning-festival-instructor-led-apac-emea|Databricks Learning Festival Instructor-Led APAC EMEA]]

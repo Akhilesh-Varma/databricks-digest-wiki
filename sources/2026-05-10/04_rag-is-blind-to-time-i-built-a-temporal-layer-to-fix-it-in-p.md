@@ -31,4 +31,4 @@ The author discovered that their RAG-based AI tutor returned outdated informatio
 - **URL:** <https://towardsdatascience.com/rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-production/>
 
 ## Related
-[[concepts/retrieval-augmented-generation|retrieval-augmented-generation]] · [[concepts/temporal-layer|temporal-layer]] · [[concepts/ai-tutor|ai-tutor]] · [[concepts/rag|rag]] · [[concepts/ai|ai]] · [[companies/towards-data-science|Towards Data Science]] · [[episodes/2026-05-10|2026-05-10]]
+[[concepts/retrieval-augmented-generation|retrieval-augmented-generation]] · [[concepts/temporal-layer|temporal-layer]] · [[concepts/ai-tutor|ai-tutor]] · [[concepts/data-science|data-science]] · [[concepts/rag|rag]] · [[concepts/ai|ai]] · [[companies/towards-data-science|Towards Data Science]] · [[episodes/2026-05-10|2026-05-10]]

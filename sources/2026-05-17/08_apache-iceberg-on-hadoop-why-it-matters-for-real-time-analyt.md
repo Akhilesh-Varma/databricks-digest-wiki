@@ -30,4 +30,4 @@ The article explores the integration of Apache Iceberg with Hadoop and its impli
 - **URL:** <https://medium.com/@yakshithkd97/apache-iceberg-on-hadoop-why-it-matters-for-real-time-analytics-and-edge-ai-908291e5272c?source=rss------apache_spark-5>
 
 ## Related
-[[concepts/apache-iceberg|apache-iceberg]] · [[concepts/hadoop|hadoop]] · [[concepts/data-lake|data-lake]] · [[concepts/real-time-analytics|real-time-analytics]] · [[concepts/edge-ai|edge-ai]] · [[companies/apache-software-foundation|Apache Software Foundation]] · [[episodes/2026-05-17|2026-05-17]]
+[[concepts/apache-iceberg|apache-iceberg]] · [[concepts/hadoop|hadoop]] · [[concepts/data-lake|data-lake]] · [[concepts/real-time-analytics|real-time-analytics]] · [[concepts/edge-ai|edge-ai]] · [[concepts/big-data|big-data]] · [[companies/apache-software-foundation|Apache Software Foundation]] · [[episodes/2026-05-17|2026-05-17]]

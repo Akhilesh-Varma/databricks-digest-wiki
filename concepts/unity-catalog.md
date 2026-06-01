@@ -3,17 +3,19 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-05-30
-mention_count: 83
-avg_confidence: 0.761
+last_seen: 2026-06-01
+mention_count: 84
+avg_confidence: 0.764
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 83 stories._
+_Concept mentioned across 84 stories._
 
 ## Appears in
+- [[episodes/2026-06-01|2026-06-01]]
+    - [[sources/2026-06-01/04_five-things-that-make-unity-catalog-the-most-interoperable-i|Five things that make UNITY CATALOG the MOST interoperable Iceberg catalog]]
 - [[episodes/2026-05-30|2026-05-30]]
     - [[sources/2026-05-30/03_databricks-runtime-18-may-29-2026|Databricks Runtime 18 May 29, 2026]]
     - [[sources/2026-05-30/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
