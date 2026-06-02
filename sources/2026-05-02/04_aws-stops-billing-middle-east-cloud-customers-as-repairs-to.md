@@ -32,4 +32,4 @@ Iranian drone strikes in early 2026 damaged three Amazon Web Services data cente
 - **URL:** <https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/>
 
 ## Related
-[[concepts/amazon-web-services|amazon-web-services]] · [[concepts/cloud-region|cloud-region]] · [[concepts/data-center|data-center]] · [[concepts/cloud-migration|cloud-migration]] · [[concepts/aws|aws]] · [[companies/amazon|Amazon]] · [[companies/aws|AWS]] · [[companies/careem|Careem]] · [[episodes/2026-05-02|2026-05-02]]
+[[concepts/amazon-web-services|amazon-web-services]] · [[concepts/cloud-region|cloud-region]] · [[concepts/data-center|data-center]] · [[concepts/cloud-migration|cloud-migration]] · [[concepts/cloud|cloud]] · [[concepts/aws|aws]] · [[companies/amazon|Amazon]] · [[companies/aws|AWS]] · [[companies/careem|Careem]] · [[episodes/2026-05-02|2026-05-02]]

@@ -32,4 +32,4 @@ A developer built Piruetas, a self-hosted diary web application, after failing t
 - **URL:** <https://piruet.app>
 
 ## Related
-[[concepts/self-hosted-journaling-app|self-hosted-journaling-app]] · [[concepts/docker-compose|docker-compose]] · [[concepts/docker|docker]] · [[episodes/2026-05-03|2026-05-03]]
+[[concepts/self-hosted-journaling-app|self-hosted-journaling-app]] · [[concepts/docker-compose|docker-compose]] · [[concepts/docker|docker]] · [[concepts/cloud|cloud]] · [[episodes/2026-05-03|2026-05-03]]

@@ -3,17 +3,20 @@ type: concept
 name: SQL
 slug: sql
 first_seen: 2026-03-17
-last_seen: 2026-05-18
-mention_count: 8
-avg_confidence: 0.5
+last_seen: 2026-06-02
+mention_count: 10
+avg_confidence: 0.51
 tags: [concept]
 ---
 
 # SQL
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/08_data-engineering-skills-10-technical-5-soft-skills-hiring-ma|Data Engineering Skills 10 Technical 5 Soft Skills Hiring Managers Test]]
+    - [[sources/2026-06-02/09_data-engineering-salary-2026-levels-locations-comp-breakdown|Data Engineering Salary 2026 Levels, Locations Comp Breakdowns]]
 - [[episodes/2026-05-18|2026-05-18]]
     - [[sources/2026-05-18/10_to-gpu-or-not-to-gpu-vector-search-in-relational-engines|To GPU or Not to GPU Vector Search in Relational Engines]]
 - [[episodes/2026-05-03|2026-05-03]]

@@ -31,4 +31,4 @@ The article describes a real-world incident where a data engineer triaged an une
 - **URL:** <https://medium.com/@sandeep.bhatia_60169/how-i-triaged-a-bigquery-cost-spike-at-a-regional-grocery-chain-and-the-two-problems-hiding-in-41b20cf286b0?source=rss------data_engineering-5>
 
 ## Related
-[[concepts/bigquery|bigquery]] · [[concepts/finops|finops]] · [[concepts/cloud-cost-optimization|cloud-cost-optimization]] · [[concepts/retail-analytics|retail-analytics]] · [[concepts/google-cloud-platform|google-cloud-platform]] · [[concepts/data-engineering|data-engineering]] · [[concepts/analytics|analytics]] · [[concepts/sql|sql]] · [[companies/google|Google]] · [[episodes/2026-04-05|2026-04-05]]
+[[concepts/bigquery|bigquery]] · [[concepts/finops|finops]] · [[concepts/cloud-cost-optimization|cloud-cost-optimization]] · [[concepts/retail-analytics|retail-analytics]] · [[concepts/google-cloud-platform|google-cloud-platform]] · [[concepts/data-engineering|data-engineering]] · [[concepts/analytics|analytics]] · [[concepts/cloud|cloud]] · [[concepts/sql|sql]] · [[companies/google|Google]] · [[episodes/2026-04-05|2026-04-05]]

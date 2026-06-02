@@ -3,17 +3,19 @@ type: concept
 name: PySpark
 slug: pyspark
 first_seen: 2026-03-17
-last_seen: 2026-05-19
-mention_count: 14
-avg_confidence: 0.779
+last_seen: 2026-06-02
+mention_count: 15
+avg_confidence: 0.753
 tags: [concept]
 ---
 
 # PySpark
 
-_Concept mentioned across 14 stories._
+_Concept mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/10_integrating-oic-with-databricks-using-aws-s3-external-tables|Integrating OIC with Databricks using AWS S3 External Tables Approach]]
 - [[episodes/2026-05-18|2026-05-18]]

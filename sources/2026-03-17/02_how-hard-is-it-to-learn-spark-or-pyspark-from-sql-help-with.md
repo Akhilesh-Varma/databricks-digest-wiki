@@ -33,4 +33,4 @@ A data professional with roughly 13+ years of mixed experience across BI enginee
 - **URL:** <https://reddit.com/r/apachespark/comments/1rud50q/how_hard_is_it_to_learn_spark_or_pyspark_from_sql/>
 
 ## Related
-[[concepts/apache-spark|apache-spark]] · [[concepts/pyspark|pyspark]] · [[concepts/sql|sql]] · [[concepts/data-engineering|data-engineering]] · [[concepts/bi-engineering|bi-engineering]] · [[concepts/analytics|analytics]] · [[concepts/spark|spark]] · [[episodes/2026-03-17|2026-03-17]]
+[[concepts/apache-spark|apache-spark]] · [[concepts/pyspark|pyspark]] · [[concepts/sql|sql]] · [[concepts/data-engineering|data-engineering]] · [[concepts/bi-engineering|bi-engineering]] · [[concepts/analytics|analytics]] · [[concepts/cloud|cloud]] · [[concepts/spark|spark]] · [[episodes/2026-03-17|2026-03-17]]

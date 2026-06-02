@@ -3,17 +3,19 @@ type: concept
 name: FastAPI
 slug: fastapi
 first_seen: 2026-04-19
-last_seen: 2026-05-20
-mention_count: 3
-avg_confidence: 0.5
+last_seen: 2026-06-02
+mention_count: 4
+avg_confidence: 0.55
 tags: [concept]
 ---
 
 # FastAPI
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/07_integrated-biological-data-collection-platform-an-architectu|Integrated Biological Data Collection Platform An Architecture for Automated Curation of Public Repositories]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/08_a-data-platform-tracking-news-and-social-media-across-167-ci|A data platform tracking news and social media across 167 cities in Rio Grande do Norte for under R 5 month.]]
 - [[episodes/2026-05-15|2026-05-15]]

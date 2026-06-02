@@ -31,4 +31,4 @@ Databricks' Lakebase Postgres now supports customer-managed keys, allowing secur
 - **URL:** <https://community.databricks.com/t5/announcements/take-control-customer-managed-keys-for-lakebase-postgres/td-p/155338>
 
 ## Related
-[[concepts/lakebase-postgres|lakebase-postgres]] · [[concepts/customer-managed-keys|customer-managed-keys]] · [[concepts/data-sovereignty|data-sovereignty]] · [[concepts/google-cloud|google-cloud]] · [[concepts/databricks|databricks]] · [[concepts/workspace|workspace]] · [[concepts/lakebase|lakebase]] · [[concepts/postgres|postgres]] · [[concepts/azure|azure]] · [[concepts/aws|aws]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-24|2026-04-24]]
+[[concepts/lakebase-postgres|lakebase-postgres]] · [[concepts/customer-managed-keys|customer-managed-keys]] · [[concepts/data-sovereignty|data-sovereignty]] · [[concepts/google-cloud|google-cloud]] · [[concepts/databricks|databricks]] · [[concepts/workspace|workspace]] · [[concepts/lakebase|lakebase]] · [[concepts/postgres|postgres]] · [[concepts/azure|azure]] · [[concepts/cloud|cloud]] · [[concepts/aws|aws]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-24|2026-04-24]]

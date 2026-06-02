@@ -31,4 +31,4 @@ Delta Live Tables (DLT) is a game-changer for data engineers, simplifying the cr
 - **URL:** <https://medium.com/towards-data-engineering/what-is-delta-live-tables-dlt-the-game-changer-every-data-engineer-needs-to-know-in-2026-3bf6156f9356?source=rss------databricks-5>
 
 ## Related
-[[concepts/delta-live-tables|delta-live-tables]] · [[concepts/data-pipelines|data-pipelines]] · [[concepts/streaming-data|streaming-data]] · [[concepts/batch-data|batch-data]] · [[concepts/infrastructure-management|infrastructure-management]] · [[concepts/quality-control|quality-control]] · [[concepts/data-engineering|data-engineering]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-27|2026-04-27]]
+[[concepts/delta-live-tables|delta-live-tables]] · [[concepts/data-pipelines|data-pipelines]] · [[concepts/streaming-data|streaming-data]] · [[concepts/batch-data|batch-data]] · [[concepts/infrastructure-management|infrastructure-management]] · [[concepts/quality-control|quality-control]] · [[concepts/data-engineering|data-engineering]] · [[concepts/streaming|streaming]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-27|2026-04-27]]

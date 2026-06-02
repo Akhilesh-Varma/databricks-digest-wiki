@@ -3,17 +3,19 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-05-29
-mention_count: 30
+last_seen: 2026-06-02
+mention_count: 31
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 30 stories._
+_Company mentioned across 31 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/02_launch-hn-expanse-yc-p26-unlock-wasted-gpu-capacity|Launch HN Expanse YC P26 Unlock Wasted GPU Capacity]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/02_show-hn-ktx-open-source-executable-context-layer-for-data-ag|Show HN Ktx Open-source executable context layer for data agents]]
     - [[sources/2026-05-29/03_anthropic-claude-opus-4-8-now-available-as-a-databricks-host|Anthropic Claude Opus 4.8 now available as a Databricks-hosted model]]

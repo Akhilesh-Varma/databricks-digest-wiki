@@ -3,17 +3,19 @@ type: concept
 name: Kafka
 slug: kafka
 first_seen: 2026-04-13
-last_seen: 2026-05-14
-mention_count: 4
-avg_confidence: 0.55
+last_seen: 2026-06-02
+mention_count: 5
+avg_confidence: 0.58
 tags: [concept]
 ---
 
 # Kafka
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/08_data-engineering-skills-10-technical-5-soft-skills-hiring-ma|Data Engineering Skills 10 Technical 5 Soft Skills Hiring Managers Test]]
 - [[episodes/2026-05-14|2026-05-14]]
     - [[sources/2026-05-14/05_launch-hn-ardent-yc-p26-postgres-sandboxes-in-seconds-with-z|Launch HN Ardent YC P26 Postgres sandboxes in seconds with zero migration]]
 - [[episodes/2026-04-30|2026-04-30]]

@@ -31,4 +31,4 @@ Databricks Runtime 18 (released May 29, 2026) introduces two notable fixes. Firs
 - **URL:** <https://docs.databricks.com/aws/en/release-notes/runtime/18#databricks-runtime-18-may-29-2026>
 
 ## Related
-[[concepts/databricks-runtime|databricks-runtime]] · [[concepts/structured-streaming|structured-streaming]] · [[concepts/unity-catalog|unity-catalog]] · [[concepts/deduplication|deduplication]] · [[concepts/snowflake|snowflake]] · [[companies/databricks|Databricks]] · [[companies/snowflake|Snowflake]] · [[episodes/2026-05-30|2026-05-30]]
+[[concepts/databricks-runtime|databricks-runtime]] · [[concepts/structured-streaming|structured-streaming]] · [[concepts/unity-catalog|unity-catalog]] · [[concepts/deduplication|deduplication]] · [[concepts/snowflake|snowflake]] · [[concepts/streaming|streaming]] · [[concepts/metadata|metadata]] · [[companies/databricks|Databricks]] · [[companies/snowflake|Snowflake]] · [[episodes/2026-05-30|2026-05-30]]

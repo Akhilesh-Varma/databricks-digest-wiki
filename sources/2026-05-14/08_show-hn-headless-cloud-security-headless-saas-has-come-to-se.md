@@ -32,4 +32,4 @@ Sysdig launched a product concept called Headless Cloud Security, positioning it
 - **URL:** <https://www.sysdig.com/learn-cloud-native/what-is-headless-cloud-security>
 
 ## Related
-[[concepts/headless-cloud-security|headless-cloud-security]] · [[concepts/agentic-workflows|agentic-workflows]] · [[concepts/ci-cd-pipelines|ci-cd-pipelines]] · [[concepts/ai-agents|ai-agents]] · [[concepts/workflows|workflows]] · [[concepts/cli|cli]] · [[concepts/mcp|mcp]] · [[concepts/ai|ai]] · [[companies/sysdig|Sysdig]] · [[companies/anthropic|Anthropic]] · [[episodes/2026-05-14|2026-05-14]]
+[[concepts/headless-cloud-security|headless-cloud-security]] · [[concepts/agentic-workflows|agentic-workflows]] · [[concepts/ci-cd-pipelines|ci-cd-pipelines]] · [[concepts/ai-agents|ai-agents]] · [[concepts/workflows|workflows]] · [[concepts/cloud|cloud]] · [[concepts/cli|cli]] · [[concepts/mcp|mcp]] · [[concepts/ai|ai]] · [[companies/sysdig|Sysdig]] · [[companies/anthropic|Anthropic]] · [[episodes/2026-05-14|2026-05-14]]

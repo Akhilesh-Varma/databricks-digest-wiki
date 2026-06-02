@@ -3,17 +3,19 @@ type: concept
 name: Python
 slug: python
 first_seen: 2026-04-04
-last_seen: 2026-05-15
-mention_count: 5
-avg_confidence: 0.58
+last_seen: 2026-06-02
+mention_count: 6
+avg_confidence: 0.6
 tags: [concept]
 ---
 
 # Python
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/08_data-engineering-skills-10-technical-5-soft-skills-hiring-ma|Data Engineering Skills 10 Technical 5 Soft Skills Hiring Managers Test]]
 - [[episodes/2026-05-15|2026-05-15]]
     - [[sources/2026-05-15/07_python-and-how-python-is-used-in-the-data-analytics-space-a|Python and How Python Is Used In The Data Analytics Space. A Beginner's Guide.]]
 - [[episodes/2026-04-30|2026-04-30]]

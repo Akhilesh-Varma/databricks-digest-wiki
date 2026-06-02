@@ -3,17 +3,19 @@ type: concept
 name: dbt
 slug: dbt
 first_seen: 2026-04-05
-last_seen: 2026-06-01
-mention_count: 15
-avg_confidence: 0.707
+last_seen: 2026-06-02
+mention_count: 16
+avg_confidence: 0.706
 tags: [concept]
 ---
 
 # dbt
 
-_Concept mentioned across 15 stories._
+_Concept mentioned across 16 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/08_data-engineering-skills-10-technical-5-soft-skills-hiring-ma|Data Engineering Skills 10 Technical 5 Soft Skills Hiring Managers Test]]
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/07_building-an-incident-debugging-agent-what-we-ve-learned-so-f|Building an Incident Debugging Agent What We've Learned So Far]]
 - [[episodes/2026-05-29|2026-05-29]]

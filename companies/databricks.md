@@ -3,17 +3,20 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-06-01
-mention_count: 251
+last_seen: 2026-06-02
+mention_count: 253
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 251 stories._
+_Company mentioned across 253 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
+    - [[sources/2026-06-02/04_databricks-to-snowflake-a-practical-guide-for-data-engineers|Databricks to Snowflake A Practical Guide for Data Engineers]]
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
     - [[sources/2026-06-01/04_five-things-that-make-unity-catalog-the-most-interoperable-i|Five things that make UNITY CATALOG the MOST interoperable Iceberg catalog]]

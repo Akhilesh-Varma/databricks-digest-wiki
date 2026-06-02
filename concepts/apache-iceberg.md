@@ -3,17 +3,19 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-06-01
-mention_count: 34
-avg_confidence: 0.876
+last_seen: 2026-06-02
+mention_count: 35
+avg_confidence: 0.871
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 34 stories._
+_Concept mentioned across 35 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/03_building-a-spark-declarative-pipeline-a-modern-financial-dat|Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP and Apache]]
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/04_five-things-that-make-unity-catalog-the-most-interoperable-i|Five things that make UNITY CATALOG the MOST interoperable Iceberg catalog]]
 - [[episodes/2026-05-31|2026-05-31]]

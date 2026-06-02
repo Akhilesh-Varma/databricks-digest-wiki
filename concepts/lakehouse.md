@@ -3,17 +3,19 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-05
-last_seen: 2026-06-01
-mention_count: 49
-avg_confidence: 0.62
+last_seen: 2026-06-02
+mention_count: 50
+avg_confidence: 0.622
 tags: [concept]
 ---
 
 # Lakehouse
 
-_Concept mentioned across 49 stories._
+_Concept mentioned across 50 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-05-31|2026-05-31]]

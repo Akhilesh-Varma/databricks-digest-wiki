@@ -31,4 +31,4 @@ The article examines how Snowflake and Databricks are absorbing capabilities pre
 - **URL:** <https://medium.com/@vikramlingam/snowflake-and-databricks-swallow-niche-saas-tools-forcing-data-stack-overhaul-515fbd7573ae?source=rss------databricks-5>
 
 ## Related
-[[concepts/data-stack|data-stack]] · [[concepts/saas-tools|saas-tools]] · [[concepts/platform-consolidation|platform-consolidation]] · [[concepts/ai|ai]] · [[companies/snowflake|Snowflake]] · [[companies/databricks|Databricks]] · [[companies/medium|Medium]] · [[episodes/2026-05-16|2026-05-16]]
+[[concepts/data-stack|data-stack]] · [[concepts/saas-tools|saas-tools]] · [[concepts/platform-consolidation|platform-consolidation]] · [[concepts/cloud|cloud]] · [[concepts/ai|ai]] · [[companies/snowflake|Snowflake]] · [[companies/databricks|Databricks]] · [[companies/medium|Medium]] · [[episodes/2026-05-16|2026-05-16]]

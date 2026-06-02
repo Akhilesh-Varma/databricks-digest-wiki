@@ -3,17 +3,19 @@ type: concept
 name: Data Lake
 slug: data-lake
 first_seen: 2026-04-17
-last_seen: 2026-05-28
-mention_count: 9
-avg_confidence: 0.667
+last_seen: 2026-06-02
+mention_count: 10
+avg_confidence: 0.67
 tags: [concept]
 ---
 
 # Data Lake
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/07_integrated-biological-data-collection-platform-an-architectu|Integrated Biological Data Collection Platform An Architecture for Automated Curation of Public Repositories]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/06_asf-project-spotlight-apache-iceberg|ASF Project Spotlight Apache Iceberg]]
 - [[episodes/2026-05-17|2026-05-17]]

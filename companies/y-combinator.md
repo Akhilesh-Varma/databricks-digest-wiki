@@ -3,17 +3,19 @@ type: company
 name: Y Combinator
 slug: y-combinator
 first_seen: 2026-04-17
-last_seen: 2026-05-20
-mention_count: 5
+last_seen: 2026-06-02
+mention_count: 6
 avg_confidence: ""
 tags: [company]
 ---
 
 # Y Combinator
 
-_Company mentioned across 5 stories._
+_Company mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/02_launch-hn-expanse-yc-p26-unlock-wasted-gpu-capacity|Launch HN Expanse YC P26 Unlock Wasted GPU Capacity]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/06_show-hn-superlog-yc-p26-observability-that-installs-itself-a|Show HN Superlog YC P26 Observability that installs itself and fixes bugs]]
 - [[episodes/2026-05-19|2026-05-19]]

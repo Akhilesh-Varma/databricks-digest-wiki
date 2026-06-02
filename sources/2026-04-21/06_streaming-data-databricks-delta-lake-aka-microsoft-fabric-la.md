@@ -30,4 +30,4 @@ The article discusses streaming data in real-time using Databricks Delta Lake or
 - **URL:** <https://medium.com/@bhaveshpatelaus/streaming-data-databricks-delta-lake-aka-microsoft-fabric-lakehouse-6fac8d195972?source=rss------delta_lake-5>
 
 ## Related
-[[concepts/databricks-delta-lake|databricks-delta-lake]] · [[concepts/microsoft-fabric|microsoft-fabric]] · [[concepts/streaming-data|streaming-data]] · [[concepts/databricks|databricks]] · [[concepts/delta-lake|delta-lake]] · [[concepts/delta|delta]] · [[companies/databricks|Databricks]] · [[companies/microsoft|Microsoft]] · [[episodes/2026-04-21|2026-04-21]]
+[[concepts/databricks-delta-lake|databricks-delta-lake]] · [[concepts/microsoft-fabric|microsoft-fabric]] · [[concepts/streaming-data|streaming-data]] · [[concepts/databricks|databricks]] · [[concepts/delta-lake|delta-lake]] · [[concepts/streaming|streaming]] · [[concepts/delta|delta]] · [[companies/databricks|Databricks]] · [[companies/microsoft|Microsoft]] · [[episodes/2026-04-21|2026-04-21]]

@@ -3,17 +3,19 @@ type: company
 name: OpenAI
 slug: openai
 first_seen: 2026-04-17
-last_seen: 2026-05-29
-mention_count: 16
+last_seen: 2026-06-02
+mention_count: 17
 avg_confidence: ""
 tags: [company]
 ---
 
 # OpenAI
 
-_Company mentioned across 16 stories._
+_Company mentioned across 17 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/02_launch-hn-expanse-yc-p26-unlock-wasted-gpu-capacity|Launch HN Expanse YC P26 Unlock Wasted GPU Capacity]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/02_show-hn-ktx-open-source-executable-context-layer-for-data-ag|Show HN Ktx Open-source executable context layer for data agents]]
 - [[episodes/2026-05-28|2026-05-28]]

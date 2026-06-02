@@ -30,4 +30,4 @@ This article is a bare-minimum tutorial explaining how to connect an Azure Stora
 - **URL:** <https://medium.com/cloud-native-consulting/connecting-to-a-storage-account-using-databricks-unity-catalog-in-azure-db08f0b0afc9?source=rss------databricks-5>
 
 ## Related
-[[concepts/unity-catalog|unity-catalog]] · [[concepts/azure-storage-account|azure-storage-account]] · [[concepts/databricks-workspace|databricks-workspace]] · [[concepts/databricks|databricks]] · [[concepts/workspace|workspace]] · [[companies/databricks|Databricks]] · [[companies/microsoft-azure|Microsoft Azure]] · [[companies/cloud-native-consulting|Cloud Native Consulting]] · [[episodes/2026-05-04|2026-05-04]]
+[[concepts/unity-catalog|unity-catalog]] · [[concepts/azure-storage-account|azure-storage-account]] · [[concepts/databricks-workspace|databricks-workspace]] · [[concepts/databricks|databricks]] · [[concepts/workspace|workspace]] · [[concepts/cloud|cloud]] · [[companies/databricks|Databricks]] · [[companies/microsoft-azure|Microsoft Azure]] · [[companies/cloud-native-consulting|Cloud Native Consulting]] · [[episodes/2026-05-04|2026-05-04]]

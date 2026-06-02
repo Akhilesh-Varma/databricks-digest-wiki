@@ -31,4 +31,4 @@ The paper introduces Garfield, a GPU-accelerated framework for multi-attribute r
 - **URL:** <https://arxiv.org/abs/2604.20121>
 
 ## Related
-[[concepts/garfield|garfield]] · [[concepts/gmg-index|gmg-index]] · [[concepts/range-filtered-approximate-nearest-neighbor-search|range-filtered-approximate-nearest-neighbor-search]] · [[concepts/vector-databases|vector-databases]] · [[concepts/pipeline|pipeline]] · [[concepts/indexing|indexing]] · [[concepts/linear|linear]] · [[episodes/2026-04-23|2026-04-23]]
+[[concepts/garfield|garfield]] · [[concepts/gmg-index|gmg-index]] · [[concepts/range-filtered-approximate-nearest-neighbor-search|range-filtered-approximate-nearest-neighbor-search]] · [[concepts/vector-databases|vector-databases]] · [[concepts/streaming|streaming]] · [[concepts/pipeline|pipeline]] · [[concepts/indexing|indexing]] · [[concepts/linear|linear]] · [[episodes/2026-04-23|2026-04-23]]

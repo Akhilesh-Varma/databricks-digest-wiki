@@ -30,4 +30,4 @@ The article explores how Azure Databricks functions under the hood, focusing on 
 - **URL:** <https://medium.com/@bashoori/azure-databricks-under-the-hood-how-compute-storage-and-orchestration-work-together-f8a2595fb0dd?source=rss------apache_spark-5>
 
 ## Related
-[[concepts/azure-databricks|azure-databricks]] · [[concepts/apache-spark|apache-spark]] · [[concepts/orchestration|orchestration]] · [[concepts/databricks|databricks]] · [[concepts/azure|azure]] · [[concepts/spark|spark]] · [[companies/databricks|Databricks]] · [[companies/microsoft-azure|Microsoft Azure]] · [[companies/medium|Medium]] · [[episodes/2026-05-15|2026-05-15]]
+[[concepts/azure-databricks|azure-databricks]] · [[concepts/apache-spark|apache-spark]] · [[concepts/orchestration|orchestration]] · [[concepts/databricks|databricks]] · [[concepts/azure|azure]] · [[concepts/cloud|cloud]] · [[concepts/spark|spark]] · [[companies/databricks|Databricks]] · [[companies/microsoft-azure|Microsoft Azure]] · [[companies/medium|Medium]] · [[episodes/2026-05-15|2026-05-15]]

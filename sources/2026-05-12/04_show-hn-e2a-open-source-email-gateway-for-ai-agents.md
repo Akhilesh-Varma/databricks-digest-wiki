@@ -33,4 +33,4 @@ Mnexa-AI has open-sourced E2a, a standalone email gateway designed specifically 
 - **URL:** <https://github.com/Mnexa-AI/e2a>
 
 ## Related
-[[concepts/e2a|e2a]] · [[concepts/email-gateway|email-gateway]] · [[concepts/human-in-the-loop|human-in-the-loop]] · [[concepts/websocket|websocket]] · [[concepts/webhook|webhook]] · [[concepts/spf|spf]] · [[concepts/dkim|dkim]] · [[concepts/postgres|postgres]] · [[concepts/api|api]] · [[concepts/ai|ai]] · [[companies/mnexa-ai|Mnexa-AI]] · [[episodes/2026-05-12|2026-05-12]]
+[[concepts/e2a|e2a]] · [[concepts/email-gateway|email-gateway]] · [[concepts/human-in-the-loop|human-in-the-loop]] · [[concepts/websocket|websocket]] · [[concepts/webhook|webhook]] · [[concepts/spf|spf]] · [[concepts/dkim|dkim]] · [[concepts/postgres|postgres]] · [[concepts/cloud|cloud]] · [[concepts/api|api]] · [[concepts/ai|ai]] · [[companies/mnexa-ai|Mnexa-AI]] · [[episodes/2026-05-12|2026-05-12]]

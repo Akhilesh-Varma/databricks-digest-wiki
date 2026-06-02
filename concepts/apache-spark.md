@@ -3,17 +3,19 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-06-01
-mention_count: 47
-avg_confidence: 0.681
+last_seen: 2026-06-02
+mention_count: 48
+avg_confidence: 0.675
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 47 stories._
+_Concept mentioned across 48 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/03_building-a-spark-declarative-pipeline-a-modern-financial-dat|Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP and Apache]]
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/06_exploring-snowpark-while-comparing-it-with-apache-spark|Exploring Snowpark While Comparing It with Apache Spark]]
 - [[episodes/2026-05-29|2026-05-29]]

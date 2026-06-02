@@ -3,17 +3,19 @@ type: concept
 name: MLflow
 slug: mlflow
 first_seen: 2026-04-06
-last_seen: 2026-05-25
-mention_count: 19
-avg_confidence: 0.826
+last_seen: 2026-06-02
+mention_count: 20
+avg_confidence: 0.805
 tags: [concept]
 ---
 
 # MLflow
 
-_Concept mentioned across 19 stories._
+_Concept mentioned across 20 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-05-25|2026-05-25]]
     - [[sources/2026-05-25/03_tinkering-with-databricks-wrapping-agent-over-fda-drug-label|Tinkering with Databricks Wrapping Agent over FDA Drug Label Data in MLflow]]
 - [[episodes/2026-05-22|2026-05-22]]

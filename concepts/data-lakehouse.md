@@ -3,17 +3,19 @@ type: concept
 name: Data Lakehouse
 slug: data-lakehouse
 first_seen: 2026-04-10
-last_seen: 2026-05-21
-mention_count: 12
-avg_confidence: 0.775
+last_seen: 2026-06-02
+mention_count: 13
+avg_confidence: 0.769
 tags: [concept]
 ---
 
 # Data Lakehouse
 
-_Concept mentioned across 12 stories._
+_Concept mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/03_building-a-spark-declarative-pipeline-a-modern-financial-dat|Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP and Apache]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/05_stop-building-messy-pipelines-the-medallion-architecture-exp|Stop Building Messy Pipelines The Medallion Architecture Explained]]
 - [[episodes/2026-05-20|2026-05-20]]

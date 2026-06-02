@@ -3,17 +3,19 @@ type: company
 name: MinIO
 slug: minio
 first_seen: 2026-05-01
-last_seen: 2026-05-23
-mention_count: 4
+last_seen: 2026-06-02
+mention_count: 5
 avg_confidence: ""
 tags: [company]
 ---
 
 # MinIO
 
-_Company mentioned across 4 stories._
+_Company mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/07_integrated-biological-data-collection-platform-an-architectu|Integrated Biological Data Collection Platform An Architecture for Automated Curation of Public Repositories]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/08_how-data-lake-table-storage-degrades-over-time|How Data Lake Table Storage Degrades Over Time]]
 - [[episodes/2026-05-22|2026-05-22]]

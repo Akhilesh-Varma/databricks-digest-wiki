@@ -31,4 +31,4 @@ Databricks has released version 0.298.0 of its CLI, which includes several updat
 - **URL:** <https://github.com/databricks/cli/releases/tag/v0.298.0>
 
 ## Related
-[[concepts/databricks-cli|databricks-cli]] · [[concepts/vector-search|vector-search]] · [[concepts/databricks|databricks]] · [[concepts/postgres|postgres]] · [[concepts/cli|cli]] · [[concepts/api|api]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-23|2026-04-23]]
+[[concepts/databricks-cli|databricks-cli]] · [[concepts/vector-search|vector-search]] · [[concepts/databricks|databricks]] · [[concepts/postgres|postgres]] · [[concepts/metadata|metadata]] · [[concepts/cli|cli]] · [[concepts/api|api]] · [[companies/databricks|Databricks]] · [[episodes/2026-04-23|2026-04-23]]
