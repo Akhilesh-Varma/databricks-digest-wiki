@@ -3,17 +3,19 @@ type: company
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-08
-last_seen: 2026-06-02
-mention_count: 37
+last_seen: 2026-06-03
+mention_count: 38
 avg_confidence: ""
 tags: [company]
 ---
 
 # Snowflake
 
-_Company mentioned across 37 stories._
+_Company mentioned across 38 stories._
 
 ## Appears in
+- [[episodes/2026-06-03|2026-06-03]]
+    - [[sources/2026-06-03/03_getting-the-best-out-of-both-snowflake-and-databricks-a-data|Getting the Best Out of Both Snowflake and Databricks A Data Engineer s Guide to Building a]]
 - [[episodes/2026-06-02|2026-06-02]]
     - [[sources/2026-06-02/04_databricks-to-snowflake-a-practical-guide-for-data-engineers|Databricks to Snowflake A Practical Guide for Data Engineers]]
 - [[episodes/2026-06-01|2026-06-01]]

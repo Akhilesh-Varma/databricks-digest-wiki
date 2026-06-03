@@ -3,17 +3,19 @@ type: concept
 name: Snowflake
 slug: snowflake
 first_seen: 2026-04-11
-last_seen: 2026-05-26
-mention_count: 16
-avg_confidence: 0.662
+last_seen: 2026-06-03
+mention_count: 17
+avg_confidence: 0.682
 tags: [concept]
 ---
 
 # Snowflake
 
-_Concept mentioned across 16 stories._
+_Concept mentioned across 17 stories._
 
 ## Appears in
+- [[episodes/2026-06-03|2026-06-03]]
+    - [[sources/2026-06-03/03_getting-the-best-out-of-both-snowflake-and-databricks-a-data|Getting the Best Out of Both Snowflake and Databricks A Data Engineer s Guide to Building a]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/04_integrating-aws-s3-with-snowflake-a-practical-guide|Integrating AWS S3 with Snowflake A Practical Guide]]
 - [[episodes/2026-05-23|2026-05-23]]

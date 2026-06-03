@@ -3,17 +3,19 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-06-02
-mention_count: 31
+last_seen: 2026-06-03
+mention_count: 32
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 31 stories._
+_Company mentioned across 32 stories._
 
 ## Appears in
+- [[episodes/2026-06-03|2026-06-03]]
+    - [[sources/2026-06-03/04_getting-claude-code-to-work-with-the-databricks-ai-gateway-o|Getting Claude Code to Work with the Databricks AI Gateway on Windows 3 Fixes I Wish I Knew]]
 - [[episodes/2026-06-02|2026-06-02]]
     - [[sources/2026-06-02/02_launch-hn-expanse-yc-p26-unlock-wasted-gpu-capacity|Launch HN Expanse YC P26 Unlock Wasted GPU Capacity]]
 - [[episodes/2026-05-29|2026-05-29]]

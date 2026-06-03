@@ -3,17 +3,19 @@ type: concept
 name: Delta Sharing
 slug: delta-sharing
 first_seen: 2026-04-05
-last_seen: 2026-05-04
-mention_count: 4
-avg_confidence: 0.85
+last_seen: 2026-06-03
+mention_count: 5
+avg_confidence: 0.76
 tags: [concept]
 ---
 
 # Delta Sharing
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-06-03|2026-06-03]]
+    - [[sources/2026-06-03/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-05-04|2026-05-04]]
     - [[sources/2026-05-04/06_databricks-data-engineer-associate-exam-what-changed-in-2025|Databricks Data Engineer Associate Exam What Changed in 2025]]
 - [[episodes/2026-04-15|2026-04-15]]

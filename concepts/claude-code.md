@@ -3,17 +3,19 @@ type: concept
 name: Claude Code
 slug: claude-code
 first_seen: 2026-04-05
-last_seen: 2026-06-01
-mention_count: 16
-avg_confidence: 0.562
+last_seen: 2026-06-03
+mention_count: 17
+avg_confidence: 0.588
 tags: [concept]
 ---
 
 # Claude Code
 
-_Concept mentioned across 16 stories._
+_Concept mentioned across 17 stories._
 
 ## Appears in
+- [[episodes/2026-06-03|2026-06-03]]
+    - [[sources/2026-06-03/04_getting-claude-code-to-work-with-the-databricks-ai-gateway-o|Getting Claude Code to Work with the Databricks AI Gateway on Windows 3 Fixes I Wish I Knew]]
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]
 - [[episodes/2026-05-29|2026-05-29]]

@@ -3,17 +3,22 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-06-02
-mention_count: 253
+last_seen: 2026-06-03
+mention_count: 257
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 253 stories._
+_Company mentioned across 257 stories._
 
 ## Appears in
+- [[episodes/2026-06-03|2026-06-03]]
+    - [[sources/2026-06-03/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
+    - [[sources/2026-06-03/03_getting-the-best-out-of-both-snowflake-and-databricks-a-data|Getting the Best Out of Both Snowflake and Databricks A Data Engineer s Guide to Building a]]
+    - [[sources/2026-06-03/02_getting-started-with-databricks-spark-declarative-pipelines|Getting Started with Databricks Spark Declarative Pipelines Building a Simple Volume-to-Delta]]
+    - [[sources/2026-06-03/04_getting-claude-code-to-work-with-the-databricks-ai-gateway-o|Getting Claude Code to Work with the Databricks AI Gateway on Windows 3 Fixes I Wish I Knew]]
 - [[episodes/2026-06-02|2026-06-02]]
     - [[sources/2026-06-02/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
     - [[sources/2026-06-02/04_databricks-to-snowflake-a-practical-guide-for-data-engineers|Databricks to Snowflake A Practical Guide for Data Engineers]]

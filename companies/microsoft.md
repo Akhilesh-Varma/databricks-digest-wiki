@@ -3,17 +3,19 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-06-01
-mention_count: 40
+last_seen: 2026-06-03
+mention_count: 41
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 40 stories._
+_Company mentioned across 41 stories._
 
 ## Appears in
+- [[episodes/2026-06-03|2026-06-03]]
+    - [[sources/2026-06-03/04_getting-claude-code-to-work-with-the-databricks-ai-gateway-o|Getting Claude Code to Work with the Databricks AI Gateway on Windows 3 Fixes I Wish I Knew]]
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/05_azure-data-factory-vs-databricks-for-orchestration-the-hones|Azure Data Factory vs Databricks for Orchestration The Honest Comparison No One Writes]]
 - [[episodes/2026-05-27|2026-05-27]]

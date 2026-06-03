@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-06-02T10:27:35.421282+00:00",
-  "node_count": 2815,
-  "edge_count": 4811,
+  "generated_at": "2026-06-03T10:23:32.397125+00:00",
+  "node_count": 2826,
+  "edge_count": 4840,
   "nodes": [
+    {
+      "id": "episode/2026-06-03",
+      "type": "episode",
+      "label": "Daily Databricks Digest - June 03, 2026",
+      "episode_date": "2026-06-03",
+      "story_count": 4
+    },
     {
       "id": "episode/2026-06-02",
       "type": "episode",
@@ -4375,6 +4382,38 @@
       "quality_score": 0.8363311787645503
     },
     {
+      "id": "story/community_roundup_5_community_68623d5d357c",
+      "type": "story",
+      "label": "Databricks Community Roundup \u2014 5 new posts",
+      "episode_date": "2026-06-03",
+      "rank": 1,
+      "quality_score": 0.8
+    },
+    {
+      "id": "story/rss_c887619f4ff0",
+      "type": "story",
+      "label": "Getting Started with Databricks Spark Declarative Pipelines Building a Simple Volume-to-Delta",
+      "episode_date": "2026-06-03",
+      "rank": 2,
+      "quality_score": 0.7377961165205027
+    },
+    {
+      "id": "story/rss_55b1ad11424d",
+      "type": "story",
+      "label": "Getting the Best Out of Both Snowflake and Databricks A Data Engineer s Guide to Building a",
+      "episode_date": "2026-06-03",
+      "rank": 3,
+      "quality_score": 0.7345633120729167
+    },
+    {
+      "id": "story/rss_b4492cf6a895",
+      "type": "story",
+      "label": "Getting Claude Code to Work with the Databricks AI Gateway on Windows 3 Fixes I Wish I Knew",
+      "episode_date": "2026-06-03",
+      "rank": 4,
+      "quality_score": 0.7310882789669313
+    },
+    {
       "id": "concept/s3-object-storage",
       "type": "concept",
       "label": "S3 Object Storage",
@@ -4690,7 +4729,7 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 253
+      "mention_count": 257
     },
     {
       "id": "concept/fulfillment-center-operations",
@@ -4906,7 +4945,7 @@
       "id": "company/microsoft",
       "type": "company",
       "label": "Microsoft",
-      "mention_count": 40
+      "mention_count": 41
     },
     {
       "id": "concept/databricks-terraform-provider",
@@ -4948,7 +4987,7 @@
       "id": "concept/delta-lake",
       "type": "concept",
       "label": "Delta Lake",
-      "mention_count": 57
+      "mention_count": 58
     },
     {
       "id": "concept/delta-kernel",
@@ -5164,7 +5203,7 @@
       "id": "concept/lakehouse",
       "type": "concept",
       "label": "Lakehouse",
-      "mention_count": 50
+      "mention_count": 51
     },
     {
       "id": "company/microsoft-azure",
@@ -5248,7 +5287,7 @@
       "id": "concept/delta-sharing",
       "type": "concept",
       "label": "Delta Sharing",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/machine-learning",
@@ -5260,7 +5299,7 @@
       "id": "company/medium",
       "type": "company",
       "label": "Medium",
-      "mention_count": 39
+      "mention_count": 40
     },
     {
       "id": "concept/occupational-safety-and-health-administration-osha",
@@ -5302,7 +5341,7 @@
       "id": "concept/databricks-serverless-sql",
       "type": "concept",
       "label": "Databricks Serverless SQL",
-      "mention_count": 11
+      "mention_count": 12
     },
     {
       "id": "concept/photon",
@@ -5476,7 +5515,7 @@
       "id": "concept/data-pipeline",
       "type": "concept",
       "label": "Data Pipeline",
-      "mention_count": 14
+      "mention_count": 15
     },
     {
       "id": "concept/take-home-assignments",
@@ -5836,7 +5875,7 @@
       "id": "company/snowflake",
       "type": "company",
       "label": "Snowflake",
-      "mention_count": 37
+      "mention_count": 38
     },
     {
       "id": "concept/mlflow",
@@ -6532,7 +6571,7 @@
       "id": "concept/snowflake",
       "type": "concept",
       "label": "Snowflake",
-      "mention_count": 16
+      "mention_count": 17
     },
     {
       "id": "concept/fivetran",
@@ -7258,7 +7297,7 @@
       "id": "concept/databricks",
       "type": "concept",
       "label": "Databricks",
-      "mention_count": 15
+      "mention_count": 16
     },
     {
       "id": "concept/pandas",
@@ -7630,7 +7669,7 @@
       "id": "concept/claude-code",
       "type": "concept",
       "label": "Claude Code",
-      "mention_count": 16
+      "mention_count": 17
     },
     {
       "id": "company/google-cloud-platform",
@@ -7642,7 +7681,7 @@
       "id": "company/anthropic",
       "type": "company",
       "label": "Anthropic",
-      "mention_count": 31
+      "mention_count": 32
     },
     {
       "id": "company/meta",
@@ -8542,7 +8581,7 @@
       "id": "concept/databricks-ai-gateway",
       "type": "concept",
       "label": "Databricks AI Gateway",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/docker",
@@ -9142,7 +9181,7 @@
       "id": "concept/databricks-volumes",
       "type": "concept",
       "label": "Databricks Volumes",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/s3-backed-volumes",
@@ -17452,7 +17491,7 @@
       "id": "concept/metadata-driven-etl",
       "type": "concept",
       "label": "Metadata-Driven ETL",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/machine-learning-operations",
@@ -17767,6 +17806,24 @@
       "mention_count": 1
     },
     {
+      "id": "concept/python-wheel",
+      "type": "concept",
+      "label": "Python Wheel",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/data-experimentation",
+      "type": "concept",
+      "label": "Data Experimentation",
+      "mention_count": 1
+    },
+    {
+      "id": "company/magnite",
+      "type": "company",
+      "label": "Magnite",
+      "mention_count": 1
+    },
+    {
       "id": "concept/frontend-development",
       "type": "concept",
       "label": "Frontend Development",
@@ -17884,6 +17941,24 @@
       "id": "concept/managed-postgres",
       "type": "concept",
       "label": "Managed Postgres",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/hybrid-data-architecture",
+      "type": "concept",
+      "label": "Hybrid Data Architecture",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/databricks-spark-declarative-pipelines",
+      "type": "concept",
+      "label": "Databricks Spark Declarative Pipelines",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/vs-code-extension",
+      "type": "concept",
+      "label": "VS Code Extension",
       "mention_count": 1
     },
     {
@@ -41458,6 +41533,51 @@
       "kind": "mentions"
     },
     {
+      "source": "story/community_roundup_5_community_68623d5d357c",
+      "target": "episode/2026-06-03",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_roundup_5_community_68623d5d357c",
+      "target": "concept/databricks-serverless-sql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_68623d5d357c",
+      "target": "concept/lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_68623d5d357c",
+      "target": "concept/delta-sharing",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_68623d5d357c",
+      "target": "concept/metadata-driven-etl",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_68623d5d357c",
+      "target": "concept/python-wheel",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_68623d5d357c",
+      "target": "concept/data-experimentation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_68623d5d357c",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_5_community_68623d5d357c",
+      "target": "company/magnite",
+      "kind": "mentions"
+    },
+    {
       "source": "story/devto_3792940",
       "target": "episode/2026-06-01",
       "kind": "aired_in"
@@ -41833,6 +41953,41 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_55b1ad11424d",
+      "target": "episode/2026-06-03",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_55b1ad11424d",
+      "target": "concept/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_55b1ad11424d",
+      "target": "concept/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_55b1ad11424d",
+      "target": "concept/hybrid-data-architecture",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_55b1ad11424d",
+      "target": "concept/data-pipeline",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_55b1ad11424d",
+      "target": "company/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_55b1ad11424d",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_d9de3b7eee3f",
       "target": "episode/2026-05-31",
       "kind": "aired_in"
@@ -41860,6 +42015,71 @@
     {
       "source": "story/rss_d9de3b7eee3f",
       "target": "concept/lakehouse-architecture",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c887619f4ff0",
+      "target": "episode/2026-06-03",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_c887619f4ff0",
+      "target": "concept/databricks-spark-declarative-pipelines",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c887619f4ff0",
+      "target": "concept/delta-lake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c887619f4ff0",
+      "target": "concept/databricks-volumes",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c887619f4ff0",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_c887619f4ff0",
+      "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b4492cf6a895",
+      "target": "episode/2026-06-03",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_b4492cf6a895",
+      "target": "concept/claude-code",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b4492cf6a895",
+      "target": "concept/databricks-ai-gateway",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b4492cf6a895",
+      "target": "concept/vs-code-extension",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b4492cf6a895",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b4492cf6a895",
+      "target": "company/anthropic",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_b4492cf6a895",
+      "target": "company/microsoft",
       "kind": "mentions"
     },
     {

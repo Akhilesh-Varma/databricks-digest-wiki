@@ -3,17 +3,19 @@ type: concept
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-06-01
-mention_count: 15
-avg_confidence: 0.793
+last_seen: 2026-06-03
+mention_count: 16
+avg_confidence: 0.806
 tags: [concept]
 ---
 
 # Databricks
 
-_Concept mentioned across 15 stories._
+_Concept mentioned across 16 stories._
 
 ## Appears in
+- [[episodes/2026-06-03|2026-06-03]]
+    - [[sources/2026-06-03/03_getting-the-best-out-of-both-snowflake-and-databricks-a-data|Getting the Best Out of Both Snowflake and Databricks A Data Engineer s Guide to Building a]]
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/05_azure-data-factory-vs-databricks-for-orchestration-the-hones|Azure Data Factory vs Databricks for Orchestration The Honest Comparison No One Writes]]
 - [[episodes/2026-05-26|2026-05-26]]

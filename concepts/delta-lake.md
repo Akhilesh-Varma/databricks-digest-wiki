@@ -3,17 +3,19 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-05-31
-mention_count: 57
-avg_confidence: 0.753
+last_seen: 2026-06-03
+mention_count: 58
+avg_confidence: 0.752
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 57 stories._
+_Concept mentioned across 58 stories._
 
 ## Appears in
+- [[episodes/2026-06-03|2026-06-03]]
+    - [[sources/2026-06-03/02_getting-started-with-databricks-spark-declarative-pipelines|Getting Started with Databricks Spark Declarative Pipelines Building a Simple Volume-to-Delta]]
 - [[episodes/2026-05-31|2026-05-31]]
     - [[sources/2026-05-31/03_the-triad-hudi-iceberg-delta-of-open-table-formats-2-n-archi|The Triad Hudi, Iceberg, Delta of Open Table Formats 2 n Architecture Deep Dive]]
 - [[episodes/2026-05-28|2026-05-28]]

@@ -3,17 +3,19 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-05-30
-mention_count: 39
+last_seen: 2026-06-03
+mention_count: 40
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 39 stories._
+_Company mentioned across 40 stories._
 
 ## Appears in
+- [[episodes/2026-06-03|2026-06-03]]
+    - [[sources/2026-06-03/02_getting-started-with-databricks-spark-declarative-pipelines|Getting Started with Databricks Spark Declarative Pipelines Building a Simple Volume-to-Delta]]
 - [[episodes/2026-05-30|2026-05-30]]
     - [[sources/2026-05-30/02_building-a-hybrid-htap-architecture-on-databricks-with-lakeb|Building a Hybrid HTAP Architecture on Databricks with Lakebase]]
 - [[episodes/2026-05-26|2026-05-26]]
