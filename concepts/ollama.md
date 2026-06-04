@@ -3,17 +3,19 @@ type: concept
 name: Ollama
 slug: ollama
 first_seen: 2026-04-24
-last_seen: 2026-05-20
-mention_count: 4
-avg_confidence: 0.575
+last_seen: 2026-06-04
+mention_count: 5
+avg_confidence: 0.6
 tags: [concept]
 ---
 
 # Ollama
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-06-04|2026-06-04]]
+    - [[sources/2026-06-04/05_i-replaced-my-ai-agent-s-flat-fact-store-with-a-graph-databa|I Replaced My AI Agent's Flat Fact Store with a Graph Database]]
 - [[episodes/2026-05-20|2026-05-20]]
     - [[sources/2026-05-20/04_show-hn-forge-guardrails-take-an-8b-model-from-53-to-99-on-a|Show HN Forge Guardrails take an 8B model from 53 to 99 on agentic tasks]]
 - [[episodes/2026-05-15|2026-05-15]]

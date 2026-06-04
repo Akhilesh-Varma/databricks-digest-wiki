@@ -3,17 +3,19 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-06-03
-mention_count: 58
-avg_confidence: 0.752
+last_seen: 2026-06-04
+mention_count: 59
+avg_confidence: 0.753
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 58 stories._
+_Concept mentioned across 59 stories._
 
 ## Appears in
+- [[episodes/2026-06-04|2026-06-04]]
+    - [[sources/2026-06-04/01_databricks-community-roundup-8-new-posts|Databricks Community Roundup — 8 new posts]]
 - [[episodes/2026-06-03|2026-06-03]]
     - [[sources/2026-06-03/02_getting-started-with-databricks-spark-declarative-pipelines|Getting Started with Databricks Spark Declarative Pipelines Building a Simple Volume-to-Delta]]
 - [[episodes/2026-05-31|2026-05-31]]

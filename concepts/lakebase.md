@@ -4,20 +4,18 @@ name: Lakebase
 slug: lakebase
 first_seen: 2026-04-05
 last_seen: 2026-05-30
-mention_count: 17
-avg_confidence: 0.841
+mention_count: 16
+avg_confidence: 0.85
 tags: [concept]
 ---
 
 # Lakebase
 
-_Concept mentioned across 17 stories._
+_Concept mentioned across 16 stories._
 
 ## Appears in
 - [[episodes/2026-05-30|2026-05-30]]
     - [[sources/2026-05-30/02_building-a-hybrid-htap-architecture-on-databricks-with-lakeb|Building a Hybrid HTAP Architecture on Databricks with Lakebase]]
-- [[episodes/2026-05-27|2026-05-27]]
-    - [[sources/2026-05-27/01_databricks-community-roundup-8-new-posts|Databricks Community Roundup — 8 new posts]]
 - [[episodes/2026-05-22|2026-05-22]]
     - [[sources/2026-05-22/03_community-pulse-your-weekly-roundup-may-11-17-2026|Community Pulse Your Weekly Roundup! May 11 17, 2026]]
 - [[episodes/2026-05-14|2026-05-14]]

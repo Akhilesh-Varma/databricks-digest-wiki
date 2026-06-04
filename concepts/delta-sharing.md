@@ -3,17 +3,19 @@ type: concept
 name: Delta Sharing
 slug: delta-sharing
 first_seen: 2026-04-05
-last_seen: 2026-06-03
-mention_count: 5
-avg_confidence: 0.76
+last_seen: 2026-06-04
+mention_count: 6
+avg_confidence: 0.8
 tags: [concept]
 ---
 
 # Delta Sharing
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-06-04|2026-06-04]]
+    - [[sources/2026-06-04/04_table-update-triggers-on-delta-sharing-and-system-tables-bet|Table update triggers on Delta Sharing and system tables Beta]]
 - [[episodes/2026-06-03|2026-06-03]]
     - [[sources/2026-06-03/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-05-04|2026-05-04]]

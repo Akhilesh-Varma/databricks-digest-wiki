@@ -3,17 +3,19 @@ type: concept
 name: Genie Code
 slug: genie-code
 first_seen: 2026-04-24
-last_seen: 2026-05-30
-mention_count: 4
-avg_confidence: 0.7
+last_seen: 2026-06-04
+mention_count: 5
+avg_confidence: 0.76
 tags: [concept]
 ---
 
 # Genie Code
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-06-04|2026-06-04]]
+    - [[sources/2026-06-04/03_genie-code-will-also-use-models-served-through-openai-on-dat|Genie Code will also use models served through OpenAI on Databricks]]
 - [[episodes/2026-05-30|2026-05-30]]
     - [[sources/2026-05-30/04_lakeflow-designer-updates-for-may-29-2026|Lakeflow Designer updates for May 29, 2026]]
 - [[episodes/2026-05-24|2026-05-24]]

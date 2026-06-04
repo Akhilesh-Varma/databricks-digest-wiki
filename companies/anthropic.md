@@ -3,24 +3,27 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-06-03
-mention_count: 32
+last_seen: 2026-06-04
+mention_count: 34
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 32 stories._
+_Company mentioned across 34 stories._
 
 ## Appears in
+- [[episodes/2026-06-04|2026-06-04]]
+    - [[sources/2026-06-04/02_launch-hn-hyper-yc-p26-company-brain-to-power-agentic-develo|Launch HN Hyper YC P26 Company brain to power agentic development]]
+    - [[sources/2026-06-04/03_genie-code-will-also-use-models-served-through-openai-on-dat|Genie Code will also use models served through OpenAI on Databricks]]
 - [[episodes/2026-06-03|2026-06-03]]
     - [[sources/2026-06-03/04_getting-claude-code-to-work-with-the-databricks-ai-gateway-o|Getting Claude Code to Work with the Databricks AI Gateway on Windows 3 Fixes I Wish I Knew]]
 - [[episodes/2026-06-02|2026-06-02]]
     - [[sources/2026-06-02/02_launch-hn-expanse-yc-p26-unlock-wasted-gpu-capacity|Launch HN Expanse YC P26 Unlock Wasted GPU Capacity]]
 - [[episodes/2026-05-29|2026-05-29]]
-    - [[sources/2026-05-29/02_show-hn-ktx-open-source-executable-context-layer-for-data-ag|Show HN Ktx Open-source executable context layer for data agents]]
     - [[sources/2026-05-29/03_anthropic-claude-opus-4-8-now-available-as-a-databricks-host|Anthropic Claude Opus 4.8 now available as a Databricks-hosted model]]
+    - [[sources/2026-05-29/02_show-hn-ktx-open-source-executable-context-layer-for-data-ag|Show HN Ktx Open-source executable context layer for data agents]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
     - [[sources/2026-05-28/02_i-built-a-multi-agent-insurance-support-streamlit-chatbot-on|I Built a Multi-Agent Insurance Support Streamlit Chatbot on Databricks-Full Code Walkthrough]]

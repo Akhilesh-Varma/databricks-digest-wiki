@@ -1,6 +1,6 @@
 ---
 type: concept
-name: Coding Agents
+name: Coding agents
 slug: coding-agents
 first_seen: 2026-04-22
 last_seen: 2026-06-02
@@ -9,7 +9,7 @@ avg_confidence: 0.7
 tags: [concept]
 ---
 
-# Coding Agents
+# Coding agents
 
 _Concept mentioned across 2 stories._
 

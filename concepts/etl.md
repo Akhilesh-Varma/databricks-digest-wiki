@@ -15,9 +15,9 @@ _Concept mentioned across 18 stories._
 
 ## Appears in
 - [[episodes/2026-06-02|2026-06-02]]
+    - [[sources/2026-06-02/09_data-engineering-salary-2026-levels-locations-comp-breakdown|Data Engineering Salary 2026 Levels, Locations Comp Breakdowns]]
     - [[sources/2026-06-02/08_data-engineering-skills-10-technical-5-soft-skills-hiring-ma|Data Engineering Skills 10 Technical 5 Soft Skills Hiring Managers Test]]
     - [[sources/2026-06-02/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
-    - [[sources/2026-06-02/09_data-engineering-salary-2026-levels-locations-comp-breakdown|Data Engineering Salary 2026 Levels, Locations Comp Breakdowns]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/05_aws-data-engineering-glue-emr-athena-kinesis-end-to-end-guid|AWS Data Engineering Glue, EMR, Athena, Kinesis End-to-End Guide]]
 - [[episodes/2026-05-25|2026-05-25]]

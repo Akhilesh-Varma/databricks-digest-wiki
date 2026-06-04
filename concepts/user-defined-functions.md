@@ -1,6 +1,6 @@
 ---
 type: concept
-name: user-defined functions
+name: User-Defined Functions
 slug: user-defined-functions
 first_seen: 2026-04-28
 last_seen: 2026-06-01
@@ -9,7 +9,7 @@ avg_confidence: 0.7
 tags: [concept]
 ---
 
-# user-defined functions
+# User-Defined Functions
 
 _Concept mentioned across 2 stories._
 

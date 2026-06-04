@@ -3,17 +3,19 @@ type: concept
 name: Lakeflow Jobs
 slug: lakeflow-jobs
 first_seen: 2026-04-15
-last_seen: 2026-05-12
-mention_count: 8
-avg_confidence: 0.662
+last_seen: 2026-06-04
+mention_count: 9
+avg_confidence: 0.667
 tags: [concept]
 ---
 
 # Lakeflow Jobs
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-06-04|2026-06-04]]
+    - [[sources/2026-06-04/04_table-update-triggers-on-delta-sharing-and-system-tables-bet|Table update triggers on Delta Sharing and system tables Beta]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/02_agentic-data-engineering-with-genie-code-and-lakeflow|Agentic Data Engineering with Genie Code and Lakeflow]]
 - [[episodes/2026-05-04|2026-05-04]]

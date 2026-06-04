@@ -3,17 +3,19 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-06-03
-mention_count: 41
+last_seen: 2026-06-04
+mention_count: 42
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 41 stories._
+_Company mentioned across 42 stories._
 
 ## Appears in
+- [[episodes/2026-06-04|2026-06-04]]
+    - [[sources/2026-06-04/07_t-sql-on-microsoft-fabric-episode-2-grouping-and-summarizing|T-SQL on Microsoft Fabric - Episode 2 Grouping and Summarizing Data with GROUP BY and Aggregate Functions]]
 - [[episodes/2026-06-03|2026-06-03]]
     - [[sources/2026-06-03/04_getting-claude-code-to-work-with-the-databricks-ai-gateway-o|Getting Claude Code to Work with the Databricks AI Gateway on Windows 3 Fixes I Wish I Knew]]
 - [[episodes/2026-06-01|2026-06-01]]

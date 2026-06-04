@@ -1,6 +1,6 @@
 ---
 type: concept
-name: AI agents
+name: AI Agents
 slug: ai-agents
 first_seen: 2026-04-18
 last_seen: 2026-06-01
@@ -9,7 +9,7 @@ avg_confidence: 0.72
 tags: [concept]
 ---
 
-# AI agents
+# AI Agents
 
 _Concept mentioned across 5 stories._
 

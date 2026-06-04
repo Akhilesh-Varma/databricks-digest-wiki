@@ -3,17 +3,19 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-06-02
-mention_count: 35
-avg_confidence: 0.871
+last_seen: 2026-06-04
+mention_count: 36
+avg_confidence: 0.875
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 35 stories._
+_Concept mentioned across 36 stories._
 
 ## Appears in
+- [[episodes/2026-06-04|2026-06-04]]
+    - [[sources/2026-06-04/09_puffin-backed-vector-indexes-attaching-approximate-nearest-n|Puffin-Backed Vector Indexes Attaching Approximate Nearest Neighbor Indexes to Apache Iceberg Snapshots for Compute-Disaggregated Query Engines]]
 - [[episodes/2026-06-02|2026-06-02]]
     - [[sources/2026-06-02/03_building-a-spark-declarative-pipeline-a-modern-financial-dat|Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP and Apache]]
 - [[episodes/2026-06-01|2026-06-01]]

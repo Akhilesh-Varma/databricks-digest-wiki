@@ -3,17 +3,19 @@ type: concept
 name: DuckDB
 slug: duckdb
 first_seen: 2026-04-09
-last_seen: 2026-05-26
-mention_count: 13
-avg_confidence: 0.608
+last_seen: 2026-06-04
+mention_count: 14
+avg_confidence: 0.614
 tags: [concept]
 ---
 
 # DuckDB
 
-_Concept mentioned across 13 stories._
+_Concept mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-06-04|2026-06-04]]
+    - [[sources/2026-06-04/09_puffin-backed-vector-indexes-attaching-approximate-nearest-n|Puffin-Backed Vector Indexes Attaching Approximate Nearest Neighbor Indexes to Apache Iceberg Snapshots for Compute-Disaggregated Query Engines]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/02_sqlit-a-lazygit-style-tui-for-sql-databases|Sqlit A lazygit-style TUI for SQL databases]]
 - [[episodes/2026-05-20|2026-05-20]]

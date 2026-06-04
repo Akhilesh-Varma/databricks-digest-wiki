@@ -3,17 +3,19 @@ type: concept
 name: WebSocket
 slug: websocket
 first_seen: 2026-04-27
-last_seen: 2026-05-12
-mention_count: 2
-avg_confidence: 0.7
+last_seen: 2026-06-04
+mention_count: 3
+avg_confidence: 0.6
 tags: [concept]
 ---
 
 # WebSocket
 
-_Concept mentioned across 2 stories._
+_Concept mentioned across 3 stories._
 
 ## Appears in
+- [[episodes/2026-06-04|2026-06-04]]
+    - [[sources/2026-06-04/06_handling-time-zone-differences-in-forex-apis-a-practical-dev|Handling Time Zone Differences in Forex APIs A Practical Developer s Guide]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/04_show-hn-e2a-open-source-email-gateway-for-ai-agents|Show HN E2a Open-source email gateway for AI agents]]
 - [[episodes/2026-04-27|2026-04-27]]

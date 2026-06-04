@@ -3,17 +3,19 @@ type: concept
 name: Cursor
 slug: cursor
 first_seen: 2026-05-14
-last_seen: 2026-05-21
-mention_count: 2
+last_seen: 2026-06-04
+mention_count: 3
 avg_confidence: 0.4
 tags: [concept]
 ---
 
 # Cursor
 
-_Concept mentioned across 2 stories._
+_Concept mentioned across 3 stories._
 
 ## Appears in
+- [[episodes/2026-06-04|2026-06-04]]
+    - [[sources/2026-06-04/02_launch-hn-hyper-yc-p26-company-brain-to-power-agentic-develo|Launch HN Hyper YC P26 Company brain to power agentic development]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/01_databricks-cli-v1-0-0-released|Databricks CLI v1.0.0 released]]
 - [[episodes/2026-05-14|2026-05-14]]

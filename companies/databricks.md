@@ -3,44 +3,48 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-06-03
-mention_count: 257
+last_seen: 2026-06-04
+mention_count: 259
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 257 stories._
+_Company mentioned across 259 stories._
 
 ## Appears in
+- [[episodes/2026-06-04|2026-06-04]]
+    - [[sources/2026-06-04/01_databricks-community-roundup-8-new-posts|Databricks Community Roundup — 8 new posts]]
+    - [[sources/2026-06-04/04_table-update-triggers-on-delta-sharing-and-system-tables-bet|Table update triggers on Delta Sharing and system tables Beta]]
+    - [[sources/2026-06-04/03_genie-code-will-also-use-models-served-through-openai-on-dat|Genie Code will also use models served through OpenAI on Databricks]]
 - [[episodes/2026-06-03|2026-06-03]]
-    - [[sources/2026-06-03/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
+    - [[sources/2026-06-03/04_getting-claude-code-to-work-with-the-databricks-ai-gateway-o|Getting Claude Code to Work with the Databricks AI Gateway on Windows 3 Fixes I Wish I Knew]]
     - [[sources/2026-06-03/03_getting-the-best-out-of-both-snowflake-and-databricks-a-data|Getting the Best Out of Both Snowflake and Databricks A Data Engineer s Guide to Building a]]
     - [[sources/2026-06-03/02_getting-started-with-databricks-spark-declarative-pipelines|Getting Started with Databricks Spark Declarative Pipelines Building a Simple Volume-to-Delta]]
-    - [[sources/2026-06-03/04_getting-claude-code-to-work-with-the-databricks-ai-gateway-o|Getting Claude Code to Work with the Databricks AI Gateway on Windows 3 Fixes I Wish I Knew]]
+    - [[sources/2026-06-03/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-06-02|2026-06-02]]
-    - [[sources/2026-06-02/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
     - [[sources/2026-06-02/04_databricks-to-snowflake-a-practical-guide-for-data-engineers|Databricks to Snowflake A Practical Guide for Data Engineers]]
+    - [[sources/2026-06-02/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-06-01|2026-06-01]]
-    - [[sources/2026-06-01/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
-    - [[sources/2026-06-01/04_five-things-that-make-unity-catalog-the-most-interoperable-i|Five things that make UNITY CATALOG the MOST interoperable Iceberg catalog]]
     - [[sources/2026-06-01/05_azure-data-factory-vs-databricks-for-orchestration-the-hones|Azure Data Factory vs Databricks for Orchestration The Honest Comparison No One Writes]]
+    - [[sources/2026-06-01/04_five-things-that-make-unity-catalog-the-most-interoperable-i|Five things that make UNITY CATALOG the MOST interoperable Iceberg catalog]]
+    - [[sources/2026-06-01/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-05-31|2026-05-31]]
-    - [[sources/2026-05-31/01_databricks-community-roundup-4-new-posts|Databricks Community Roundup — 4 new posts]]
     - [[sources/2026-05-31/04_databricks-apps-horizontal-scaling-beta|Databricks Apps horizontal scaling Beta]]
+    - [[sources/2026-05-31/01_databricks-community-roundup-4-new-posts|Databricks Community Roundup — 4 new posts]]
 - [[episodes/2026-05-30|2026-05-30]]
     - [[sources/2026-05-30/04_lakeflow-designer-updates-for-may-29-2026|Lakeflow Designer updates for May 29, 2026]]
     - [[sources/2026-05-30/03_databricks-runtime-18-may-29-2026|Databricks Runtime 18 May 29, 2026]]
-    - [[sources/2026-05-30/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
     - [[sources/2026-05-30/02_building-a-hybrid-htap-architecture-on-databricks-with-lakeb|Building a Hybrid HTAP Architecture on Databricks with Lakebase]]
+    - [[sources/2026-05-30/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/07_how-ai-is-reshaping-the-data-engineer-role-in-2026|How AI Is Reshaping the Data Engineer Role in 2026]]
-    - [[sources/2026-05-29/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
     - [[sources/2026-05-29/06_dbt-for-data-engineering-models-tests-macros-production-patt|dbt for Data Engineering Models, Tests, Macros Production Patterns]]
     - [[sources/2026-05-29/05_advancing-apache-iceberg-on-databricks-iceberg-v3-ga-open-sh|Advancing Apache Iceberg on Databricks Iceberg v3 GA, Open Sharing, and Unified Governance]]
     - [[sources/2026-05-29/04_real-time-mode-in-lakeflow-spark-declarative-pipelines-and-t|Real-time mode in Lakeflow Spark Declarative Pipelines, and the update_flow API are now available Public Preview]]
     - [[sources/2026-05-29/03_anthropic-claude-opus-4-8-now-available-as-a-databricks-host|Anthropic Claude Opus 4.8 now available as a Databricks-hosted model]]
+    - [[sources/2026-05-29/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
     - [[sources/2026-05-28/03_databricks-sql-alerts-will-soon-be-available-by-default-for|Databricks SQL alerts will soon be available by default for workspaces with the compliance security profile enabled]]
@@ -50,7 +54,6 @@ _Company mentioned across 257 stories._
     - [[sources/2026-05-27/04_lakeflow-spark-declarative-pipelines-parameters-are-now-in-b|Lakeflow Spark Declarative Pipelines parameters are now in Beta]]
     - [[sources/2026-05-27/03_automatic-identity-management-with-microsoft-entra-id-is-now|Automatic identity management with Microsoft Entra ID is now GA]]
     - [[sources/2026-05-27/02_databricks-sql-version-2026-15-is-now-available-in-preview|Databricks SQL version 2026.15 is now available in Preview]]
-    - [[sources/2026-05-27/01_databricks-community-roundup-8-new-posts|Databricks Community Roundup — 8 new posts]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/06_azure-data-engineering-synapse-adf-databricks-full-guide|Azure Data Engineering Synapse, ADF, Databricks Full Guide]]
     - [[sources/2026-05-26/03_why-lakehouse-architecture-feels-like-the-future-of-data-eng|Why Lakehouse Architecture Feels Like the Future of Data Engineering]]

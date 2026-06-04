@@ -3,17 +3,19 @@ type: concept
 name: Iceberg REST Catalog
 slug: iceberg-rest-catalog
 first_seen: 2026-05-02
-last_seen: 2026-05-22
-mention_count: 4
-avg_confidence: 0.775
+last_seen: 2026-06-04
+mention_count: 5
+avg_confidence: 0.76
 tags: [concept]
 ---
 
 # Iceberg REST Catalog
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-06-04|2026-06-04]]
+    - [[sources/2026-06-04/09_puffin-backed-vector-indexes-attaching-approximate-nearest-n|Puffin-Backed Vector Indexes Attaching Approximate Nearest Neighbor Indexes to Apache Iceberg Snapshots for Compute-Disaggregated Query Engines]]
 - [[episodes/2026-05-22|2026-05-22]]
     - [[sources/2026-05-22/07_what-are-lakehouse-catalogs-the-role-of-catalogs-in-apache-i|What Are Lakehouse Catalogs? The Role of Catalogs in Apache Iceberg]]
 - [[episodes/2026-05-19|2026-05-19]]

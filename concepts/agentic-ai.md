@@ -3,17 +3,19 @@ type: concept
 name: Agentic AI
 slug: agentic-ai
 first_seen: 2026-05-03
-last_seen: 2026-06-01
-mention_count: 5
-avg_confidence: 0.76
+last_seen: 2026-06-04
+mention_count: 6
+avg_confidence: 0.75
 tags: [concept]
 ---
 
 # Agentic AI
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-06-04|2026-06-04]]
+    - [[sources/2026-06-04/02_launch-hn-hyper-yc-p26-company-brain-to-power-agentic-develo|Launch HN Hyper YC P26 Company brain to power agentic development]]
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]
 - [[episodes/2026-05-28|2026-05-28]]
