@@ -3,17 +3,19 @@ type: concept
 name: Genie
 slug: genie
 first_seen: 2026-04-17
-last_seen: 2026-05-14
-mention_count: 10
-avg_confidence: 0.72
+last_seen: 2026-06-05
+mention_count: 11
+avg_confidence: 0.745
 tags: [concept]
 ---
 
 # Genie
 
-_Concept mentioned across 10 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-06-05|2026-06-05]]
+    - [[sources/2026-06-05/03_genie-products-will-move-to-pay-as-you-go-pricing|Genie products will move to pay-as-you-go pricing]]
 - [[episodes/2026-05-14|2026-05-14]]
     - [[sources/2026-05-14/04_data-detective-series-ready-to-crack-a-case-with-data|Data Detective Series Ready to crack a case with data?]]
 - [[episodes/2026-05-13|2026-05-13]]

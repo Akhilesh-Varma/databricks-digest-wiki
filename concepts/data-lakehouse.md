@@ -3,17 +3,19 @@ type: concept
 name: Data Lakehouse
 slug: data-lakehouse
 first_seen: 2026-04-10
-last_seen: 2026-06-02
-mention_count: 13
-avg_confidence: 0.769
+last_seen: 2026-06-05
+mention_count: 14
+avg_confidence: 0.764
 tags: [concept]
 ---
 
 # Data Lakehouse
 
-_Concept mentioned across 13 stories._
+_Concept mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-06-05|2026-06-05]]
+    - [[sources/2026-06-05/04_the-triad-hudi-iceberg-delta-of-open-table-formats-3-n-in-20|The Triad Hudi, Iceberg, Delta of Open Table Formats 3 n in 2026]]
 - [[episodes/2026-06-02|2026-06-02]]
     - [[sources/2026-06-02/03_building-a-spark-declarative-pipeline-a-modern-financial-dat|Building a Spark Declarative Pipeline A Modern Financial Data Lakehouse with SDP and Apache]]
 - [[episodes/2026-05-21|2026-05-21]]

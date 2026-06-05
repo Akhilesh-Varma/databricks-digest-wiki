@@ -3,17 +3,19 @@ type: concept
 name: PostgreSQL
 slug: postgresql
 first_seen: 2026-04-09
-last_seen: 2026-06-02
-mention_count: 25
-avg_confidence: 0.684
+last_seen: 2026-06-05
+mention_count: 26
+avg_confidence: 0.673
 tags: [concept]
 ---
 
 # PostgreSQL
 
-_Concept mentioned across 25 stories._
+_Concept mentioned across 26 stories._
 
 ## Appears in
+- [[episodes/2026-06-05|2026-06-05]]
+    - [[sources/2026-06-05/05_data-flow-control-data-safety-policies-for-ai-agents|Data Flow Control Data Safety Policies for AI Agents]]
 - [[episodes/2026-06-02|2026-06-02]]
     - [[sources/2026-06-02/07_integrated-biological-data-collection-platform-an-architectu|Integrated Biological Data Collection Platform An Architecture for Automated Curation of Public Repositories]]
 - [[episodes/2026-06-01|2026-06-01]]

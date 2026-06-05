@@ -3,17 +3,19 @@ type: concept
 name: Apache Hudi
 slug: apache-hudi
 first_seen: 2026-04-27
-last_seen: 2026-05-31
-mention_count: 5
-avg_confidence: 0.76
+last_seen: 2026-06-05
+mention_count: 6
+avg_confidence: 0.8
 tags: [concept]
 ---
 
 # Apache Hudi
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-06-05|2026-06-05]]
+    - [[sources/2026-06-05/04_the-triad-hudi-iceberg-delta-of-open-table-formats-3-n-in-20|The Triad Hudi, Iceberg, Delta of Open Table Formats 3 n in 2026]]
 - [[episodes/2026-05-31|2026-05-31]]
     - [[sources/2026-05-31/03_the-triad-hudi-iceberg-delta-of-open-table-formats-2-n-archi|The Triad Hudi, Iceberg, Delta of Open Table Formats 2 n Architecture Deep Dive]]
 - [[episodes/2026-05-28|2026-05-28]]

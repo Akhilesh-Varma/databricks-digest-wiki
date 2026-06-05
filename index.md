@@ -1,8 +1,8 @@
 ---
 type: index
-generated_at: 2026-06-04T10:29:42.837640+00:00
-episode_count: 63
-story_count: 505
+generated_at: 2026-06-05T10:25:04.067732+00:00
+episode_count: 64
+story_count: 509
 ---
 
 # Daily Databricks Digest — Knowledge Wiki
@@ -11,10 +11,11 @@ An auto-generated Obsidian vault covering every story aired on the [Daily Databr
 
 ## Recent episodes
 
+- [[episodes/2026-06-05|Daily Databricks Digest - June 05, 2026]] — 5 stories
 - [[episodes/2026-06-04|Daily Databricks Digest - June 04, 2026]] — 9 stories
 - [[episodes/2026-06-03|Daily Databricks Digest - June 03, 2026]] — 4 stories
 - [[episodes/2026-06-02|Daily Databricks Digest - June 02, 2026]] — 10 stories
-- [[episodes/2026-06-01|Daily Databricks Digest - June 01, 2026]] — 9 stories
+- [[episodes/2026-06-01|Daily Databricks Digest - June 01, 2026]] — 8 stories
 - [[episodes/2026-05-31|Daily Databricks Digest - May 31, 2026]] — 5 stories
 - [[episodes/2026-05-30|Daily Databricks Digest - May 30, 2026]] — 4 stories
 - [[episodes/2026-05-29|Daily Databricks Digest - May 29, 2026]] — 8 stories
@@ -30,35 +31,34 @@ An auto-generated Obsidian vault covering every story aired on the [Daily Databr
 - [[episodes/2026-05-19|Daily Databricks Digest - May 19, 2026]] — 9 stories
 - [[episodes/2026-05-18|Daily Databricks Digest - May 18, 2026]] — 9 stories
 - [[episodes/2026-05-17|Daily Databricks Digest - May 17, 2026]] — 8 stories
-- [[episodes/2026-05-16|Daily Databricks Digest - May 16, 2026]] — 8 stories
-- _…and 43 earlier episodes._
+- _…and 44 earlier episodes._
 
 ## Most-referenced concepts
 
 - [[concepts/unity-catalog|Unity Catalog]] — 84 stories
-- [[concepts/delta-lake|Delta Lake]] — 59 stories
+- [[concepts/delta-lake|Delta Lake]] — 60 stories
 - [[concepts/lakehouse|Lakehouse]] — 51 stories
 - [[concepts/apache-spark|Apache Spark]] — 49 stories
-- [[concepts/apache-iceberg|Apache Iceberg]] — 36 stories
+- [[concepts/apache-iceberg|Apache Iceberg]] — 37 stories
 - [[concepts/large-language-models|Large Language Models]] — 33 stories
-- [[concepts/postgresql|PostgreSQL]] — 25 stories
+- [[concepts/postgresql|PostgreSQL]] — 26 stories
 - [[concepts/retrieval-augmented-generation|Retrieval-Augmented Generation]] — 20 stories
 - [[concepts/mlflow|MLflow]] — 20 stories
 - [[concepts/medallion-architecture|Medallion Architecture]] — 19 stories
+- [[concepts/etl|ETL]] — 19 stories
 - [[concepts/databricks-apps|Databricks Apps]] — 18 stories
-- [[concepts/etl|ETL]] — 18 stories
 - [[concepts/claude-code|Claude Code]] — 18 stories
 - [[concepts/snowflake|Snowflake]] — 17 stories
 - [[concepts/lakebase|Lakebase]] — 16 stories
 - [[concepts/dbt|dbt]] — 16 stories
 - [[concepts/databricks|Databricks]] — 16 stories
+- [[concepts/duckdb|DuckDB]] — 15 stories
 - [[concepts/pyspark|PySpark]] — 15 stories
+- [[concepts/data-lakehouse|Data Lakehouse]] — 14 stories
 - [[concepts/spark-declarative-pipelines|Spark Declarative Pipelines]] — 14 stories
-- [[concepts/data-pipeline|Data Pipeline]] — 14 stories
-- [[concepts/duckdb|DuckDB]] — 14 stories
 - [[concepts/data-engineering|Data Engineering]] — 14 stories
-- [[concepts/data-lakehouse|Data Lakehouse]] — 13 stories
 - [[concepts/bigquery|BigQuery]] — 13 stories
+- [[concepts/data-pipeline|Data Pipeline]] — 13 stories
 - [[concepts/databricks-serverless-sql|Databricks Serverless SQL]] — 12 stories
 - [[concepts/apache-kafka|Apache Kafka]] — 12 stories
 - [[concepts/lakehouse-architecture|Lakehouse Architecture]] — 12 stories

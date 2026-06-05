@@ -3,17 +3,19 @@ type: concept
 name: DuckDB
 slug: duckdb
 first_seen: 2026-04-09
-last_seen: 2026-06-04
-mention_count: 14
-avg_confidence: 0.614
+last_seen: 2026-06-05
+mention_count: 15
+avg_confidence: 0.6
 tags: [concept]
 ---
 
 # DuckDB
 
-_Concept mentioned across 14 stories._
+_Concept mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-06-05|2026-06-05]]
+    - [[sources/2026-06-05/05_data-flow-control-data-safety-policies-for-ai-agents|Data Flow Control Data Safety Policies for AI Agents]]
 - [[episodes/2026-06-04|2026-06-04]]
     - [[sources/2026-06-04/09_puffin-backed-vector-indexes-attaching-approximate-nearest-n|Puffin-Backed Vector Indexes Attaching Approximate Nearest Neighbor Indexes to Apache Iceberg Snapshots for Compute-Disaggregated Query Engines]]
 - [[episodes/2026-05-26|2026-05-26]]

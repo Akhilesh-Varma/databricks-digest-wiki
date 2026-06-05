@@ -3,7 +3,7 @@ type: concept
 name: Query Performance Tuning
 slug: query-performance-tuning
 first_seen: 2026-05-25
-last_seen: 2026-06-01
+last_seen: 2026-06-05
 mention_count: 5
 avg_confidence: 0.7
 tags: [concept]
@@ -14,8 +14,8 @@ tags: [concept]
 _Concept mentioned across 5 stories._
 
 ## Appears in
-- [[episodes/2026-06-01|2026-06-01]]
-    - [[sources/2026-06-01/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
+- [[episodes/2026-06-05|2026-06-05]]
+    - [[sources/2026-06-05/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-05-31|2026-05-31]]
     - [[sources/2026-05-31/01_databricks-community-roundup-4-new-posts|Databricks Community Roundup — 4 new posts]]
 - [[episodes/2026-05-28|2026-05-28]]

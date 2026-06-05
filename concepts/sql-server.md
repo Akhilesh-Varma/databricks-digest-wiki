@@ -3,17 +3,19 @@ type: concept
 name: SQL Server
 slug: sql-server
 first_seen: 2026-04-29
-last_seen: 2026-05-27
-mention_count: 3
-avg_confidence: 0.6
+last_seen: 2026-06-05
+mention_count: 4
+avg_confidence: 0.55
 tags: [concept]
 ---
 
 # SQL Server
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-06-05|2026-06-05]]
+    - [[sources/2026-06-05/05_data-flow-control-data-safety-policies-for-ai-agents|Data Flow Control Data Safety Policies for AI Agents]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/06_copy-job-cdc-with-sql-estate-is-now-ga-in-microsoft-fabric|Copy Job CDC with SQL estate is now GA in Microsoft Fabric]]
 - [[episodes/2026-05-13|2026-05-13]]

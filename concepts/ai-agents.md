@@ -3,17 +3,19 @@ type: concept
 name: AI Agents
 slug: ai-agents
 first_seen: 2026-04-18
-last_seen: 2026-06-01
-mention_count: 5
-avg_confidence: 0.72
+last_seen: 2026-06-05
+mention_count: 6
+avg_confidence: 0.717
 tags: [concept]
 ---
 
 # AI Agents
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-06-05|2026-06-05]]
+    - [[sources/2026-06-05/05_data-flow-control-data-safety-policies-for-ai-agents|Data Flow Control Data Safety Policies for AI Agents]]
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]
 - [[episodes/2026-05-29|2026-05-29]]
