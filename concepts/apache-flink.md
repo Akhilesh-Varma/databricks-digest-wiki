@@ -3,17 +3,19 @@ type: concept
 name: Apache Flink
 slug: apache-flink
 first_seen: 2026-04-14
-last_seen: 2026-05-21
-mention_count: 8
-avg_confidence: 0.688
+last_seen: 2026-06-06
+mention_count: 9
+avg_confidence: 0.656
 tags: [concept]
 ---
 
 # Apache Flink
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-06-06|2026-06-06]]
+    - [[sources/2026-06-06/07_data-engineer-vs-data-scientist-what-s-the-difference-2026-g|Data Engineer vs. Data Scientist What's the Difference? 2026 Guide for Beginners]]
 - [[episodes/2026-05-21|2026-05-21]]
     - [[sources/2026-05-21/10_the-ghost-protocol-stack-how-we-rebuilt-payments-when-every|The Ghost Protocol Stack How We Rebuilt Payments When Every Vendor Cut Us Off]]
     - [[sources/2026-05-21/09_why-stripe-didnt-cut-it-for-creators-in-pakistan-and-how-we|Why Stripe Didnt Cut It for Creators in Pakistan and How We Built a Parallel Pipeline for 0.05 Per Transaction]]

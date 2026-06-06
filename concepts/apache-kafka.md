@@ -3,17 +3,19 @@ type: concept
 name: Apache Kafka
 slug: apache-kafka
 first_seen: 2026-04-14
-last_seen: 2026-05-23
-mention_count: 12
-avg_confidence: 0.683
+last_seen: 2026-06-06
+mention_count: 13
+avg_confidence: 0.662
 tags: [concept]
 ---
 
 # Apache Kafka
 
-_Concept mentioned across 12 stories._
+_Concept mentioned across 13 stories._
 
 ## Appears in
+- [[episodes/2026-06-06|2026-06-06]]
+    - [[sources/2026-06-06/07_data-engineer-vs-data-scientist-what-s-the-difference-2026-g|Data Engineer vs. Data Scientist What's the Difference? 2026 Guide for Beginners]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/09_why-i-spent-6-months-rebuilding-our-event-pipeline-to-fix-a|Why I Spent 6 Months Rebuilding Our Event Pipeline to Fix a 400ms Query Latency Problem]]
 - [[episodes/2026-05-22|2026-05-22]]

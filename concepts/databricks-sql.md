@@ -3,17 +3,19 @@ type: concept
 name: Databricks SQL
 slug: databricks-sql
 first_seen: 2026-04-13
-last_seen: 2026-05-27
-mention_count: 6
-avg_confidence: 0.783
+last_seen: 2026-06-06
+mention_count: 7
+avg_confidence: 0.814
 tags: [concept]
 ---
 
 # Databricks SQL
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-06-06|2026-06-06]]
+    - [[sources/2026-06-06/04_unique-constraint-support-is-now-in-public-preview|UNIQUE constraint support is now in Public Preview]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/02_databricks-sql-version-2026-15-is-now-available-in-preview|Databricks SQL version 2026.15 is now available in Preview]]
 - [[episodes/2026-05-23|2026-05-23]]

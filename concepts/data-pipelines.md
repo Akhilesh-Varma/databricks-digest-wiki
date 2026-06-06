@@ -4,20 +4,18 @@ name: Data Pipelines
 slug: data-pipelines
 first_seen: 2026-04-27
 last_seen: 2026-06-01
-mention_count: 7
-avg_confidence: 0.571
+mention_count: 6
+avg_confidence: 0.6
 tags: [concept]
 ---
 
 # Data Pipelines
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/08_from-frontend-to-data-engineering-why-i-made-the-switch|From Frontend to Data Engineering Why I Made the Switch?]]
-- [[episodes/2026-05-31|2026-05-31]]
-    - [[sources/2026-05-31/01_databricks-community-roundup-4-new-posts|Databricks Community Roundup — 4 new posts]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-05-12|2026-05-12]]

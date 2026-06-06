@@ -3,17 +3,20 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-06-05
-mention_count: 60
-avg_confidence: 0.757
+last_seen: 2026-06-06
+mention_count: 62
+avg_confidence: 0.755
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 60 stories._
+_Concept mentioned across 62 stories._
 
 ## Appears in
+- [[episodes/2026-06-06|2026-06-06]]
+    - [[sources/2026-06-06/04_unique-constraint-support-is-now-in-public-preview|UNIQUE constraint support is now in Public Preview]]
+    - [[sources/2026-06-06/05_external-data-access-for-pipeline-streaming-tables-and-mater|External data access for pipeline streaming tables and materialized views Public Preview]]
 - [[episodes/2026-06-05|2026-06-05]]
     - [[sources/2026-06-05/04_the-triad-hudi-iceberg-delta-of-open-table-formats-3-n-in-20|The Triad Hudi, Iceberg, Delta of Open Table Formats 3 n in 2026]]
 - [[episodes/2026-06-04|2026-06-04]]

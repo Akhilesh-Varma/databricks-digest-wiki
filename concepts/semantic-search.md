@@ -1,6 +1,6 @@
 ---
 type: concept
-name: semantic search
+name: Semantic Search
 slug: semantic-search
 first_seen: 2026-04-27
 last_seen: 2026-06-04
@@ -9,7 +9,7 @@ avg_confidence: 0.7
 tags: [concept]
 ---
 
-# semantic search
+# Semantic Search
 
 _Concept mentioned across 2 stories._
 

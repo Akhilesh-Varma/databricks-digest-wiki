@@ -3,17 +3,19 @@ type: company
 name: Microsoft Azure
 slug: microsoft-azure
 first_seen: 2026-04-08
-last_seen: 2026-06-04
-mention_count: 18
+last_seen: 2026-06-06
+mention_count: 19
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft Azure
 
-_Company mentioned across 18 stories._
+_Company mentioned across 19 stories._
 
 ## Appears in
+- [[episodes/2026-06-06|2026-06-06]]
+    - [[sources/2026-06-06/06_ask-hn-is-azure-capacity-this-constraind-or-am-i-doing-it-wr|Ask HN Is Azure capacity this constraind or am I doing it wrong?]]
 - [[episodes/2026-06-04|2026-06-04]]
     - [[sources/2026-06-04/03_genie-code-will-also-use-models-served-through-openai-on-dat|Genie Code will also use models served through OpenAI on Databricks]]
 - [[episodes/2026-05-29|2026-05-29]]

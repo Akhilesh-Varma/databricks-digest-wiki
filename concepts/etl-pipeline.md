@@ -3,17 +3,19 @@ type: concept
 name: ETL Pipeline
 slug: etl-pipeline
 first_seen: 2026-04-13
-last_seen: 2026-05-29
-mention_count: 10
-avg_confidence: 0.68
+last_seen: 2026-06-06
+mention_count: 11
+avg_confidence: 0.709
 tags: [concept]
 ---
 
 # ETL Pipeline
 
-_Concept mentioned across 10 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-06-06|2026-06-06]]
+    - [[sources/2026-06-06/09_how-i-broke-down-my-etl-pipeline-project-into-smaller-engine|How I Broke Down My ETL Pipeline Project Into Smaller Engineering Exercises]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/06_dbt-for-data-engineering-models-tests-macros-production-patt|dbt for Data Engineering Models, Tests, Macros Production Patterns]]
 - [[episodes/2026-05-23|2026-05-23]]

@@ -3,24 +3,30 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-06-05
-mention_count: 260
+last_seen: 2026-06-06
+mention_count: 264
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 260 stories._
+_Company mentioned across 264 stories._
 
 ## Appears in
+- [[episodes/2026-06-06|2026-06-06]]
+    - [[sources/2026-06-06/07_data-engineer-vs-data-scientist-what-s-the-difference-2026-g|Data Engineer vs. Data Scientist What's the Difference? 2026 Guide for Beginners]]
+    - [[sources/2026-06-06/03_ai-extract-and-ai-classify-will-soon-be-available-by-default|ai_extract and ai_classify will soon be available by default for workspaces with the compliance security profile enabled]]
+    - [[sources/2026-06-06/01_databricks-community-roundup-4-new-posts|Databricks Community Roundup — 4 new posts]]
+    - [[sources/2026-06-06/04_unique-constraint-support-is-now-in-public-preview|UNIQUE constraint support is now in Public Preview]]
+    - [[sources/2026-06-06/05_external-data-access-for-pipeline-streaming-tables-and-mater|External data access for pipeline streaming tables and materialized views Public Preview]]
 - [[episodes/2026-06-05|2026-06-05]]
-    - [[sources/2026-06-05/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
     - [[sources/2026-06-05/03_genie-products-will-move-to-pay-as-you-go-pricing|Genie products will move to pay-as-you-go pricing]]
+    - [[sources/2026-06-05/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-06-04|2026-06-04]]
-    - [[sources/2026-06-04/01_databricks-community-roundup-8-new-posts|Databricks Community Roundup — 8 new posts]]
     - [[sources/2026-06-04/04_table-update-triggers-on-delta-sharing-and-system-tables-bet|Table update triggers on Delta Sharing and system tables Beta]]
     - [[sources/2026-06-04/03_genie-code-will-also-use-models-served-through-openai-on-dat|Genie Code will also use models served through OpenAI on Databricks]]
+    - [[sources/2026-06-04/01_databricks-community-roundup-8-new-posts|Databricks Community Roundup — 8 new posts]]
 - [[episodes/2026-06-03|2026-06-03]]
     - [[sources/2026-06-03/04_getting-claude-code-to-work-with-the-databricks-ai-gateway-o|Getting Claude Code to Work with the Databricks AI Gateway on Windows 3 Fixes I Wish I Knew]]
     - [[sources/2026-06-03/03_getting-the-best-out-of-both-snowflake-and-databricks-a-data|Getting the Best Out of Both Snowflake and Databricks A Data Engineer s Guide to Building a]]
@@ -34,7 +40,6 @@ _Company mentioned across 260 stories._
     - [[sources/2026-06-01/04_five-things-that-make-unity-catalog-the-most-interoperable-i|Five things that make UNITY CATALOG the MOST interoperable Iceberg catalog]]
 - [[episodes/2026-05-31|2026-05-31]]
     - [[sources/2026-05-31/04_databricks-apps-horizontal-scaling-beta|Databricks Apps horizontal scaling Beta]]
-    - [[sources/2026-05-31/01_databricks-community-roundup-4-new-posts|Databricks Community Roundup — 4 new posts]]
 - [[episodes/2026-05-30|2026-05-30]]
     - [[sources/2026-05-30/04_lakeflow-designer-updates-for-may-29-2026|Lakeflow Designer updates for May 29, 2026]]
     - [[sources/2026-05-30/03_databricks-runtime-18-may-29-2026|Databricks Runtime 18 May 29, 2026]]

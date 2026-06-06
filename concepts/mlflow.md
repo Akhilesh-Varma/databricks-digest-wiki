@@ -3,17 +3,19 @@ type: concept
 name: MLflow
 slug: mlflow
 first_seen: 2026-04-06
-last_seen: 2026-06-02
-mention_count: 20
-avg_confidence: 0.805
+last_seen: 2026-06-06
+mention_count: 21
+avg_confidence: 0.8
 tags: [concept]
 ---
 
 # MLflow
 
-_Concept mentioned across 20 stories._
+_Concept mentioned across 21 stories._
 
 ## Appears in
+- [[episodes/2026-06-06|2026-06-06]]
+    - [[sources/2026-06-06/08_machine-learning-for-data-engineers-the-patterns-i-actually|Machine Learning for Data Engineers The Patterns I Actually Used Across 7 Projects]]
 - [[episodes/2026-06-02|2026-06-02]]
     - [[sources/2026-06-02/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-05-25|2026-05-25]]

@@ -3,17 +3,19 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-06-05
-mention_count: 37
-avg_confidence: 0.878
+last_seen: 2026-06-06
+mention_count: 38
+avg_confidence: 0.874
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 37 stories._
+_Concept mentioned across 38 stories._
 
 ## Appears in
+- [[episodes/2026-06-06|2026-06-06]]
+    - [[sources/2026-06-06/05_external-data-access-for-pipeline-streaming-tables-and-mater|External data access for pipeline streaming tables and materialized views Public Preview]]
 - [[episodes/2026-06-05|2026-06-05]]
     - [[sources/2026-06-05/04_the-triad-hudi-iceberg-delta-of-open-table-formats-3-n-in-20|The Triad Hudi, Iceberg, Delta of Open Table Formats 3 n in 2026]]
 - [[episodes/2026-06-04|2026-06-04]]

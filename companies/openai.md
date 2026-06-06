@@ -15,8 +15,8 @@ _Company mentioned across 19 stories._
 
 ## Appears in
 - [[episodes/2026-06-04|2026-06-04]]
-    - [[sources/2026-06-04/02_launch-hn-hyper-yc-p26-company-brain-to-power-agentic-develo|Launch HN Hyper YC P26 Company brain to power agentic development]]
     - [[sources/2026-06-04/03_genie-code-will-also-use-models-served-through-openai-on-dat|Genie Code will also use models served through OpenAI on Databricks]]
+    - [[sources/2026-06-04/02_launch-hn-hyper-yc-p26-company-brain-to-power-agentic-develo|Launch HN Hyper YC P26 Company brain to power agentic development]]
 - [[episodes/2026-06-02|2026-06-02]]
     - [[sources/2026-06-02/02_launch-hn-expanse-yc-p26-unlock-wasted-gpu-capacity|Launch HN Expanse YC P26 Unlock Wasted GPU Capacity]]
 - [[episodes/2026-05-29|2026-05-29]]

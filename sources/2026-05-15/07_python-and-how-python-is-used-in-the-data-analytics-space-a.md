@@ -32,4 +32,4 @@ This beginner's guide introduces Python as a programming language created by Gui
 - **URL:** <https://dev.to/josengash/python-and-how-python-is-used-in-the-data-analytics-space-a-beginners-guide-52dh>
 
 ## Related
-[[concepts/python|python]] · [[concepts/data-analytics|data-analytics]] · [[concepts/workflows|workflows]] · [[concepts/analytics|analytics]] · [[concepts/power-bi|power-bi]] · [[companies/microsoft|Microsoft]] · [[people/guido-van-rossum|Guido Van Rossum]] · [[episodes/2026-05-15|2026-05-15]]
+[[concepts/python|python]] · [[concepts/data-analytics|data-analytics]] · [[concepts/workflows|workflows]] · [[concepts/analytics|analytics]] · [[concepts/power-bi|power-bi]] · [[concepts/jupyter|jupyter]] · [[companies/microsoft|Microsoft]] · [[people/guido-van-rossum|Guido Van Rossum]] · [[episodes/2026-05-15|2026-05-15]]

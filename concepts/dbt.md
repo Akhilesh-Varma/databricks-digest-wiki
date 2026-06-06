@@ -3,17 +3,19 @@ type: concept
 name: dbt
 slug: dbt
 first_seen: 2026-04-05
-last_seen: 2026-06-02
-mention_count: 16
+last_seen: 2026-06-06
+mention_count: 17
 avg_confidence: 0.706
 tags: [concept]
 ---
 
 # dbt
 
-_Concept mentioned across 16 stories._
+_Concept mentioned across 17 stories._
 
 ## Appears in
+- [[episodes/2026-06-06|2026-06-06]]
+    - [[sources/2026-06-06/07_data-engineer-vs-data-scientist-what-s-the-difference-2026-g|Data Engineer vs. Data Scientist What's the Difference? 2026 Guide for Beginners]]
 - [[episodes/2026-06-02|2026-06-02]]
     - [[sources/2026-06-02/08_data-engineering-skills-10-technical-5-soft-skills-hiring-ma|Data Engineering Skills 10 Technical 5 Soft Skills Hiring Managers Test]]
 - [[episodes/2026-06-01|2026-06-01]]

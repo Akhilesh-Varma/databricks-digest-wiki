@@ -3,17 +3,19 @@ type: concept
 name: Pipeline Orchestration
 slug: pipeline-orchestration
 first_seen: 2026-05-09
-last_seen: 2026-06-01
-mention_count: 2
-avg_confidence: 0.7
+last_seen: 2026-06-06
+mention_count: 3
+avg_confidence: 0.6
 tags: [concept]
 ---
 
 # Pipeline Orchestration
 
-_Concept mentioned across 2 stories._
+_Concept mentioned across 3 stories._
 
 ## Appears in
+- [[episodes/2026-06-06|2026-06-06]]
+    - [[sources/2026-06-06/09_how-i-broke-down-my-etl-pipeline-project-into-smaller-engine|How I Broke Down My ETL Pipeline Project Into Smaller Engineering Exercises]]
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/05_azure-data-factory-vs-databricks-for-orchestration-the-hones|Azure Data Factory vs Databricks for Orchestration The Honest Comparison No One Writes]]
 - [[episodes/2026-05-09|2026-05-09]]

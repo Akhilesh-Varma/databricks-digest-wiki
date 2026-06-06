@@ -3,17 +3,19 @@ type: concept
 name: Agent Bricks
 slug: agent-bricks
 first_seen: 2026-04-19
-last_seen: 2026-06-02
-mention_count: 9
-avg_confidence: 0.7
+last_seen: 2026-06-06
+mention_count: 10
+avg_confidence: 0.67
 tags: [concept]
 ---
 
 # Agent Bricks
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-06-06|2026-06-06]]
+    - [[sources/2026-06-06/03_ai-extract-and-ai-classify-will-soon-be-available-by-default|ai_extract and ai_classify will soon be available by default for workspaces with the compliance security profile enabled]]
 - [[episodes/2026-06-02|2026-06-02]]
     - [[sources/2026-06-02/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-05-14|2026-05-14]]

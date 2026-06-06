@@ -15,8 +15,8 @@ _Company mentioned across 34 stories._
 
 ## Appears in
 - [[episodes/2026-06-04|2026-06-04]]
-    - [[sources/2026-06-04/02_launch-hn-hyper-yc-p26-company-brain-to-power-agentic-develo|Launch HN Hyper YC P26 Company brain to power agentic development]]
     - [[sources/2026-06-04/03_genie-code-will-also-use-models-served-through-openai-on-dat|Genie Code will also use models served through OpenAI on Databricks]]
+    - [[sources/2026-06-04/02_launch-hn-hyper-yc-p26-company-brain-to-power-agentic-develo|Launch HN Hyper YC P26 Company brain to power agentic development]]
 - [[episodes/2026-06-03|2026-06-03]]
     - [[sources/2026-06-03/04_getting-claude-code-to-work-with-the-databricks-ai-gateway-o|Getting Claude Code to Work with the Databricks AI Gateway on Windows 3 Fixes I Wish I Knew]]
 - [[episodes/2026-06-02|2026-06-02]]

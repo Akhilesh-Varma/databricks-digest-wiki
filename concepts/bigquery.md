@@ -3,17 +3,19 @@ type: concept
 name: BigQuery
 slug: bigquery
 first_seen: 2026-04-05
-last_seen: 2026-05-23
-mention_count: 13
-avg_confidence: 0.669
+last_seen: 2026-06-06
+mention_count: 14
+avg_confidence: 0.65
 tags: [concept]
 ---
 
 # BigQuery
 
-_Concept mentioned across 13 stories._
+_Concept mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-06-06|2026-06-06]]
+    - [[sources/2026-06-06/07_data-engineer-vs-data-scientist-what-s-the-difference-2026-g|Data Engineer vs. Data Scientist What's the Difference? 2026 Guide for Beginners]]
 - [[episodes/2026-05-23|2026-05-23]]
     - [[sources/2026-05-23/05_understanding-databricks-honest-comparison-with-snowflake-an|Understanding Databricks Honest Comparison with Snowflake and BigQuery]]
 - [[episodes/2026-05-21|2026-05-21]]

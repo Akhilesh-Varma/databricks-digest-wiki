@@ -3,17 +3,19 @@ type: concept
 name: Materialized Views
 slug: materialized-views
 first_seen: 2026-04-14
-last_seen: 2026-05-27
-mention_count: 5
-avg_confidence: 0.66
+last_seen: 2026-06-06
+mention_count: 6
+avg_confidence: 0.667
 tags: [concept]
 ---
 
 # Materialized Views
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-06-06|2026-06-06]]
+    - [[sources/2026-06-06/05_external-data-access-for-pipeline-streaming-tables-and-mater|External data access for pipeline streaming tables and materialized views Public Preview]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/05_how-polymarket-scaled-their-data-stack-with-postgres-clickho|How Polymarket Scaled Their Data Stack with Postgres ClickHouse]]
 - [[episodes/2026-05-24|2026-05-24]]
