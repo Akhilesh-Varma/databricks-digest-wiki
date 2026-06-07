@@ -3,17 +3,21 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-06-04
-mention_count: 49
-avg_confidence: 0.673
+last_seen: 2026-06-07
+mention_count: 52
+avg_confidence: 0.681
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 49 stories._
+_Concept mentioned across 52 stories._
 
 ## Appears in
+- [[episodes/2026-06-07|2026-06-07]]
+    - [[sources/2026-06-07/06_linux-fundamentals-for-data-engineering|LINUX FUNDAMENTALS FOR DATA ENGINEERING.]]
+    - [[sources/2026-06-07/05_what-is-data-science-the-complete-infrastructure-hub-2026-gu|What is Data Science? The Complete Infrastructure Hub 2026 Guide]]
+    - [[sources/2026-06-07/03_apache-spark-memory-deep-dive-oom|Apache Spark Memory Deep Dive 브로드캐스트 변수의 배신과 OOM 해결기]]
 - [[episodes/2026-06-04|2026-06-04]]
     - [[sources/2026-06-04/01_databricks-community-roundup-8-new-posts|Databricks Community Roundup — 8 new posts]]
 - [[episodes/2026-06-02|2026-06-02]]

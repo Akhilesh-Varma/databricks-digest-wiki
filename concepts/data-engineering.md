@@ -3,17 +3,19 @@ type: concept
 name: Data Engineering
 slug: data-engineering
 first_seen: 2026-03-17
-last_seen: 2026-06-01
-mention_count: 14
-avg_confidence: 0.764
+last_seen: 2026-06-07
+mention_count: 15
+avg_confidence: 0.76
 tags: [concept]
 ---
 
 # Data Engineering
 
-_Concept mentioned across 14 stories._
+_Concept mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-06-07|2026-06-07]]
+    - [[sources/2026-06-07/05_what-is-data-science-the-complete-infrastructure-hub-2026-gu|What is Data Science? The Complete Infrastructure Hub 2026 Guide]]
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/08_from-frontend-to-data-engineering-why-i-made-the-switch|From Frontend to Data Engineering Why I Made the Switch?]]
 - [[episodes/2026-05-17|2026-05-17]]

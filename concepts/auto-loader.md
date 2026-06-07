@@ -3,17 +3,19 @@ type: concept
 name: Auto Loader
 slug: auto-loader
 first_seen: 2026-04-13
-last_seen: 2026-05-12
-mention_count: 5
-avg_confidence: 0.58
+last_seen: 2026-06-07
+mention_count: 6
+avg_confidence: 0.65
 tags: [concept]
 ---
 
 # Auto Loader
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-06-07|2026-06-07]]
+    - [[sources/2026-06-07/04_auto-loader-trigger-types-in-databricks-simple-guide-with-ex|Auto Loader Trigger Types in Databricks Simple Guide with Examples]]
 - [[episodes/2026-05-12|2026-05-12]]
     - [[sources/2026-05-12/02_agentic-data-engineering-with-genie-code-and-lakeflow|Agentic Data Engineering with Genie Code and Lakeflow]]
 - [[episodes/2026-04-29|2026-04-29]]

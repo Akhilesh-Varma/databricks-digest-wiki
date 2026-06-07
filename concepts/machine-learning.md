@@ -3,17 +3,19 @@ type: concept
 name: Machine Learning
 slug: machine-learning
 first_seen: 2026-03-17
-last_seen: 2026-05-17
-mention_count: 5
-avg_confidence: 0.4
+last_seen: 2026-06-07
+mention_count: 6
+avg_confidence: 0.45
 tags: [concept]
 ---
 
 # Machine Learning
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-06-07|2026-06-07]]
+    - [[sources/2026-06-07/05_what-is-data-science-the-complete-infrastructure-hub-2026-gu|What is Data Science? The Complete Infrastructure Hub 2026 Guide]]
 - [[episodes/2026-05-17|2026-05-17]]
     - [[sources/2026-05-17/03_databricks-learning-festival-instructor-led-apac-emea|Databricks Learning Festival Instructor-Led APAC EMEA]]
 - [[episodes/2026-04-28|2026-04-28]]

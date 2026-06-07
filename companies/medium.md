@@ -3,17 +3,19 @@ type: company
 name: Medium
 slug: medium
 first_seen: 2026-04-04
-last_seen: 2026-06-03
-mention_count: 40
+last_seen: 2026-06-07
+mention_count: 41
 avg_confidence: ""
 tags: [company]
 ---
 
 # Medium
 
-_Company mentioned across 40 stories._
+_Company mentioned across 41 stories._
 
 ## Appears in
+- [[episodes/2026-06-07|2026-06-07]]
+    - [[sources/2026-06-07/02_building-a-scalable-modernized-data-lakehouse-delta-lake-vs|Building a Scalable, Modernized Data Lakehouse Delta Lake vs. Apache Iceberg]]
 - [[episodes/2026-06-03|2026-06-03]]
     - [[sources/2026-06-03/02_getting-started-with-databricks-spark-declarative-pipelines|Getting Started with Databricks Spark Declarative Pipelines Building a Simple Volume-to-Delta]]
 - [[episodes/2026-05-30|2026-05-30]]

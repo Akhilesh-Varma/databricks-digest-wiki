@@ -3,17 +3,19 @@ type: company
 name: Apache Software Foundation
 slug: apache-software-foundation
 first_seen: 2026-03-17
-last_seen: 2026-05-29
-mention_count: 22
+last_seen: 2026-06-07
+mention_count: 23
 avg_confidence: ""
 tags: [company]
 ---
 
 # Apache Software Foundation
 
-_Company mentioned across 22 stories._
+_Company mentioned across 23 stories._
 
 ## Appears in
+- [[episodes/2026-06-07|2026-06-07]]
+    - [[sources/2026-06-07/06_linux-fundamentals-for-data-engineering|LINUX FUNDAMENTALS FOR DATA ENGINEERING.]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/05_advancing-apache-iceberg-on-databricks-iceberg-v3-ga-open-sh|Advancing Apache Iceberg on Databricks Iceberg v3 GA, Open Sharing, and Unified Governance]]
 - [[episodes/2026-05-28|2026-05-28]]

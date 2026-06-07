@@ -3,17 +3,19 @@ type: concept
 name: Parquet
 slug: parquet
 first_seen: 2026-04-17
-last_seen: 2026-05-28
-mention_count: 11
-avg_confidence: 0.573
+last_seen: 2026-06-07
+mention_count: 12
+avg_confidence: 0.608
 tags: [concept]
 ---
 
 # Parquet
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-06-07|2026-06-07]]
+    - [[sources/2026-06-07/07_i-built-a-mini-columnar-storage-engine-in-pure-python-and-fi|I built a mini columnar storage engine in pure Python and finally understood why Parquet is so fast]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/05_cloud-cost-optimization-strategies-for-lakehouses|Cloud Cost Optimization Strategies for Lakehouses]]
 - [[episodes/2026-05-22|2026-05-22]]

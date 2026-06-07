@@ -3,17 +3,19 @@ type: concept
 name: Docker
 slug: docker
 first_seen: 2026-04-27
-last_seen: 2026-05-22
-mention_count: 5
-avg_confidence: 0.58
+last_seen: 2026-06-07
+mention_count: 6
+avg_confidence: 0.55
 tags: [concept]
 ---
 
 # Docker
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-06-07|2026-06-07]]
+    - [[sources/2026-06-07/06_linux-fundamentals-for-data-engineering|LINUX FUNDAMENTALS FOR DATA ENGINEERING.]]
 - [[episodes/2026-05-22|2026-05-22]]
     - [[sources/2026-05-22/04_letting-coding-agents-move-fast-without-breaking-everything|Letting Coding Agents Move Fast Without Breaking Everything]]
 - [[episodes/2026-05-15|2026-05-15]]

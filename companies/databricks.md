@@ -3,17 +3,20 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-06-06
-mention_count: 264
+last_seen: 2026-06-07
+mention_count: 265
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 264 stories._
+_Company mentioned across 265 stories._
 
 ## Appears in
+- [[episodes/2026-06-07|2026-06-07]]
+    - [[sources/2026-06-07/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
+    - [[sources/2026-06-07/04_auto-loader-trigger-types-in-databricks-simple-guide-with-ex|Auto Loader Trigger Types in Databricks Simple Guide with Examples]]
 - [[episodes/2026-06-06|2026-06-06]]
     - [[sources/2026-06-06/07_data-engineer-vs-data-scientist-what-s-the-difference-2026-g|Data Engineer vs. Data Scientist What's the Difference? 2026 Guide for Beginners]]
     - [[sources/2026-06-06/03_ai-extract-and-ai-classify-will-soon-be-available-by-default|ai_extract and ai_classify will soon be available by default for workspaces with the compliance security profile enabled]]
@@ -22,7 +25,6 @@ _Company mentioned across 264 stories._
     - [[sources/2026-06-06/05_external-data-access-for-pipeline-streaming-tables-and-mater|External data access for pipeline streaming tables and materialized views Public Preview]]
 - [[episodes/2026-06-05|2026-06-05]]
     - [[sources/2026-06-05/03_genie-products-will-move-to-pay-as-you-go-pricing|Genie products will move to pay-as-you-go pricing]]
-    - [[sources/2026-06-05/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-06-04|2026-06-04]]
     - [[sources/2026-06-04/04_table-update-triggers-on-delta-sharing-and-system-tables-bet|Table update triggers on Delta Sharing and system tables Beta]]
     - [[sources/2026-06-04/03_genie-code-will-also-use-models-served-through-openai-on-dat|Genie Code will also use models served through OpenAI on Databricks]]

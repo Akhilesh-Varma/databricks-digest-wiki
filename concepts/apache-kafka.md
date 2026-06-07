@@ -3,17 +3,19 @@ type: concept
 name: Apache Kafka
 slug: apache-kafka
 first_seen: 2026-04-14
-last_seen: 2026-06-06
-mention_count: 13
-avg_confidence: 0.662
+last_seen: 2026-06-07
+mention_count: 14
+avg_confidence: 0.664
 tags: [concept]
 ---
 
 # Apache Kafka
 
-_Concept mentioned across 13 stories._
+_Concept mentioned across 14 stories._
 
 ## Appears in
+- [[episodes/2026-06-07|2026-06-07]]
+    - [[sources/2026-06-07/06_linux-fundamentals-for-data-engineering|LINUX FUNDAMENTALS FOR DATA ENGINEERING.]]
 - [[episodes/2026-06-06|2026-06-06]]
     - [[sources/2026-06-06/07_data-engineer-vs-data-scientist-what-s-the-difference-2026-g|Data Engineer vs. Data Scientist What's the Difference? 2026 Guide for Beginners]]
 - [[episodes/2026-05-23|2026-05-23]]

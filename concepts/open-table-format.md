@@ -3,17 +3,19 @@ type: concept
 name: Open Table Format
 slug: open-table-format
 first_seen: 2026-04-12
-last_seen: 2026-05-31
-mention_count: 5
-avg_confidence: 0.78
+last_seen: 2026-06-07
+mention_count: 6
+avg_confidence: 0.767
 tags: [concept]
 ---
 
 # Open Table Format
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-06-07|2026-06-07]]
+    - [[sources/2026-06-07/02_building-a-scalable-modernized-data-lakehouse-delta-lake-vs|Building a Scalable, Modernized Data Lakehouse Delta Lake vs. Apache Iceberg]]
 - [[episodes/2026-05-31|2026-05-31]]
     - [[sources/2026-05-31/03_the-triad-hudi-iceberg-delta-of-open-table-formats-2-n-archi|The Triad Hudi, Iceberg, Delta of Open Table Formats 2 n Architecture Deep Dive]]
 - [[episodes/2026-05-29|2026-05-29]]

@@ -3,17 +3,19 @@ type: company
 name: Amazon Web Services
 slug: amazon-web-services
 first_seen: 2026-04-08
-last_seen: 2026-06-06
-mention_count: 33
+last_seen: 2026-06-07
+mention_count: 34
 avg_confidence: ""
 tags: [company]
 ---
 
 # Amazon Web Services
 
-_Company mentioned across 33 stories._
+_Company mentioned across 34 stories._
 
 ## Appears in
+- [[episodes/2026-06-07|2026-06-07]]
+    - [[sources/2026-06-07/02_building-a-scalable-modernized-data-lakehouse-delta-lake-vs|Building a Scalable, Modernized Data Lakehouse Delta Lake vs. Apache Iceberg]]
 - [[episodes/2026-06-06|2026-06-06]]
     - [[sources/2026-06-06/06_ask-hn-is-azure-capacity-this-constraind-or-am-i-doing-it-wr|Ask HN Is Azure capacity this constraind or am I doing it wrong?]]
 - [[episodes/2026-06-01|2026-06-01]]

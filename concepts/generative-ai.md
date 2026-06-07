@@ -3,17 +3,19 @@ type: concept
 name: Generative AI
 slug: generative-ai
 first_seen: 2026-04-05
-last_seen: 2026-05-17
-mention_count: 7
-avg_confidence: 0.614
+last_seen: 2026-06-07
+mention_count: 8
+avg_confidence: 0.588
 tags: [concept]
 ---
 
 # Generative AI
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-06-07|2026-06-07]]
+    - [[sources/2026-06-07/05_what-is-data-science-the-complete-infrastructure-hub-2026-gu|What is Data Science? The Complete Infrastructure Hub 2026 Guide]]
 - [[episodes/2026-05-17|2026-05-17]]
     - [[sources/2026-05-17/06_lower-cost-and-latency-for-ai-using-snowflake-postgres-as-a|Lower cost and latency for AI using Snowflake Postgres as a Semantic Cache]]
     - [[sources/2026-05-17/03_databricks-learning-festival-instructor-led-apac-emea|Databricks Learning Festival Instructor-Led APAC EMEA]]

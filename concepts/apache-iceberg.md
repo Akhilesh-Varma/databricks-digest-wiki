@@ -3,17 +3,19 @@ type: concept
 name: Apache Iceberg
 slug: apache-iceberg
 first_seen: 2026-04-10
-last_seen: 2026-06-06
-mention_count: 38
-avg_confidence: 0.874
+last_seen: 2026-06-07
+mention_count: 39
+avg_confidence: 0.877
 tags: [concept]
 ---
 
 # Apache Iceberg
 
-_Concept mentioned across 38 stories._
+_Concept mentioned across 39 stories._
 
 ## Appears in
+- [[episodes/2026-06-07|2026-06-07]]
+    - [[sources/2026-06-07/02_building-a-scalable-modernized-data-lakehouse-delta-lake-vs|Building a Scalable, Modernized Data Lakehouse Delta Lake vs. Apache Iceberg]]
 - [[episodes/2026-06-06|2026-06-06]]
     - [[sources/2026-06-06/05_external-data-access-for-pipeline-streaming-tables-and-mater|External data access for pipeline streaming tables and materialized views Public Preview]]
 - [[episodes/2026-06-05|2026-06-05]]

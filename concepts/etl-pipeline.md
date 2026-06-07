@@ -3,17 +3,19 @@ type: concept
 name: ETL Pipeline
 slug: etl-pipeline
 first_seen: 2026-04-13
-last_seen: 2026-06-06
-mention_count: 11
-avg_confidence: 0.709
+last_seen: 2026-06-07
+mention_count: 12
+avg_confidence: 0.708
 tags: [concept]
 ---
 
 # ETL Pipeline
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-06-07|2026-06-07]]
+    - [[sources/2026-06-07/06_linux-fundamentals-for-data-engineering|LINUX FUNDAMENTALS FOR DATA ENGINEERING.]]
 - [[episodes/2026-06-06|2026-06-06]]
     - [[sources/2026-06-06/09_how-i-broke-down-my-etl-pipeline-project-into-smaller-engine|How I Broke Down My ETL Pipeline Project Into Smaller Engineering Exercises]]
 - [[episodes/2026-05-29|2026-05-29]]

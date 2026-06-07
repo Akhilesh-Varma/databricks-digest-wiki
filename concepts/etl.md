@@ -4,20 +4,18 @@ name: ETL
 slug: etl
 first_seen: 2026-04-05
 last_seen: 2026-06-06
-mention_count: 20
-avg_confidence: 0.6
+mention_count: 19
+avg_confidence: 0.611
 tags: [concept]
 ---
 
 # ETL
 
-_Concept mentioned across 20 stories._
+_Concept mentioned across 19 stories._
 
 ## Appears in
 - [[episodes/2026-06-06|2026-06-06]]
     - [[sources/2026-06-06/01_databricks-community-roundup-4-new-posts|Databricks Community Roundup — 4 new posts]]
-- [[episodes/2026-06-05|2026-06-05]]
-    - [[sources/2026-06-05/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-06-02|2026-06-02]]
     - [[sources/2026-06-02/09_data-engineering-salary-2026-levels-locations-comp-breakdown|Data Engineering Salary 2026 Levels, Locations Comp Breakdowns]]
     - [[sources/2026-06-02/08_data-engineering-skills-10-technical-5-soft-skills-hiring-ma|Data Engineering Skills 10 Technical 5 Soft Skills Hiring Managers Test]]
