@@ -4,20 +4,18 @@ name: Metadata-Driven ETL Framework
 slug: metadata-driven-etl-framework
 first_seen: 2026-05-25
 last_seen: 2026-06-07
-mention_count: 5
+mention_count: 4
 avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Metadata-Driven ETL Framework
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
 - [[episodes/2026-06-07|2026-06-07]]
     - [[sources/2026-06-07/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
-- [[episodes/2026-06-06|2026-06-06]]
-    - [[sources/2026-06-06/01_databricks-community-roundup-4-new-posts|Databricks Community Roundup — 4 new posts]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-05-26|2026-05-26]]

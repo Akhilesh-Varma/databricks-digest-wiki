@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-06-07T10:26:16.446781+00:00",
-  "node_count": 2999,
-  "edge_count": 5138,
+  "generated_at": "2026-06-08T10:26:50.805825+00:00",
+  "node_count": 3017,
+  "edge_count": 5171,
   "nodes": [
+    {
+      "id": "episode/2026-06-08",
+      "type": "episode",
+      "label": "Daily Databricks Digest - June 08, 2026",
+      "episode_date": "2026-06-08",
+      "story_count": 5
+    },
     {
       "id": "episode/2026-06-07",
       "type": "episode",
@@ -15,7 +22,7 @@
       "type": "episode",
       "label": "Daily Databricks Digest - June 06, 2026",
       "episode_date": "2026-06-06",
-      "story_count": 9
+      "story_count": 8
     },
     {
       "id": "episode/2026-06-05",
@@ -4221,7 +4228,7 @@
       "id": "story/community_roundup_4_community_0fd805d2f795",
       "type": "story",
       "label": "Databricks Community Roundup \u2014 4 new posts",
-      "episode_date": "2026-06-06",
+      "episode_date": "2026-06-08",
       "rank": 1,
       "quality_score": 0.8
     },
@@ -4618,6 +4625,38 @@
       "quality_score": 0.7563317755327381
     },
     {
+      "id": "story/trending_repos_roundup_5_github_trending_tastyeff",
+      "type": "story",
+      "label": "Weekly Trending Repos Roundup \u2014 5 new from the past 7 days",
+      "episode_date": "2026-06-08",
+      "rank": 2,
+      "quality_score": 0.54
+    },
+    {
+      "id": "story/rss_48ae48a75e17",
+      "type": "story",
+      "label": "Upcoming behavior change Choose entitlements when adding principals to workspaces",
+      "episode_date": "2026-06-08",
+      "rank": 3,
+      "quality_score": 0.8739509679234458
+    },
+    {
+      "id": "story/rss_1984f0199d41",
+      "type": "story",
+      "label": "Architectural Pattern Incremental Data Export from Snowflake to Databricks",
+      "episode_date": "2026-06-08",
+      "rank": 4,
+      "quality_score": 0.7311042416818784
+    },
+    {
+      "id": "story/rss_d99ba07377a1",
+      "type": "story",
+      "label": "DataEvolver Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving",
+      "episode_date": "2026-06-08",
+      "rank": 5,
+      "quality_score": 0.7963319204895833
+    },
+    {
       "id": "story/community_roundup_5_community_68623d5d357c",
       "type": "story",
       "label": "Databricks Community Roundup \u2014 5 new posts",
@@ -4713,7 +4752,7 @@
       "id": "concept/data-lakehouse",
       "type": "concept",
       "label": "Data Lakehouse",
-      "mention_count": 15
+      "mention_count": 16
     },
     {
       "id": "concept/v4-metadata-json",
@@ -4923,7 +4962,7 @@
       "id": "company/google",
       "type": "company",
       "label": "Google",
-      "mention_count": 29
+      "mention_count": 30
     },
     {
       "id": "company/redpanda",
@@ -4965,7 +5004,7 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 265
+      "mention_count": 267
     },
     {
       "id": "concept/fulfillment-center-operations",
@@ -5049,7 +5088,7 @@
       "id": "concept/databricks-sql",
       "type": "concept",
       "label": "Databricks SQL",
-      "mention_count": 7
+      "mention_count": 8
     },
     {
       "id": "concept/transparency-in-coverage",
@@ -5073,7 +5112,7 @@
       "id": "concept/unity-catalog",
       "type": "concept",
       "label": "Unity Catalog",
-      "mention_count": 87
+      "mention_count": 86
     },
     {
       "id": "concept/medallion-architecture",
@@ -5193,7 +5232,7 @@
       "id": "concept/terraform",
       "type": "concept",
       "label": "Terraform",
-      "mention_count": 7
+      "mention_count": 8
     },
     {
       "id": "concept/databricks-postgres-catalog",
@@ -5301,7 +5340,7 @@
       "id": "concept/large-language-models",
       "type": "concept",
       "label": "Large Language Models",
-      "mention_count": 34
+      "mention_count": 35
     },
     {
       "id": "concept/cost-based-query-optimization",
@@ -5751,7 +5790,7 @@
       "id": "concept/data-pipeline",
       "type": "concept",
       "label": "Data Pipeline",
-      "mention_count": 13
+      "mention_count": 14
     },
     {
       "id": "concept/take-home-assignments",
@@ -6111,7 +6150,7 @@
       "id": "company/snowflake",
       "type": "company",
       "label": "Snowflake",
-      "mention_count": 39
+      "mention_count": 40
     },
     {
       "id": "concept/mlflow",
@@ -7269,7 +7308,7 @@
       "id": "concept/etl",
       "type": "concept",
       "label": "ETL",
-      "mention_count": 19
+      "mention_count": 18
     },
     {
       "id": "concept/llm-powered-transpilation",
@@ -7563,7 +7602,7 @@
       "id": "concept/data-warehouse",
       "type": "concept",
       "label": "Data Warehouse",
-      "mention_count": 7
+      "mention_count": 8
     },
     {
       "id": "concept/data-lake",
@@ -7905,7 +7944,7 @@
       "id": "concept/claude-code",
       "type": "concept",
       "label": "Claude Code",
-      "mention_count": 18
+      "mention_count": 19
     },
     {
       "id": "company/google-cloud-platform",
@@ -7917,7 +7956,7 @@
       "id": "company/anthropic",
       "type": "company",
       "label": "Anthropic",
-      "mention_count": 34
+      "mention_count": 35
     },
     {
       "id": "company/meta",
@@ -8979,7 +9018,7 @@
       "id": "concept/agentic-ai",
       "type": "concept",
       "label": "Agentic AI",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "id": "concept/postgres-full-text-search",
@@ -9021,7 +9060,7 @@
       "id": "concept/cursor",
       "type": "concept",
       "label": "Cursor",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/codex",
@@ -9069,7 +9108,7 @@
       "id": "concept/metadata-driven-etl",
       "type": "concept",
       "label": "Metadata-Driven ETL",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/databricks-ai-bi",
@@ -9525,7 +9564,7 @@
       "id": "concept/scim",
       "type": "concept",
       "label": "SCIM",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/dagster",
@@ -11655,13 +11694,13 @@
       "id": "concept/metadata-driven-etl-framework",
       "type": "concept",
       "label": "Metadata-Driven ETL Framework",
-      "mention_count": 5
+      "mention_count": 4
     },
     {
       "id": "concept/query-performance-tuning",
       "type": "concept",
       "label": "Query Performance Tuning",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/llm",
@@ -12819,7 +12858,7 @@
       "id": "concept/pipeline-orchestration",
       "type": "concept",
       "label": "Pipeline Orchestration",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/open-apis",
@@ -15549,7 +15588,7 @@
       "id": "concept/etl-framework",
       "type": "concept",
       "label": "ETL framework",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/lakebase-postgres",
@@ -18780,6 +18819,36 @@
       "mention_count": 1
     },
     {
+      "id": "concept/dataevolver",
+      "type": "concept",
+      "label": "DataEvolver",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/self-evolving-data-preparation",
+      "type": "concept",
+      "label": "Self-Evolving Data Preparation",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/multi-level-pipeline-mechanism",
+      "type": "concept",
+      "label": "Multi-Level Pipeline Mechanism",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/logical-plan",
+      "type": "concept",
+      "label": "Logical Plan",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/feedback-loop",
+      "type": "concept",
+      "label": "Feedback Loop",
+      "mention_count": 1
+    },
+    {
       "id": "concept/incremental-data-migration",
       "type": "concept",
       "label": "Incremental Data Migration",
@@ -18831,6 +18900,24 @@
       "id": "concept/process-management",
       "type": "concept",
       "label": "Process Management",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/workspace-entitlements",
+      "type": "concept",
+      "label": "Workspace Entitlements",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/workspace-scim-api",
+      "type": "concept",
+      "label": "Workspace SCIM API",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/system-groups",
+      "type": "concept",
+      "label": "System Groups",
       "mention_count": 1
     },
     {
@@ -18984,12 +19071,6 @@
       "mention_count": 1
     },
     {
-      "id": "concept/governance-riskops-agent",
-      "type": "concept",
-      "label": "Governance RiskOps Agent",
-      "mention_count": 1
-    },
-    {
       "id": "concept/azure-kubernetes-service",
       "type": "concept",
       "label": "Azure Kubernetes Service",
@@ -19038,9 +19119,45 @@
       "mention_count": 1
     },
     {
+      "id": "concept/agent-os",
+      "type": "concept",
+      "label": "Agent OS",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/agent-skills",
+      "type": "concept",
+      "label": "Agent Skills",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/self-hosted-dev-sandboxes",
+      "type": "concept",
+      "label": "Self-hosted Dev Sandboxes",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/storage-gateway",
+      "type": "concept",
+      "label": "Storage Gateway",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/claude-design",
+      "type": "concept",
+      "label": "Claude Design",
+      "mention_count": 1
+    },
+    {
       "id": "concept/open-data-architecture",
       "type": "concept",
       "label": "Open Data Architecture",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/incremental-data-export",
+      "type": "concept",
+      "label": "Incremental Data Export",
       "mention_count": 1
     },
     {
@@ -43927,6 +44044,46 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_d99ba07377a1",
+      "target": "episode/2026-06-08",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_d99ba07377a1",
+      "target": "concept/dataevolver",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d99ba07377a1",
+      "target": "concept/large-language-models",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d99ba07377a1",
+      "target": "concept/self-evolving-data-preparation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d99ba07377a1",
+      "target": "concept/multi-level-pipeline-mechanism",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d99ba07377a1",
+      "target": "concept/logical-plan",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d99ba07377a1",
+      "target": "concept/pipeline-orchestration",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_d99ba07377a1",
+      "target": "concept/feedback-loop",
+      "kind": "mentions"
+    },
+    {
       "source": "story/community_roundup_5_community_0fd805d2f795",
       "target": "episode/2026-06-07",
       "kind": "aired_in"
@@ -44084,6 +44241,46 @@
     {
       "source": "story/devto_3837103",
       "target": "company/apache-software-foundation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_48ae48a75e17",
+      "target": "episode/2026-06-08",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_48ae48a75e17",
+      "target": "concept/workspace-entitlements",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_48ae48a75e17",
+      "target": "concept/scim",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_48ae48a75e17",
+      "target": "concept/terraform",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_48ae48a75e17",
+      "target": "concept/databricks-sql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_48ae48a75e17",
+      "target": "concept/workspace-scim-api",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_48ae48a75e17",
+      "target": "concept/system-groups",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_48ae48a75e17",
+      "target": "company/databricks",
       "kind": "mentions"
     },
     {
@@ -44352,6 +44549,46 @@
       "kind": "mentions"
     },
     {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "episode/2026-06-08",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "concept/databricks-serverless-sql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "concept/lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "concept/etl-framework",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "concept/metadata-driven-etl",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "concept/data-pipeline",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "concept/query-performance-tuning",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_4_community_0fd805d2f795",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_f706a4afcd82",
       "target": "episode/2026-04-11",
       "kind": "aired_in"
@@ -44447,46 +44684,6 @@
       "kind": "mentions"
     },
     {
-      "source": "story/community_roundup_4_community_0fd805d2f795",
-      "target": "episode/2026-06-06",
-      "kind": "aired_in"
-    },
-    {
-      "source": "story/community_roundup_4_community_0fd805d2f795",
-      "target": "concept/databricks-serverless-sql",
-      "kind": "mentions"
-    },
-    {
-      "source": "story/community_roundup_4_community_0fd805d2f795",
-      "target": "concept/unity-catalog",
-      "kind": "mentions"
-    },
-    {
-      "source": "story/community_roundup_4_community_0fd805d2f795",
-      "target": "concept/lakehouse",
-      "kind": "mentions"
-    },
-    {
-      "source": "story/community_roundup_4_community_0fd805d2f795",
-      "target": "concept/metadata-driven-etl-framework",
-      "kind": "mentions"
-    },
-    {
-      "source": "story/community_roundup_4_community_0fd805d2f795",
-      "target": "concept/governance-riskops-agent",
-      "kind": "mentions"
-    },
-    {
-      "source": "story/community_roundup_4_community_0fd805d2f795",
-      "target": "concept/etl",
-      "kind": "mentions"
-    },
-    {
-      "source": "story/community_roundup_4_community_0fd805d2f795",
-      "target": "company/databricks",
-      "kind": "mentions"
-    },
-    {
       "source": "story/hn_48410522",
       "target": "episode/2026-06-06",
       "kind": "aired_in"
@@ -44567,6 +44764,61 @@
       "kind": "mentions"
     },
     {
+      "source": "story/trending_repos_roundup_5_github_trending_tastyeff",
+      "target": "episode/2026-06-08",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_tastyeff",
+      "target": "concept/agentic-ai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_tastyeff",
+      "target": "concept/agent-os",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_tastyeff",
+      "target": "concept/agent-skills",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_tastyeff",
+      "target": "concept/self-hosted-dev-sandboxes",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_tastyeff",
+      "target": "concept/storage-gateway",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_tastyeff",
+      "target": "concept/claude-code",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_tastyeff",
+      "target": "concept/claude-design",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_tastyeff",
+      "target": "concept/cursor",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_tastyeff",
+      "target": "company/google",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/trending_repos_roundup_5_github_trending_tastyeff",
+      "target": "company/anthropic",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_5c11e193864d",
       "target": "episode/2026-06-07",
       "kind": "aired_in"
@@ -44614,6 +44866,36 @@
     {
       "source": "story/rss_5c11e193864d",
       "target": "company/medium",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1984f0199d41",
+      "target": "episode/2026-06-08",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_1984f0199d41",
+      "target": "concept/incremental-data-export",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1984f0199d41",
+      "target": "concept/data-lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1984f0199d41",
+      "target": "concept/data-warehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1984f0199d41",
+      "target": "company/snowflake",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_1984f0199d41",
+      "target": "company/databricks",
       "kind": "mentions"
     },
     {

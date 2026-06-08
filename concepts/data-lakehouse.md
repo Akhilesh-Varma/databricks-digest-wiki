@@ -3,17 +3,19 @@ type: concept
 name: Data Lakehouse
 slug: data-lakehouse
 first_seen: 2026-04-10
-last_seen: 2026-06-07
-mention_count: 15
-avg_confidence: 0.773
+last_seen: 2026-06-08
+mention_count: 16
+avg_confidence: 0.769
 tags: [concept]
 ---
 
 # Data Lakehouse
 
-_Concept mentioned across 15 stories._
+_Concept mentioned across 16 stories._
 
 ## Appears in
+- [[episodes/2026-06-08|2026-06-08]]
+    - [[sources/2026-06-08/04_architectural-pattern-incremental-data-export-from-snowflake|Architectural Pattern Incremental Data Export from Snowflake to Databricks]]
 - [[episodes/2026-06-07|2026-06-07]]
     - [[sources/2026-06-07/02_building-a-scalable-modernized-data-lakehouse-delta-lake-vs|Building a Scalable, Modernized Data Lakehouse Delta Lake vs. Apache Iceberg]]
 - [[episodes/2026-06-05|2026-06-05]]

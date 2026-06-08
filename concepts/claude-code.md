@@ -3,17 +3,19 @@ type: concept
 name: Claude Code
 slug: claude-code
 first_seen: 2026-04-05
-last_seen: 2026-06-04
-mention_count: 18
-avg_confidence: 0.578
+last_seen: 2026-06-08
+mention_count: 19
+avg_confidence: 0.568
 tags: [concept]
 ---
 
 # Claude Code
 
-_Concept mentioned across 18 stories._
+_Concept mentioned across 19 stories._
 
 ## Appears in
+- [[episodes/2026-06-08|2026-06-08]]
+    - [[sources/2026-06-08/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]
 - [[episodes/2026-06-04|2026-06-04]]
     - [[sources/2026-06-04/02_launch-hn-hyper-yc-p26-company-brain-to-power-agentic-develo|Launch HN Hyper YC P26 Company brain to power agentic development]]
 - [[episodes/2026-06-03|2026-06-03]]

@@ -3,17 +3,19 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-06-04
-mention_count: 34
+last_seen: 2026-06-08
+mention_count: 35
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 34 stories._
+_Company mentioned across 35 stories._
 
 ## Appears in
+- [[episodes/2026-06-08|2026-06-08]]
+    - [[sources/2026-06-08/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]
 - [[episodes/2026-06-04|2026-06-04]]
     - [[sources/2026-06-04/03_genie-code-will-also-use-models-served-through-openai-on-dat|Genie Code will also use models served through OpenAI on Databricks]]
     - [[sources/2026-06-04/02_launch-hn-hyper-yc-p26-company-brain-to-power-agentic-develo|Launch HN Hyper YC P26 Company brain to power agentic development]]

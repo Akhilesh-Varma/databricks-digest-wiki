@@ -3,17 +3,19 @@ type: concept
 name: Terraform
 slug: terraform
 first_seen: 2026-04-08
-last_seen: 2026-05-22
-mention_count: 7
-avg_confidence: 0.529
+last_seen: 2026-06-08
+mention_count: 8
+avg_confidence: 0.512
 tags: [concept]
 ---
 
 # Terraform
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-06-08|2026-06-08]]
+    - [[sources/2026-06-08/03_upcoming-behavior-change-choose-entitlements-when-adding-pri|Upcoming behavior change Choose entitlements when adding principals to workspaces]]
 - [[episodes/2026-05-22|2026-05-22]]
     - [[sources/2026-05-22/03_community-pulse-your-weekly-roundup-may-11-17-2026|Community Pulse Your Weekly Roundup! May 11 17, 2026]]
 - [[episodes/2026-05-20|2026-05-20]]

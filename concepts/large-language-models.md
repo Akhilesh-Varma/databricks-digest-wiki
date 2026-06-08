@@ -3,17 +3,19 @@ type: concept
 name: Large Language Models
 slug: large-language-models
 first_seen: 2026-04-06
-last_seen: 2026-06-06
-mention_count: 34
-avg_confidence: 0.744
+last_seen: 2026-06-08
+mention_count: 35
+avg_confidence: 0.749
 tags: [concept]
 ---
 
 # Large Language Models
 
-_Concept mentioned across 34 stories._
+_Concept mentioned across 35 stories._
 
 ## Appears in
+- [[episodes/2026-06-08|2026-06-08]]
+    - [[sources/2026-06-08/05_dataevolver-automatic-data-preparation-for-large-language-mo|DataEvolver Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving]]
 - [[episodes/2026-06-06|2026-06-06]]
     - [[sources/2026-06-06/07_data-engineer-vs-data-scientist-what-s-the-difference-2026-g|Data Engineer vs. Data Scientist What's the Difference? 2026 Guide for Beginners]]
 - [[episodes/2026-06-01|2026-06-01]]

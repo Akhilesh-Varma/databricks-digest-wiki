@@ -3,17 +3,19 @@ type: concept
 name: Databricks SQL
 slug: databricks-sql
 first_seen: 2026-04-13
-last_seen: 2026-06-06
-mention_count: 7
-avg_confidence: 0.814
+last_seen: 2026-06-08
+mention_count: 8
+avg_confidence: 0.762
 tags: [concept]
 ---
 
 # Databricks SQL
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-06-08|2026-06-08]]
+    - [[sources/2026-06-08/03_upcoming-behavior-change-choose-entitlements-when-adding-pri|Upcoming behavior change Choose entitlements when adding principals to workspaces]]
 - [[episodes/2026-06-06|2026-06-06]]
     - [[sources/2026-06-06/04_unique-constraint-support-is-now-in-public-preview|UNIQUE constraint support is now in Public Preview]]
 - [[episodes/2026-05-27|2026-05-27]]

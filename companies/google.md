@@ -3,17 +3,19 @@ type: company
 name: Google
 slug: google
 first_seen: 2026-04-05
-last_seen: 2026-06-01
-mention_count: 29
+last_seen: 2026-06-08
+mention_count: 30
 avg_confidence: ""
 tags: [company]
 ---
 
 # Google
 
-_Company mentioned across 29 stories._
+_Company mentioned across 30 stories._
 
 ## Appears in
+- [[episodes/2026-06-08|2026-06-08]]
+    - [[sources/2026-06-08/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/03_why-are-large-language-models-so-terrible-at-video-games|Why are large language models so terrible at video games?]]
 - [[episodes/2026-05-29|2026-05-29]]

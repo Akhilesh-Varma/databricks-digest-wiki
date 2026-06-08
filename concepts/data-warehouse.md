@@ -3,17 +3,19 @@ type: concept
 name: Data Warehouse
 slug: data-warehouse
 first_seen: 2026-04-17
-last_seen: 2026-05-27
-mention_count: 7
-avg_confidence: 0.657
+last_seen: 2026-06-08
+mention_count: 8
+avg_confidence: 0.662
 tags: [concept]
 ---
 
 # Data Warehouse
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-06-08|2026-06-08]]
+    - [[sources/2026-06-08/04_architectural-pattern-incremental-data-export-from-snowflake|Architectural Pattern Incremental Data Export from Snowflake to Databricks]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/05_how-polymarket-scaled-their-data-stack-with-postgres-clickho|How Polymarket Scaled Their Data Stack with Postgres ClickHouse]]
 - [[episodes/2026-05-22|2026-05-22]]

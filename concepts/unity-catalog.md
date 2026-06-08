@@ -4,18 +4,17 @@ name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
 last_seen: 2026-06-06
-mention_count: 87
+mention_count: 86
 avg_confidence: 0.766
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 87 stories._
+_Concept mentioned across 86 stories._
 
 ## Appears in
 - [[episodes/2026-06-06|2026-06-06]]
-    - [[sources/2026-06-06/01_databricks-community-roundup-4-new-posts|Databricks Community Roundup — 4 new posts]]
     - [[sources/2026-06-06/04_unique-constraint-support-is-now-in-public-preview|UNIQUE constraint support is now in Public Preview]]
     - [[sources/2026-06-06/05_external-data-access-for-pipeline-streaming-tables-and-mater|External data access for pipeline streaming tables and materialized views Public Preview]]
 - [[episodes/2026-06-01|2026-06-01]]
