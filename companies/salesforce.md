@@ -3,17 +3,19 @@ type: company
 name: Salesforce
 slug: salesforce
 first_seen: 2026-04-05
-last_seen: 2026-05-07
-mention_count: 4
+last_seen: 2026-06-09
+mention_count: 5
 avg_confidence: ""
 tags: [company]
 ---
 
 # Salesforce
 
-_Company mentioned across 4 stories._
+_Company mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-06-09|2026-06-09]]
+    - [[sources/2026-06-09/03_external-lineage-is-now-generally-available|External lineage is now generally available]]
 - [[episodes/2026-05-07|2026-05-07]]
     - [[sources/2026-05-07/02_three-mcps-one-answer-building-a-data-quality-monitor-on-dat|Three MCPs, One Answer Building a Data Quality Monitor on Databricks Apps]]
 - [[episodes/2026-05-06|2026-05-06]]

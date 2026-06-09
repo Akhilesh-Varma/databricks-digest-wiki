@@ -1,6 +1,6 @@
 ---
 type: concept
-name: Reverse ETL
+name: reverse ETL
 slug: reverse-etl
 first_seen: 2026-04-30
 last_seen: 2026-05-28
@@ -9,7 +9,7 @@ avg_confidence: 0.55
 tags: [concept]
 ---
 
-# Reverse ETL
+# reverse ETL
 
 _Concept mentioned across 2 stories._
 

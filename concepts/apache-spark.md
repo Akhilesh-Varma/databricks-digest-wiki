@@ -3,17 +3,19 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-06-07
-mention_count: 52
-avg_confidence: 0.681
+last_seen: 2026-06-09
+mention_count: 53
+avg_confidence: 0.687
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 52 stories._
+_Concept mentioned across 53 stories._
 
 ## Appears in
+- [[episodes/2026-06-09|2026-06-09]]
+    - [[sources/2026-06-09/04_databricks-runtime-18-june-8-2026|Databricks Runtime 18 June 8, 2026]]
 - [[episodes/2026-06-07|2026-06-07]]
     - [[sources/2026-06-07/06_linux-fundamentals-for-data-engineering|LINUX FUNDAMENTALS FOR DATA ENGINEERING.]]
     - [[sources/2026-06-07/05_what-is-data-science-the-complete-infrastructure-hub-2026-gu|What is Data Science? The Complete Infrastructure Hub 2026 Guide]]

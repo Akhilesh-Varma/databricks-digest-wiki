@@ -3,29 +3,33 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-06-08
-mention_count: 267
+last_seen: 2026-06-09
+mention_count: 269
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 267 stories._
+_Company mentioned across 269 stories._
 
 ## Appears in
+- [[episodes/2026-06-09|2026-06-09]]
+    - [[sources/2026-06-09/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
+    - [[sources/2026-06-09/04_databricks-runtime-18-june-8-2026|Databricks Runtime 18 June 8, 2026]]
+    - [[sources/2026-06-09/03_external-lineage-is-now-generally-available|External lineage is now generally available]]
 - [[episodes/2026-06-08|2026-06-08]]
+    - [[sources/2026-06-08/04_architectural-pattern-incremental-data-export-from-snowflake|Architectural Pattern Incremental Data Export from Snowflake to Databricks]]
     - [[sources/2026-06-08/03_upcoming-behavior-change-choose-entitlements-when-adding-pri|Upcoming behavior change Choose entitlements when adding principals to workspaces]]
     - [[sources/2026-06-08/01_databricks-community-roundup-4-new-posts|Databricks Community Roundup — 4 new posts]]
-    - [[sources/2026-06-08/04_architectural-pattern-incremental-data-export-from-snowflake|Architectural Pattern Incremental Data Export from Snowflake to Databricks]]
 - [[episodes/2026-06-07|2026-06-07]]
-    - [[sources/2026-06-07/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
     - [[sources/2026-06-07/04_auto-loader-trigger-types-in-databricks-simple-guide-with-ex|Auto Loader Trigger Types in Databricks Simple Guide with Examples]]
+    - [[sources/2026-06-07/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-06-06|2026-06-06]]
     - [[sources/2026-06-06/07_data-engineer-vs-data-scientist-what-s-the-difference-2026-g|Data Engineer vs. Data Scientist What's the Difference? 2026 Guide for Beginners]]
-    - [[sources/2026-06-06/03_ai-extract-and-ai-classify-will-soon-be-available-by-default|ai_extract and ai_classify will soon be available by default for workspaces with the compliance security profile enabled]]
-    - [[sources/2026-06-06/04_unique-constraint-support-is-now-in-public-preview|UNIQUE constraint support is now in Public Preview]]
     - [[sources/2026-06-06/05_external-data-access-for-pipeline-streaming-tables-and-mater|External data access for pipeline streaming tables and materialized views Public Preview]]
+    - [[sources/2026-06-06/04_unique-constraint-support-is-now-in-public-preview|UNIQUE constraint support is now in Public Preview]]
+    - [[sources/2026-06-06/03_ai-extract-and-ai-classify-will-soon-be-available-by-default|ai_extract and ai_classify will soon be available by default for workspaces with the compliance security profile enabled]]
 - [[episodes/2026-06-05|2026-06-05]]
     - [[sources/2026-06-05/03_genie-products-will-move-to-pay-as-you-go-pricing|Genie products will move to pay-as-you-go pricing]]
 - [[episodes/2026-06-04|2026-06-04]]
@@ -61,7 +65,6 @@ _Company mentioned across 267 stories._
     - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
     - [[sources/2026-05-28/03_databricks-sql-alerts-will-soon-be-available-by-default-for|Databricks SQL alerts will soon be available by default for workspaces with the compliance security profile enabled]]
     - [[sources/2026-05-28/02_i-built-a-multi-agent-insurance-support-streamlit-chatbot-on|I Built a Multi-Agent Insurance Support Streamlit Chatbot on Databricks-Full Code Walkthrough]]
-    - [[sources/2026-05-28/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/04_lakeflow-spark-declarative-pipelines-parameters-are-now-in-b|Lakeflow Spark Declarative Pipelines parameters are now in Beta]]
     - [[sources/2026-05-27/03_automatic-identity-management-with-microsoft-entra-id-is-now|Automatic identity management with Microsoft Entra ID is now GA]]

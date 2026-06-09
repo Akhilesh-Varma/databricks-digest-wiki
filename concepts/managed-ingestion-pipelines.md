@@ -1,0 +1,18 @@
+---
+type: concept
+name: Managed Ingestion Pipelines
+slug: managed-ingestion-pipelines
+first_seen: 2026-06-09
+last_seen: 2026-06-09
+mention_count: 1
+avg_confidence: 0.5
+tags: [concept]
+---
+
+# Managed Ingestion Pipelines
+
+_Concept mentioned across 1 story._
+
+## Appears in
+- [[episodes/2026-06-09|2026-06-09]]
+    - [[sources/2026-06-09/03_external-lineage-is-now-generally-available|External lineage is now generally available]]

@@ -3,17 +3,19 @@ type: concept
 name: Retrieval-Augmented Generation
 slug: retrieval-augmented-generation
 first_seen: 2026-04-10
-last_seen: 2026-06-04
-mention_count: 20
-avg_confidence: 0.765
+last_seen: 2026-06-09
+mention_count: 21
+avg_confidence: 0.762
 tags: [concept]
 ---
 
 # Retrieval-Augmented Generation
 
-_Concept mentioned across 20 stories._
+_Concept mentioned across 21 stories._
 
 ## Appears in
+- [[episodes/2026-06-09|2026-06-09]]
+    - [[sources/2026-06-09/05_ract-retrieval-augmented-column-table-learning-and-predictio|RACT Retrieval Augmented Column-Table Learning and Prediction for Multi-Table Schema Matching]]
 - [[episodes/2026-06-04|2026-06-04]]
     - [[sources/2026-06-04/02_launch-hn-hyper-yc-p26-company-brain-to-power-agentic-develo|Launch HN Hyper YC P26 Company brain to power agentic development]]
 - [[episodes/2026-05-31|2026-05-31]]

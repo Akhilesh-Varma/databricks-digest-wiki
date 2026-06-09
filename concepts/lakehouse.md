@@ -3,7 +3,7 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-05
-last_seen: 2026-06-08
+last_seen: 2026-06-09
 mention_count: 51
 avg_confidence: 0.62
 tags: [concept]
@@ -14,6 +14,8 @@ tags: [concept]
 _Concept mentioned across 51 stories._
 
 ## Appears in
+- [[episodes/2026-06-09|2026-06-09]]
+    - [[sources/2026-06-09/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-06-08|2026-06-08]]
     - [[sources/2026-06-08/01_databricks-community-roundup-4-new-posts|Databricks Community Roundup — 4 new posts]]
 - [[episodes/2026-06-07|2026-06-07]]
@@ -31,7 +33,6 @@ _Concept mentioned across 51 stories._
     - [[sources/2026-05-29/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
-    - [[sources/2026-05-28/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/07_fabric-ai-functions-turn-genai-into-a-data-pipeline-step|Fabric AI Functions Turn GenAI Into a Data Pipeline Step]]
     - [[sources/2026-05-26/06_azure-data-engineering-synapse-adf-databricks-full-guide|Azure Data Engineering Synapse, ADF, Databricks Full Guide]]

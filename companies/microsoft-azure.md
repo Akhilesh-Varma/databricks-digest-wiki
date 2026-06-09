@@ -3,17 +3,19 @@ type: company
 name: Microsoft Azure
 slug: microsoft-azure
 first_seen: 2026-04-08
-last_seen: 2026-06-07
-mention_count: 20
+last_seen: 2026-06-09
+mention_count: 21
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft Azure
 
-_Company mentioned across 20 stories._
+_Company mentioned across 21 stories._
 
 ## Appears in
+- [[episodes/2026-06-09|2026-06-09]]
+    - [[sources/2026-06-09/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-06-07|2026-06-07]]
     - [[sources/2026-06-07/02_building-a-scalable-modernized-data-lakehouse-delta-lake-vs|Building a Scalable, Modernized Data Lakehouse Delta Lake vs. Apache Iceberg]]
 - [[episodes/2026-06-06|2026-06-06]]

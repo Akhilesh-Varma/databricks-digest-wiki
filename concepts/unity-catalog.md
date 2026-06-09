@@ -3,7 +3,7 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-06-06
+last_seen: 2026-06-09
 mention_count: 86
 avg_confidence: 0.766
 tags: [concept]
@@ -14,9 +14,11 @@ tags: [concept]
 _Concept mentioned across 86 stories._
 
 ## Appears in
+- [[episodes/2026-06-09|2026-06-09]]
+    - [[sources/2026-06-09/03_external-lineage-is-now-generally-available|External lineage is now generally available]]
 - [[episodes/2026-06-06|2026-06-06]]
-    - [[sources/2026-06-06/04_unique-constraint-support-is-now-in-public-preview|UNIQUE constraint support is now in Public Preview]]
     - [[sources/2026-06-06/05_external-data-access-for-pipeline-streaming-tables-and-mater|External data access for pipeline streaming tables and materialized views Public Preview]]
+    - [[sources/2026-06-06/04_unique-constraint-support-is-now-in-public-preview|UNIQUE constraint support is now in Public Preview]]
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/04_five-things-that-make-unity-catalog-the-most-interoperable-i|Five things that make UNITY CATALOG the MOST interoperable Iceberg catalog]]
 - [[episodes/2026-05-30|2026-05-30]]
@@ -25,8 +27,6 @@ _Concept mentioned across 86 stories._
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/05_advancing-apache-iceberg-on-databricks-iceberg-v3-ga-open-sh|Advancing Apache Iceberg on Databricks Iceberg v3 GA, Open Sharing, and Unified Governance]]
     - [[sources/2026-05-29/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
-- [[episodes/2026-05-28|2026-05-28]]
-    - [[sources/2026-05-28/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/02_databricks-sql-version-2026-15-is-now-available-in-preview|Databricks SQL version 2026.15 is now available in Preview]]
 - [[episodes/2026-05-26|2026-05-26]]

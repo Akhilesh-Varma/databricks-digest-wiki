@@ -3,17 +3,19 @@ type: concept
 name: Databricks Runtime
 slug: databricks-runtime
 first_seen: 2026-05-04
-last_seen: 2026-05-30
-mention_count: 2
-avg_confidence: 0.75
+last_seen: 2026-06-09
+mention_count: 3
+avg_confidence: 0.833
 tags: [concept]
 ---
 
 # Databricks Runtime
 
-_Concept mentioned across 2 stories._
+_Concept mentioned across 3 stories._
 
 ## Appears in
+- [[episodes/2026-06-09|2026-06-09]]
+    - [[sources/2026-06-09/04_databricks-runtime-18-june-8-2026|Databricks Runtime 18 June 8, 2026]]
 - [[episodes/2026-05-30|2026-05-30]]
     - [[sources/2026-05-30/03_databricks-runtime-18-may-29-2026|Databricks Runtime 18 May 29, 2026]]
 - [[episodes/2026-05-04|2026-05-04]]
