@@ -3,17 +3,19 @@ type: company
 name: GitHub
 slug: github
 first_seen: 2026-04-13
-last_seen: 2026-05-29
-mention_count: 6
+last_seen: 2026-06-10
+mention_count: 7
 avg_confidence: ""
 tags: [company]
 ---
 
 # GitHub
 
-_Company mentioned across 6 stories._
+_Company mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-06-10|2026-06-10]]
+    - [[sources/2026-06-10/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/07_how-ai-is-reshaping-the-data-engineer-role-in-2026|How AI Is Reshaping the Data Engineer Role in 2026]]
 - [[episodes/2026-05-21|2026-05-21]]

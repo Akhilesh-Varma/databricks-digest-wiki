@@ -3,17 +3,19 @@ type: concept
 name: Databricks Apps
 slug: databricks-apps
 first_seen: 2026-04-05
-last_seen: 2026-05-31
-mention_count: 18
-avg_confidence: 0.789
+last_seen: 2026-06-10
+mention_count: 19
+avg_confidence: 0.784
 tags: [concept]
 ---
 
 # Databricks Apps
 
-_Concept mentioned across 18 stories._
+_Concept mentioned across 19 stories._
 
 ## Appears in
+- [[episodes/2026-06-10|2026-06-10]]
+    - [[sources/2026-06-10/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-05-31|2026-05-31]]
     - [[sources/2026-05-31/04_databricks-apps-horizontal-scaling-beta|Databricks Apps horizontal scaling Beta]]
 - [[episodes/2026-05-22|2026-05-22]]

@@ -3,17 +3,20 @@ type: concept
 name: Large Language Models
 slug: large-language-models
 first_seen: 2026-04-06
-last_seen: 2026-06-08
-mention_count: 35
-avg_confidence: 0.749
+last_seen: 2026-06-10
+mention_count: 37
+avg_confidence: 0.746
 tags: [concept]
 ---
 
 # Large Language Models
 
-_Concept mentioned across 35 stories._
+_Concept mentioned across 37 stories._
 
 ## Appears in
+- [[episodes/2026-06-10|2026-06-10]]
+    - [[sources/2026-06-10/07_robust-active-learning-for-few-shot-example-selection-in-tex|Robust Active Learning for Few-Shot Example Selection in Text-to-SQL]]
+    - [[sources/2026-06-10/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-06-08|2026-06-08]]
     - [[sources/2026-06-08/05_dataevolver-automatic-data-preparation-for-large-language-mo|DataEvolver Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving]]
 - [[episodes/2026-06-06|2026-06-06]]

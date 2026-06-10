@@ -3,17 +3,21 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-06-09
-mention_count: 269
+last_seen: 2026-06-10
+mention_count: 271
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 269 stories._
+_Company mentioned across 271 stories._
 
 ## Appears in
+- [[episodes/2026-06-10|2026-06-10]]
+    - [[sources/2026-06-10/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
+    - [[sources/2026-06-10/02_anthropic-claude-fable-5-now-available-as-a-databricks-hoste|Anthropic Claude Fable 5 now available as a Databricks-hosted model]]
+    - [[sources/2026-06-10/03_identity-federation-enabled-by-default-for-all-new-workspace|Identity federation enabled by default for all new workspaces]]
 - [[episodes/2026-06-09|2026-06-09]]
     - [[sources/2026-06-09/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
     - [[sources/2026-06-09/04_databricks-runtime-18-june-8-2026|Databricks Runtime 18 June 8, 2026]]
@@ -73,7 +77,6 @@ _Company mentioned across 269 stories._
     - [[sources/2026-05-26/06_azure-data-engineering-synapse-adf-databricks-full-guide|Azure Data Engineering Synapse, ADF, Databricks Full Guide]]
     - [[sources/2026-05-26/03_why-lakehouse-architecture-feels-like-the-future-of-data-eng|Why Lakehouse Architecture Feels Like the Future of Data Engineering]]
     - [[sources/2026-05-26/02_sqlit-a-lazygit-style-tui-for-sql-databases|Sqlit A lazygit-style TUI for SQL databases]]
-    - [[sources/2026-05-26/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-05-25|2026-05-25]]
     - [[sources/2026-05-25/05_databricks-and-fsx-for-ontap-s3-access-points-a-layer-by-lay|Databricks and FSx for ONTAP S3 Access Points A Layer-by-Layer Validation of Observed Boundaries]]
     - [[sources/2026-05-25/04_voice-driven-rag-with-india-s-sovereign-ai-platform-sarvam|Voice Driven RAG with India s Sovereign AI Platform, SARVAM]]

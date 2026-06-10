@@ -3,17 +3,19 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-06-08
-mention_count: 35
+last_seen: 2026-06-10
+mention_count: 36
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 35 stories._
+_Company mentioned across 36 stories._
 
 ## Appears in
+- [[episodes/2026-06-10|2026-06-10]]
+    - [[sources/2026-06-10/02_anthropic-claude-fable-5-now-available-as-a-databricks-hoste|Anthropic Claude Fable 5 now available as a Databricks-hosted model]]
 - [[episodes/2026-06-08|2026-06-08]]
     - [[sources/2026-06-08/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]
 - [[episodes/2026-06-04|2026-06-04]]

@@ -3,17 +3,19 @@ type: concept
 name: Vector Search
 slug: vector-search
 first_seen: 2026-04-22
-last_seen: 2026-05-31
-mention_count: 6
-avg_confidence: 0.75
+last_seen: 2026-06-10
+mention_count: 7
+avg_confidence: 0.743
 tags: [concept]
 ---
 
 # Vector Search
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-06-10|2026-06-10]]
+    - [[sources/2026-06-10/04_the-search-engine-renaissance-how-apache-lucene-and-elastics|The Search Engine Renaissance How Apache Lucene and Elasticsearch Are Reclaiming the AI-Native Future]]
 - [[episodes/2026-05-31|2026-05-31]]
     - [[sources/2026-05-31/05_embeddings-aren-t-magic-the-predictable-failure-modes-of-rag|Embeddings Aren t Magic The Predictable Failure Modes of RAG Retrieval]]
 - [[episodes/2026-05-18|2026-05-18]]

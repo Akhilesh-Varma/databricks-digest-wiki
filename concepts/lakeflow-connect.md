@@ -3,17 +3,19 @@ type: concept
 name: Lakeflow Connect
 slug: lakeflow-connect
 first_seen: 2026-04-05
-last_seen: 2026-06-09
-mention_count: 7
-avg_confidence: 0.7
+last_seen: 2026-06-10
+mention_count: 8
+avg_confidence: 0.725
 tags: [concept]
 ---
 
 # Lakeflow Connect
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-06-10|2026-06-10]]
+    - [[sources/2026-06-10/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-06-09|2026-06-09]]
     - [[sources/2026-06-09/03_external-lineage-is-now-generally-available|External lineage is now generally available]]
 - [[episodes/2026-05-14|2026-05-14]]

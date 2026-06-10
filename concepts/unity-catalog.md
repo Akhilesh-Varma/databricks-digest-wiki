@@ -3,17 +3,19 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-06-09
-mention_count: 86
+last_seen: 2026-06-10
+mention_count: 87
 avg_confidence: 0.766
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 86 stories._
+_Concept mentioned across 87 stories._
 
 ## Appears in
+- [[episodes/2026-06-10|2026-06-10]]
+    - [[sources/2026-06-10/03_identity-federation-enabled-by-default-for-all-new-workspace|Identity federation enabled by default for all new workspaces]]
 - [[episodes/2026-06-09|2026-06-09]]
     - [[sources/2026-06-09/03_external-lineage-is-now-generally-available|External lineage is now generally available]]
 - [[episodes/2026-06-06|2026-06-06]]

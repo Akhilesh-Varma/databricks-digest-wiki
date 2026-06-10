@@ -3,17 +3,19 @@ type: concept
 name: Large Language Models (LLMs)
 slug: large-language-models-llms
 first_seen: 2026-04-06
-last_seen: 2026-05-29
-mention_count: 8
-avg_confidence: 0.762
+last_seen: 2026-06-10
+mention_count: 9
+avg_confidence: 0.778
 tags: [concept]
 ---
 
 # Large Language Models (LLMs)
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-06-10|2026-06-10]]
+    - [[sources/2026-06-10/05_80-of-de-candidates-use-ai-on-take-homes-companies-can-t-sto|80 of DE Candidates Use AI on Take-Homes. Companies Can't Stop It.]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/07_how-ai-is-reshaping-the-data-engineer-role-in-2026|How AI Is Reshaping the Data Engineer Role in 2026]]
 - [[episodes/2026-05-14|2026-05-14]]

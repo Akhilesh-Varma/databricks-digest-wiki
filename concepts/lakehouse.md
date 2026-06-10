@@ -3,7 +3,7 @@ type: concept
 name: Lakehouse
 slug: lakehouse
 first_seen: 2026-04-05
-last_seen: 2026-06-09
+last_seen: 2026-06-10
 mention_count: 51
 avg_confidence: 0.62
 tags: [concept]
@@ -14,6 +14,8 @@ tags: [concept]
 _Concept mentioned across 51 stories._
 
 ## Appears in
+- [[episodes/2026-06-10|2026-06-10]]
+    - [[sources/2026-06-10/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-06-09|2026-06-09]]
     - [[sources/2026-06-09/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-06-08|2026-06-08]]
@@ -36,7 +38,6 @@ _Concept mentioned across 51 stories._
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/07_fabric-ai-functions-turn-genai-into-a-data-pipeline-step|Fabric AI Functions Turn GenAI Into a Data Pipeline Step]]
     - [[sources/2026-05-26/06_azure-data-engineering-synapse-adf-databricks-full-guide|Azure Data Engineering Synapse, ADF, Databricks Full Guide]]
-    - [[sources/2026-05-26/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-05-25|2026-05-25]]
     - [[sources/2026-05-25/05_databricks-and-fsx-for-ontap-s3-access-points-a-layer-by-lay|Databricks and FSx for ONTAP S3 Access Points A Layer-by-Layer Validation of Observed Boundaries]]
     - [[sources/2026-05-25/01_databricks-community-roundup-3-new-posts|Databricks Community Roundup — 3 new posts]]
