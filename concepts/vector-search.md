@@ -3,17 +3,19 @@ type: concept
 name: Vector Search
 slug: vector-search
 first_seen: 2026-04-22
-last_seen: 2026-06-10
-mention_count: 7
-avg_confidence: 0.743
+last_seen: 2026-06-11
+mention_count: 8
+avg_confidence: 0.762
 tags: [concept]
 ---
 
 # Vector Search
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/02_show-hn-helixdb-a-graph-database-built-on-object-storage|Show HN HelixDB A graph database built on object storage]]
 - [[episodes/2026-06-10|2026-06-10]]
     - [[sources/2026-06-10/04_the-search-engine-renaissance-how-apache-lucene-and-elastics|The Search Engine Renaissance How Apache Lucene and Elasticsearch Are Reclaiming the AI-Native Future]]
 - [[episodes/2026-05-31|2026-05-31]]

@@ -32,4 +32,4 @@ The author, a 10-year AI-in-finance veteran, observed that many startups lack th
 - **URL:** <https://github.com/fsilavong/agent-eval>
 
 ## Related
-[[concepts/claude-skill|claude-skill]] · [[concepts/agent-evaluation|agent-evaluation]] · [[concepts/ai-agents|ai-agents]] · [[concepts/evaluation-systems|evaluation-systems]] · [[concepts/data-science|data-science]] · [[concepts/ai|ai]] · [[companies/anthropic|Anthropic]] · [[episodes/2026-05-05|2026-05-05]]
+[[concepts/claude-skill|claude-skill]] · [[concepts/agent-evaluation|agent-evaluation]] · [[concepts/ai-agents|ai-agents]] · [[concepts/evaluation-systems|evaluation-systems]] · [[concepts/data-science|data-science]] · [[concepts/claude|claude]] · [[concepts/ai|ai]] · [[companies/anthropic|Anthropic]] · [[episodes/2026-05-05|2026-05-05]]

@@ -31,4 +31,4 @@ The article describes how the author built a real-time voice AI application by i
 - **URL:** <https://medium.com/@sudhir.gajre/from-voice-to-insight-integrating-vocal-bridge-with-databricks-faa2899b2c1d?source=rss------databricks-5>
 
 ## Related
-[[concepts/vocal-bridge|vocal-bridge]] · [[concepts/databricks-apps|databricks-apps]] · [[concepts/lakebase|lakebase]] · [[concepts/databricks|databricks]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[companies/anthropic|Anthropic]] · [[people/sudhir-gajre|Sudhir Gajre]] · [[episodes/2026-04-05|2026-04-05]]
+[[concepts/vocal-bridge|vocal-bridge]] · [[concepts/databricks-apps|databricks-apps]] · [[concepts/lakebase|lakebase]] · [[concepts/databricks|databricks]] · [[concepts/claude|claude]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[companies/anthropic|Anthropic]] · [[people/sudhir-gajre|Sudhir Gajre]] · [[episodes/2026-04-05|2026-04-05]]

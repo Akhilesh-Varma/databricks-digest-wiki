@@ -31,4 +31,4 @@ This article is a weekly roundup of five trending GitHub repositories from the p
 - **URL:** <https://github.com/tastyeffectco/sandboxd>
 
 ## Related
-[[concepts/agentic-ai|agentic-ai]] · [[concepts/agent-os|agent-os]] · [[concepts/agent-skills|agent-skills]] · [[concepts/coding-agents|coding-agents]] · [[concepts/typescript|typescript]] · [[concepts/python|python]] · [[concepts/ai|ai]] · [[companies/google|Google]] · [[companies/anthropic|Anthropic]] · [[episodes/2026-06-08|2026-06-08]]
+[[concepts/agentic-ai|agentic-ai]] · [[concepts/agent-os|agent-os]] · [[concepts/agent-skills|agent-skills]] · [[concepts/coding-agents|coding-agents]] · [[concepts/typescript|typescript]] · [[concepts/claude|claude]] · [[concepts/python|python]] · [[concepts/ai|ai]] · [[companies/google|Google]] · [[companies/anthropic|Anthropic]] · [[episodes/2026-06-08|2026-06-08]]

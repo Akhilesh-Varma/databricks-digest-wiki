@@ -3,17 +3,19 @@ type: concept
 name: Amazon S3
 slug: amazon-s3
 first_seen: 2026-05-02
-last_seen: 2026-05-26
-mention_count: 6
-avg_confidence: 0.517
+last_seen: 2026-06-11
+mention_count: 7
+avg_confidence: 0.543
 tags: [concept]
 ---
 
 # Amazon S3
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/02_show-hn-helixdb-a-graph-database-built-on-object-storage|Show HN HelixDB A graph database built on object storage]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/05_aws-data-engineering-glue-emr-athena-kinesis-end-to-end-guid|AWS Data Engineering Glue, EMR, Athena, Kinesis End-to-End Guide]]
 - [[episodes/2026-05-21|2026-05-21]]

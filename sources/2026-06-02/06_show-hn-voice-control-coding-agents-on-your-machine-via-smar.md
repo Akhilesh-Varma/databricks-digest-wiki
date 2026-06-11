@@ -33,4 +33,4 @@ The author developed a voice-controlled coding agent application that allows use
 - **URL:** <https://dashvox.ai>
 
 ## Related
-[[concepts/voice-control|voice-control]] · [[concepts/coding-agents|coding-agents]] · [[concepts/smartwatch|smartwatch]] · [[concepts/carplay|carplay]] · [[concepts/ssh|ssh]] · [[concepts/context-compression|context-compression]] · [[concepts/claude-code|claude-code]] · [[concepts/cloud|cloud]] · [[concepts/api|api]] · [[concepts/llm|llm]] · [[concepts/ai|ai]] · [[companies/paypal|PayPal]] · [[companies/meta|Meta]] · [[people/matei-zaharia|Matei Zaharia]] · [[episodes/2026-06-02|2026-06-02]]
+[[concepts/voice-control|voice-control]] · [[concepts/coding-agents|coding-agents]] · [[concepts/smartwatch|smartwatch]] · [[concepts/carplay|carplay]] · [[concepts/ssh|ssh]] · [[concepts/context-compression|context-compression]] · [[concepts/claude-code|claude-code]] · [[concepts/claude|claude]] · [[concepts/cloud|cloud]] · [[concepts/api|api]] · [[concepts/llm|llm]] · [[concepts/ai|ai]] · [[companies/paypal|PayPal]] · [[companies/meta|Meta]] · [[people/matei-zaharia|Matei Zaharia]] · [[episodes/2026-06-02|2026-06-02]]

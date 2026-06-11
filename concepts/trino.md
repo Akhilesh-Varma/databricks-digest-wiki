@@ -3,17 +3,19 @@ type: concept
 name: Trino
 slug: trino
 first_seen: 2026-05-02
-last_seen: 2026-05-26
-mention_count: 4
-avg_confidence: 0.475
+last_seen: 2026-06-11
+mention_count: 5
+avg_confidence: 0.46
 tags: [concept]
 ---
 
 # Trino
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/06_how-to-query-parquet-files-in-object-storage-with-bigquery-e|How to Query Parquet Files in Object Storage with BigQuery External Tables]]
 - [[episodes/2026-05-26|2026-05-26]]
     - [[sources/2026-05-26/05_aws-data-engineering-glue-emr-athena-kinesis-end-to-end-guid|AWS Data Engineering Glue, EMR, Athena, Kinesis End-to-End Guide]]
     - [[sources/2026-05-26/02_sqlit-a-lazygit-style-tui-for-sql-databases|Sqlit A lazygit-style TUI for SQL databases]]

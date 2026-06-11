@@ -31,4 +31,4 @@ Databricks Model Serving has added support for Anthropic Claude Opus 4.8 as a Da
 - **URL:** <https://docs.databricks.com/aws/en/release-notes/product/2026/may#anthropic-claude-opus-48-now-available-as-a-databricks-hosted-model>
 
 ## Related
-[[concepts/databricks-model-serving|databricks-model-serving]] · [[concepts/foundation-model-apis|foundation-model-apis]] · [[concepts/claude-opus-4-8|claude-opus-4-8]] · [[concepts/foundation-model|foundation-model]] · [[concepts/model-serving|model-serving]] · [[concepts/databricks|databricks]] · [[companies/databricks|Databricks]] · [[companies/anthropic|Anthropic]] · [[episodes/2026-05-29|2026-05-29]]
+[[concepts/databricks-model-serving|databricks-model-serving]] · [[concepts/foundation-model-apis|foundation-model-apis]] · [[concepts/claude-opus-4-8|claude-opus-4-8]] · [[concepts/foundation-model|foundation-model]] · [[concepts/model-serving|model-serving]] · [[concepts/databricks|databricks]] · [[concepts/claude|claude]] · [[companies/databricks|Databricks]] · [[companies/anthropic|Anthropic]] · [[episodes/2026-05-29|2026-05-29]]

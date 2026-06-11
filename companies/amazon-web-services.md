@@ -3,17 +3,19 @@ type: company
 name: Amazon Web Services
 slug: amazon-web-services
 first_seen: 2026-04-08
-last_seen: 2026-06-07
-mention_count: 34
+last_seen: 2026-06-11
+mention_count: 35
 avg_confidence: ""
 tags: [company]
 ---
 
 # Amazon Web Services
 
-_Company mentioned across 34 stories._
+_Company mentioned across 35 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/06_how-to-query-parquet-files-in-object-storage-with-bigquery-e|How to Query Parquet Files in Object Storage with BigQuery External Tables]]
 - [[episodes/2026-06-07|2026-06-07]]
     - [[sources/2026-06-07/02_building-a-scalable-modernized-data-lakehouse-delta-lake-vs|Building a Scalable, Modernized Data Lakehouse Delta Lake vs. Apache Iceberg]]
 - [[episodes/2026-06-06|2026-06-06]]

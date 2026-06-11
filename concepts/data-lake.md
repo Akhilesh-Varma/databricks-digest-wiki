@@ -3,17 +3,19 @@ type: concept
 name: Data Lake
 slug: data-lake
 first_seen: 2026-04-17
-last_seen: 2026-06-02
-mention_count: 10
-avg_confidence: 0.67
+last_seen: 2026-06-11
+mention_count: 11
+avg_confidence: 0.645
 tags: [concept]
 ---
 
 # Data Lake
 
-_Concept mentioned across 10 stories._
+_Concept mentioned across 11 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/08_day-11-of-100daysofclickhouse-exporting-data-from-clickhouse|Day 11 of 100DaysOfClickHouse Exporting Data from ClickHouse - Formats, Methods, and Best Practices]]
 - [[episodes/2026-06-02|2026-06-02]]
     - [[sources/2026-06-02/07_integrated-biological-data-collection-platform-an-architectu|Integrated Biological Data Collection Platform An Architecture for Automated Curation of Public Repositories]]
 - [[episodes/2026-05-28|2026-05-28]]

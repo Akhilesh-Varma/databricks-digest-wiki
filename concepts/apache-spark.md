@@ -3,17 +3,20 @@ type: concept
 name: Apache Spark
 slug: apache-spark
 first_seen: 2026-03-17
-last_seen: 2026-06-09
-mention_count: 53
-avg_confidence: 0.687
+last_seen: 2026-06-11
+mention_count: 55
+avg_confidence: 0.682
 tags: [concept]
 ---
 
 # Apache Spark
 
-_Concept mentioned across 53 stories._
+_Concept mentioned across 55 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/06_how-to-query-parquet-files-in-object-storage-with-bigquery-e|How to Query Parquet Files in Object Storage with BigQuery External Tables]]
+    - [[sources/2026-06-11/03_databricks-runtime-18-june-10-2026|Databricks Runtime 18 June 10, 2026]]
 - [[episodes/2026-06-09|2026-06-09]]
     - [[sources/2026-06-09/04_databricks-runtime-18-june-8-2026|Databricks Runtime 18 June 8, 2026]]
 - [[episodes/2026-06-07|2026-06-07]]

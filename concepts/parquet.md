@@ -3,17 +3,21 @@ type: concept
 name: Parquet
 slug: parquet
 first_seen: 2026-04-17
-last_seen: 2026-06-07
-mention_count: 12
-avg_confidence: 0.608
+last_seen: 2026-06-11
+mention_count: 15
+avg_confidence: 0.62
 tags: [concept]
 ---
 
 # Parquet
 
-_Concept mentioned across 12 stories._
+_Concept mentioned across 15 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/06_how-to-query-parquet-files-in-object-storage-with-bigquery-e|How to Query Parquet Files in Object Storage with BigQuery External Tables]]
+    - [[sources/2026-06-11/03_databricks-runtime-18-june-10-2026|Databricks Runtime 18 June 10, 2026]]
+    - [[sources/2026-06-11/08_day-11-of-100daysofclickhouse-exporting-data-from-clickhouse|Day 11 of 100DaysOfClickHouse Exporting Data from ClickHouse - Formats, Methods, and Best Practices]]
 - [[episodes/2026-06-07|2026-06-07]]
     - [[sources/2026-06-07/07_i-built-a-mini-columnar-storage-engine-in-pure-python-and-fi|I built a mini columnar storage engine in pure Python and finally understood why Parquet is so fast]]
 - [[episodes/2026-05-28|2026-05-28]]

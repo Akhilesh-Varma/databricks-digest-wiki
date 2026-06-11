@@ -3,17 +3,19 @@ type: concept
 name: Modern Data Stack
 slug: modern-data-stack
 first_seen: 2026-05-28
-last_seen: 2026-05-29
-mention_count: 3
-avg_confidence: 0.833
+last_seen: 2026-06-11
+mention_count: 4
+avg_confidence: 0.875
 tags: [concept]
 ---
 
 # Modern Data Stack
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/07_modern-data-stack-migration-day-1-scaling-to-8-companies-wit|Modern Data Stack Migration Day 1 Scaling to 8 Companies with DRY Architecture and Chasing a 2M Discrepancy]]
 - [[episodes/2026-05-29|2026-05-29]]
     - [[sources/2026-05-29/07_how-ai-is-reshaping-the-data-engineer-role-in-2026|How AI Is Reshaping the Data Engineer Role in 2026]]
     - [[sources/2026-05-29/06_dbt-for-data-engineering-models-tests-macros-production-patt|dbt for Data Engineering Models, Tests, Macros Production Patterns]]

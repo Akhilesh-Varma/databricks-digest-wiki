@@ -3,17 +3,19 @@ type: concept
 name: DuckDB
 slug: duckdb
 first_seen: 2026-04-09
-last_seen: 2026-06-05
-mention_count: 15
-avg_confidence: 0.6
+last_seen: 2026-06-11
+mention_count: 16
+avg_confidence: 0.588
 tags: [concept]
 ---
 
 # DuckDB
 
-_Concept mentioned across 15 stories._
+_Concept mentioned across 16 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/06_how-to-query-parquet-files-in-object-storage-with-bigquery-e|How to Query Parquet Files in Object Storage with BigQuery External Tables]]
 - [[episodes/2026-06-05|2026-06-05]]
     - [[sources/2026-06-05/05_data-flow-control-data-safety-policies-for-ai-agents|Data Flow Control Data Safety Policies for AI Agents]]
 - [[episodes/2026-06-04|2026-06-04]]

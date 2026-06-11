@@ -3,17 +3,19 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-06-10
-mention_count: 36
+last_seen: 2026-06-11
+mention_count: 37
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 36 stories._
+_Company mentioned across 37 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/07_modern-data-stack-migration-day-1-scaling-to-8-companies-wit|Modern Data Stack Migration Day 1 Scaling to 8 Companies with DRY Architecture and Chasing a 2M Discrepancy]]
 - [[episodes/2026-06-10|2026-06-10]]
     - [[sources/2026-06-10/02_anthropic-claude-fable-5-now-available-as-a-databricks-hoste|Anthropic Claude Fable 5 now available as a Databricks-hosted model]]
 - [[episodes/2026-06-08|2026-06-08]]

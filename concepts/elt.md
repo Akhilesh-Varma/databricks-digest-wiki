@@ -3,17 +3,19 @@ type: concept
 name: ELT
 slug: elt
 first_seen: 2026-05-06
-last_seen: 2026-05-28
-mention_count: 3
-avg_confidence: 0.8
+last_seen: 2026-06-11
+mention_count: 4
+avg_confidence: 0.7
 tags: [concept]
 ---
 
 # ELT
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/08_day-11-of-100daysofclickhouse-exporting-data-from-clickhouse|Day 11 of 100DaysOfClickHouse Exporting Data from ClickHouse - Formats, Methods, and Best Practices]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/04_the-next-decade-of-data-engineering-from-modern-data-stack-t|The Next Decade of Data Engineering From Modern Data Stack to Data Engineering Harness]]
 - [[episodes/2026-05-12|2026-05-12]]

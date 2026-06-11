@@ -3,17 +3,19 @@ type: company
 name: Apache Software Foundation
 slug: apache-software-foundation
 first_seen: 2026-03-17
-last_seen: 2026-06-10
-mention_count: 25
+last_seen: 2026-06-11
+mention_count: 26
 avg_confidence: ""
 tags: [company]
 ---
 
 # Apache Software Foundation
 
-_Company mentioned across 25 stories._
+_Company mentioned across 26 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/03_databricks-runtime-18-june-10-2026|Databricks Runtime 18 June 10, 2026]]
 - [[episodes/2026-06-10|2026-06-10]]
     - [[sources/2026-06-10/04_the-search-engine-renaissance-how-apache-lucene-and-elastics|The Search Engine Renaissance How Apache Lucene and Elasticsearch Are Reclaiming the AI-Native Future]]
 - [[episodes/2026-06-09|2026-06-09]]

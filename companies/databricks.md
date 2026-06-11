@@ -3,32 +3,36 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-06-10
-mention_count: 271
+last_seen: 2026-06-11
+mention_count: 274
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 271 stories._
+_Company mentioned across 274 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
+    - [[sources/2026-06-11/03_databricks-runtime-18-june-10-2026|Databricks Runtime 18 June 10, 2026]]
+    - [[sources/2026-06-11/04_the-update-flow-api-for-lakeflow-spark-declarative-pipelines|The update_flow API for Lakeflow Spark Declarative Pipelines is generally available]]
+    - [[sources/2026-06-11/05_reorganized-lakeflow-spark-declarative-pipelines-documentati|Reorganized Lakeflow Spark Declarative Pipelines documentation]]
 - [[episodes/2026-06-10|2026-06-10]]
-    - [[sources/2026-06-10/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
-    - [[sources/2026-06-10/02_anthropic-claude-fable-5-now-available-as-a-databricks-hoste|Anthropic Claude Fable 5 now available as a Databricks-hosted model]]
     - [[sources/2026-06-10/03_identity-federation-enabled-by-default-for-all-new-workspace|Identity federation enabled by default for all new workspaces]]
+    - [[sources/2026-06-10/02_anthropic-claude-fable-5-now-available-as-a-databricks-hoste|Anthropic Claude Fable 5 now available as a Databricks-hosted model]]
+    - [[sources/2026-06-10/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-06-09|2026-06-09]]
-    - [[sources/2026-06-09/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
     - [[sources/2026-06-09/04_databricks-runtime-18-june-8-2026|Databricks Runtime 18 June 8, 2026]]
     - [[sources/2026-06-09/03_external-lineage-is-now-generally-available|External lineage is now generally available]]
+    - [[sources/2026-06-09/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-06-08|2026-06-08]]
     - [[sources/2026-06-08/04_architectural-pattern-incremental-data-export-from-snowflake|Architectural Pattern Incremental Data Export from Snowflake to Databricks]]
     - [[sources/2026-06-08/03_upcoming-behavior-change-choose-entitlements-when-adding-pri|Upcoming behavior change Choose entitlements when adding principals to workspaces]]
     - [[sources/2026-06-08/01_databricks-community-roundup-4-new-posts|Databricks Community Roundup — 4 new posts]]
 - [[episodes/2026-06-07|2026-06-07]]
     - [[sources/2026-06-07/04_auto-loader-trigger-types-in-databricks-simple-guide-with-ex|Auto Loader Trigger Types in Databricks Simple Guide with Examples]]
-    - [[sources/2026-06-07/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-06-06|2026-06-06]]
     - [[sources/2026-06-06/07_data-engineer-vs-data-scientist-what-s-the-difference-2026-g|Data Engineer vs. Data Scientist What's the Difference? 2026 Guide for Beginners]]
     - [[sources/2026-06-06/05_external-data-access-for-pipeline-streaming-tables-and-mater|External data access for pipeline streaming tables and materialized views Public Preview]]

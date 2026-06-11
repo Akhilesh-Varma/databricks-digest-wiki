@@ -30,4 +30,4 @@ The article examines why frontier AI agents struggle with enterprise data tasks,
 - **URL:** <https://medium.com/@lidyadagnew7/the-context-engineering-bottleneck-why-frontier-ai-agents-fail-at-enterprise-data-34b09054696f?source=rss------data_engineering-5>
 
 ## Related
-[[concepts/context-engineering|context-engineering]] · [[concepts/dataagentbench|dataagentbench]] · [[concepts/claude-code|claude-code]] · [[concepts/ai-agents|ai-agents]] · [[concepts/data-agents|data-agents]] · [[companies/anthropic|Anthropic]] · [[episodes/2026-04-18|2026-04-18]]
+[[concepts/context-engineering|context-engineering]] · [[concepts/dataagentbench|dataagentbench]] · [[concepts/claude-code|claude-code]] · [[concepts/ai-agents|ai-agents]] · [[concepts/data-agents|data-agents]] · [[concepts/claude|claude]] · [[companies/anthropic|Anthropic]] · [[episodes/2026-04-18|2026-04-18]]

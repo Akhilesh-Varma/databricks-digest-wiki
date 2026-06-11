@@ -3,17 +3,19 @@ type: concept
 name: Object Storage
 slug: object-storage
 first_seen: 2026-05-11
-last_seen: 2026-06-02
-mention_count: 4
-avg_confidence: 0.7
+last_seen: 2026-06-11
+mention_count: 5
+avg_confidence: 0.74
 tags: [concept]
 ---
 
 # Object Storage
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/02_show-hn-helixdb-a-graph-database-built-on-object-storage|Show HN HelixDB A graph database built on object storage]]
 - [[episodes/2026-06-02|2026-06-02]]
     - [[sources/2026-06-02/07_integrated-biological-data-collection-platform-an-architectu|Integrated Biological Data Collection Platform An Architecture for Automated Curation of Public Repositories]]
 - [[episodes/2026-05-22|2026-05-22]]

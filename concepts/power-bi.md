@@ -3,17 +3,19 @@ type: concept
 name: Power BI
 slug: power-bi
 first_seen: 2026-04-18
-last_seen: 2026-06-04
-mention_count: 9
-avg_confidence: 0.489
+last_seen: 2026-06-11
+mention_count: 10
+avg_confidence: 0.48
 tags: [concept]
 ---
 
 # Power BI
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-06-04|2026-06-04]]
     - [[sources/2026-06-04/08_modernizing-the-pitch-building-an-automated-sql-data-quality|Modernizing the Pitch Building an Automated SQL Data Quality and Transformation Pipeline for Multi-Club Scouting Platforms]]
     - [[sources/2026-06-04/07_t-sql-on-microsoft-fabric-episode-2-grouping-and-summarizing|T-SQL on Microsoft Fabric - Episode 2 Grouping and Summarizing Data with GROUP BY and Aggregate Functions]]

@@ -3,17 +3,19 @@ type: concept
 name: OLTP
 slug: oltp
 first_seen: 2026-03-17
-last_seen: 2026-05-27
-mention_count: 7
-avg_confidence: 0.614
+last_seen: 2026-06-11
+mention_count: 8
+avg_confidence: 0.625
 tags: [concept]
 ---
 
 # OLTP
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-06-11|2026-06-11]]
+    - [[sources/2026-06-11/02_show-hn-helixdb-a-graph-database-built-on-object-storage|Show HN HelixDB A graph database built on object storage]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/05_how-polymarket-scaled-their-data-stack-with-postgres-clickho|How Polymarket Scaled Their Data Stack with Postgres ClickHouse]]
 - [[episodes/2026-05-20|2026-05-20]]
