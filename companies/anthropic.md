@@ -3,17 +3,21 @@ type: company
 name: Anthropic
 slug: anthropic
 first_seen: 2026-03-17
-last_seen: 2026-06-11
-mention_count: 37
+last_seen: 2026-06-12
+mention_count: 40
 avg_confidence: ""
 tags: [company]
 ---
 
 # Anthropic
 
-_Company mentioned across 37 stories._
+_Company mentioned across 40 stories._
 
 ## Appears in
+- [[episodes/2026-06-12|2026-06-12]]
+    - [[sources/2026-06-12/03_how-ecolab-rebuilt-retail-intelligence-on-databricks-and-ant|How Ecolab rebuilt retail intelligence on Databricks and Anthropic Claude]]
+    - [[sources/2026-06-12/02_2-4m-vrchat-users-data-accessed-following-cloud-breach|2.4M VRChat users' data accessed following cloud breach]]
+    - [[sources/2026-06-12/04_genie-code-now-uses-models-served-through-openai-on-databric|Genie Code now uses models served through OpenAI on Databricks]]
 - [[episodes/2026-06-11|2026-06-11]]
     - [[sources/2026-06-11/07_modern-data-stack-migration-day-1-scaling-to-8-companies-wit|Modern Data Stack Migration Day 1 Scaling to 8 Companies with DRY Architecture and Chasing a 2M Discrepancy]]
 - [[episodes/2026-06-10|2026-06-10]]

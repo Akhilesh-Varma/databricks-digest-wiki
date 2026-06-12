@@ -3,17 +3,19 @@ type: concept
 name: Databricks Workflows
 slug: databricks-workflows
 first_seen: 2026-04-26
-last_seen: 2026-06-11
-mention_count: 6
-avg_confidence: 0.75
+last_seen: 2026-06-12
+mention_count: 7
+avg_confidence: 0.743
 tags: [concept]
 ---
 
 # Databricks Workflows
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-06-12|2026-06-12]]
+    - [[sources/2026-06-12/01_databricks-community-roundup-10-new-posts|Databricks Community Roundup — 10 new posts]]
 - [[episodes/2026-06-11|2026-06-11]]
     - [[sources/2026-06-11/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-06-09|2026-06-09]]

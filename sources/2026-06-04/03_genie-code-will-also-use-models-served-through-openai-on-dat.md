@@ -29,4 +29,4 @@ Databricks is expanding Genie Code to support models served through OpenAI on Da
 - **URL:** <https://docs.databricks.com/aws/en/release-notes/whats-coming#genie-code-will-also-use-models-served-through-openai-on-databricks>
 
 ## Related
-[[concepts/genie-code|genie-code]] · [[concepts/partner-powered-ai|partner-powered-ai]] · [[concepts/databricks|databricks]] · [[concepts/azure|azure]] · [[concepts/genie|genie]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[companies/openai|OpenAI]] · [[companies/anthropic|Anthropic]] · [[companies/microsoft-azure|Microsoft Azure]] · [[episodes/2026-06-04|2026-06-04]]
+[[concepts/genie-code|genie-code]] · [[concepts/partner-powered-ai|partner-powered-ai]] · [[concepts/partner-powered-ai-features|partner-powered-ai-features]] · [[concepts/databricks|databricks]] · [[concepts/azure|azure]] · [[concepts/genie|genie]] · [[concepts/ai|ai]] · [[companies/databricks|Databricks]] · [[companies/openai|OpenAI]] · [[companies/anthropic|Anthropic]] · [[companies/microsoft-azure|Microsoft Azure]] · [[episodes/2026-06-04|2026-06-04]]

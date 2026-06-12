@@ -3,17 +3,19 @@ type: concept
 name: Agentic AI
 slug: agentic-ai
 first_seen: 2026-05-03
-last_seen: 2026-06-08
-mention_count: 7
-avg_confidence: 0.743
+last_seen: 2026-06-12
+mention_count: 8
+avg_confidence: 0.7
 tags: [concept]
 ---
 
 # Agentic AI
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-06-12|2026-06-12]]
+    - [[sources/2026-06-12/02_2-4m-vrchat-users-data-accessed-following-cloud-breach|2.4M VRChat users' data accessed following cloud breach]]
 - [[episodes/2026-06-08|2026-06-08]]
     - [[sources/2026-06-08/02_weekly-trending-repos-roundup-5-new-from-the-past-7-days|Weekly Trending Repos Roundup — 5 new from the past 7 days]]
 - [[episodes/2026-06-04|2026-06-04]]

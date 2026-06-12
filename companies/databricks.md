@@ -3,17 +3,22 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-06-11
-mention_count: 274
+last_seen: 2026-06-12
+mention_count: 278
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 274 stories._
+_Company mentioned across 278 stories._
 
 ## Appears in
+- [[episodes/2026-06-12|2026-06-12]]
+    - [[sources/2026-06-12/01_databricks-community-roundup-10-new-posts|Databricks Community Roundup — 10 new posts]]
+    - [[sources/2026-06-12/03_how-ecolab-rebuilt-retail-intelligence-on-databricks-and-ant|How Ecolab rebuilt retail intelligence on Databricks and Anthropic Claude]]
+    - [[sources/2026-06-12/05_abac-grant-policies-for-models-beta|ABAC GRANT policies for models Beta]]
+    - [[sources/2026-06-12/04_genie-code-now-uses-models-served-through-openai-on-databric|Genie Code now uses models served through OpenAI on Databricks]]
 - [[episodes/2026-06-11|2026-06-11]]
     - [[sources/2026-06-11/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
     - [[sources/2026-06-11/03_databricks-runtime-18-june-10-2026|Databricks Runtime 18 June 10, 2026]]

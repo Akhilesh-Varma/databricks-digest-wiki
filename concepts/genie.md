@@ -3,17 +3,19 @@ type: concept
 name: Genie
 slug: genie
 first_seen: 2026-04-17
-last_seen: 2026-06-05
-mention_count: 11
-avg_confidence: 0.745
+last_seen: 2026-06-12
+mention_count: 12
+avg_confidence: 0.717
 tags: [concept]
 ---
 
 # Genie
 
-_Concept mentioned across 11 stories._
+_Concept mentioned across 12 stories._
 
 ## Appears in
+- [[episodes/2026-06-12|2026-06-12]]
+    - [[sources/2026-06-12/01_databricks-community-roundup-10-new-posts|Databricks Community Roundup — 10 new posts]]
 - [[episodes/2026-06-05|2026-06-05]]
     - [[sources/2026-06-05/03_genie-products-will-move-to-pay-as-you-go-pricing|Genie products will move to pay-as-you-go pricing]]
 - [[episodes/2026-05-14|2026-05-14]]

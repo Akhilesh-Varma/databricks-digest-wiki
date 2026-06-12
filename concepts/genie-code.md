@@ -3,17 +3,19 @@ type: concept
 name: Genie Code
 slug: genie-code
 first_seen: 2026-04-24
-last_seen: 2026-06-05
-mention_count: 6
-avg_confidence: 0.783
+last_seen: 2026-06-12
+mention_count: 7
+avg_confidence: 0.814
 tags: [concept]
 ---
 
 # Genie Code
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-06-12|2026-06-12]]
+    - [[sources/2026-06-12/04_genie-code-now-uses-models-served-through-openai-on-databric|Genie Code now uses models served through OpenAI on Databricks]]
 - [[episodes/2026-06-05|2026-06-05]]
     - [[sources/2026-06-05/03_genie-products-will-move-to-pay-as-you-go-pricing|Genie products will move to pay-as-you-go pricing]]
 - [[episodes/2026-06-04|2026-06-04]]

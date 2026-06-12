@@ -3,17 +3,19 @@ type: concept
 name: MLflow
 slug: mlflow
 first_seen: 2026-04-06
-last_seen: 2026-06-06
-mention_count: 21
-avg_confidence: 0.8
+last_seen: 2026-06-12
+mention_count: 22
+avg_confidence: 0.782
 tags: [concept]
 ---
 
 # MLflow
 
-_Concept mentioned across 21 stories._
+_Concept mentioned across 22 stories._
 
 ## Appears in
+- [[episodes/2026-06-12|2026-06-12]]
+    - [[sources/2026-06-12/05_abac-grant-policies-for-models-beta|ABAC GRANT policies for models Beta]]
 - [[episodes/2026-06-06|2026-06-06]]
     - [[sources/2026-06-06/08_machine-learning-for-data-engineers-the-patterns-i-actually|Machine Learning for Data Engineers The Patterns I Actually Used Across 7 Projects]]
 - [[episodes/2026-06-02|2026-06-02]]

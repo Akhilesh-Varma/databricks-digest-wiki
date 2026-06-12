@@ -3,17 +3,19 @@ type: concept
 name: Retrieval-Augmented Generation
 slug: retrieval-augmented-generation
 first_seen: 2026-04-10
-last_seen: 2026-06-09
-mention_count: 21
-avg_confidence: 0.762
+last_seen: 2026-06-12
+mention_count: 22
+avg_confidence: 0.745
 tags: [concept]
 ---
 
 # Retrieval-Augmented Generation
 
-_Concept mentioned across 21 stories._
+_Concept mentioned across 22 stories._
 
 ## Appears in
+- [[episodes/2026-06-12|2026-06-12]]
+    - [[sources/2026-06-12/03_how-ecolab-rebuilt-retail-intelligence-on-databricks-and-ant|How Ecolab rebuilt retail intelligence on Databricks and Anthropic Claude]]
 - [[episodes/2026-06-09|2026-06-09]]
     - [[sources/2026-06-09/05_ract-retrieval-augmented-column-table-learning-and-predictio|RACT Retrieval Augmented Column-Table Learning and Prediction for Multi-Table Schema Matching]]
 - [[episodes/2026-06-04|2026-06-04]]

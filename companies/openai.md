@@ -3,17 +3,19 @@ type: company
 name: OpenAI
 slug: openai
 first_seen: 2026-04-17
-last_seen: 2026-06-04
-mention_count: 19
+last_seen: 2026-06-12
+mention_count: 20
 avg_confidence: ""
 tags: [company]
 ---
 
 # OpenAI
 
-_Company mentioned across 19 stories._
+_Company mentioned across 20 stories._
 
 ## Appears in
+- [[episodes/2026-06-12|2026-06-12]]
+    - [[sources/2026-06-12/04_genie-code-now-uses-models-served-through-openai-on-databric|Genie Code now uses models served through OpenAI on Databricks]]
 - [[episodes/2026-06-04|2026-06-04]]
     - [[sources/2026-06-04/03_genie-code-will-also-use-models-served-through-openai-on-dat|Genie Code will also use models served through OpenAI on Databricks]]
     - [[sources/2026-06-04/02_launch-hn-hyper-yc-p26-company-brain-to-power-agentic-develo|Launch HN Hyper YC P26 Company brain to power agentic development]]

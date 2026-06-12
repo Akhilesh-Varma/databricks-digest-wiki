@@ -3,17 +3,19 @@ type: concept
 name: Large Language Models
 slug: large-language-models
 first_seen: 2026-04-06
-last_seen: 2026-06-10
-mention_count: 37
-avg_confidence: 0.746
+last_seen: 2026-06-12
+mention_count: 38
+avg_confidence: 0.745
 tags: [concept]
 ---
 
 # Large Language Models
 
-_Concept mentioned across 37 stories._
+_Concept mentioned across 38 stories._
 
 ## Appears in
+- [[episodes/2026-06-12|2026-06-12]]
+    - [[sources/2026-06-12/03_how-ecolab-rebuilt-retail-intelligence-on-databricks-and-ant|How Ecolab rebuilt retail intelligence on Databricks and Anthropic Claude]]
 - [[episodes/2026-06-10|2026-06-10]]
     - [[sources/2026-06-10/07_robust-active-learning-for-few-shot-example-selection-in-tex|Robust Active Learning for Few-Shot Example Selection in Text-to-SQL]]
     - [[sources/2026-06-10/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]

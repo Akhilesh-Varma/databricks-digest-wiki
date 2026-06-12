@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-06-11T10:25:04.527257+00:00",
-  "node_count": 3117,
-  "edge_count": 5344,
+  "generated_at": "2026-06-12T10:24:31.624439+00:00",
+  "node_count": 3142,
+  "edge_count": 5398,
   "nodes": [
+    {
+      "id": "episode/2026-06-12",
+      "type": "episode",
+      "label": "Daily Databricks Digest - June 12, 2026",
+      "episode_date": "2026-06-12",
+      "story_count": 5
+    },
     {
       "id": "episode/2026-06-11",
       "type": "episode",
@@ -4718,6 +4725,46 @@
       "quality_score": 0.8363311787645503
     },
     {
+      "id": "story/community_roundup_10_community_aa00af5720f2",
+      "type": "story",
+      "label": "Databricks Community Roundup \u2014 10 new posts",
+      "episode_date": "2026-06-12",
+      "rank": 1,
+      "quality_score": 0.8
+    },
+    {
+      "id": "story/hn_48494578",
+      "type": "story",
+      "label": "2.4M VRChat users' data accessed following cloud breach",
+      "episode_date": "2026-06-12",
+      "rank": 2,
+      "quality_score": 0.7084812914987874
+    },
+    {
+      "id": "story/rss_f4a8da2735ce",
+      "type": "story",
+      "label": "How Ecolab rebuilt retail intelligence on Databricks and Anthropic Claude",
+      "episode_date": "2026-06-12",
+      "rank": 3,
+      "quality_score": 0.8084449615029763
+    },
+    {
+      "id": "story/rss_87ad586e072d",
+      "type": "story",
+      "label": "Genie Code now uses models served through OpenAI on Databricks",
+      "episode_date": "2026-06-12",
+      "rank": 4,
+      "quality_score": 0.8056642074747025
+    },
+    {
+      "id": "story/rss_615b79ee60f7",
+      "type": "story",
+      "label": "ABAC GRANT policies for models Beta",
+      "episode_date": "2026-06-12",
+      "rank": 5,
+      "quality_score": 0.8056642074508928
+    },
+    {
       "id": "story/hn_48447484",
       "type": "story",
       "label": "Show HN Startup sci-fi novel that took me 5 years to write",
@@ -5137,7 +5184,7 @@
       "id": "concept/retrieval-augmented-generation",
       "type": "concept",
       "label": "Retrieval-Augmented Generation",
-      "mention_count": 21
+      "mention_count": 22
     },
     {
       "id": "concept/mosaic-ai-vector-search",
@@ -5161,7 +5208,7 @@
       "id": "company/databricks",
       "type": "company",
       "label": "Databricks",
-      "mention_count": 274
+      "mention_count": 278
     },
     {
       "id": "concept/fulfillment-center-operations",
@@ -5269,7 +5316,7 @@
       "id": "concept/unity-catalog",
       "type": "concept",
       "label": "Unity Catalog",
-      "mention_count": 87
+      "mention_count": 88
     },
     {
       "id": "concept/medallion-architecture",
@@ -5293,7 +5340,7 @@
       "id": "concept/ai-bi-dashboards",
       "type": "concept",
       "label": "AI BI Dashboards",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "id": "concept/mcp-web-search",
@@ -5377,7 +5424,7 @@
       "id": "company/microsoft",
       "type": "company",
       "label": "Microsoft",
-      "mention_count": 44
+      "mention_count": 45
     },
     {
       "id": "concept/databricks-terraform-provider",
@@ -5497,7 +5544,7 @@
       "id": "concept/large-language-models",
       "type": "concept",
       "label": "Large Language Models",
-      "mention_count": 37
+      "mention_count": 38
     },
     {
       "id": "concept/cost-based-query-optimization",
@@ -5635,13 +5682,13 @@
       "id": "concept/lakehouse",
       "type": "concept",
       "label": "Lakehouse",
-      "mention_count": 51
+      "mention_count": 52
     },
     {
       "id": "company/microsoft-azure",
       "type": "company",
       "label": "Microsoft Azure",
-      "mention_count": 21
+      "mention_count": 22
     },
     {
       "id": "company/google-cloud",
@@ -5773,7 +5820,7 @@
       "id": "concept/databricks-serverless-sql",
       "type": "concept",
       "label": "Databricks Serverless SQL",
-      "mention_count": 12
+      "mention_count": 13
     },
     {
       "id": "concept/photon",
@@ -6097,7 +6144,7 @@
       "id": "company/nvidia",
       "type": "company",
       "label": "NVIDIA",
-      "mention_count": 2
+      "mention_count": 3
     },
     {
       "id": "concept/leo-satellite-networks",
@@ -6313,7 +6360,7 @@
       "id": "concept/mlflow",
       "type": "concept",
       "label": "MLflow",
-      "mention_count": 21
+      "mention_count": 22
     },
     {
       "id": "concept/ai-gateway",
@@ -7813,7 +7860,7 @@
       "id": "company/openai",
       "type": "company",
       "label": "OpenAI",
-      "mention_count": 19
+      "mention_count": 20
     },
     {
       "id": "concept/mongodb",
@@ -7963,7 +8010,7 @@
       "id": "concept/genie",
       "type": "concept",
       "label": "Genie",
-      "mention_count": 11
+      "mention_count": 12
     },
     {
       "id": "person/emily-piekarski",
@@ -8113,7 +8160,7 @@
       "id": "company/anthropic",
       "type": "company",
       "label": "Anthropic",
-      "mention_count": 37
+      "mention_count": 40
     },
     {
       "id": "company/meta",
@@ -9139,7 +9186,7 @@
       "id": "concept/genie-code",
       "type": "concept",
       "label": "Genie Code",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "id": "concept/partner-powered-ai",
@@ -9175,7 +9222,7 @@
       "id": "concept/agentic-ai",
       "type": "concept",
       "label": "Agentic AI",
-      "mention_count": 7
+      "mention_count": 8
     },
     {
       "id": "concept/postgres-full-text-search",
@@ -9841,7 +9888,7 @@
       "id": "concept/zerobus-ingest",
       "type": "concept",
       "label": "Zerobus Ingest",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "id": "concept/databricks-metric-views",
@@ -10147,7 +10194,7 @@
       "id": "company/jira",
       "type": "company",
       "label": "Jira",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "company/salesforce",
@@ -13039,7 +13086,7 @@
       "id": "concept/attribute-based-access-control",
       "type": "concept",
       "label": "Attribute-Based Access Control",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/vectorized-execution",
@@ -13057,7 +13104,7 @@
       "id": "concept/databricks-workflows",
       "type": "concept",
       "label": "Databricks Workflows",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "id": "concept/databricks-sql-editor",
@@ -17617,7 +17664,7 @@
       "id": "concept/metadata-driven-etl-framework",
       "type": "concept",
       "label": "Metadata-Driven ETL Framework",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "id": "concept/data-warehousing",
@@ -17797,7 +17844,7 @@
       "id": "company/druva",
       "type": "company",
       "label": "Druva",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/optimize",
@@ -18517,7 +18564,7 @@
       "id": "company/amd",
       "type": "company",
       "label": "AMD",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "company/azure",
@@ -18781,7 +18828,7 @@
       "id": "concept/metric-views",
       "type": "concept",
       "label": "Metric Views",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/bi-compatibility-mode",
@@ -19429,7 +19476,7 @@
       "id": "concept/databricks-lakehouse",
       "type": "concept",
       "label": "Databricks Lakehouse",
-      "mention_count": 1
+      "mention_count": 2
     },
     {
       "id": "concept/azure-data-lake-gen2",
@@ -19774,6 +19821,36 @@
       "mention_count": 1
     },
     {
+      "id": "concept/power-bi-refresh-pipeline",
+      "type": "concept",
+      "label": "Power BI Refresh Pipeline",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/lakebase-architecture",
+      "type": "concept",
+      "label": "Lakebase Architecture",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/opensharing",
+      "type": "concept",
+      "label": "OpenSharing",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/databricks-storage-ecosystem",
+      "type": "concept",
+      "label": "Databricks Storage Ecosystem",
+      "mention_count": 1
+    },
+    {
+      "id": "company/deichmann-se",
+      "type": "company",
+      "label": "DEICHMANN SE",
+      "mention_count": 1
+    },
+    {
       "id": "concept/bigquery-external-tables",
       "type": "concept",
       "label": "BigQuery External Tables",
@@ -19822,6 +19899,30 @@
       "mention_count": 1
     },
     {
+      "id": "concept/anthropic-claude",
+      "type": "concept",
+      "label": "Anthropic Claude",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/retail-intelligence",
+      "type": "concept",
+      "label": "Retail Intelligence",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/food-safety-compliance",
+      "type": "concept",
+      "label": "Food Safety Compliance",
+      "mention_count": 1
+    },
+    {
+      "id": "company/ecolab",
+      "type": "company",
+      "label": "Ecolab",
+      "mention_count": 1
+    },
+    {
       "id": "concept/into-outfile",
       "type": "concept",
       "label": "INTO OUTFILE",
@@ -19852,9 +19953,69 @@
       "mention_count": 1
     },
     {
+      "id": "concept/abac-grant-policies",
+      "type": "concept",
+      "label": "ABAC GRANT policies",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/cloud-breach",
+      "type": "concept",
+      "label": "Cloud Breach",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/zero-trust",
+      "type": "concept",
+      "label": "Zero Trust",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/ransomware",
+      "type": "concept",
+      "label": "Ransomware",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/behavioral-ai-security",
+      "type": "concept",
+      "label": "Behavioral AI Security",
+      "mention_count": 1
+    },
+    {
+      "id": "company/vrchat",
+      "type": "company",
+      "label": "VRChat",
+      "mention_count": 1
+    },
+    {
+      "id": "company/palantir",
+      "type": "company",
+      "label": "Palantir",
+      "mention_count": 1
+    },
+    {
+      "id": "company/delos-data",
+      "type": "company",
+      "label": "Delos Data",
+      "mention_count": 1
+    },
+    {
+      "id": "person/alex-karp",
+      "type": "person",
+      "label": "Alex Karp",
+      "mention_count": 1
+    },
+    {
       "id": "concept/append-flows",
       "type": "concept",
       "label": "append flows",
+      "mention_count": 1
+    },
+    {
+      "id": "concept/partner-powered-ai-features",
+      "type": "concept",
+      "label": "Partner-powered AI features",
       "mention_count": 1
     },
     {
@@ -46186,6 +46347,86 @@
       "kind": "mentions"
     },
     {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "episode/2026-06-12",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "concept/databricks-workflows",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "concept/power-bi-refresh-pipeline",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "concept/databricks-serverless-sql",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "concept/lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "concept/lakebase-architecture",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "concept/opensharing",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "concept/databricks-storage-ecosystem",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "concept/metadata-driven-etl-framework",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "concept/zerobus-ingest",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "concept/ai-bi-dashboards",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "concept/metric-views",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "concept/genie",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "company/deichmann-se",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/community_roundup_10_community_aa00af5720f2",
+      "target": "company/jira",
+      "kind": "mentions"
+    },
+    {
       "source": "story/devto_3872102",
       "target": "episode/2026-06-11",
       "kind": "aired_in"
@@ -46446,6 +46687,56 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_f4a8da2735ce",
+      "target": "episode/2026-06-12",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_f4a8da2735ce",
+      "target": "concept/large-language-models",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_f4a8da2735ce",
+      "target": "concept/retrieval-augmented-generation",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_f4a8da2735ce",
+      "target": "concept/databricks-lakehouse",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_f4a8da2735ce",
+      "target": "concept/anthropic-claude",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_f4a8da2735ce",
+      "target": "concept/retail-intelligence",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_f4a8da2735ce",
+      "target": "concept/food-safety-compliance",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_f4a8da2735ce",
+      "target": "company/ecolab",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_f4a8da2735ce",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_f4a8da2735ce",
+      "target": "company/anthropic",
+      "kind": "mentions"
+    },
+    {
       "source": "story/devto_3871476",
       "target": "episode/2026-06-11",
       "kind": "aired_in"
@@ -46501,6 +46792,111 @@
       "kind": "mentions"
     },
     {
+      "source": "story/rss_615b79ee60f7",
+      "target": "episode/2026-06-12",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_615b79ee60f7",
+      "target": "concept/abac-grant-policies",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_615b79ee60f7",
+      "target": "concept/unity-catalog",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_615b79ee60f7",
+      "target": "concept/attribute-based-access-control",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_615b79ee60f7",
+      "target": "concept/mlflow",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_615b79ee60f7",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48494578",
+      "target": "episode/2026-06-12",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/hn_48494578",
+      "target": "concept/cloud-breach",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48494578",
+      "target": "concept/zero-trust",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48494578",
+      "target": "concept/ransomware",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48494578",
+      "target": "concept/agentic-ai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48494578",
+      "target": "concept/behavioral-ai-security",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48494578",
+      "target": "company/vrchat",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48494578",
+      "target": "company/druva",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48494578",
+      "target": "company/microsoft",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48494578",
+      "target": "company/anthropic",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48494578",
+      "target": "company/palantir",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48494578",
+      "target": "company/nvidia",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48494578",
+      "target": "company/amd",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48494578",
+      "target": "company/delos-data",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/hn_48494578",
+      "target": "person/alex-karp",
+      "kind": "mentions"
+    },
+    {
       "source": "story/rss_a3c3f2c7a202",
       "target": "episode/2026-06-11",
       "kind": "aired_in"
@@ -46538,6 +46934,41 @@
     {
       "source": "story/rss_a3c3f2c7a202",
       "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_87ad586e072d",
+      "target": "episode/2026-06-12",
+      "kind": "aired_in"
+    },
+    {
+      "source": "story/rss_87ad586e072d",
+      "target": "concept/genie-code",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_87ad586e072d",
+      "target": "concept/partner-powered-ai-features",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_87ad586e072d",
+      "target": "company/databricks",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_87ad586e072d",
+      "target": "company/openai",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_87ad586e072d",
+      "target": "company/anthropic",
+      "kind": "mentions"
+    },
+    {
+      "source": "story/rss_87ad586e072d",
+      "target": "company/microsoft-azure",
       "kind": "mentions"
     },
     {

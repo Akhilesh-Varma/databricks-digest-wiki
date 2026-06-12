@@ -3,17 +3,19 @@ type: company
 name: Microsoft
 slug: microsoft
 first_seen: 2026-03-17
-last_seen: 2026-06-11
-mention_count: 44
+last_seen: 2026-06-12
+mention_count: 45
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft
 
-_Company mentioned across 44 stories._
+_Company mentioned across 45 stories._
 
 ## Appears in
+- [[episodes/2026-06-12|2026-06-12]]
+    - [[sources/2026-06-12/02_2-4m-vrchat-users-data-accessed-following-cloud-breach|2.4M VRChat users' data accessed following cloud breach]]
 - [[episodes/2026-06-11|2026-06-11]]
     - [[sources/2026-06-11/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
 - [[episodes/2026-06-09|2026-06-09]]

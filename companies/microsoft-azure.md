@@ -3,17 +3,19 @@ type: company
 name: Microsoft Azure
 slug: microsoft-azure
 first_seen: 2026-04-08
-last_seen: 2026-06-09
-mention_count: 21
+last_seen: 2026-06-12
+mention_count: 22
 avg_confidence: ""
 tags: [company]
 ---
 
 # Microsoft Azure
 
-_Company mentioned across 21 stories._
+_Company mentioned across 22 stories._
 
 ## Appears in
+- [[episodes/2026-06-12|2026-06-12]]
+    - [[sources/2026-06-12/04_genie-code-now-uses-models-served-through-openai-on-databric|Genie Code now uses models served through OpenAI on Databricks]]
 - [[episodes/2026-06-09|2026-06-09]]
     - [[sources/2026-06-09/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-06-07|2026-06-07]]
