@@ -3,17 +3,20 @@ type: concept
 name: Delta Lake
 slug: delta-lake
 first_seen: 2026-04-05
-last_seen: 2026-06-07
-mention_count: 63
-avg_confidence: 0.759
+last_seen: 2026-06-13
+mention_count: 65
+avg_confidence: 0.757
 tags: [concept]
 ---
 
 # Delta Lake
 
-_Concept mentioned across 63 stories._
+_Concept mentioned across 65 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/02_auto-time-to-live-for-automatic-row-deletion-is-generally-av|Auto time-to-live for automatic row deletion is generally available]]
+    - [[sources/2026-06-13/03_converting-a-partitioned-table-to-liquid-clustering-is-gener|Converting a partitioned table to liquid clustering is generally available]]
 - [[episodes/2026-06-07|2026-06-07]]
     - [[sources/2026-06-07/02_building-a-scalable-modernized-data-lakehouse-delta-lake-vs|Building a Scalable, Modernized Data Lakehouse Delta Lake vs. Apache Iceberg]]
 - [[episodes/2026-06-06|2026-06-06]]

@@ -3,17 +3,19 @@ type: concept
 name: Amazon S3
 slug: amazon-s3
 first_seen: 2026-05-02
-last_seen: 2026-06-11
-mention_count: 7
-avg_confidence: 0.543
+last_seen: 2026-06-13
+mention_count: 8
+avg_confidence: 0.537
 tags: [concept]
 ---
 
 # Amazon S3
 
-_Concept mentioned across 7 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/05_ai-native-data-engineering-from-etl-pipelines-to-agentic-dat|AI-Native Data Engineering From ETL Pipelines to Agentic Data Serving]]
 - [[episodes/2026-06-11|2026-06-11]]
     - [[sources/2026-06-11/02_show-hn-helixdb-a-graph-database-built-on-object-storage|Show HN HelixDB A graph database built on object storage]]
 - [[episodes/2026-05-26|2026-05-26]]

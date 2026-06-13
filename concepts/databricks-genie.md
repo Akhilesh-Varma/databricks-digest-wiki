@@ -3,19 +3,17 @@ type: concept
 name: Databricks Genie
 slug: databricks-genie
 first_seen: 2026-04-23
-last_seen: 2026-06-09
-mention_count: 9
-avg_confidence: 0.778
+last_seen: 2026-06-04
+mention_count: 8
+avg_confidence: 0.787
 tags: [concept]
 ---
 
 # Databricks Genie
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 8 stories._
 
 ## Appears in
-- [[episodes/2026-06-09|2026-06-09]]
-    - [[sources/2026-06-09/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-06-04|2026-06-04]]
     - [[sources/2026-06-04/01_databricks-community-roundup-8-new-posts|Databricks Community Roundup — 8 new posts]]
 - [[episodes/2026-05-14|2026-05-14]]

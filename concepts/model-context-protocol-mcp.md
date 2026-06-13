@@ -3,17 +3,19 @@ type: concept
 name: Model Context Protocol (MCP)
 slug: model-context-protocol-mcp
 first_seen: 2026-04-17
-last_seen: 2026-06-04
-mention_count: 6
-avg_confidence: 0.75
+last_seen: 2026-06-13
+mention_count: 7
+avg_confidence: 0.771
 tags: [concept]
 ---
 
 # Model Context Protocol (MCP)
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/05_ai-native-data-engineering-from-etl-pipelines-to-agentic-dat|AI-Native Data Engineering From ETL Pipelines to Agentic Data Serving]]
 - [[episodes/2026-06-04|2026-06-04]]
     - [[sources/2026-06-04/02_launch-hn-hyper-yc-p26-company-brain-to-power-agentic-develo|Launch HN Hyper YC P26 Company brain to power agentic development]]
 - [[episodes/2026-05-20|2026-05-20]]

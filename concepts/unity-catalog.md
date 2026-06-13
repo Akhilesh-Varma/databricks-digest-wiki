@@ -3,17 +3,20 @@ type: concept
 name: Unity Catalog
 slug: unity-catalog
 first_seen: 2026-04-05
-last_seen: 2026-06-12
-mention_count: 88
-avg_confidence: 0.765
+last_seen: 2026-06-13
+mention_count: 90
+avg_confidence: 0.763
 tags: [concept]
 ---
 
 # Unity Catalog
 
-_Concept mentioned across 88 stories._
+_Concept mentioned across 90 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/02_auto-time-to-live-for-automatic-row-deletion-is-generally-av|Auto time-to-live for automatic row deletion is generally available]]
+    - [[sources/2026-06-13/04_zerobus-ingest-will-soon-be-available-by-default-for-workspa|Zerobus Ingest will soon be available by default for workspaces with the compliance security profile enabled]]
 - [[episodes/2026-06-12|2026-06-12]]
     - [[sources/2026-06-12/05_abac-grant-policies-for-models-beta|ABAC GRANT policies for models Beta]]
 - [[episodes/2026-06-10|2026-06-10]]

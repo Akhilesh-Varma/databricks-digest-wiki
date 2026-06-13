@@ -3,17 +3,19 @@ type: company
 name: Apache Software Foundation
 slug: apache-software-foundation
 first_seen: 2026-03-17
-last_seen: 2026-06-11
-mention_count: 26
+last_seen: 2026-06-13
+mention_count: 27
 avg_confidence: ""
 tags: [company]
 ---
 
 # Apache Software Foundation
 
-_Company mentioned across 26 stories._
+_Company mentioned across 27 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/02_auto-time-to-live-for-automatic-row-deletion-is-generally-av|Auto time-to-live for automatic row deletion is generally available]]
 - [[episodes/2026-06-11|2026-06-11]]
     - [[sources/2026-06-11/03_databricks-runtime-18-june-10-2026|Databricks Runtime 18 June 10, 2026]]
 - [[episodes/2026-06-10|2026-06-10]]

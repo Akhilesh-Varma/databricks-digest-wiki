@@ -3,17 +3,19 @@ type: concept
 name: Lakeflow Connect
 slug: lakeflow-connect
 first_seen: 2026-04-05
-last_seen: 2026-06-10
-mention_count: 8
-avg_confidence: 0.725
+last_seen: 2026-06-13
+mention_count: 9
+avg_confidence: 0.722
 tags: [concept]
 ---
 
 # Lakeflow Connect
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/04_zerobus-ingest-will-soon-be-available-by-default-for-workspa|Zerobus Ingest will soon be available by default for workspaces with the compliance security profile enabled]]
 - [[episodes/2026-06-10|2026-06-10]]
     - [[sources/2026-06-10/01_databricks-community-roundup-7-new-posts|Databricks Community Roundup — 7 new posts]]
 - [[episodes/2026-06-09|2026-06-09]]

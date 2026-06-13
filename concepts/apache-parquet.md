@@ -3,17 +3,19 @@ type: concept
 name: Apache Parquet
 slug: apache-parquet
 first_seen: 2026-04-14
-last_seen: 2026-05-28
-mention_count: 8
-avg_confidence: 0.713
+last_seen: 2026-06-13
+mention_count: 9
+avg_confidence: 0.689
 tags: [concept]
 ---
 
 # Apache Parquet
 
-_Concept mentioned across 8 stories._
+_Concept mentioned across 9 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/05_ai-native-data-engineering-from-etl-pipelines-to-agentic-dat|AI-Native Data Engineering From ETL Pipelines to Agentic Data Serving]]
 - [[episodes/2026-05-28|2026-05-28]]
     - [[sources/2026-05-28/06_asf-project-spotlight-apache-iceberg|ASF Project Spotlight Apache Iceberg]]
 - [[episodes/2026-05-09|2026-05-09]]

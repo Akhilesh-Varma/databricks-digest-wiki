@@ -3,17 +3,19 @@ type: concept
 name: DuckDB
 slug: duckdb
 first_seen: 2026-04-09
-last_seen: 2026-06-11
-mention_count: 16
-avg_confidence: 0.588
+last_seen: 2026-06-13
+mention_count: 17
+avg_confidence: 0.6
 tags: [concept]
 ---
 
 # DuckDB
 
-_Concept mentioned across 16 stories._
+_Concept mentioned across 17 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/05_ai-native-data-engineering-from-etl-pipelines-to-agentic-dat|AI-Native Data Engineering From ETL Pipelines to Agentic Data Serving]]
 - [[episodes/2026-06-11|2026-06-11]]
     - [[sources/2026-06-11/06_how-to-query-parquet-files-in-object-storage-with-bigquery-e|How to Query Parquet Files in Object Storage with BigQuery External Tables]]
 - [[episodes/2026-06-05|2026-06-05]]

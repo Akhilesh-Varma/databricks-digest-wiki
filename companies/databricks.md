@@ -3,17 +3,24 @@ type: company
 name: Databricks
 slug: databricks
 first_seen: 2026-03-17
-last_seen: 2026-06-12
-mention_count: 278
+last_seen: 2026-06-13
+mention_count: 283
 avg_confidence: ""
 tags: [company]
 ---
 
 # Databricks
 
-_Company mentioned across 278 stories._
+_Company mentioned across 283 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/06_streaming-tables-vs-materialized-views-stop-guessing-your-da|Streaming Tables vs. Materialized Views Stop Guessing Your Databricks Refresh Strategy]]
+    - [[sources/2026-06-13/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
+    - [[sources/2026-06-13/07_l-t-technology-services-y-databricks-forman-una-alianza-para|L T Technology Services y Databricks forman una alianza para ofrecer IA industrial a escala para industrias de uso intensivo de activos - Business Wire]]
+    - [[sources/2026-06-13/02_auto-time-to-live-for-automatic-row-deletion-is-generally-av|Auto time-to-live for automatic row deletion is generally available]]
+    - [[sources/2026-06-13/03_converting-a-partitioned-table-to-liquid-clustering-is-gener|Converting a partitioned table to liquid clustering is generally available]]
+    - [[sources/2026-06-13/04_zerobus-ingest-will-soon-be-available-by-default-for-workspa|Zerobus Ingest will soon be available by default for workspaces with the compliance security profile enabled]]
 - [[episodes/2026-06-12|2026-06-12]]
     - [[sources/2026-06-12/01_databricks-community-roundup-10-new-posts|Databricks Community Roundup — 10 new posts]]
     - [[sources/2026-06-12/03_how-ecolab-rebuilt-retail-intelligence-on-databricks-and-ant|How Ecolab rebuilt retail intelligence on Databricks and Anthropic Claude]]
@@ -31,7 +38,6 @@ _Company mentioned across 278 stories._
 - [[episodes/2026-06-09|2026-06-09]]
     - [[sources/2026-06-09/04_databricks-runtime-18-june-8-2026|Databricks Runtime 18 June 8, 2026]]
     - [[sources/2026-06-09/03_external-lineage-is-now-generally-available|External lineage is now generally available]]
-    - [[sources/2026-06-09/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-06-08|2026-06-08]]
     - [[sources/2026-06-08/04_architectural-pattern-incremental-data-export-from-snowflake|Architectural Pattern Incremental Data Export from Snowflake to Databricks]]
     - [[sources/2026-06-08/03_upcoming-behavior-change-choose-entitlements-when-adding-pri|Upcoming behavior change Choose entitlements when adding principals to workspaces]]

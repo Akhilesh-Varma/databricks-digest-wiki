@@ -4,20 +4,18 @@ name: Azure Data Factory
 slug: azure-data-factory
 first_seen: 2026-05-09
 last_seen: 2026-06-11
-mention_count: 6
-avg_confidence: 0.85
+mention_count: 5
+avg_confidence: 0.88
 tags: [concept]
 ---
 
 # Azure Data Factory
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
 - [[episodes/2026-06-11|2026-06-11]]
     - [[sources/2026-06-11/01_databricks-community-roundup-5-new-posts|Databricks Community Roundup — 5 new posts]]
-- [[episodes/2026-06-09|2026-06-09]]
-    - [[sources/2026-06-09/01_databricks-community-roundup-6-new-posts|Databricks Community Roundup — 6 new posts]]
 - [[episodes/2026-06-01|2026-06-01]]
     - [[sources/2026-06-01/05_azure-data-factory-vs-databricks-for-orchestration-the-hones|Azure Data Factory vs Databricks for Orchestration The Honest Comparison No One Writes]]
 - [[episodes/2026-05-26|2026-05-26]]

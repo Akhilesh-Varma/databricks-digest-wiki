@@ -3,17 +3,19 @@ type: concept
 name: Change Data Capture
 slug: change-data-capture
 first_seen: 2026-04-25
-last_seen: 2026-05-27
-mention_count: 6
-avg_confidence: 0.75
+last_seen: 2026-06-13
+mention_count: 7
+avg_confidence: 0.743
 tags: [concept]
 ---
 
 # Change Data Capture
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/06_streaming-tables-vs-materialized-views-stop-guessing-your-da|Streaming Tables vs. Materialized Views Stop Guessing Your Databricks Refresh Strategy]]
 - [[episodes/2026-05-27|2026-05-27]]
     - [[sources/2026-05-27/06_copy-job-cdc-with-sql-estate-is-now-ga-in-microsoft-fabric|Copy Job CDC with SQL estate is now GA in Microsoft Fabric]]
 - [[episodes/2026-05-18|2026-05-18]]

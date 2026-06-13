@@ -3,17 +3,19 @@ type: concept
 name: Materialized Views
 slug: materialized-views
 first_seen: 2026-04-14
-last_seen: 2026-06-06
-mention_count: 6
-avg_confidence: 0.667
+last_seen: 2026-06-13
+mention_count: 7
+avg_confidence: 0.714
 tags: [concept]
 ---
 
 # Materialized Views
 
-_Concept mentioned across 6 stories._
+_Concept mentioned across 7 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/06_streaming-tables-vs-materialized-views-stop-guessing-your-da|Streaming Tables vs. Materialized Views Stop Guessing Your Databricks Refresh Strategy]]
 - [[episodes/2026-06-06|2026-06-06]]
     - [[sources/2026-06-06/05_external-data-access-for-pipeline-streaming-tables-and-mater|External data access for pipeline streaming tables and materialized views Public Preview]]
 - [[episodes/2026-05-27|2026-05-27]]

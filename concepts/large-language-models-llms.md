@@ -3,17 +3,19 @@ type: concept
 name: Large Language Models (LLMs)
 slug: large-language-models-llms
 first_seen: 2026-04-06
-last_seen: 2026-06-10
-mention_count: 9
-avg_confidence: 0.778
+last_seen: 2026-06-13
+mention_count: 10
+avg_confidence: 0.77
 tags: [concept]
 ---
 
 # Large Language Models (LLMs)
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/05_ai-native-data-engineering-from-etl-pipelines-to-agentic-dat|AI-Native Data Engineering From ETL Pipelines to Agentic Data Serving]]
 - [[episodes/2026-06-10|2026-06-10]]
     - [[sources/2026-06-10/05_80-of-de-candidates-use-ai-on-take-homes-companies-can-t-sto|80 of DE Candidates Use AI on Take-Homes. Companies Can't Stop It.]]
 - [[episodes/2026-05-29|2026-05-29]]

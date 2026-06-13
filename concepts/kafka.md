@@ -3,17 +3,19 @@ type: concept
 name: Kafka
 slug: kafka
 first_seen: 2026-04-13
-last_seen: 2026-06-02
-mention_count: 5
-avg_confidence: 0.58
+last_seen: 2026-06-13
+mention_count: 6
+avg_confidence: 0.55
 tags: [concept]
 ---
 
 # Kafka
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/06_streaming-tables-vs-materialized-views-stop-guessing-your-da|Streaming Tables vs. Materialized Views Stop Guessing Your Databricks Refresh Strategy]]
 - [[episodes/2026-06-02|2026-06-02]]
     - [[sources/2026-06-02/08_data-engineering-skills-10-technical-5-soft-skills-hiring-ma|Data Engineering Skills 10 Technical 5 Soft Skills Hiring Managers Test]]
 - [[episodes/2026-05-14|2026-05-14]]

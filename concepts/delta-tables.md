@@ -3,17 +3,19 @@ type: concept
 name: Delta Tables
 slug: delta-tables
 first_seen: 2026-04-18
-last_seen: 2026-05-19
-mention_count: 9
-avg_confidence: 0.667
+last_seen: 2026-06-13
+mention_count: 10
+avg_confidence: 0.64
 tags: [concept]
 ---
 
 # Delta Tables
 
-_Concept mentioned across 9 stories._
+_Concept mentioned across 10 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/04_zerobus-ingest-will-soon-be-available-by-default-for-workspa|Zerobus Ingest will soon be available by default for workspaces with the compliance security profile enabled]]
 - [[episodes/2026-05-19|2026-05-19]]
     - [[sources/2026-05-19/06_understanding-delta-lake-delta-tables-and-delta-live-tables|Understanding Delta Lake, Delta Tables, and Delta Live Tables in Databricks]]
 - [[episodes/2026-05-10|2026-05-10]]

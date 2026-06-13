@@ -3,17 +3,19 @@ type: concept
 name: ETL Pipelines
 slug: etl-pipelines
 first_seen: 2026-04-04
-last_seen: 2026-04-26
-mention_count: 3
-avg_confidence: 0.7
+last_seen: 2026-06-13
+mention_count: 4
+avg_confidence: 0.75
 tags: [concept]
 ---
 
 # ETL Pipelines
 
-_Concept mentioned across 3 stories._
+_Concept mentioned across 4 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/05_ai-native-data-engineering-from-etl-pipelines-to-agentic-dat|AI-Native Data Engineering From ETL Pipelines to Agentic Data Serving]]
 - [[episodes/2026-04-26|2026-04-26]]
     - [[sources/2026-04-26/01_workflows-parameterization-build-flexible-production-ready-p|Workflows Parameterization Build Flexible, Production-Ready Pipelines on Databricks]]
 - [[episodes/2026-04-22|2026-04-22]]

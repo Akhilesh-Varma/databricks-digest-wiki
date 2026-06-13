@@ -3,17 +3,19 @@ type: concept
 name: Zerobus Ingest
 slug: zerobus-ingest
 first_seen: 2026-04-15
-last_seen: 2026-06-12
-mention_count: 5
-avg_confidence: 0.82
+last_seen: 2026-06-13
+mention_count: 6
+avg_confidence: 0.85
 tags: [concept]
 ---
 
 # Zerobus Ingest
 
-_Concept mentioned across 5 stories._
+_Concept mentioned across 6 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/04_zerobus-ingest-will-soon-be-available-by-default-for-workspa|Zerobus Ingest will soon be available by default for workspaces with the compliance security profile enabled]]
 - [[episodes/2026-06-12|2026-06-12]]
     - [[sources/2026-06-12/01_databricks-community-roundup-10-new-posts|Databricks Community Roundup — 10 new posts]]
 - [[episodes/2026-04-29|2026-04-29]]

@@ -3,17 +3,19 @@ type: concept
 name: Databricks Runtime
 slug: databricks-runtime
 first_seen: 2026-05-04
-last_seen: 2026-06-11
-mention_count: 4
-avg_confidence: 0.875
+last_seen: 2026-06-13
+mention_count: 5
+avg_confidence: 0.84
 tags: [concept]
 ---
 
 # Databricks Runtime
 
-_Concept mentioned across 4 stories._
+_Concept mentioned across 5 stories._
 
 ## Appears in
+- [[episodes/2026-06-13|2026-06-13]]
+    - [[sources/2026-06-13/03_converting-a-partitioned-table-to-liquid-clustering-is-gener|Converting a partitioned table to liquid clustering is generally available]]
 - [[episodes/2026-06-11|2026-06-11]]
     - [[sources/2026-06-11/03_databricks-runtime-18-june-10-2026|Databricks Runtime 18 June 10, 2026]]
 - [[episodes/2026-06-09|2026-06-09]]
